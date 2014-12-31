@@ -88,6 +88,26 @@
     <display-name lang="en">ESPN</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
+  <channel id="BoxNation">
+    <display-name lang="en">BoxNation</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 1">
+    <display-name lang="en">BT Sport 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 1 HD">
+    <display-name lang="en">BT Sport 1 HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 2">
+    <display-name lang="en">BT Sport 2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 2 HD">
+    <display-name lang="en">BT Sport 2 HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
   <programme start="20141231060000 +0100" stop="20141231061500 +0100" channel="Sky Sports 1">
     <title lang="en">Football Gold</title>
     <sub-title lang="en">Manchester City v Manchester United: 2013/14</sub-title>
@@ -3901,6 +3921,628 @@
     <category lang="en">American Football</category>
     <star-rating>
       <value>7.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231060000 +0100" stop="20141231070000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Fighting Spirit: MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231070000 +0100" stop="20141231080000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Fighting Spirit: MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231080000 +0100" stop="20141231090000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Fighting Spirit: MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231090000 +0100" stop="20141231100000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Fighting Spirit: MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231100000 +0100" stop="20141231110000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Fighting Spirit: MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231110000 +0100" stop="20141231120000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Fighting Spirit: MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231120000 +0100" stop="20141231140000 +0100" channel="BoxNation">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">reserved</category>
+    <star-rating>
+      <value>9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231140000 +0100" stop="20141231143000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">24/7 Hopkins v Kovalev: Behind the scenes with legendary Bernard Hopkins and the exciting and unbeaten knock-out artist Sergey The Krusher' Kovalev as they prepare to face each other in Atlantic City'.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231143000 +0100" stop="20141231180000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Uncut Hopkins v Kovalev: Undefeated Sergey Kovalev takes on Bernard Hopkins for three world light-heavyweight titles. 49 year old Hopkins is 18 years Kovalev's senior. The whole night, uncut.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231180000 +0100" stop="20141231190000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">BoxNation Presents Cassius &amp; Helder's Year Review: Cassius &amp; Helder speak to Frank Warren as he reviews a fantastic year of boxing in 2014.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231190000 +0100" stop="20141231193000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">2015 Preview: BoxNation gives you a preview of what's to come in 2015.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231193000 +0100" stop="20141231230000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Uncut Hopkins v Shumenov: 49-year-old Bernard Hopkins took on Beibut Shumenov looking to become the oldest fighter in history to unify world championships in Washington. The whole night, uncut.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231230000 +0100" stop="20150101023000 +0100" channel="BoxNation">
+    <title lang="en">Bernard Hopkins Day</title>
+    <desc lang="en">Uncut Hopkins v Cloud: Bernard Hopkins and Tavoris Cloud battle for the IBF World Light-Heavyweight Championship. Plus an undercard featuring Keith Thurman &amp; Jan Zaveck. The whole night, uncut.(n)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20141231060000 +0100" stop="20141231063000 +0100" channel="BT Sport 1">
+    <title lang="en">SPFL Highlights</title>
+    <desc lang="en">A review of recent action in the Scottish Professional Football League.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231063000 +0100" stop="20141231073000 +0100" channel="BT Sport 1">
+    <title lang="en">Global Goals</title>
+    <desc lang="en">Football highlights from around the world.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231073000 +0100" stop="20141231080000 +0100" channel="BT Sport 1">
+    <title lang="en">BTSP</title>
+    <desc lang="en">A look back at the best bits of the week on BT Sport.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231080000 +0100" stop="20141231083000 +0100" channel="BT Sport 1">
+    <title lang="en">Serie A Review</title>
+    <sub-title lang="en">Italian Supercoppa Special</sub-title>
+    <desc lang="en">Action from the Italian Supercoppa between Juventus and Napoli in Doha, Qatar.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231083000 +0100" stop="20141231103000 +0100" channel="BT Sport 1">
+    <title lang="en">Live A-League Football</title>
+    <sub-title lang="en">Adelaide United v Wellington Phoenix</sub-title>
+    <desc lang="en">Adelaide United v Wellington Phoenix (Kick-off 8.30am). Coverage of the Australian top-flight match from Coopers Stadium.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231103000 +0100" stop="20141231110000 +0100" channel="BT Sport 1">
+    <title lang="en">SPFL Highlights</title>
+    <desc lang="en">A review of recent action in the Scottish Professional Football League.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231110000 +0100" stop="20141231120000 +0100" channel="BT Sport 1">
+    <title lang="en">Boxing Tonight</title>
+    <sub-title lang="en">2014 Review</sub-title>
+    <desc lang="en">Paul Dempsey is joined by Frank Warren, Jeff Powell, Kevin Mitchell and Richie Woodhall to look back at some of the biggest fights and talking points of 2014.(n)</desc>
+    <category lang="en">Boxing</category>
+    <star-rating>
+      <value>4.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231120000 +0100" stop="20141231123000 +0100" channel="BT Sport 1">
+    <title lang="en">Last Week, This Week</title>
+    <desc lang="en">The best of the action from the last week on BT Sport.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231123000 +0100" stop="20141231130000 +0100" channel="BT Sport 1">
+    <title lang="en">BTSP</title>
+    <desc lang="en">A look back at the best bits of the week on BT Sport.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231130000 +0100" stop="20141231133000 +0100" channel="BT Sport 1">
+    <title lang="en">Serie A Review</title>
+    <sub-title lang="en">Italian Supercoppa Special</sub-title>
+    <desc lang="en">Action from the Italian Supercoppa between Juventus and Napoli in Doha, Qatar.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231133000 +0100" stop="20141231140000 +0100" channel="BT Sport 1">
+    <title lang="en">SPFL Highlights</title>
+    <desc lang="en">A review of recent action in the Scottish Professional Football League.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231140000 +0100" stop="20141231143000 +0100" channel="BT Sport 1">
+    <title lang="en">World of Football</title>
+    <desc lang="en">Action and news from the most high-profile leagues.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>1.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231143000 +0100" stop="20141231160000 +0100" channel="BT Sport 1">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Tottenham Hotspur v Manchester United</sub-title>
+    <desc lang="en">Tottenham Hotspur v Manchester United. Action from the match at White Hart Lane, as United sought a first win in five attempts over Spurs.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231160000 +0100" stop="20141231163000 +0100" channel="BT Sport 1">
+    <title lang="en">Drift Allstars</title>
+    <desc lang="en">The best of the action from the motorsport series.(n)</desc>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20141231163000 +0100" stop="20141231170000 +0100" channel="BT Sport 1">
+    <title lang="en">Bundesliga Special</title>
+    <sub-title lang="en">Manuel Neuer &amp; Bayern Munich: Simply World Class</sub-title>
+    <desc lang="en">A profile of Germany and Bayern Munich goalkeeper Manuel Neuer.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>2.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231170000 +0100" stop="20141231183000 +0100" channel="BT Sport 1">
+    <title lang="en">A-League Football</title>
+    <sub-title lang="en">Adelaide United v Wellington Phoenix</sub-title>
+    <desc lang="en">Adelaide United v Wellington Phoenix. Action from the Australian top-flight match at Coopers Stadium.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231183000 +0100" stop="20141231190000 +0100" channel="BT Sport 1">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of the latest news surrounding the Premier League, featuring interviews with managers and players.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231190000 +0100" stop="20141231200000 +0100" channel="BT Sport 1">
+    <title lang="en">Football Tonight</title>
+    <desc lang="en">Former England international David James, Stan Collymore and Ian Darke join Jake Humphrey to debate all the latest stories from the beautiful game.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231200000 +0100" stop="20141231203000 +0100" channel="BT Sport 1">
+    <title lang="en">Clare Balding Meets</title>
+    <sub-title lang="en">Sir Alex Ferguson</sub-title>
+    <desc lang="en">Clare chats to former Manchester United manager Sir Alex Ferguson.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231203000 +0100" stop="20141231213000 +0100" channel="BT Sport 1">
+    <title lang="en">Clare Balding Meets</title>
+    <sub-title lang="en">Jose Mourinho</sub-title>
+    <desc lang="en">Clare chats to Chelsea manager Jose Mourinho.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231213000 +0100" stop="20141231220000 +0100" channel="BT Sport 1">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to the New Year's Day fixtures, which include Hull City v Everton, Manchester City v Sunderland and Newcastle United v Burnley.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231220000 +0100" stop="20141231230000 +0100" channel="BT Sport 1">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Action from some of the greatest fights in UFC history, which illustrate why the sport of mixed martial arts is increasing in popularity.(n)</desc>
+    <category lang="en">Boxing</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231230000 +0100" stop="20150101000000 +0100" channel="BT Sport 1">
+    <title lang="en">UFC Countdown 182</title>
+    <desc lang="en">A look ahead to the event at the Mandalay Bay Events Centre in Las Vegas, where Jon Jones v Daniel Cormier for the UFC Light Heavyweight Championship is the scheduled main event.(n)</desc>
+    <category lang="en">Combat Sports (without own category)</category>
+  </programme>
+  <programme start="20141231060000 +0100" stop="20141231063000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">SPFL Highlights</title>
+    <desc lang="en">A review of recent action in the Scottish Professional Football League.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231063000 +0100" stop="20141231073000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Global Goals</title>
+    <desc lang="en">Football highlights from around the world.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231073000 +0100" stop="20141231080000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BTSP</title>
+    <desc lang="en">A look back at the best bits of the week on BT Sport.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231080000 +0100" stop="20141231083000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Serie A Review</title>
+    <sub-title lang="en">Italian Supercoppa Special</sub-title>
+    <desc lang="en">Action from the Italian Supercoppa between Juventus and Napoli in Doha, Qatar.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231083000 +0100" stop="20141231103000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live A-League Football</title>
+    <sub-title lang="en">Adelaide United v Wellington Phoenix</sub-title>
+    <desc lang="en">Adelaide United v Wellington Phoenix (Kick-off 8.30am). Coverage of the Australian top-flight match from Coopers Stadium.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231103000 +0100" stop="20141231110000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">SPFL Highlights</title>
+    <desc lang="en">A review of recent action in the Scottish Professional Football League.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231110000 +0100" stop="20141231120000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Boxing Tonight</title>
+    <sub-title lang="en">2014 Review</sub-title>
+    <desc lang="en">Paul Dempsey is joined by Frank Warren, Jeff Powell, Kevin Mitchell and Richie Woodhall to look back at some of the biggest fights and talking points of 2014.(n)</desc>
+    <category lang="en">Boxing</category>
+    <star-rating>
+      <value>4.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231120000 +0100" stop="20141231123000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Last Week, This Week</title>
+    <desc lang="en">The best of the action from the last week on BT Sport.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231123000 +0100" stop="20141231130000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BTSP</title>
+    <desc lang="en">A look back at the best bits of the week on BT Sport.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231130000 +0100" stop="20141231133000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Serie A Review</title>
+    <sub-title lang="en">Italian Supercoppa Special</sub-title>
+    <desc lang="en">Action from the Italian Supercoppa between Juventus and Napoli in Doha, Qatar.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231133000 +0100" stop="20141231140000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">SPFL Highlights</title>
+    <desc lang="en">A review of recent action in the Scottish Professional Football League.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6.5 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231140000 +0100" stop="20141231143000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">World of Football</title>
+    <desc lang="en">Action and news from the most high-profile leagues.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>1.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231143000 +0100" stop="20141231160000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Tottenham Hotspur v Manchester United</sub-title>
+    <desc lang="en">Tottenham Hotspur v Manchester United. Action from the match at White Hart Lane, as United sought a first win in five attempts over Spurs.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231160000 +0100" stop="20141231163000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Drift Allstars</title>
+    <desc lang="en">The best of the action from the motorsport series.(n)</desc>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20141231163000 +0100" stop="20141231170000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Bundesliga Special</title>
+    <sub-title lang="en">Manuel Neuer &amp; Bayern Munich: Simply World Class</sub-title>
+    <desc lang="en">A profile of Germany and Bayern Munich goalkeeper Manuel Neuer.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>2.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231170000 +0100" stop="20141231183000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">A-League Football</title>
+    <sub-title lang="en">Adelaide United v Wellington Phoenix</sub-title>
+    <desc lang="en">Adelaide United v Wellington Phoenix. Action from the Australian top-flight match at Coopers Stadium.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>9 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231183000 +0100" stop="20141231190000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">A round-up of the latest news surrounding the Premier League, featuring interviews with managers and players.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231190000 +0100" stop="20141231200000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Football Tonight</title>
+    <desc lang="en">Former England international David James, Stan Collymore and Ian Darke join Jake Humphrey to debate all the latest stories from the beautiful game.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231200000 +0100" stop="20141231203000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Clare Balding Meets</title>
+    <sub-title lang="en">Sir Alex Ferguson</sub-title>
+    <desc lang="en">Clare chats to former Manchester United manager Sir Alex Ferguson.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231203000 +0100" stop="20141231213000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Clare Balding Meets</title>
+    <sub-title lang="en">Jose Mourinho</sub-title>
+    <desc lang="en">Clare chats to Chelsea manager Jose Mourinho.(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20141231213000 +0100" stop="20141231220000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to the New Year's Day fixtures, which include Hull City v Everton, Manchester City v Sunderland and Newcastle United v Burnley.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231220000 +0100" stop="20141231230000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UFC Unleashed</title>
+    <desc lang="en">Action from some of the greatest fights in UFC history, which illustrate why the sport of mixed martial arts is increasing in popularity.(n)</desc>
+    <category lang="en">Boxing</category>
+    <star-rating>
+      <value>8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231230000 +0100" stop="20150101000000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UFC Countdown 182</title>
+    <desc lang="en">A look ahead to the event at the Mandalay Bay Events Centre in Las Vegas, where Jon Jones v Daniel Cormier for the UFC Light Heavyweight Championship is the scheduled main event.(n)</desc>
+    <category lang="en">Combat Sports (without own category)</category>
+  </programme>
+  <programme start="20141231060000 +0100" stop="20141231070000 +0100" channel="BT Sport 2">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231070000 +0100" stop="20141231084500 +0100" channel="BT Sport 2">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">2006 Germany - The Grand Finale</sub-title>
+    <desc lang="en">A look back at the 2006 World Cup in Germany, where the semi-finals comprised four European nations for the first time since 1982.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231084500 +0100" stop="20141231104500 +0100" channel="BT Sport 2">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">The Class of 2011 - Women's World Cup Germany 2011</sub-title>
+    <desc lang="en">A look back at the 2011 Women's World Cup in Germany, which saw Japan and the USA reach the final.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231104500 +0100" stop="20141231110000 +0100" channel="BT Sport 2">
+    <title lang="en">FA WSL - A Day in the Life of Casey Stoney</title>
+    <desc lang="en">A profile of Arsenal Ladies and England defender Casey Stoney.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231110000 +0100" stop="20141231120000 +0100" channel="BT Sport 2">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231120000 +0100" stop="20141231130000 +0100" channel="BT Sport 2">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231130000 +0100" stop="20141231140000 +0100" channel="BT Sport 2">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231140000 +0100" stop="20141231141500 +0100" channel="BT Sport 2">
+    <title lang="en">FA WSL - A Day in the Life of Natasha Harding</title>
+    <desc lang="en">A profile of Bristol Academy and Wales striker Natasha Dowie.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231141500 +0100" stop="20141231160000 +0100" channel="BT Sport 2">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">2006 Germany - The Grand Finale</sub-title>
+    <desc lang="en">A look back at the 2006 World Cup in Germany, where the semi-finals comprised four European nations for the first time since 1982.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231160000 +0100" stop="20141231180000 +0100" channel="BT Sport 2">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">The Class of 2011 - Women's World Cup Germany 2011</sub-title>
+    <desc lang="en">A look back at the 2011 Women's World Cup in Germany, which saw Japan and the USA reach the final.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231180000 +0100" stop="20141231200000 +0100" channel="BT Sport 2">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">Memphis Grizzlies v San Antonio Spurs</sub-title>
+    <desc lang="en">Memphis Grizzlies v San Antonio Spurs. Action from the Western Conference Southwest Division match at the FedExForum in Memphis, Tennessee.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>7.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231200000 +0100" stop="20141231223000 +0100" channel="BT Sport 2">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">Indiana Pacers v Miami Heat</sub-title>
+    <desc lang="en">Indiana Pacers v Miami Heat (Tip-off 8.00pm). All the action from the Eastern Conference clash at the Bankers Life Fieldhouse.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231223000 +0100" stop="20141231230000 +0100" channel="BT Sport 2">
+    <title lang="en">NBA Inside Stuff</title>
+    <desc lang="en">Featuring a look at the off-court activities of some of the NBA's players, plus features on fitness and the fundamentals of basketball.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>2.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231230000 +0100" stop="20150101013000 +0100" channel="BT Sport 2">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">Los Angeles Clippers v New York Knicks</sub-title>
+    <desc lang="en">Los Angeles Clippers v New York Knicks (Tip-off 11.00pm). All the action from the inter-conference clash at the Staples Centre.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231060000 +0100" stop="20141231070000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231070000 +0100" stop="20141231084500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">2006 Germany - The Grand Finale</sub-title>
+    <desc lang="en">A look back at the 2006 World Cup in Germany, where the semi-finals comprised four European nations for the first time since 1982.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231084500 +0100" stop="20141231104500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">The Class of 2011 - Women's World Cup Germany 2011</sub-title>
+    <desc lang="en">A look back at the 2011 Women's World Cup in Germany, which saw Japan and the USA reach the final.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231104500 +0100" stop="20141231110000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FA WSL - A Day in the Life of Casey Stoney</title>
+    <desc lang="en">A profile of Arsenal Ladies and England defender Casey Stoney.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231110000 +0100" stop="20141231120000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231120000 +0100" stop="20141231130000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231130000 +0100" stop="20141231140000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Classic Premier League</title>
+    <sub-title lang="en">Greatest Goals of the Premier League</sub-title>
+    <desc lang="en">A countdown of the English top flight's all-time greatest goals, with crucial strikes at both ends of the division.(n)</desc>
+    <category lang="en">Football - Club</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231140000 +0100" stop="20141231141500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FA WSL - A Day in the Life of Natasha Harding</title>
+    <desc lang="en">A profile of Bristol Academy and Wales striker Natasha Dowie.(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20141231141500 +0100" stop="20141231160000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">2006 Germany - The Grand Finale</sub-title>
+    <desc lang="en">A look back at the 2006 World Cup in Germany, where the semi-finals comprised four European nations for the first time since 1982.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231160000 +0100" stop="20141231180000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIFA World Cup Official Film</title>
+    <sub-title lang="en">The Class of 2011 - Women's World Cup Germany 2011</sub-title>
+    <desc lang="en">A look back at the 2011 Women's World Cup in Germany, which saw Japan and the USA reach the final.(n)</desc>
+    <category lang="en">Football - International</category>
+    <star-rating>
+      <value>6 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231180000 +0100" stop="20141231200000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">NBA</title>
+    <sub-title lang="en">Memphis Grizzlies v San Antonio Spurs</sub-title>
+    <desc lang="en">Memphis Grizzlies v San Antonio Spurs. Action from the Western Conference Southwest Division match at the FedExForum in Memphis, Tennessee.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>7.8 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231200000 +0100" stop="20141231223000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">Indiana Pacers v Miami Heat</sub-title>
+    <desc lang="en">Indiana Pacers v Miami Heat (Tip-off 8.00pm). All the action from the Eastern Conference clash at the Bankers Life Fieldhouse.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>7 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231223000 +0100" stop="20141231230000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">NBA Inside Stuff</title>
+    <desc lang="en">Featuring a look at the off-court activities of some of the NBA's players, plus features on fitness and the fundamentals of basketball.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>2.4 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231230000 +0100" stop="20150101013000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live NBA</title>
+    <sub-title lang="en">Los Angeles Clippers v New York Knicks</sub-title>
+    <desc lang="en">Los Angeles Clippers v New York Knicks (Tip-off 11.00pm). All the action from the inter-conference clash at the Staples Centre.(n)</desc>
+    <category lang="en">Basketball</category>
+    <star-rating>
+      <value>7 /10</value>
     </star-rating>
   </programme>
 </tv>
