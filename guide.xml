@@ -8,10 +8,6 @@
     <display-name lang="en">Sky Sports 2</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <channel id="Sky Sports 3">
-    <display-name lang="en">Sky Sports 3</display-name>
-    <url>http://www.tvguide.co.uk</url>
-  </channel>
   <channel id="Sky Sports 4">
     <display-name lang="en">Sky Sports 4</display-name>
     <url>http://www.tvguide.co.uk</url>
@@ -34,6 +30,10 @@
   </channel>
   <channel id="Setanta Sports 1">
     <display-name lang="en">Setanta Sports 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Premier Sports">
+    <display-name lang="en">Premier Sports</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
   <channel id="Sky Movies Action">
@@ -107,6 +107,10 @@
   <channel id="BT Sport 2 HD">
     <display-name lang="en">BT Sport 2 HD</display-name>
     <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports 3">
+    <display-name lang="en">Sky Sports 3</display-name>
+    <url>http://www.radiotimes.com</url>
   </channel>
   <programme start="20141231060000 +0100" stop="20141231061500 +0100" channel="Sky Sports 1">
     <title lang="en">Football Gold</title>
@@ -1105,6 +1109,73 @@
     <category lang="en">Ice Hockey</category>
   </programme>
   <programme start="20141231220000 +0100" stop="20150101010000 +0100" channel="Setanta Sports 1">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Winnipeg Jets v New York Islanders</sub-title>
+    <desc lang="en">Winnipeg Jets v New York Islanders (Face-off 10.00pm). Coverage of the inter-conference clash at the MTS Centre.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+    <star-rating>
+      <value>8.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231060000 +0100" stop="20141231080000 +0100" channel="Premier Sports">
+    <title lang="en">Four Nations Rugby League</title>
+    <sub-title lang="en">New Zealand v Australia</sub-title>
+    <desc lang="en">New Zealand v Australia. Action from the final at the Westpac Stadium in Wellington, New Zealand.(n)</desc>
+    <category lang="en">Rugby League - International</category>
+  </programme>
+  <programme start="20141231080000 +0100" stop="20141231100000 +0100" channel="Premier Sports">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Nashville Predators v St Louis Blues</sub-title>
+    <desc lang="en">Nashville Predators v St Louis Blues. Action from the Western Conference Central Division clash at the Bridgestone Arena.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+    <star-rating>
+      <value>8.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231100000 +0100" stop="20141231120000 +0100" channel="Premier Sports">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Edmonton Oilers v Los Angeles Kings</sub-title>
+    <desc lang="en">Edmonton Oilers v Los Angeles Kings. Action from the inter-conference match from Rexall Place.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+    <star-rating>
+      <value>8.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231120000 +0100" stop="20141231130000 +0100" channel="Premier Sports">
+    <title lang="en">NHL Tonight</title>
+    <desc lang="en">Highlights from the previous evening's NHL action and comprehensive post-game analysis, scores, interviews and breaking news.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+  </programme>
+  <programme start="20141231130000 +0100" stop="20141231153000 +0100" channel="Premier Sports">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">New York Rangers v Los Angeles Kings</sub-title>
+    <desc lang="en">New York Rangers v Los Angeles Kings. Action from game four of the 2013/14 Stanley Cup Finals, which took place at Madison Square Garden.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+    <star-rating>
+      <value>8.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231153000 +0100" stop="20141231190000 +0100" channel="Premier Sports">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">New York Rangers v Los Angeles Kings</sub-title>
+    <desc lang="en">New York Rangers v Los Angeles Kings. Action from game five of the best-of-seven 2013/14 Stanley Cup Finals, which took place at Madison Square Garden.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+    <star-rating>
+      <value>8.2 /10</value>
+    </star-rating>
+  </programme>
+  <programme start="20141231190000 +0100" stop="20141231210000 +0100" channel="Premier Sports">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">2014 Grand Final</sub-title>
+    <desc lang="en">South Sydney Rabbitohs v Canterbury-Bankstown Bulldogs. A chance to see the 2014 Grand Final from the ANZ Stadium.(n)</desc>
+    <category lang="en">Rugby League - Domestic</category>
+  </programme>
+  <programme start="20141231210000 +0100" stop="20141231220000 +0100" channel="Premier Sports">
+    <title lang="en">Road to the NHL 2015 Winter Classic</title>
+    <desc lang="en">The build-up to the annual outdoor fixture, which this year will see Washington Capitals host Chicago Blackhawks at Nationals Park, home of the Washington Nationals baseball side.(n)</desc>
+    <category lang="en">Ice Hockey</category>
+  </programme>
+  <programme start="20141231220000 +0100" stop="20150101010000 +0100" channel="Premier Sports">
     <title lang="en">Live NHL Ice Hockey</title>
     <sub-title lang="en">Winnipeg Jets v New York Islanders</sub-title>
     <desc lang="en">Winnipeg Jets v New York Islanders (Face-off 10.00pm). Coverage of the inter-conference clash at the MTS Centre.(n)</desc>
@@ -4544,5 +4615,176 @@
     <star-rating>
       <value>7 /10</value>
     </star-rating>
+  </programme>
+  <programme start="20141231010000 +0000" stop="20141231050000 +0000" channel="Sky Sports 3">
+    <title lang="en">World Darts Championship</title>
+    <desc lang="en">Action from the evening session on day 10 at the Alexandra Palace in London, where the third round reached a conclusion with a further three matches. This round last year saw a number of thrilling contests including Michael van Gerwen against Gary Anderson, which saw the eventual champion from the Netherlands win 4-3, while Mark Webster defeated Raymond van Barneveld by the same score.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">2015 Day 10</episode-num>
+  </programme>
+  <programme start="20141231050000 +0000" stop="20141231051500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v James Wade. Highlights of the 2010 Premier League final at Wembley Arena.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v James Wade</episode-num>
+  </programme>
+  <programme start="20141231051500 +0000" stop="20141231053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Raymond van Barneveld. Action from the final of the 2007 World Championship at Circus Tavern in Purfleet, Essex.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Raymond van Barneveld: 2007 World Championship Final</episode-num>
+  </programme>
+  <programme start="20141231053000 +0000" stop="20141231054500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Gary Anderson v Phil Taylor. Action from the quarter-final of the 2013 World Grand Prix at the Citywest Hotel in Dublin.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Gary Anderson v Phil Taylor: 2013 World Grand Prix</episode-num>
+  </programme>
+  <programme start="20141231054500 +0000" stop="20141231060000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v John Part. Action from the 2003 PDC World Championship final at the Circus Tavern in Purfleet.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v John Part: 2003 PDC World Championship Final</episode-num>
+  </programme>
+  <programme start="20141231060000 +0000" stop="20141231061500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Dennis Priestley. Highlights of the last-16 match in the 2005 Matchplay.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Dennis Priestley: 2005</episode-num>
+  </programme>
+  <programme start="20141231061500 +0000" stop="20141231063000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Raymond van Barneveld. Action from the semi-final in the 2013 World Championship at Alexandra Palace.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Raymond van Barneveld: 2013</episode-num>
+  </programme>
+  <programme start="20141231063000 +0000" stop="20141231064500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Kevin Painter. Action from the final of the 2004 PDC World Championship final.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Kevin Painter: 2004</episode-num>
+  </programme>
+  <programme start="20141231064500 +0000" stop="20141231070000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v John Lowe. Action from the semi-final in the 2002 World Matchplay.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v John Lowe</episode-num>
+  </programme>
+  <programme start="20141231070000 +0000" stop="20141231110000 +0000" channel="Sky Sports 3">
+    <title lang="en">World Darts Championship</title>
+    <desc lang="en">Action from the evening session on day 10 at the Alexandra Palace in London, where the third round reached a conclusion with a further three matches. This round last year saw a number of thrilling contests including Michael van Gerwen against Gary Anderson, which saw the eventual champion from the Netherlands win 4-3, while Mark Webster defeated Raymond van Barneveld by the same score.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">2015 Day 10</episode-num>
+  </programme>
+  <programme start="20141231110000 +0000" stop="20141231120000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Heroes</title>
+    <desc lang="en">Former PDC top five darts player Mardle talks to the five-time world champion, who was widely regarded as the greatest player of all time until the emergence of Phil Taylor.(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">CurrentAffairs</category>
+    <episode-num system="onscreen">Sporting Heroes: Wayne Mardle Interviews Eric Bristow</episode-num>
+  </programme>
+  <programme start="20141231120000 +0000" stop="20141231123000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts World Championship Years</title>
+    <desc lang="en">A look back at the 1998 and 1999 PDC World Championship finals, which both took place at the Circus Tavern in Purfleet, Essex.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">1998/1999</episode-num>
+  </programme>
+  <programme start="20141231123000 +0000" stop="20141231163000 +0000" channel="Sky Sports 3">
+    <title lang="en">World Darts Championship</title>
+    <desc lang="en">Action from the evening session on day 10 at the Alexandra Palace in London, where the third round reached a conclusion with a further three matches. This round last year saw a number of thrilling contests including Michael van Gerwen against Gary Anderson, which saw the eventual champion from the Netherlands win 4-3, while Mark Webster defeated Raymond van Barneveld by the same score.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">2015 Day 10</episode-num>
+  </programme>
+  <programme start="20141231163000 +0000" stop="20141231170000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts World Championship Years</title>
+    <desc lang="en">A look back at the 1998 and 1999 PDC World Championship finals, which both took place at the Circus Tavern in Purfleet, Essex.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">1998/1999</episode-num>
+  </programme>
+  <programme start="20141231170000 +0000" stop="20141231171500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Dennis Priestley v Shayne Burgess. Highlights of the 2000 World Championship quarter-final.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Dennis Priestley v Shayne Burgess</episode-num>
+  </programme>
+  <programme start="20141231171500 +0000" stop="20141231173000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v John Lowe. Action from the semi-final in the 1995 World Championship.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v John Lowe</episode-num>
+  </programme>
+  <programme start="20141231173000 +0000" stop="20141231183000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Heroes</title>
+    <desc lang="en">Former PDC top five darts player Mardle talks to the five-time world champion, who was widely regarded as the greatest player of all time until the emergence of Phil Taylor.(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">CurrentAffairs</category>
+    <episode-num system="onscreen">Sporting Heroes: Wayne Mardle Interviews Eric Bristow</episode-num>
+  </programme>
+  <programme start="20141231183000 +0000" stop="20141231190000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts World Championship Years</title>
+    <desc lang="en">A look back at the 1998 and 1999 PDC World Championship finals, which both took place at the Circus Tavern in Purfleet, Essex.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">1998/1999</episode-num>
+  </programme>
+  <programme start="20141231190000 +0000" stop="20141231200000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Defending champion Phil Taylor previews the PDC World Championship and there's a look back at his illustrious career. Plus, comedian, actor and darts fan Stephen Fry offers his views on the forthcoming tournament.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">World of Phil Taylor</episode-num>
+  </programme>
+  <programme start="20141231200000 +0000" stop="20141231201500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Dennis Priestley v Shayne Burgess. Highlights of the 2000 World Championship quarter-final.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Dennis Priestley v Shayne Burgess</episode-num>
+  </programme>
+  <programme start="20141231201500 +0000" stop="20141231203000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v John Lowe. Action from the semi-final in the 2002 World Matchplay.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v John Lowe</episode-num>
+  </programme>
+  <programme start="20141231203000 +0000" stop="20141231213000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v John Part. Action from the 2003 World Matchplay final at the Circus Tavern in Purfleet.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v John Part: 2003 World Matchplay Final</episode-num>
+  </programme>
+  <programme start="20141231213000 +0000" stop="20141231220000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts World Championship Years</title>
+    <desc lang="en">A look back at the 1998 and 1999 PDC World Championship finals, which both took place at the Circus Tavern in Purfleet, Essex.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">1998/1999</episode-num>
+  </programme>
+  <programme start="20141231220000 +0000" stop="20141231221500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Chris Mason. Highlights of the 2002 World Matchplay quarter-final.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Chris Mason: 2002</episode-num>
+  </programme>
+  <programme start="20141231221500 +0000" stop="20141231223000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v John Lowe. Action from the semi-final in the 1995 World Championship.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v John Lowe</episode-num>
+  </programme>
+  <programme start="20141231223000 +0000" stop="20141231233000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Heroes</title>
+    <desc lang="en">The presenter speaks to the darts great, who has won a record 16 world titles, 14 of which have come in the PDC. The man known as `The Power' has also won more than 190 professional titles in total to establish his reputation as the finest player in the history of the sport.(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">CurrentAffairs</category>
+    <episode-num system="onscreen">Sporting Heroes: Gary Newbon Interviews Phil Taylor</episode-num>
+  </programme>
+  <programme start="20141231233000 +0000" stop="20141231234500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Michael van Gerwen. Highlights of the 2013 Premier League final at the O2 in London.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Michael van Gerwen</episode-num>
+  </programme>
+  <programme start="20141231234500 +0000" stop="20150101000000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold</title>
+    <desc lang="en">Phil Taylor v Wayne Mardle. Action from the quarter-final in the 2008 World Championship at Alexandra Palace.(n)</desc>
+    <category lang="en">Sport</category>
+    <episode-num system="onscreen">Phil Taylor v Wayne Mardle</episode-num>
   </programme>
 </tv>
