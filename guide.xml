@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/18 -- Jan van Straaten" generator-info-url="http://www.servercare.nl">
   <channel id="Setanta Ireland">
-    <display-name lang="en">Setanta Ireland</display-name>
-    <url>http://www.entertainment.ie</url>
+    <display-name lang="de">Setanta Ireland</display-name>
+    <url>http://www.m.tv-guide.upc.ie</url>
   </channel>
   <channel id="Setanta Sports 1">
-    <display-name lang="en">Setanta Sports 1</display-name>
-    <url>http://www.entertainment.ie</url>
+    <display-name lang="de">Setanta Sports 1</display-name>
+    <url>http://www.m.tv-guide.upc.ie</url>
   </channel>
   <channel id="Sky Premiere">
     <display-name lang="en">Sky Premiere</display-name>
