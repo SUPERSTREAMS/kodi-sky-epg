@@ -172,119 +172,9 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150110180000 +0000" stop="20150111000000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Two birdies in his last three holes saw Russell Henley edge into the lead on day one..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <premiere />
-  </programme>
-  <programme start="20150111000000 +0000" stop="20150111010000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at some vintage PGA Tour action with the 2003 Wachovia Championship at Quail Hollow Club in North Carolina. This was the first time the tournament had been played..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111010000 +0000" stop="20150111013000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Jack Nicklaus</title>
-    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111013000 +0000" stop="20150111023000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the South African Open Championship from Glendower Golf Club. England's Andy Sullivan held a one-shot lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111023000 +0000" stop="20150111030000 +0000" channel="Sky Sports 4">
-    <title lang="en">Best Of ICC WT20: McCullum</title>
-    <desc lang="en">A chance to relive some of the best batting performances from the ICC World Twenty20. Here the focus is on Brendon McCullum's 123 for New Zealand against Bangladesh in the 2012 event..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20150111030000 +0000" stop="20150111033000 +0000" channel="Sky Sports 4">
-    <title lang="en">Best Of ICC WT20: Raina</title>
-    <desc lang="en">A chance to relive some of the best batting performances from the ICC World Twenty20. Here the focus is on Suresh Raina's 101 for India against South Africa in the 2010 tournament..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20150111033000 +0000" stop="20150111043000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at some vintage PGA Tour action with the 2003 Wachovia Championship at Quail Hollow Club in North Carolina. This was the first time the tournament had been played..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111043000 +0000" stop="20150111053000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the South African Open Championship from Glendower Golf Club. England's Andy Sullivan held a one-shot lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111053000 +0000" stop="20150111060000 +0000" channel="Sky Sports 4">
-    <title lang="en">Best Of ICC WT20: Samuels</title>
-    <desc lang="en">A chance to relive some of the best batting performances from the ICC World Twenty20. Here the focus is on Marlon Samuels' 78 for the West Indies against Sri Lanka in the 2012 final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20150111060000 +0000" stop="20150111070000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">The 1994 Tour Championship from the Olympic Club, San Francisco. Mark McCumber and Fuzzy Zoeller would decide the tournament in a tense play-off, but who would emerge victorious?.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111070000 +0000" stop="20150111080000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the South African Open Championship from Glendower Golf Club. England's Andy Sullivan held a one-shot lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111080000 +0000" stop="20150111100000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Two birdies in his last three holes saw Russell Henley edge into the lead on day one..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111100000 +0000" stop="20150111143000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the South African Open Championship from Glendower Golf Club. Charl Schwartzel took a commanding five-stroke lead on day three..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <premiere />
-  </programme>
-  <programme start="20150111143000 +0000" stop="20150111163000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Two birdies in his last three holes saw Russell Henley edge into the lead on day one..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111163000 +0000" stop="20150111170000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Seve Ballesteros</title>
-    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111170000 +0000" stop="20150111173000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Jack Nicklaus</title>
-    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111173000 +0000" stop="20150111183000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the 1996 Phoenix Open at the TPC of Scottsdale. Fiji's Vijay Singh went into this competition as the defending champion, after he claimed the 1995 title and 234,000 dollars..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111183000 +0000" stop="20150111193000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the South African Open Championship from Glendower Golf Club. Charl Schwartzel took a commanding five-stroke lead on day three..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
   <programme start="20150111193000 +0000" stop="20150112023000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -321,7 +211,7 @@
   </programme>
   <programme start="20150112083000 +0000" stop="20150112103000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -351,7 +241,7 @@
   </programme>
   <programme start="20150112130000 +0000" stop="20150112150000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -375,7 +265,7 @@
   </programme>
   <programme start="20150112180000 +0000" stop="20150112200000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -847,119 +737,127 @@
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150110180000 +0000" stop="20150111000000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150116000000 +0000" stop="20150116033000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Two birdies in his last three holes saw Russell Henley edge into the lead on day one..(n)</desc>
+    <desc lang="en">Day one of the Sony Open in Hawaii from the Waialae Country Club in Honolulu. Jimmy Walker claimed a narrow one-stroke victory this time last year..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150111000000 +0000" stop="20150111010000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150116033000 +0000" stop="20150116043000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club. Pablo Larrazabal came out on top in this tournament last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116043000 +0000" stop="20150116053000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at some vintage PGA Tour action with the 2003 Wachovia Championship at Quail Hollow Club in North Carolina. This was the first time the tournament had been played..(n)</desc>
+    <desc lang="en">A look back at the 2001 Mastercard Colonial, held at Colonial Country Club in Fort Worth, Texas. Phil Mickelson went into this event as the defending champion..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150111010000 +0000" stop="20150111013000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Jack Nicklaus</title>
-    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111013000 +0000" stop="20150111023000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150116053000 +0000" stop="20150116060000 +0000" channel="Sky Sports 4">
     <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the South African Open Championship from Glendower Golf Club. England's Andy Sullivan held a one-shot lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111023000 +0000" stop="20150111030000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Best Of ICC WT20: McCullum</title>
-    <desc lang="en">A chance to relive some of the best batting performances from the ICC World Twenty20. Here the focus is on Brendon McCullum's 123 for New Zealand against Bangladesh in the 2012 event..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20150111030000 +0000" stop="20150111033000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Best Of ICC WT20: Raina</title>
-    <desc lang="en">A chance to relive some of the best batting performances from the ICC World Twenty20. Here the focus is on Suresh Raina's 101 for India against South Africa in the 2010 tournament..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20150111033000 +0000" stop="20150111043000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at some vintage PGA Tour action with the 2003 Wachovia Championship at Quail Hollow Club in North Carolina. This was the first time the tournament had been played..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111043000 +0000" stop="20150111053000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the South African Open Championship from Glendower Golf Club. England's Andy Sullivan held a one-shot lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111053000 +0000" stop="20150111060000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Best Of ICC WT20: Samuels</title>
-    <desc lang="en">A chance to relive some of the best batting performances from the ICC World Twenty20. Here the focus is on Marlon Samuels' 78 for the West Indies against Sri Lanka in the 2012 final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20150111060000 +0000" stop="20150111070000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">The 1994 Tour Championship from the Olympic Club, San Francisco. Mark McCumber and Fuzzy Zoeller would decide the tournament in a tense play-off, but who would emerge victorious?.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111070000 +0000" stop="20150111080000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the South African Open Championship from Glendower Golf Club. England's Andy Sullivan held a one-shot lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111080000 +0000" stop="20150111100000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Two birdies in his last three holes saw Russell Henley edge into the lead on day one..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150111100000 +0000" stop="20150111143000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the South African Open Championship from Glendower Golf Club. Charl Schwartzel took a commanding five-stroke lead on day three..(n)</desc>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150111143000 +0000" stop="20150111163000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Two birdies in his last three holes saw Russell Henley edge into the lead on day one..(n)</desc>
+  <programme start="20150116060000 +0000" stop="20150116083000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150116083000 +0000" stop="20150116090000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150111163000 +0000" stop="20150111170000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150116090000 +0000" stop="20150116093000 +0000" channel="Sky Sports 4">
     <title lang="en">Sporting Greats: Seve Ballesteros</title>
     <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150111170000 +0000" stop="20150111173000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150116093000 +0000" stop="20150116100000 +0000" channel="Sky Sports 4">
     <title lang="en">Sporting Greats: Jack Nicklaus</title>
     <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150111173000 +0000" stop="20150111183000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the 1996 Phoenix Open at the TPC of Scottsdale. Fiji's Vijay Singh went into this competition as the defending champion, after he claimed the 1995 title and 234,000 dollars..(n)</desc>
+  <programme start="20150116100000 +0000" stop="20150116130000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150116130000 +0000" stop="20150116133000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150111183000 +0000" stop="20150111193000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150116133000 +0000" stop="20150116143000 +0000" channel="Sky Sports 4">
+    <title lang="en">Standard Chartered Marathon</title>
+    <desc lang="en">The 2014 Standard Chartered Marathon Singapore. This event sees thousands of competitors run past some of Singapore's iconic landmarks, including the Esplanade and Sentosa..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150116143000 +0000" stop="20150116163000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and JBL present another week of pulsating action featuring WWE Superstars such as John Cena and Big Show. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1129</episode-num>
+  </programme>
+  <programme start="20150116163000 +0000" stop="20150116173000 +0000" channel="Sky Sports 4">
     <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the South African Open Championship from Glendower Golf Club. Charl Schwartzel took a commanding five-stroke lead on day three..(n)</desc>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116173000 +0000" stop="20150116174000 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: Bolton v M'boro</title>
+    <desc lang="en">A chance to relive the 2004 League Cup final between Bolton Wanderers and Middlesbrough at the Millennium Stadium. Bolton beat Aston Villa in the previous round, while Boro saw off Arsenal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150116174000 +0000" stop="20150116175000 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: Leicester v Spurs</title>
+    <desc lang="en">Relive the 1999 League Cup final between Leicester City and Tottenham Hotspur at Wembley. The Foxes fought past Sunderland in the previous round, while Spurs saw off Wimbledon..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150116175000 +0000" stop="20150116192000 +0000" channel="Sky Sports 4">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">France meet the Czech Republic in the group stage of the 2015 World Men's Handball Championship in Qatar. France reached the quarter-finals of this competition in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150116192000 +0000" stop="20150116225000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Sony Open in Hawaii from the Waialae Country Club in Honolulu. Jimmy Walker claimed a narrow one-stroke victory this time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116225000 +0000" stop="20150116230000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sky Sports Classics</title>
+    <desc lang="en">A review of the 2012 Ryder Cup at at the Medinah Country Club in Illinois. Jose Maria Olazabal's European side were defending the trophy they regained at Celtic Manor in 2010..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150116230000 +0000" stop="20150117000000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
   <programme start="20150111193000 +0000" stop="20150112023000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -996,7 +894,7 @@
   </programme>
   <programme start="20150112083000 +0000" stop="20150112103000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -1026,7 +924,7 @@
   </programme>
   <programme start="20150112130000 +0000" stop="20150112150000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -1050,7 +948,7 @@
   </programme>
   <programme start="20150112180000 +0000" stop="20150112200000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii..(n)</desc>
+    <desc lang="en">Day three of the Hyundai Tournament of Champions from the Kapalua Resort in Hawaii. Zach Johnson shared the halfway lead with Jimmy Walker, Russell Henley and Sang-Moon Bae..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -1519,6 +1417,124 @@
   <programme start="20150115230000 +0000" stop="20150116000000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">European Tour Golf</title>
     <desc lang="en">Day one of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club. Pablo Larrazabal came out on top in this tournament last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116000000 +0000" stop="20150116033000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Sony Open in Hawaii from the Waialae Country Club in Honolulu. Jimmy Walker claimed a narrow one-stroke victory this time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150116033000 +0000" stop="20150116043000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club. Pablo Larrazabal came out on top in this tournament last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116043000 +0000" stop="20150116053000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 2001 Mastercard Colonial, held at Colonial Country Club in Fort Worth, Texas. Phil Mickelson went into this event as the defending champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116053000 +0000" stop="20150116060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150116060000 +0000" stop="20150116083000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150116083000 +0000" stop="20150116090000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116090000 +0000" stop="20150116093000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116093000 +0000" stop="20150116100000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116100000 +0000" stop="20150116130000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150116130000 +0000" stop="20150116133000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116133000 +0000" stop="20150116143000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Standard Chartered Marathon</title>
+    <desc lang="en">The 2014 Standard Chartered Marathon Singapore. This event sees thousands of competitors run past some of Singapore's iconic landmarks, including the Esplanade and Sentosa..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150116143000 +0000" stop="20150116163000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and JBL present another week of pulsating action featuring WWE Superstars such as John Cena and Big Show. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1129</episode-num>
+  </programme>
+  <programme start="20150116163000 +0000" stop="20150116173000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116173000 +0000" stop="20150116174000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: Bolton v M'boro</title>
+    <desc lang="en">A chance to relive the 2004 League Cup final between Bolton Wanderers and Middlesbrough at the Millennium Stadium. Bolton beat Aston Villa in the previous round, while Boro saw off Arsenal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150116174000 +0000" stop="20150116175000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: Leicester v Spurs</title>
+    <desc lang="en">Relive the 1999 League Cup final between Leicester City and Tottenham Hotspur at Wembley. The Foxes fought past Sunderland in the previous round, while Spurs saw off Wimbledon..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150116175000 +0000" stop="20150116192000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">France meet the Czech Republic in the group stage of the 2015 World Men's Handball Championship in Qatar. France reached the quarter-finals of this competition in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150116192000 +0000" stop="20150116225000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Sony Open in Hawaii from the Waialae Country Club in Honolulu. Jimmy Walker claimed a narrow one-stroke victory this time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150116225000 +0000" stop="20150116230000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sky Sports Classics</title>
+    <desc lang="en">A review of the 2012 Ryder Cup at at the Medinah Country Club in Illinois. Jose Maria Olazabal's European side were defending the trophy they regained at Celtic Manor in 2010..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150116230000 +0000" stop="20150117000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the Abu Dhabi HSBC Golf Championship from Abu Dhabi Golf Club..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
