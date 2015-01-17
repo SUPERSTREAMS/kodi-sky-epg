@@ -172,4 +172,418 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
+  <programme start="20150117193000 +0000" stop="20150118000000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Mayweather v Guerrero</title>
+    <desc lang="en">The biggest name in world boxing Floyd Mayweather was back at the MGM Grand in Vegas to defend his WBC World Welterweight Championship against Robert Guerrero. The whole fight, the night, uncut.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118000000 +0000" stop="20150118003000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118003000 +0000" stop="20150118010000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118010000 +0000" stop="20150118020000 +0000" channel="BoxNation">
+    <title lang="en">Bunce's Boxing Hour</title>
+    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118020000 +0000" stop="20150118023000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118023000 +0000" stop="20150118070000 +0000" channel="BoxNation">
+    <title lang="en">Live: Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118070000 +0000" stop="20150118080000 +0000" channel="BoxNation">
+    <title lang="en">Gennady Golovkin v Lajuan Simon</title>
+    <desc lang="en">Düsseldorf in Germany hosts the WBA Middleweight Championship fight between home favourite Gennady Golovkin and Lajuan Simon from Philadelphia. Also Isa Akberbayev vs. Armin Dollinger..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118080000 +0000" stop="20150118100000 +0000" channel="BoxNation">
+    <title lang="en">McKenzie v Dodson</title>
+    <desc lang="en">From Bowlers in Manchester, Tony Dodson fights for the Commonweatlth Light Heaveyweight title against holder Ovill McKenzie..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118100000 +0000" stop="20150118140000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118140000 +0000" stop="20150118143000 +0000" channel="BoxNation">
+    <title lang="en">2015 Preview</title>
+    <desc lang="en">Promoter Frank Warren joins the two Steves, Bunce and Lillis, to look ahead to what promises to be another exciting 12 months of big fights on Box Nation..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118143000 +0000" stop="20150118190000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Khan v Diaz</title>
+    <desc lang="en">Amir Khan makes his long awaited return to Sheffield in this make or break fight against the tough Hispanic Julio Diaz. Also on the card Audley Harrison v Deontay Wilder. The whole night, uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118190000 +0000" stop="20150118230000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150118230000 +0000" stop="20150119000000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Nigel Benn</title>
+    <desc lang="en">Ring Masters takes a look back at the career of former WBC Super-Middleweight Champion Nigel Benn, one of boxing's most feared punchers of the 90s as he takes on fellow British fighter Henry Wharton..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119000000 +0000" stop="20150119010000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Ricky Hatton</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall recount former Light Welterweight Champion and fan favourite Ricky Hatton's finest hour against legend Kostya Tszyu..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119010000 +0000" stop="20150119050000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119050000 +0000" stop="20150119060000 +0000" channel="BoxNation">
+    <title lang="en">Mike Alvarado v Mauricio Herrera</title>
+    <desc lang="en">BoxNation presents the 10 round World Lightweight eliminator between Mike Alvarado v Mauricio Herrera..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119060000 +0000" stop="20150119070000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Joe Calzaghe</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the day when Joe Calzaghe announced himself at world level, by challenging boxing great, Chris Eubank, for the WBO Super-Middleweight title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119070000 +0000" stop="20150119080000 +0000" channel="BoxNation">
+    <title lang="en">Welsh Dragons - Maccarinelli</title>
+    <desc lang="en">Part 1. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119080000 +0000" stop="20150119090000 +0000" channel="BoxNation">
+    <title lang="en">Classic Fights</title>
+    <desc lang="en">Roy Jones Jr vs Glen Johnson from 2004.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119090000 +0000" stop="20150119100000 +0000" channel="BoxNation">
+    <title lang="en">Cassius &amp; Helder's Year Review</title>
+    <desc lang="en">Cassius &amp; Helder speak to Frank Warren as he reviews a fantastic year of boxing in 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119100000 +0000" stop="20150119120000 +0000" channel="BoxNation">
+    <title lang="en">Brandon Rios v Richard Abril</title>
+    <desc lang="en">From Las Vegas: Brandon"Bam Bam" Rios of the USA defends his World Lightweight title against Cuba's Richard Abril. Also featuring Mexico's Juan Manuel Marquez against Ukraine's Serhiy Fedchenko..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119120000 +0000" stop="20150119140000 +0000" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150119140000 +0000" stop="20150119180000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Marquez v Alvarado</title>
+    <desc lang="en">Juan Manuel Marquez returns to the legendary LA Forum to take on Denver native Mike Alvarado. Marquez needs a win in his quest to become the first Mexican five-weight champion. The whole night Uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119180000 +0000" stop="20150119190000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- A classic confrontation between old and new- Chris Eubank takes on the young Joe Calzaghe for the vacant WBO super middleweight title in Sheffield, England..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119190000 +0000" stop="20150119193000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119193000 +0000" stop="20150119233000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150119233000 +0000" stop="20150120000000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120000000 +0000" stop="20150120003000 +0000" channel="BoxNation">
+    <title lang="en">2015 Preview</title>
+    <desc lang="en">Promoter Frank Warren joins the two Steves, Bunce and Lillis, to look ahead to what promises to be another exciting 12 months of big fights on Box Nation..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120003000 +0000" stop="20150120040000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Rios v Alvarado</title>
+    <desc lang="en">After their first slugfest earlier in the year, Brandon Rios and Mike Alvarado lock horns again under the Nevada skies at The Mandalay Bay Hotel in Vegas. The big fight and the undercard - uncut.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120040000 +0000" stop="20150120050000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- A classic confrontation between old and new- Chris Eubank takes on the young Joe Calzaghe for the vacant WBO super middleweight title in Sheffield, England..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120050000 +0000" stop="20150120060000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Nigel Benn, the Dark Destroyer, defends his WBC super middleweight title against Paraguayan Juan Carlos Gimenez. A fight memorable for the sparring outside the ring, as well as in..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120060000 +0000" stop="20150120070000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Nigel Benn</title>
+    <desc lang="en">Ring Masters takes a look back at the career of former WBC Super-Middleweight Champion Nigel Benn, one of boxing's most feared punchers of the 90s as he takes on fellow British fighter Henry Wharton..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120070000 +0000" stop="20150120080000 +0000" channel="BoxNation">
+    <title lang="en">Welsh Dragons - Maccarinelli</title>
+    <desc lang="en">Part 2. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120080000 +0000" stop="20150120100000 +0000" channel="BoxNation">
+    <title lang="en">Abraham v Stieglitz</title>
+    <desc lang="en">From the O2 World Arena, Berlin: A monumental clash between two adopted German favourites. Robert Stieglitz defends his World Super-Middleweight title against "King" Arthur Abraham..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120100000 +0000" stop="20150120120000 +0000" channel="BoxNation">
+    <title lang="en">Marco Huck v Ola Afolabi</title>
+    <desc lang="en">Marco Huck defends his WBO World Cruiserweight title against London born Ola Afolabi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120120000 +0000" stop="20150120140000 +0000" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150120140000 +0000" stop="20150120143000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120143000 +0000" stop="20150120183000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120183000 +0000" stop="20150120190000 +0000" channel="BoxNation">
+    <title lang="en">2015 Preview</title>
+    <desc lang="en">Promoter Frank Warren joins the two Steves, Bunce and Lillis, to look ahead to what promises to be another exciting 12 months of big fights on Box Nation..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120190000 +0000" stop="20150120200000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- A 23-year-old Barry Jones gets his chance at a world title, in just his 18th professional fight. His opponent- the WBC Latin American champ Wilson Palacio..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120200000 +0000" stop="20150120233000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Rios v Chaves</title>
+    <desc lang="en">After 2 straight defeats, Rios needed a win against Argentina's Diego Chaves to get his career back on track. Also, the WBA Light-Welterweight Championship. The whole fight, the whole night, Uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150120233000 +0000" stop="20150121033000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121033000 +0000" stop="20150121040000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121040000 +0000" stop="20150121050000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Little Londoner Mickey Cantwell pits himself against South African flyweight legend 'Baby' Jake Matlala. It's the British champion's first crack at a world title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121050000 +0000" stop="20150121060000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- A 23-year-old Barry Jones gets his chance at a world title, in just his 18th professional fight. His opponent- the WBC Latin American champ Wilson Palacio..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121060000 +0000" stop="20150121080000 +0000" channel="BoxNation">
+    <title lang="en">Miguel Cotto v Antonio Margarito</title>
+    <desc lang="en">Madison Square Garden in New York City hosts Miguel Cotto v Antonio Margarito for the WBA Super Light-Middleweight Championship and Brandon Rios v John Murray for the WBA Lightweight version.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121080000 +0000" stop="20150121100000 +0000" channel="BoxNation">
+    <title lang="en">That was 2014</title>
+    <desc lang="en">Buncey and friends look back on an action packed 12 months of fistic fury on Box Nation and pick out their best fights and favourite fighters in this 2 hour festive boxing frenzy..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121100000 +0000" stop="20150121120000 +0000" channel="BoxNation">
+    <title lang="en">Mikkel Kessler v Allan Green</title>
+    <desc lang="en">Denmark's Mikkel Kessler fights America's Allan Green for the WBC Silver Light-Heavyweight Championship in Copehagen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121120000 +0000" stop="20150121140000 +0000" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150121140000 +0000" stop="20150121180000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121180000 +0000" stop="20150121190000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- A 23-year-old Barry Jones gets his chance at a world title, in just his 18th professional fight. His opponent- the WBC Latin American champ Wilson Palacio..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121190000 +0000" stop="20150121233000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Pacquiao v Rios</title>
+    <desc lang="en">A huge night at the Cotai Arena in Macau as Filipino legend Manny Pacquiao, coming off two losses, takes on Brandon Rios for the vacant WBO International welterweight title. The whole night uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150121233000 +0000" stop="20150122003000 +0000" channel="BoxNation">
+    <title lang="en">Classic Fights</title>
+    <desc lang="en">Marco Antonio Barrera vs Juan Manuel Marquez from 2007.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122003000 +0000" stop="20150122043000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122043000 +0000" stop="20150122053000 +0000" channel="BoxNation">
+    <title lang="en">Mike Alvarado v Mauricio Herrera</title>
+    <desc lang="en">BoxNation presents the 10 round World Lightweight eliminator between Mike Alvarado v Mauricio Herrera..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122053000 +0000" stop="20150122060000 +0000" channel="BoxNation">
+    <title lang="en">2015 Preview</title>
+    <desc lang="en">Promoter Frank Warren joins the two Steves, Bunce and Lillis, to look ahead to what promises to be another exciting 12 months of big fights on Box Nation..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122060000 +0000" stop="20150122070000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Steve Robinson</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall assess the career of the Cinderella Man Steve Robinson through two of his finest performances against Colin McMillan and Paul Hodkinson..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122070000 +0000" stop="20150122110000 +0000" channel="BoxNation">
+    <title lang="en">Stiverne v Wilder</title>
+    <desc lang="en">One of heavyweight boxing's most exciting prospects Deontay Wilder looks to win his first world title when he faces Haitian-born Canadian Bermane Stiverne..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122110000 +0000" stop="20150122120000 +0000" channel="BoxNation">
+    <title lang="en">Cassius &amp; Helder's Year Review</title>
+    <desc lang="en">Cassius &amp; Helder speak to Frank Warren as he reviews a fantastic year of boxing in 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122120000 +0000" stop="20150122140000 +0000" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150122140000 +0000" stop="20150122150000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Anthony Farnell is on home turf in Manchester, with his second crack at a world title. This one is against South Africa's Ruben Groenewald for the WBU middleweight belt..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122150000 +0000" stop="20150122160000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Steve Collins defends his WBO title against Eric Seillier. Then, Chris Eubank takes on Carl Thompson for the WBA cruiserweight title- their second clash in three months..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122160000 +0000" stop="20150122170000 +0000" channel="BoxNation">
+    <title lang="en">Fighting Spirit</title>
+    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122170000 +0000" stop="20150122180000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Steve Robinson</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall assess the career of the Cinderella Man Steve Robinson through two of his finest performances against Colin McMillan and Paul Hodkinson..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122180000 +0000" stop="20150122183000 +0000" channel="BoxNation">
+    <title lang="en">Black Cab Box Chat</title>
+    <desc lang="en">Billy Joe Saunders takes a spin round town in the world famous Hackney Cab.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122183000 +0000" stop="20150122190000 +0000" channel="BoxNation">
+    <title lang="en">Away from the Ring</title>
+    <desc lang="en">Louise Hazel visits the boxers away from the blood, sweat and tears of the gym and the ring to see what really makes them tick.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122190000 +0000" stop="20150122200000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122200000 +0000" stop="20150122203000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150122203000 +0000" stop="20150123000000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Rios v Alvarado</title>
+    <desc lang="en">After their first slugfest earlier in the year, Brandon Rios and Mike Alvarado lock horns again under the Nevada skies at The Mandalay Bay Hotel in Vegas. The big fight and the undercard - uncut.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
 </tv>
