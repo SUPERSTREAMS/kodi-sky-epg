@@ -172,113 +172,9 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150123200000 +0000" stop="20150124000000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the 2015 Humana Challenge from PGA West in La Quinta, California. Michael Putnam led the field at the end of day one, with five players sitting just one shot behind..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <premiere />
-  </programme>
-  <programme start="20150124000000 +0000" stop="20150124010000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the Commercial Bank Qatar Masters from Doha Golf Club. Branden Grace, Bernd Wiesberger and George Coetzee share the lead at the halfway stage..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124010000 +0000" stop="20150124013000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124013000 +0000" stop="20150124020000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
-    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124020000 +0000" stop="20150124060000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the 2015 Humana Challenge from PGA West in La Quinta, California. Michael Putnam led the field at the end of day one, with five players sitting just one shot behind..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124060000 +0000" stop="20150124070000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">Another chance to relive the 1999 Bellsouth Classic at the TPC at Sugarloaf, Atlanta. Tiger Woods won in 1998, meaning he went into this event as the defending champion..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124070000 +0000" stop="20150124080000 +0000" channel="Sky Sports 4">
-    <title lang="en">Tight Lines</title>
-    <desc lang="en">This week, Keith is joined by noted specimen hunter, journalist and guide Duncan Charman. Plus, Duncan demonstrates his skills on the banks at Waggoners Wells..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
-  </programme>
-  <programme start="20150124080000 +0000" stop="20150124083000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
-    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124083000 +0000" stop="20150124133000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <premiere />
-  </programme>
-  <programme start="20150124133000 +0000" stop="20150124135000 +0000" channel="Sky Sports 4">
-    <title lang="en">WWE From The Vault</title>
-    <desc lang="en">Big Show takes on Wade Barrett in this classic match from the WWE Vault..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20150124135000 +0000" stop="20150124155000 +0000" channel="Sky Sports 4">
-    <title lang="en">WWE Smackdown</title>
-    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown. Matches include Daniel Bryan v Kane and Ryback v Rusev. This programme contains flashing images..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20150124155000 +0000" stop="20150124172000 +0000" channel="Sky Sports 4">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">Egypt and Iceland meet in the group stage of the 2015 World Men's Handball Championship in Qatar. Egypt will secure their place in the knockout phase with victory here..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150124172000 +0000" stop="20150124173500 +0000" channel="Sky Sports 4">
-    <title lang="en">Football Gold: Liverpool v Man Utd</title>
-    <desc lang="en">A chance to relive the top-flight clash between Liverpool and Manchester United at Anfield from the 1999/00 season. This thrilling encounter featured five goals and a sending off..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150124173500 +0000" stop="20150124175000 +0000" channel="Sky Sports 4">
-    <title lang="en">Football Gold: Aston Villa v WBA</title>
-    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Aston Villa against West Bromwich Albion at Villa Park from the 2013/14 season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150124175000 +0000" stop="20150124192000 +0000" channel="Sky Sports 4">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">France face Sweden in the group stage of the 2015 World Men's Handball Championship in Qatar. The victor will secure top spot in Group C..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150124192000 +0000" stop="20150124193000 +0000" channel="Sky Sports 4">
-    <title lang="en">Football Gold: Everton v Liverpool</title>
-    <desc lang="en">A chance to relive the Merseyside derby between Everton and Liverpool at Goodison Park in November 1994. The Toffees were aiming for a third consecutive home win against their neighbours..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150124193000 +0000" stop="20150124200000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
   <programme start="20150124200000 +0000" stop="20150125000000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the 2015 Humana Challenge from PGA West in La Quinta, California..(n)</desc>
+    <desc lang="en">Day three of the 2015 Humana Challenge from PGA West in La Quinta, California. Matt Kuchar held a narrow one-shot lead over Michael Putnam and Bill Haas at the end of day two..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -344,10 +240,10 @@
     <category lang="en">Golf</category>
   </programme>
   <programme start="20150125125000 +0000" stop="20150125142000 +0000" channel="Sky Sports 4">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">A match from the 2015 World Men's Handball Championship in Qatar..(n)</desc>
+    <title lang="en">Shell's Wonderful World Of Golf</title>
+    <desc lang="en">The series that televised a whole host of golf games between some of the top players of the time. Here it's Fred Couples v Phil Mickelson at the Gaillardia Golf and Country Club, Oklahoma..(n)</desc>
     <category lang="en">Sports</category>
-    <premiere />
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20150125142000 +0000" stop="20150125145000 +0000" channel="Sky Sports 4">
     <title lang="en">Sporting Greats: Gary Player</title>
@@ -907,113 +803,142 @@
     <category lang="en">Wrestling</category>
     <episode-num system="onscreen">E1131</episode-num>
   </programme>
-  <programme start="20150123200000 +0000" stop="20150124000000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the 2015 Humana Challenge from PGA West in La Quinta, California. Michael Putnam led the field at the end of day one, with five players sitting just one shot behind..(n)</desc>
+  <programme start="20150129003000 +0000" stop="20150129013000 +0000" channel="Sky Sports 4">
+    <title lang="en">Max Power</title>
+    <desc lang="en">With something for every motorsport enthusiast, this is the definitive round-up of all the latest two and four-wheel news. For high-speed fast-paced action, this is the place to be..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129013000 +0000" stop="20150129023000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sports Unlimited 2015</title>
+    <desc lang="en">The show that combines alternative, extreme and unusual sporting activities in dynamic style. A comprehensive round-up of local and international sports..(n)</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129023000 +0000" stop="20150129033000 +0000" channel="Sky Sports 4">
+    <title lang="en">Watersports World 2015</title>
+    <desc lang="en">The world's ultimate watersports show, with comprehensive coverage of the recent power, sail and surf competitions from around the globe. With key interviews and event news..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150129033000 +0000" stop="20150129043000 +0000" channel="Sky Sports 4">
+    <title lang="en">Max Power</title>
+    <desc lang="en">With something for every motorsport enthusiast, this is the definitive round-up of all the latest two and four-wheel news. For high-speed fast-paced action, this is the place to be..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129043000 +0000" stop="20150129050000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golfing World</title>
+    <desc lang="en">The comprehensive golf show with a mix of the latest news, interviews, documentaries and features. Plus, tournament updates, golf tips and resort reviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20150129050000 +0000" stop="20150129053000 +0000" channel="Sky Sports 4">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features carp fishing at Albert Falls Dam in KwaZulu-Natal, South Africa..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20150129053000 +0000" stop="20150129060000 +0000" channel="Sky Sports 4">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features Pantaloon and the tropical island of Fogo in Mozambique..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20150129060000 +0000" stop="20150129090000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150124000000 +0000" stop="20150124010000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day three of the Commercial Bank Qatar Masters from Doha Golf Club. Branden Grace, Bernd Wiesberger and George Coetzee share the lead at the halfway stage..(n)</desc>
+  <programme start="20150129090000 +0000" stop="20150129093000 +0000" channel="Sky Sports 4">
+    <title lang="en">Inside The PGA Tour</title>
+    <desc lang="en">This week, time with Freddie Jacobson at his home in Hobe Sound, Florida. Plus, a look ahead to the Waste Management Phoenix Open and Tiger Woods' first event of the season..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150124010000 +0000" stop="20150124013000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124013000 +0000" stop="20150124020000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
-    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124020000 +0000" stop="20150124060000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day two of the 2015 Humana Challenge from PGA West in La Quinta, California. Michael Putnam led the field at the end of day one, with five players sitting just one shot behind..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150124060000 +0000" stop="20150124070000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150129093000 +0000" stop="20150129103000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">Another chance to relive the 1999 Bellsouth Classic at the TPC at Sugarloaf, Atlanta. Tiger Woods won in 1998, meaning he went into this event as the defending champion..(n)</desc>
+    <desc lang="en">A look back at the 1999 WGC American Express Championship from Valderrama Golf Club in Andalucia. Miguel Angel Jimenez fought back to force world number one Tiger Woods into a play-off..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150124070000 +0000" stop="20150124080000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Tight Lines</title>
-    <desc lang="en">This week, Keith is joined by noted specimen hunter, journalist and guide Duncan Charman. Plus, Duncan demonstrates his skills on the banks at Waggoners Wells..(n)</desc>
+  <programme start="20150129103000 +0000" stop="20150129133000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150129133000 +0000" stop="20150129150000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf-Els v Mickelson 1995</title>
+    <desc lang="en">Once again, we dig into the Shell's Wonderful World of Golf vault and go back to 1995, when Ernie Els and Phil Mickelson went head-to-head at the Canary Islands' Golf Del Sur..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129150000 +0000" stop="20150129160000 +0000" channel="Sky Sports 4">
+    <title lang="en">Fishing: Thinking Tackle</title>
+    <desc lang="en">This week, Simon Scott and Tom Dove showcase an array of clever tricks and tips to catch carp on busy lakes at Todber Manor..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129160000 +0000" stop="20150129163000 +0000" channel="Sky Sports 4">
+    <title lang="en">New: Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features carp fishing at Albert Falls Dam in KwaZulu-Natal, South Africa..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20150129163000 +0000" stop="20150129170000 +0000" channel="Sky Sports 4">
+    <title lang="en">New: Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features Pantaloon and the tropical island of Fogo in Mozambique..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20150129170000 +0000" stop="20150129173000 +0000" channel="Sky Sports 4">
+    <title lang="en">Fishing Gurus</title>
+    <desc lang="en">This week, world champion angler Steve Ringer puts on a commercial-carp masterclass, running Dean Macey through the intricacies of the pellet waggler and pole..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Fishing</category>
   </programme>
-  <programme start="20150124080000 +0000" stop="20150124083000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
-    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+  <programme start="20150129173000 +0000" stop="20150129180000 +0000" channel="Sky Sports 4">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the Masters 1000, 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129180000 +0000" stop="20150129190000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150124083000 +0000" stop="20150124133000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150129190000 +0000" stop="20150129200000 +0000" channel="Sky Sports 4">
     <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129200000 +0000" stop="20150130000000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
-  </programme>
-  <programme start="20150124133000 +0000" stop="20150124135000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">WWE From The Vault</title>
-    <desc lang="en">Big Show takes on Wade Barrett in this classic match from the WWE Vault..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20150124135000 +0000" stop="20150124155000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">WWE Smackdown</title>
-    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown. Matches include Daniel Bryan v Kane and Ryback v Rusev. This programme contains flashing images..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20150124155000 +0000" stop="20150124172000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">Egypt and Iceland meet in the group stage of the 2015 World Men's Handball Championship in Qatar. Egypt will secure their place in the knockout phase with victory here..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150124172000 +0000" stop="20150124173500 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Football Gold: Liverpool v Man Utd</title>
-    <desc lang="en">A chance to relive the top-flight clash between Liverpool and Manchester United at Anfield from the 1999/00 season. This thrilling encounter featured five goals and a sending off..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150124173500 +0000" stop="20150124175000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Football Gold: Aston Villa v WBA</title>
-    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Aston Villa against West Bromwich Albion at Villa Park from the 2013/14 season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150124175000 +0000" stop="20150124192000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">France face Sweden in the group stage of the 2015 World Men's Handball Championship in Qatar. The victor will secure top spot in Group C..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150124192000 +0000" stop="20150124193000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Football Gold: Everton v Liverpool</title>
-    <desc lang="en">A chance to relive the Merseyside derby between Everton and Liverpool at Goodison Park in November 1994. The Toffees were aiming for a third consecutive home win against their neighbours..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150124193000 +0000" stop="20150124200000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
   </programme>
   <programme start="20150124200000 +0000" stop="20150125000000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the 2015 Humana Challenge from PGA West in La Quinta, California..(n)</desc>
+    <desc lang="en">Day three of the 2015 Humana Challenge from PGA West in La Quinta, California. Matt Kuchar held a narrow one-shot lead over Michael Putnam and Bill Haas at the end of day two..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -1079,10 +1004,10 @@
     <category lang="en">Golf</category>
   </programme>
   <programme start="20150125125000 +0000" stop="20150125142000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">A match from the 2015 World Men's Handball Championship in Qatar..(n)</desc>
+    <title lang="en">Shell's Wonderful World Of Golf</title>
+    <desc lang="en">The series that televised a whole host of golf games between some of the top players of the time. Here it's Fred Couples v Phil Mickelson at the Gaillardia Golf and Country Club, Oklahoma..(n)</desc>
     <category lang="en">Sports</category>
-    <premiere />
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20150125142000 +0000" stop="20150125145000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">Sporting Greats: Gary Player</title>
@@ -1641,5 +1566,138 @@
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <episode-num system="onscreen">E1131</episode-num>
+  </programme>
+  <programme start="20150129003000 +0000" stop="20150129013000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">With something for every motorsport enthusiast, this is the definitive round-up of all the latest two and four-wheel news. For high-speed fast-paced action, this is the place to be..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129013000 +0000" stop="20150129023000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sports Unlimited 2015</title>
+    <desc lang="en">The show that combines alternative, extreme and unusual sporting activities in dynamic style. A comprehensive round-up of local and international sports..(n)</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129023000 +0000" stop="20150129033000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Watersports World 2015</title>
+    <desc lang="en">The world's ultimate watersports show, with comprehensive coverage of the recent power, sail and surf competitions from around the globe. With key interviews and event news..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150129033000 +0000" stop="20150129043000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">With something for every motorsport enthusiast, this is the definitive round-up of all the latest two and four-wheel news. For high-speed fast-paced action, this is the place to be..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129043000 +0000" stop="20150129050000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golfing World</title>
+    <desc lang="en">The comprehensive golf show with a mix of the latest news, interviews, documentaries and features. Plus, tournament updates, golf tips and resort reviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20150129050000 +0000" stop="20150129053000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features carp fishing at Albert Falls Dam in KwaZulu-Natal, South Africa..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20150129053000 +0000" stop="20150129060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features Pantaloon and the tropical island of Fogo in Mozambique..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20150129060000 +0000" stop="20150129090000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150129090000 +0000" stop="20150129093000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Inside The PGA Tour</title>
+    <desc lang="en">This week, time with Freddie Jacobson at his home in Hobe Sound, Florida. Plus, a look ahead to the Waste Management Phoenix Open and Tiger Woods' first event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129093000 +0000" stop="20150129103000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 1999 WGC American Express Championship from Valderrama Golf Club in Andalucia. Miguel Angel Jimenez fought back to force world number one Tiger Woods into a play-off..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129103000 +0000" stop="20150129133000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150129133000 +0000" stop="20150129150000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf-Els v Mickelson 1995</title>
+    <desc lang="en">Once again, we dig into the Shell's Wonderful World of Golf vault and go back to 1995, when Ernie Els and Phil Mickelson went head-to-head at the Canary Islands' Golf Del Sur..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129150000 +0000" stop="20150129160000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Fishing: Thinking Tackle</title>
+    <desc lang="en">This week, Simon Scott and Tom Dove showcase an array of clever tricks and tips to catch carp on busy lakes at Todber Manor..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129160000 +0000" stop="20150129163000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">New: Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features carp fishing at Albert Falls Dam in KwaZulu-Natal, South Africa..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20150129163000 +0000" stop="20150129170000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">New: Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. This episode features Pantaloon and the tropical island of Fogo in Mozambique..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20150129170000 +0000" stop="20150129173000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Fishing Gurus</title>
+    <desc lang="en">This week, world champion angler Steve Ringer puts on a commercial-carp masterclass, running Dean Macey through the intricacies of the pellet waggler and pole..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+  </programme>
+  <programme start="20150129173000 +0000" stop="20150129180000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the Masters 1000, 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150129180000 +0000" stop="20150129190000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129190000 +0000" stop="20150129200000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129200000 +0000" stop="20150130000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
   </programme>
 </tv>
