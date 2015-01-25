@@ -172,138 +172,9 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150124200000 +0000" stop="20150125000000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the 2015 Humana Challenge from PGA West in La Quinta, California. Matt Kuchar held a narrow one-shot lead over Michael Putnam and Bill Haas at the end of day two..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <premiere />
-  </programme>
-  <programme start="20150125000000 +0000" stop="20150125010000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125010000 +0000" stop="20150125020000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the best bits of the Buick Invitational at Torrey Pines Golf Course, California, in 2000. Tiger Woods went into the tournament as defending champion..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125020000 +0000" stop="20150125033000 +0000" channel="Sky Sports 4">
-    <title lang="en">Golf - Els v Price 1999</title>
-    <desc lang="en">The series of challenge matches that often pitted together two of the most talked about golfers of the time. Here is Ernie Els v Nick Price in 1999, at Leopard Creek, South Africa..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125033000 +0000" stop="20150125040000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125040000 +0000" stop="20150125050000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125050000 +0000" stop="20150125060000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the best bits of the Buick Invitational at Torrey Pines Golf Course, California, in 2000. Tiger Woods went into the tournament as defending champion..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125060000 +0000" stop="20150125063500 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
-    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125063500 +0000" stop="20150125065000 +0000" channel="Sky Sports 4">
-    <title lang="en">Golf Classic: US Open 2011</title>
-    <desc lang="en">A chance to relive the 2011 US Open from the Congressional Country Club in Bethesda, Maryland. Northern Ireland's Graeme McDowell went into the tournament as defending champion..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125065000 +0000" stop="20150125115000 +0000" channel="Sky Sports 4">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125115000 +0000" stop="20150125125000 +0000" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the 1999 WGC American Express Championship from Valderrama Golf Club in Andalucia. Miguel Angel Jimenez fought back to force world number one Tiger Woods into a play-off..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125125000 +0000" stop="20150125142000 +0000" channel="Sky Sports 4">
-    <title lang="en">Shell's Wonderful World Of Golf</title>
-    <desc lang="en">The series that televised a whole host of golf games between some of the top players of the time. Here it's Fred Couples v Phil Mickelson at the Gaillardia Golf and Country Club, Oklahoma..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125142000 +0000" stop="20150125145000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125145000 +0000" stop="20150125152000 +0000" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Seve Ballesteros</title>
-    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125152000 +0000" stop="20150125165000 +0000" channel="Sky Sports 4">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">A match from the 2015 World Men's Handball Championship in Qatar..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150125165000 +0000" stop="20150125170500 +0000" channel="Sky Sports 4">
-    <title lang="en">Football Gold: Cardiff v Man City</title>
-    <desc lang="en">A countdown of the top 20 games from the 2013/14 Barclays Premier League as voted by viewers. At 16, Cardiff City host Manchester City at the Cardiff City Stadium..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150125170500 +0000" stop="20150125172000 +0000" channel="Sky Sports 4">
-    <title lang="en">Football Gold: Everton v Liverpool</title>
-    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Everton against Liverpool at Goodison Park from the 2012/13 season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150125172000 +0000" stop="20150125175000 +0000" channel="Sky Sports 4">
-    <title lang="en">Inside Sailing 2014</title>
-    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Watersports</category>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20150125175000 +0000" stop="20150125192000 +0000" channel="Sky Sports 4">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">A match from the 2015 World Men's Handball Championship in Qatar..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150125192000 +0000" stop="20150125193000 +0000" channel="Sky Sports 4">
-    <title lang="en">Football Gold: Liverpool v Man Utd</title>
-    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Liverpool against Manchester United at Anfield from the 1997/98 season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150125193000 +0000" stop="20150125200000 +0000" channel="Sky Sports 4">
-    <title lang="en">Inside Sailing 2014</title>
-    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Watersports</category>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
   <programme start="20150125200000 +0000" stop="20150126000000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California..(n)</desc>
+    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California. Bill Haas, Erik Compton, Justin Thomas and Michael Putnam shared the lead at the end of day three..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -346,7 +217,7 @@
   </programme>
   <programme start="20150126060000 +0000" stop="20150126100000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California..(n)</desc>
+    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California. Bill Haas, Erik Compton, Justin Thomas and Michael Putnam shared the lead at the end of day three..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -936,138 +807,109 @@
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150124200000 +0000" stop="20150125000000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150130000000 +0000" stop="20150130010000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130010000 +0000" stop="20150130050000 +0000" channel="Sky Sports 4">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day three of the 2015 Humana Challenge from PGA West in La Quinta, California. Matt Kuchar held a narrow one-shot lead over Michael Putnam and Bill Haas at the end of day two..(n)</desc>
+    <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130050000 +0000" stop="20150130060000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130060000 +0000" stop="20150130090000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150125000000 +0000" stop="20150125010000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150130090000 +0000" stop="20150130100000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130100000 +0000" stop="20150130103000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130103000 +0000" stop="20150130133000 +0000" channel="Sky Sports 4">
     <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130133000 +0000" stop="20150130135000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Classic: US Open 2010</title>
+    <desc lang="en">A chance to relive the 2010 US Open from Pebble Beach, California. The field included seven former champions, including Ernie Els, Angel Cabrera and three-time winner Tiger Woods..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150125010000 +0000" stop="20150125020000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the best bits of the Buick Invitational at Torrey Pines Golf Course, California, in 2000. Tiger Woods went into the tournament as defending champion..(n)</desc>
+  <programme start="20150130135000 +0000" stop="20150130155000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring WWE Superstars such as John Cena and Big Show. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
   </programme>
-  <programme start="20150125020000 +0000" stop="20150125033000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Golf - Els v Price 1999</title>
-    <desc lang="en">The series of challenge matches that often pitted together two of the most talked about golfers of the time. Here is Ernie Els v Nick Price in 1999, at Leopard Creek, South Africa..(n)</desc>
+  <programme start="20150130155000 +0000" stop="20150130172000 +0000" channel="Sky Sports 4">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">A 2015 World Men's Handball Championship semi-final from Qatar..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <premiere />
   </programme>
-  <programme start="20150125033000 +0000" stop="20150125040000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+  <programme start="20150130172000 +0000" stop="20150130173500 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: QPR v Liverpool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Queens Park Rangers against Liverpool at Loftus Road from the 2011/2012 campaign..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150125040000 +0000" stop="20150125050000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
+  <programme start="20150130173500 +0000" stop="20150130175000 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: Man Utd v Everton</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Manchester United against Everton at Old Trafford from the 2011/2012 season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150125050000 +0000" stop="20150125060000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the best bits of the Buick Invitational at Torrey Pines Golf Course, California, in 2000. Tiger Woods went into the tournament as defending champion..(n)</desc>
+  <programme start="20150130175000 +0000" stop="20150130192000 +0000" channel="Sky Sports 4">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">A 2015 World Men's Handball Championship semi-final from Qatar..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <premiere />
   </programme>
-  <programme start="20150125060000 +0000" stop="20150125063500 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
-    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+  <programme start="20150130192000 +0000" stop="20150130193000 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: Blackburn v L'pool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Blackburn Rovers against Liverpool at Ewood Park from the 2011/2012 season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150125063500 +0000" stop="20150125065000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Golf Classic: US Open 2011</title>
-    <desc lang="en">A chance to relive the 2011 US Open from the Congressional Country Club in Bethesda, Maryland. Northern Ireland's Graeme McDowell went into the tournament as defending champion..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125065000 +0000" stop="20150125115000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">European Tour Golf</title>
-    <desc lang="en">Day four of the Commercial Bank Qatar Masters from Doha Golf Club. Marc Warren shared the third-round lead with Emiliano Grillo, Branden Grace and Bernd Wiesberger..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125115000 +0000" stop="20150125125000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the 1999 WGC American Express Championship from Valderrama Golf Club in Andalucia. Miguel Angel Jimenez fought back to force world number one Tiger Woods into a play-off..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125125000 +0000" stop="20150125142000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Shell's Wonderful World Of Golf</title>
-    <desc lang="en">The series that televised a whole host of golf games between some of the top players of the time. Here it's Fred Couples v Phil Mickelson at the Gaillardia Golf and Country Club, Oklahoma..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125142000 +0000" stop="20150125145000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150125145000 +0000" stop="20150125152000 +0000" channel="Sky Sports 4 HD">
+  <programme start="20150130193000 +0000" stop="20150130200000 +0000" channel="Sky Sports 4">
     <title lang="en">Sporting Greats: Seve Ballesteros</title>
     <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150125152000 +0000" stop="20150125165000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">A match from the 2015 World Men's Handball Championship in Qatar..(n)</desc>
+  <programme start="20150130200000 +0000" stop="20150131000000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day two of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
     <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
     <premiere />
-  </programme>
-  <programme start="20150125165000 +0000" stop="20150125170500 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Football Gold: Cardiff v Man City</title>
-    <desc lang="en">A countdown of the top 20 games from the 2013/14 Barclays Premier League as voted by viewers. At 16, Cardiff City host Manchester City at the Cardiff City Stadium..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150125170500 +0000" stop="20150125172000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Football Gold: Everton v Liverpool</title>
-    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Everton against Liverpool at Goodison Park from the 2012/13 season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150125172000 +0000" stop="20150125175000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Inside Sailing 2014</title>
-    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Watersports</category>
-    <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20150125175000 +0000" stop="20150125192000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Handball Championships</title>
-    <desc lang="en">A match from the 2015 World Men's Handball Championship in Qatar..(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere />
-  </programme>
-  <programme start="20150125192000 +0000" stop="20150125193000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Football Gold: Liverpool v Man Utd</title>
-    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Liverpool against Manchester United at Anfield from the 1997/98 season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150125193000 +0000" stop="20150125200000 +0000" channel="Sky Sports 4 HD">
-    <title lang="en">Inside Sailing 2014</title>
-    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Watersports</category>
-    <episode-num system="onscreen">E12</episode-num>
   </programme>
   <programme start="20150125200000 +0000" stop="20150126000000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California..(n)</desc>
+    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California. Bill Haas, Erik Compton, Justin Thomas and Michael Putnam shared the lead at the end of day three..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -1110,7 +952,7 @@
   </programme>
   <programme start="20150126060000 +0000" stop="20150126100000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California..(n)</desc>
+    <desc lang="en">Day four of the 2015 Humana Challenge from PGA West in La Quinta, California. Bill Haas, Erik Compton, Justin Thomas and Michael Putnam shared the lead at the end of day three..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
@@ -1696,6 +1538,106 @@
   <programme start="20150129200000 +0000" stop="20150130000000 +0000" channel="Sky Sports 4 HD">
     <title lang="en">PGA Tour Golf</title>
     <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130000000 +0000" stop="20150130010000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130010000 +0000" stop="20150130050000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130050000 +0000" stop="20150130060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130060000 +0000" stop="20150130090000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130090000 +0000" stop="20150130100000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130100000 +0000" stop="20150130103000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130103000 +0000" stop="20150130133000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130133000 +0000" stop="20150130135000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Classic: US Open 2010</title>
+    <desc lang="en">A chance to relive the 2010 US Open from Pebble Beach, California. The field included seven former champions, including Ernie Els, Angel Cabrera and three-time winner Tiger Woods..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130135000 +0000" stop="20150130155000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring WWE Superstars such as John Cena and Big Show. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150130155000 +0000" stop="20150130172000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">A 2015 World Men's Handball Championship semi-final from Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150130172000 +0000" stop="20150130173500 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: QPR v Liverpool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Queens Park Rangers against Liverpool at Loftus Road from the 2011/2012 campaign..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130173500 +0000" stop="20150130175000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: Man Utd v Everton</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Manchester United against Everton at Old Trafford from the 2011/2012 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130175000 +0000" stop="20150130192000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">A 2015 World Men's Handball Championship semi-final from Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150130192000 +0000" stop="20150130193000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: Blackburn v L'pool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Blackburn Rovers against Liverpool at Ewood Park from the 2011/2012 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130193000 +0000" stop="20150130200000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130200000 +0000" stop="20150131000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day two of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
