@@ -172,4 +172,2794 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
+  <programme start="20150129150000 +0000" stop="20150130000000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130000000 +0000" stop="20150130010000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">Dan Hellie and Amber Theoharis host the NFL Network's nightly flagship show. Features all the biggest stories and talking points ahead of Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130010000 +0000" stop="20150130020000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Bowl Tonight</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130020000 +0000" stop="20150130030000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: McCardell &amp; Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former wide receivers Keenan McCardell and Jimmy Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130030000 +0000" stop="20150130040000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Top 10 - Fantasy Seasons</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten fantasy seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130040000 +0000" stop="20150130053000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL-Great Games '74 Miami/Oakland</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Oakland Raiders and the Miami Dolphins meet at the Oakland Coliseum in an AFC divisional play-off from 1974..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130053000 +0000" stop="20150130060000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E1P1</episode-num>
+  </programme>
+  <programme start="20150130060000 +0000" stop="20150130070000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130070000 +0000" stop="20150130080000 +0000" channel="Sky Sports 3">
+    <title lang="en">America's Game NY Giants '07</title>
+    <desc lang="en">A look at some of the best teams ever to compete in the NFL. This week it's the 2007 New York Giants, who became the first wildcard team to win the Vince Lombardi Trophy..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130080000 +0000" stop="20150130090000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: McCardell &amp; Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former wide receivers Keenan McCardell and Jimmy Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130090000 +0000" stop="20150130100000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Sound F X - Best Of 2014</title>
+    <desc lang="en">The best on-field sights and sounds from the 2014 NFL season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130100000 +0000" stop="20150130110000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130110000 +0000" stop="20150130150000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL AM</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130150000 +0000" stop="20150130180000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130180000 +0000" stop="20150130200000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Commissioners Presser Live</title>
+    <desc lang="en">NFL Commissioner Roger Goodell talks to the press ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130200000 +0000" stop="20150131000000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131000000 +0000" stop="20150131010000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">Dan Hellie and Amber Theoharis host the NFL Network's nightly flagship show. Features all the biggest stories and talking points ahead of Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131010000 +0000" stop="20150131020000 +0000" channel="Sky Sports 3">
+    <title lang="en">Playbook Primetime</title>
+    <desc lang="en">Sterling Sharpe, Shaun O'Hara and Brian Billick provide expert analysis ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131020000 +0000" stop="20150131030000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: Houston 1993</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on the 1993 Houston Oilers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131030000 +0000" stop="20150131040000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131040000 +0000" stop="20150131053000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL-Grt Games '87 Cleveland/Denver</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Denver Broncos and the Cleveland Browns meet at Mile High Stadium in the 1988 AFC Championship game..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131053000 +0000" stop="20150131060000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">P2</episode-num>
+  </programme>
+  <programme start="20150131060000 +0000" stop="20150131070000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Sound F X - Best Of 2014</title>
+    <desc lang="en">The best on-field sights and sounds from the 2014 NFL season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131070000 +0000" stop="20150131080000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL America's Game:2010 Packers</title>
+    <desc lang="en">Highly acclaimed documentary in which the stories behind each Super Bowl-winning team are told by the people involved. Here is the story of the 2010 Green Bay Packers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131080000 +0000" stop="20150131090000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: Houston 1993</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on the 1993 Houston Oilers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131090000 +0000" stop="20150131100000 +0000" channel="Sky Sports 3">
+    <title lang="en">Playbook Primetime</title>
+    <desc lang="en">Sterling Sharpe, Shaun O'Hara and Brian Billick provide expert analysis ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131100000 +0000" stop="20150131110000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131110000 +0000" stop="20150131140000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL AM</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131140000 +0000" stop="20150131150000 +0000" channel="Sky Sports 3">
+    <title lang="en">Playbook Primetime</title>
+    <desc lang="en">Sterling Sharpe, Shaun O'Hara and Brian Billick provide expert analysis ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131150000 +0000" stop="20150131160000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131160000 +0000" stop="20150131163000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E3P3</episode-num>
+  </programme>
+  <programme start="20150131163000 +0000" stop="20150131170000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E4P4</episode-num>
+  </programme>
+  <programme start="20150131170000 +0000" stop="20150131183000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL-Great Games'81 Miami/San Diego</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Here is San Diego Chargers against the Miami Dolphins in the 1981/82 divisional play-offs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131183000 +0000" stop="20150131193000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131193000 +0000" stop="20150131203000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - America's Game</title>
+    <desc lang="en">The story of the 2013 Seattle Seahawks. Pete Carroll's side claimed the Vince Lombardi trophy for the second time after destroying Denver Broncos in Super Bowl XLVIII..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131203000 +0000" stop="20150131220000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL-Grt Games '92 Buffalo/Houston</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Buffalo Bills battle the Houston Oilers in an AFC wildcard play-off game from the 1992 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131220000 +0000" stop="20150131230000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131230000 +0000" stop="20150201010000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201010000 +0000" stop="20150201020000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - America's Game</title>
+    <desc lang="en">The story of the 2013 Seattle Seahawks. Pete Carroll's side claimed the Vince Lombardi trophy for the second time after destroying Denver Broncos in Super Bowl XLVIII..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201020000 +0000" stop="20150201030000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: Jerry Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former Washington Redskins tight end Jerry Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201030000 +0000" stop="20150201040000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201040000 +0000" stop="20150201053000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL-Grt Games '86 Denver/Cleveland</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Cleveland Browns face the Denver Broncos at Cleveland Stadium in the 1987 AFC Championship game..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201053000 +0000" stop="20150201060000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E3P3</episode-num>
+  </programme>
+  <programme start="20150201060000 +0000" stop="20150201070000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201070000 +0000" stop="20150201080000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL America's Game:2011 Giants</title>
+    <desc lang="en">Highly acclaimed documentary in which the stories behind each Super Bowl-winning team are told by the people involved. Here is the story of the 2011 New York Giants..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201080000 +0000" stop="20150201090000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: Bill Belichick P1</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular names in the history of American football. Here the focus is on New England Patriots head coach Bill Belichick ..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">P1/2</episode-num>
+  </programme>
+  <programme start="20150201090000 +0000" stop="20150201100000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: Bill Belichick P2</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular names in the history of American football. Here the focus is on New England Patriots head coach Bill Belichick ..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">P2/2</episode-num>
+  </programme>
+  <programme start="20150201100000 +0000" stop="20150201110000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201110000 +0000" stop="20150201120000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201120000 +0000" stop="20150201140000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Game Day First</title>
+    <desc lang="en">Start Super Bowl Sunday with Melissa Stark, Sterling Sharpe and Shaun O'Hara. They will deliver all the latest NFL news and analysis heading to Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201140000 +0000" stop="20150201183000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Game Day Morning</title>
+    <desc lang="en">Rich Eisen is joined by Kurt Warner, Marshall Faulk, Warren Sapp, Michael Irvin, Steve Mariucci and special guests to preview Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201183000 +0000" stop="20150201220000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Game Day Morning</title>
+    <desc lang="en">Rich Eisen is joined by Kurt Warner, Marshall Faulk, Warren Sapp, Michael Irvin, Steve Mariucci and special guests to preview Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201220000 +0000" stop="20150202033000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">Seattle Seahawks face New England Patriots in Super Bowl XLIX in Glendale, Arizona. Seattle beat Green Bay in their Conference Championship while New England saw off Indianapolis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150202033000 +0000" stop="20150202043000 +0000" channel="Sky Sports 3">
+    <title lang="en">A Football Life: Jerry Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former Washington Redskins tight end Jerry Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202043000 +0000" stop="20150202053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Football Life Great Wall Of Dallas</title>
+    <desc lang="en">NFL - A Football Life presents Great Wall of Dallas, a chance to pay tribute to the offensive line of the Dallas Cowboys in the 1990s and see some of their greatest moments..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202053000 +0000" stop="20150202060000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E4P4</episode-num>
+  </programme>
+  <programme start="20150202060000 +0000" stop="20150202061500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202061500 +0000" stop="20150202063000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202063000 +0000" stop="20150202064500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202064500 +0000" stop="20150202070000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202070000 +0000" stop="20150202080000 +0000" channel="Sky Sports 3">
+    <title lang="en">Game Changers</title>
+    <desc lang="en">This week, Darren and Di are joined by Team GB Olympic gymnast Max Whitlock and Britain's most successful female synchronised diving partners, Sarah Barrow and Tonia Couch..(n)</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Games</category>
+  </programme>
+  <programme start="20150202080000 +0000" stop="20150202100000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202100000 +0000" stop="20150202103000 +0000" channel="Sky Sports 3">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20150202103000 +0000" stop="20150202110000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: The Ashes</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on the fiercely-contested Ashes series between England and Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202110000 +0000" stop="20150202120000 +0000" channel="Sky Sports 3">
+    <title lang="en">LV=Cup</title>
+    <desc lang="en">Harlequins host Bath at Twickenham Stoop in round three of the LV= Cup. Quins saw off Newport Gwent Dragons last time out, while Bath were beaten by the Exeter Chiefs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202120000 +0000" stop="20150202121500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Lloyd V Part</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Colin Lloyd against John Part in the final of the 2005 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202121500 +0000" stop="20150202123000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Adrian Lewis in the semi-finals of the 2010 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202123000 +0000" stop="20150202124500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202124500 +0000" stop="20150202130000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold:Gerwen v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Raymond van Barneveld in the final of the 2012 Grand Slam of Darts at the Wolverhampton Civic Hall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202130000 +0000" stop="20150202140000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis Finals 2014</title>
+    <desc lang="en">Marin Cilic meets Tomas Berdych in the final of the ABN AMRO World Tennis Tournament. Cilic overcame Igor Sijsling in the last round, while Berdych got the better of Ernests Gulbis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150202140000 +0000" stop="20150202160000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202160000 +0000" stop="20150202170000 +0000" channel="Sky Sports 3">
+    <title lang="en">Game Changers</title>
+    <desc lang="en">This week, Darren and Di are joined by Team GB Olympic gymnast Max Whitlock and Britain's most successful female synchronised diving partners, Sarah Barrow and Tonia Couch..(n)</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Games</category>
+  </programme>
+  <programme start="20150202170000 +0000" stop="20150202180000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis Finals 2014</title>
+    <desc lang="en">Marin Cilic meets Tomas Berdych in the final of the ABN AMRO World Tennis Tournament. Cilic overcame Igor Sijsling in the last round, while Berdych got the better of Ernests Gulbis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150202180000 +0000" stop="20150202200000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202200000 +0000" stop="20150202201500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2002</title>
+    <desc lang="en">A chance to relive the 2002 Super League Grand Final between St Helens and Bradford Bulls. The Bulls came into the game as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202201500 +0000" stop="20150202203000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2003</title>
+    <desc lang="en">A chance to relive the 2003 Super League Grand Final between Bradford Bulls and Wigan Warriors. Bradford were gunning for their second title in three seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202203000 +0000" stop="20150202204500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2004</title>
+    <desc lang="en">A chance to relive the 2004 Super League Grand Final between Leeds Rhinos and Bradford Bulls. Leeds were contesting their first final since 1998..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202204500 +0000" stop="20150202210000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2005</title>
+    <desc lang="en">A chance to relive the 2005 Super League Grand Final between Bradford Bulls and Leeds Rhinos. The Rhinos got the better of Bradford in the previous year's final, running out 16-8 winners..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202210000 +0000" stop="20150202211500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202211500 +0000" stop="20150202213000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202213000 +0000" stop="20150202214500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202214500 +0000" stop="20150202220000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202220000 +0000" stop="20150202230000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Late Night Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring all the top WWE Superstars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1131</episode-num>
+  </programme>
+  <programme start="20150202230000 +0000" stop="20150203010000 +0000" channel="Sky Sports 3">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150203010000 +0000" stop="20150203041500 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Late Night Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring all your favourite WWE superstars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1132</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20150203041500 +0000" stop="20150203043000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A look into the archives of the WWE to relive some of the greatest matches. Here, The Miz faces Sheamus on a 2011 edition of Smackdown and the Big Show takes on Daniel Bryan in 2012..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150203043000 +0000" stop="20150203044500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: King v Van Gerwen</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Mervyn King in the final of the 2012 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203044500 +0000" stop="20150203050000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Jenkins</title>
+    <desc lang="en">Phil Taylor v Terry Jenkins in the second round of the 2013 World Matchplay Darts. Jenkins was the last person to beat Taylor in this event in 2007, and came close to repeating the trick..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203050000 +0000" stop="20150203053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20150203053000 +0000" stop="20150203060000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries:  SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203060000 +0000" stop="20150203061500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2006</title>
+    <desc lang="en">A chance to relive the 2006 Super League Grand Final between St Helens and Hull FC. The Black and Whites were making their first-ever appearance in the season-ending showpiece..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203061500 +0000" stop="20150203063000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2007</title>
+    <desc lang="en">A chance to relive the 2007 Super League Grand Final between Leeds Rhinos and St Helens. The Saints came into the match as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203063000 +0000" stop="20150203064500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2008</title>
+    <desc lang="en">A chance to relive the 2008 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos subjected the Saints to a 33-6 defeat in the previous year's title decider..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203064500 +0000" stop="20150203070000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2009</title>
+    <desc lang="en">A chance to relive the 2009 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos had the chance to claim their third consecutive title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203070000 +0000" stop="20150203073000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Muhammad Ali</title>
+    <desc lang="en">A tribute to boxing legend Muhammad Ali. The American, famed for his pre-fight antics, won 56 of his 61 professional bouts. He was a three-time world champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203073000 +0000" stop="20150203080000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats:Sugar Ray Robinson</title>
+    <desc lang="en">A look back on the career of boxing legend Sugar Ray Robinson. The American fought 200 times, winning 128 of his first 131 bouts. He won world titles at welterweight and middleweight level..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203080000 +0000" stop="20150203100000 +0000" channel="Sky Sports 3">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203100000 +0000" stop="20150203103000 +0000" channel="Sky Sports 3">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The Bupa Great Edinburgh X Country at Holyrood Park. The event includes international team competition as Great Britain &amp; Northern Ireland face Europe and the United States..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203103000 +0000" stop="20150203110000 +0000" channel="Sky Sports 3">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The 2014 Great Ireland Run from Phoenix Park in Dublin. Ethiopia's triple Olympic champion Kenenisa Bekele won the men's title last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203110000 +0000" stop="20150203113000 +0000" channel="Sky Sports 3">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150203113000 +0000" stop="20150203120000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats:Sugar Ray Robinson</title>
+    <desc lang="en">A look back on the career of boxing legend Sugar Ray Robinson. The American fought 200 times, winning 128 of his first 131 bouts. He won world titles at welterweight and middleweight level..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203120000 +0000" stop="20150203140000 +0000" channel="Sky Sports 3">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203140000 +0000" stop="20150203150000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis Finals 2014</title>
+    <desc lang="en">Rafael Nadal takes on Alexandr Dolgopolov in the final of the 2014 Rio Open from Jockey Club Brasileiro. Nadal beat Pablo Andujar in the semi-finals while Dolgopolov saw off David Ferrer..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150203150000 +0000" stop="20150203153000 +0000" channel="Sky Sports 3">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The Bupa Great Edinburgh X Country at Holyrood Park. The event includes international team competition as Great Britain &amp; Northern Ireland face Europe and the United States..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203153000 +0000" stop="20150203160000 +0000" channel="Sky Sports 3">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The 2014 Great Ireland Run from Phoenix Park in Dublin. Ethiopia's triple Olympic champion Kenenisa Bekele won the men's title last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203160000 +0000" stop="20150203180000 +0000" channel="Sky Sports 3">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203180000 +0000" stop="20150203190000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Heroes: Joel Garner</title>
+    <desc lang="en">Gary Newbon talks to former West Indies bowler Joel Garner about his prolific cricketing career. Garner appeared in 58 tests between 1977 and 1987, taking an impressive 259 wickets..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150203190000 +0000" stop="20150203193000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sportswomen</title>
+    <desc lang="en">A look at all the biggest news and talking points in the world of women's sport. With big-name guests and behind-the-scenes features. Get involved @SkySportsNews #Sportswomen..(n)</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20150203193000 +0000" stop="20150203203000 +0000" channel="Sky Sports 3">
+    <title lang="en">World Pool Masters</title>
+    <desc lang="en">The 2014 World Pool Masters from the Portland Centre in Nottingham. Here, Dennis Orcollo of the Philippines takes on England's Chris Melling..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150203203000 +0000" stop="20150203204500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2008</title>
+    <desc lang="en">A chance to relive the 2008 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos subjected the Saints to a 33-6 defeat in the previous year's title decider..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203204500 +0000" stop="20150203210000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2009</title>
+    <desc lang="en">A chance to relive the 2009 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos had the chance to claim their third consecutive title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203210000 +0000" stop="20150203211500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Lloyd V Part</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Colin Lloyd against John Part in the final of the 2005 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203211500 +0000" stop="20150203213000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Adrian Lewis in the semi-finals of the 2010 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203213000 +0000" stop="20150203214500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203214500 +0000" stop="20150203220000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold:Gerwen v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Raymond van Barneveld in the final of the 2012 Grand Slam of Darts at the Wolverhampton Civic Hall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203220000 +0000" stop="20150203230000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150203230000 +0000" stop="20150203231500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2010</title>
+    <desc lang="en">A chance to relive the 2010 Super League Grand Final between Wigan Warriors and St Helens. The Warriors were making their first final appearance since 2003..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203231500 +0000" stop="20150203233000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2011</title>
+    <desc lang="en">A chance to relive the 2011 Super League Grand Final between Leeds Rhinos and St Helens. The Saints were looking to end a run of four successive final defeats..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203233000 +0000" stop="20150203234500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2012</title>
+    <desc lang="en">A chance to relive the 2012 Super League Grand Final between Leeds Rhinos and Warrington Wolves. The Rhinos were gunning for their fifth title in six seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203234500 +0000" stop="20150204000000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2013</title>
+    <desc lang="en">The 2013 Super League Grand Final between Warrington Wolves and Wigan Warriors. Warrington beat Huddersfield Giants in the semi-finals, while Wigan saw off Leeds Rhinos..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150129200000 +0000" stop="20150130000000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130000000 +0000" stop="20150130010000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130010000 +0000" stop="20150130030000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring all your favourite WWE stars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150130030000 +0000" stop="20150130031500 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A classic match from the WWE Vault: Dolph Ziggler takes on Kofi Kingston in June 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130031500 +0000" stop="20150130033000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A match from the WWE Vault: Rey Mysterio takes on The Miz in July 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130033000 +0000" stop="20150130034500 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">Big Show takes on Wade Barrett in this classic match from the WWE Vault..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130034500 +0000" stop="20150130040000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A look into the archives of the WWE to relive some of the greatest matches. Here, The Miz faces Sheamus on a 2011 edition of Smackdown and the Big Show takes on Daniel Bryan in 2012..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130040000 +0000" stop="20150130050000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130050000 +0000" stop="20150130060000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130060000 +0000" stop="20150130063000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130063000 +0000" stop="20150130070000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130070000 +0000" stop="20150130080000 +0000" channel="Sky Sports 4">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130080000 +0000" stop="20150130133000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Bernd Wiesberger led the field at the end of day one with four players sitting just one shot off the pace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130133000 +0000" stop="20150130135000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Classic: US Open 2010</title>
+    <desc lang="en">A chance to relive the 2010 US Open from Pebble Beach, California. The field included seven former champions, including Ernie Els, Angel Cabrera and three-time winner Tiger Woods..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130135000 +0000" stop="20150130152000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf-Norman v Price 1995</title>
+    <desc lang="en">Once more we dig into the vault of Shell's Wonderful World of Golf and go back to 1995, when Australia's Greg Norman met Nick Price of Zimbabwe at the Medalist Golf Course, Florida..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130152000 +0000" stop="20150130165000 +0000" channel="Sky Sports 4">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">Poland face Qatar in the semi-finals of the 2015 World Handball Championship in Qatar. Poland defeated Croatia in their quarter-final while Qatar dispatched Germany..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150130165000 +0000" stop="20150130172000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130172000 +0000" stop="20150130173500 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: QPR v Liverpool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Queens Park Rangers against Liverpool at Loftus Road from the 2011/2012 campaign..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130173500 +0000" stop="20150130175000 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: Man Utd v Everton</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Manchester United against Everton at Old Trafford from the 2011/2012 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130175000 +0000" stop="20150130192000 +0000" channel="Sky Sports 4">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">Spain and France meet in the semi-finals of the 2015 World Handball Championships in Qatar. Spain beat Denmark in their quarter-final while France ousted Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150130192000 +0000" stop="20150130193000 +0000" channel="Sky Sports 4">
+    <title lang="en">Football Gold: Blackburn v L'pool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Blackburn Rovers against Liverpool at Ewood Park from the 2011/2012 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130193000 +0000" stop="20150130200000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130200000 +0000" stop="20150131000000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day two of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150131000000 +0000" stop="20150131010000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Bernd Wiesberger led the field at the end of day one with four players sitting just one shot off the pace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131010000 +0000" stop="20150131013000 +0000" channel="Sky Sports 4">
+    <title lang="en">The Rugby Club</title>
+    <desc lang="en">An expert panel of guests weigh in on all the talking points from the world of rugby union. Plus, interviews with some of the biggest names in the game. Get involved @SkySportsRugby..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150131013000 +0000" stop="20150131040000 +0000" channel="Sky Sports 4">
+    <title lang="en">Ire Wolfhounds v Saxons</title>
+    <desc lang="en">Ireland Wolfhounds take on England Saxons at Irish Independent Park in Cork. The Wolfhounds defeated England when the sides met in January 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150131040000 +0000" stop="20150131043000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Gary Player</title>
+    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131043000 +0000" stop="20150131060000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf-Norman v Price 1995</title>
+    <desc lang="en">Once more we dig into the vault of Shell's Wonderful World of Golf and go back to 1995, when Australia's Greg Norman met Nick Price of Zimbabwe at the Medalist Golf Course, Florida..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131060000 +0000" stop="20150131070000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2007 edition of The Barclays from Westchester Country Club in Harrison, New York. The winner ended a six-year wait to claim a PGA Tour title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131070000 +0000" stop="20150131090000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150131090000 +0000" stop="20150131130000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150131130000 +0000" stop="20150131133000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats-Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150131133000 +0000" stop="20150131153000 +0000" channel="Sky Sports 4">
+    <title lang="en">Top 14 Rugby Union</title>
+    <desc lang="en">Montpellier take on Bordeaux-Begles at the Altrad Stadium in the Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150131153000 +0000" stop="20150131160000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131160000 +0000" stop="20150131170000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2007 edition of The Barclays from Westchester Country Club in Harrison, New York. The winner ended a six-year wait to claim a PGA Tour title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131170000 +0000" stop="20150131180000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131180000 +0000" stop="20150131230000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day three of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150131230000 +0000" stop="20150201000000 +0000" channel="Sky Sports 4">
+    <title lang="en">LV=Cup</title>
+    <desc lang="en">Harlequins host Bath at Twickenham Stoop in round three of the LV= Cup. Quins saw off Newport Gwent Dragons last time out, while Bath were beaten by the Exeter Chiefs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150201000000 +0000" stop="20150201010000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201010000 +0000" stop="20150201030000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150201030000 +0000" stop="20150201040000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Michael Cole and Byron Saxton present another edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150201040000 +0000" stop="20150201050000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201050000 +0000" stop="20150201060000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">Relive the 2004 Wachovia Championship from the Quail Hollow Club in North Carolina. American Joey Sindelar rolled back the years to win his first USPGA Tour title in over a decade..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201060000 +0000" stop="20150201073000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf-Couples v Norman 1996</title>
+    <desc lang="en">In the show that pitted some of the best golfers in the world in head to head battles, here is the contest between Fred Couples and Greg Norman at Skibo Castle in Scotland in 1996..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201073000 +0000" stop="20150201080000 +0000" channel="Sky Sports 4">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150201080000 +0000" stop="20150201130000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150201130000 +0000" stop="20150201132000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Classic:2010 PGA Championship</title>
+    <desc lang="en">A chance to relive the 2010 PGA Championship from Whistling Straits in Kohler, Wisconsin. The eventual winner of this tournament had never previously triumphed in a major..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201132000 +0000" stop="20150201145000 +0000" channel="Sky Sports 4">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">The World Men's Handball Championship third-place play-off from Lusail Sports Arena in Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150201145000 +0000" stop="20150201150000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A chance to relive some of the finest matches in WWE history. Here, Daniel Bryan takes on Cody Rhodes on an edition of Raw from 2012..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150201150000 +0000" stop="20150201160000 +0000" channel="Sky Sports 4">
+    <title lang="en">Cricket: Tri-Series Final</title>
+    <desc lang="en">The final of the Carlton Mid Triangular Series from the WACA Ground in Perth..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150201160000 +0000" stop="20150201170000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Highlights from another week of pulsating action on Raw, featuring all your favourite WWE superstars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150201170000 +0000" stop="20150201180000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201180000 +0000" stop="20150201230000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day four of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150201230000 +0000" stop="20150202000000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202000000 +0000" stop="20150202010000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150202010000 +0000" stop="20150202020000 +0000" channel="Sky Sports 4">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Michael Cole and Byron Saxton present another edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150202020000 +0000" stop="20150202030000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 2007 CA Championship at Doral Golf Resort &amp; Spa in Florida. Tiger Woods went into this tournament having won the event in 2005 and 2006..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202030000 +0000" stop="20150202040000 +0000" channel="Sky Sports 4">
+    <title lang="en">Cricket: Tri-Series Final</title>
+    <desc lang="en">The final of the Carlton Mid Triangular Series from the WACA Ground in Perth..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202040000 +0000" stop="20150202041500 +0000" channel="Sky Sports 4">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202041500 +0000" stop="20150202043000 +0000" channel="Sky Sports 4">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202043000 +0000" stop="20150202044500 +0000" channel="Sky Sports 4">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202044500 +0000" stop="20150202050000 +0000" channel="Sky Sports 4">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202050000 +0000" stop="20150202053000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Sir Gary Sobers</title>
+    <desc lang="en">A profile of former West Indies cricketer Sir Gary Sobers. One of the greatest all-rounders to have ever played the game, Sobers scored more than 8,000 test runs during a remarkable career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202053000 +0000" stop="20150202060000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Sir Don Bradman</title>
+    <desc lang="en">A profile of Australian cricketing icon Sir Don Bradman. With a career Test batting average of 99.94, 'The Don' is perhaps the greatest player to ever pick up a cricket bat..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202060000 +0000" stop="20150202070000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 1998 Tour Championship which was held at the East Lake Golf Club in Atlanta. Hal Sutton and Vijay Singh contested a play-off that was decided by one spectacular shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202070000 +0000" stop="20150202073000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202073000 +0000" stop="20150202080000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Gary Player</title>
+    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202080000 +0000" stop="20150202130000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day four of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202130000 +0000" stop="20150202140000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202140000 +0000" stop="20150202143000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202143000 +0000" stop="20150202150000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Gary Player</title>
+    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202150000 +0000" stop="20150202160000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 1999 Memorial Tournament at at Muirfield Village Golf Club, Ohio. Fred Couples went into the competition as the defending champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202160000 +0000" stop="20150202170000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202170000 +0000" stop="20150202180000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2001 EMC World Cup, which was held in Gotemba, Japan. The event would be decided in a thrilling four-way playoff..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202180000 +0000" stop="20150202183000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202183000 +0000" stop="20150202190000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202190000 +0000" stop="20150202200000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202200000 +0000" stop="20150202210000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202210000 +0000" stop="20150202213000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202213000 +0000" stop="20150202220000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202220000 +0000" stop="20150202230000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202230000 +0000" stop="20150203003000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf-Nicklaus v Watson 1995</title>
+    <desc lang="en">Once more we dig into the vault of Shell's Wonderful World of Golf and go back to 1995 when American duo Jack Nicklaus and Tom Watson went head to head at Pebble Beach, California..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203003000 +0000" stop="20150203010000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203010000 +0000" stop="20150203020000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203020000 +0000" stop="20150203030000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203030000 +0000" stop="20150203050000 +0000" channel="Sky Sports 4">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203050000 +0000" stop="20150203060000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">Relive the 2000 Westin Texas Open, held at the La Cantera Golf Club. American Justin Leonard would bag the fifth Tour title of his career, and he would successfully retain it in 2001..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203060000 +0000" stop="20150203070000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 2003 MCI Heritage Classic at Harbour Town Golf Links in South Carolina. The USA's Justin Leonard went into the tournament as the defending champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203070000 +0000" stop="20150203073000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203073000 +0000" stop="20150203080000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203080000 +0000" stop="20150203090000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203090000 +0000" stop="20150203100000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203100000 +0000" stop="20150203110000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Heroes: Lennox Lewis</title>
+    <desc lang="en">Gary Newbon sits down with retired British boxing legend Lennox Lewis. The London-born fighter won Olympic gold in 1988 and is the last boxer to be an undisputed world heavyweight champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203110000 +0000" stop="20150203120000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2006 Honda Classic from the Country Club at Mirasol. The winner of this event moved into the top ten of the Official World Golf Rankings for the very first time..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203120000 +0000" stop="20150203130000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203130000 +0000" stop="20150203140000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203140000 +0000" stop="20150203153000 +0000" channel="Sky Sports 4">
+    <title lang="en">Shell's Wonderful World Of Golf</title>
+    <desc lang="en">The series that televised a whole host of golf games between two of the most talked about golfers of the time. Here is Jack Nicklaus versus Gary Player at Sunningdale in 2000..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203153000 +0000" stop="20150203160000 +0000" channel="Sky Sports 4">
+    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203160000 +0000" stop="20150203170000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2006 Nissan Open from the Riviera Country Club in Pacific Palisades, California. The winner of this event ended a three-year drought on the PGA Tour..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203170000 +0000" stop="20150203180000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203180000 +0000" stop="20150203183000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203183000 +0000" stop="20150203190000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golfing World</title>
+    <desc lang="en">The comprehensive golf show with a mix of the latest news, interviews, documentaries and features. Plus, tournament updates, golf tips and resort reviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150203190000 +0000" stop="20150203213000 +0000" channel="Sky Sports 4">
+    <title lang="en">Greyhound Racing</title>
+    <desc lang="en">The Pin Point Recruitment Maiden Derby from Newcastle Greyhound Stadium. This event is sponsored by Alan Findlay, the winner of the 2014 Services to Greyhound Racing award..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150203213000 +0000" stop="20150203220000 +0000" channel="Sky Sports 4">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203220000 +0000" stop="20150203230000 +0000" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203230000 +0000" stop="20150204000000 +0000" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150129150000 +0000" stop="20150130000000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130000000 +0000" stop="20150130010000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">Dan Hellie and Amber Theoharis host the NFL Network's nightly flagship show. Features all the biggest stories and talking points ahead of Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130010000 +0000" stop="20150130020000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Bowl Tonight</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130020000 +0000" stop="20150130030000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: McCardell &amp; Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former wide receivers Keenan McCardell and Jimmy Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130030000 +0000" stop="20150130040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Top 10 - Fantasy Seasons</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten fantasy seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130040000 +0000" stop="20150130053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL-Great Games '74 Miami/Oakland</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Oakland Raiders and the Miami Dolphins meet at the Oakland Coliseum in an AFC divisional play-off from 1974..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130053000 +0000" stop="20150130060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E1P1</episode-num>
+  </programme>
+  <programme start="20150130060000 +0000" stop="20150130070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130070000 +0000" stop="20150130080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">America's Game NY Giants '07</title>
+    <desc lang="en">A look at some of the best teams ever to compete in the NFL. This week it's the 2007 New York Giants, who became the first wildcard team to win the Vince Lombardi Trophy..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130080000 +0000" stop="20150130090000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: McCardell &amp; Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former wide receivers Keenan McCardell and Jimmy Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130090000 +0000" stop="20150130100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Sound F X - Best Of 2014</title>
+    <desc lang="en">The best on-field sights and sounds from the 2014 NFL season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130100000 +0000" stop="20150130110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150130110000 +0000" stop="20150130150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL AM</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130150000 +0000" stop="20150130180000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130180000 +0000" stop="20150130200000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Commissioners Presser Live</title>
+    <desc lang="en">NFL Commissioner Roger Goodell talks to the press ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150130200000 +0000" stop="20150131000000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131000000 +0000" stop="20150131010000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">Dan Hellie and Amber Theoharis host the NFL Network's nightly flagship show. Features all the biggest stories and talking points ahead of Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131010000 +0000" stop="20150131020000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Playbook Primetime</title>
+    <desc lang="en">Sterling Sharpe, Shaun O'Hara and Brian Billick provide expert analysis ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131020000 +0000" stop="20150131030000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: Houston 1993</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on the 1993 Houston Oilers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131030000 +0000" stop="20150131040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131040000 +0000" stop="20150131053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL-Grt Games '87 Cleveland/Denver</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Denver Broncos and the Cleveland Browns meet at Mile High Stadium in the 1988 AFC Championship game..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131053000 +0000" stop="20150131060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">P2</episode-num>
+  </programme>
+  <programme start="20150131060000 +0000" stop="20150131070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Sound F X - Best Of 2014</title>
+    <desc lang="en">The best on-field sights and sounds from the 2014 NFL season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131070000 +0000" stop="20150131080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL America's Game:2010 Packers</title>
+    <desc lang="en">Highly acclaimed documentary in which the stories behind each Super Bowl-winning team are told by the people involved. Here is the story of the 2010 Green Bay Packers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131080000 +0000" stop="20150131090000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: Houston 1993</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on the 1993 Houston Oilers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131090000 +0000" stop="20150131100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Playbook Primetime</title>
+    <desc lang="en">Sterling Sharpe, Shaun O'Hara and Brian Billick provide expert analysis ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131100000 +0000" stop="20150131110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131110000 +0000" stop="20150131140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL AM</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150131140000 +0000" stop="20150131150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Playbook Primetime</title>
+    <desc lang="en">Sterling Sharpe, Shaun O'Hara and Brian Billick provide expert analysis ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131150000 +0000" stop="20150131160000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131160000 +0000" stop="20150131163000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E3P3</episode-num>
+  </programme>
+  <programme start="20150131163000 +0000" stop="20150131170000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E4P4</episode-num>
+  </programme>
+  <programme start="20150131170000 +0000" stop="20150131183000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL-Great Games'81 Miami/San Diego</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Here is San Diego Chargers against the Miami Dolphins in the 1981/82 divisional play-offs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131183000 +0000" stop="20150131193000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131193000 +0000" stop="20150131203000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - America's Game</title>
+    <desc lang="en">The story of the 2013 Seattle Seahawks. Pete Carroll's side claimed the Vince Lombardi trophy for the second time after destroying Denver Broncos in Super Bowl XLVIII..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131203000 +0000" stop="20150131220000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL-Grt Games '92 Buffalo/Houston</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Buffalo Bills battle the Houston Oilers in an AFC wildcard play-off game from the 1992 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131220000 +0000" stop="20150131230000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150131230000 +0000" stop="20150201010000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Bowl Week</title>
+    <desc lang="en">A look at all the biggest stories and talking points ahead of Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201010000 +0000" stop="20150201020000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - America's Game</title>
+    <desc lang="en">The story of the 2013 Seattle Seahawks. Pete Carroll's side claimed the Vince Lombardi trophy for the second time after destroying Denver Broncos in Super Bowl XLVIII..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201020000 +0000" stop="20150201030000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: Jerry Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former Washington Redskins tight end Jerry Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201030000 +0000" stop="20150201040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201040000 +0000" stop="20150201053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL-Grt Games '86 Denver/Cleveland</title>
+    <desc lang="en">A chance to relive some of the greatest games in the history of the NFL. Cleveland Browns face the Denver Broncos at Cleveland Stadium in the 1987 AFC Championship game..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201053000 +0000" stop="20150201060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E3P3</episode-num>
+  </programme>
+  <programme start="20150201060000 +0000" stop="20150201070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201070000 +0000" stop="20150201080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL America's Game:2011 Giants</title>
+    <desc lang="en">Highly acclaimed documentary in which the stories behind each Super Bowl-winning team are told by the people involved. Here is the story of the 2011 New York Giants..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201080000 +0000" stop="20150201090000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: Bill Belichick P1</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular names in the history of American football. Here the focus is on New England Patriots head coach Bill Belichick ..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">P1/2</episode-num>
+  </programme>
+  <programme start="20150201090000 +0000" stop="20150201100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: Bill Belichick P2</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular names in the history of American football. Here the focus is on New England Patriots head coach Bill Belichick ..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">P2/2</episode-num>
+  </programme>
+  <programme start="20150201100000 +0000" stop="20150201110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Top 10 - Quarterback Teases</title>
+    <desc lang="en">A fun, fast-paced countdown show where different aspects of the NFL are graded. This programme features a rundown of the top ten quarterback teases..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201110000 +0000" stop="20150201120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL- Road To Super Bowl X.L.I.X</title>
+    <desc lang="en">A look at all the twists and turns along the path to Super Bowl XLIX at the University of Phoenix Stadium in Glendale, Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150201120000 +0000" stop="20150201140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Game Day First</title>
+    <desc lang="en">Start Super Bowl Sunday with Melissa Stark, Sterling Sharpe and Shaun O'Hara. They will deliver all the latest NFL news and analysis heading to Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201140000 +0000" stop="20150201183000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Game Day Morning</title>
+    <desc lang="en">Rich Eisen is joined by Kurt Warner, Marshall Faulk, Warren Sapp, Michael Irvin, Steve Mariucci and special guests to preview Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201183000 +0000" stop="20150201220000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Game Day Morning</title>
+    <desc lang="en">Rich Eisen is joined by Kurt Warner, Marshall Faulk, Warren Sapp, Michael Irvin, Steve Mariucci and special guests to preview Super Bowl XLIX..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150201220000 +0000" stop="20150202033000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">Seattle Seahawks face New England Patriots in Super Bowl XLIX in Glendale, Arizona. Seattle beat Green Bay in their Conference Championship while New England saw off Indianapolis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <premiere />
+  </programme>
+  <programme start="20150202033000 +0000" stop="20150202043000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">A Football Life: Jerry Smith</title>
+    <desc lang="en">Series profiling some of the greatest players, teams and coaches in the history of American football. Here the focus is on former Washington Redskins tight end Jerry Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202043000 +0000" stop="20150202053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Football Life Great Wall Of Dallas</title>
+    <desc lang="en">NFL - A Football Life presents Great Wall of Dallas, a chance to pay tribute to the offensive line of the Dallas Cowboys in the 1990s and see some of their greatest moments..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202053000 +0000" stop="20150202060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL - Finding Giants</title>
+    <desc lang="en">This unique four-part series goes behind the scenes with the New York Giants scouting staff as they strive to find the next NFL star. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <episode-num system="onscreen">E4P4</episode-num>
+  </programme>
+  <programme start="20150202060000 +0000" stop="20150202061500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202061500 +0000" stop="20150202063000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202063000 +0000" stop="20150202064500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202064500 +0000" stop="20150202070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202070000 +0000" stop="20150202080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Game Changers</title>
+    <desc lang="en">This week, Darren and Di are joined by Team GB Olympic gymnast Max Whitlock and Britain's most successful female synchronised diving partners, Sarah Barrow and Tonia Couch..(n)</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Games</category>
+  </programme>
+  <programme start="20150202080000 +0000" stop="20150202100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202100000 +0000" stop="20150202103000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20150202103000 +0000" stop="20150202110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: The Ashes</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on the fiercely-contested Ashes series between England and Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202110000 +0000" stop="20150202120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">LV=Cup</title>
+    <desc lang="en">Harlequins host Bath at Twickenham Stoop in round three of the LV= Cup. Quins saw off Newport Gwent Dragons last time out, while Bath were beaten by the Exeter Chiefs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202120000 +0000" stop="20150202121500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Lloyd V Part</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Colin Lloyd against John Part in the final of the 2005 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202121500 +0000" stop="20150202123000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Adrian Lewis in the semi-finals of the 2010 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202123000 +0000" stop="20150202124500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202124500 +0000" stop="20150202130000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold:Gerwen v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Raymond van Barneveld in the final of the 2012 Grand Slam of Darts at the Wolverhampton Civic Hall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202130000 +0000" stop="20150202140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis Finals 2014</title>
+    <desc lang="en">Marin Cilic meets Tomas Berdych in the final of the ABN AMRO World Tennis Tournament. Cilic overcame Igor Sijsling in the last round, while Berdych got the better of Ernests Gulbis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150202140000 +0000" stop="20150202160000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202160000 +0000" stop="20150202170000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Game Changers</title>
+    <desc lang="en">This week, Darren and Di are joined by Team GB Olympic gymnast Max Whitlock and Britain's most successful female synchronised diving partners, Sarah Barrow and Tonia Couch..(n)</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Games</category>
+  </programme>
+  <programme start="20150202170000 +0000" stop="20150202180000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis Finals 2014</title>
+    <desc lang="en">Marin Cilic meets Tomas Berdych in the final of the ABN AMRO World Tennis Tournament. Cilic overcame Igor Sijsling in the last round, while Berdych got the better of Ernests Gulbis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150202180000 +0000" stop="20150202200000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150202200000 +0000" stop="20150202201500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2002</title>
+    <desc lang="en">A chance to relive the 2002 Super League Grand Final between St Helens and Bradford Bulls. The Bulls came into the game as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202201500 +0000" stop="20150202203000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2003</title>
+    <desc lang="en">A chance to relive the 2003 Super League Grand Final between Bradford Bulls and Wigan Warriors. Bradford were gunning for their second title in three seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202203000 +0000" stop="20150202204500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2004</title>
+    <desc lang="en">A chance to relive the 2004 Super League Grand Final between Leeds Rhinos and Bradford Bulls. Leeds were contesting their first final since 1998..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202204500 +0000" stop="20150202210000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2005</title>
+    <desc lang="en">A chance to relive the 2005 Super League Grand Final between Bradford Bulls and Leeds Rhinos. The Rhinos got the better of Bradford in the previous year's final, running out 16-8 winners..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150202210000 +0000" stop="20150202211500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202211500 +0000" stop="20150202213000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202213000 +0000" stop="20150202214500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202214500 +0000" stop="20150202220000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202220000 +0000" stop="20150202230000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Late Night Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring all the top WWE Superstars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1131</episode-num>
+  </programme>
+  <programme start="20150202230000 +0000" stop="20150203010000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">NFL Super Bowl</title>
+    <desc lang="en">New England Patriots face Seattle Seahawks in Super Bowl XLIX at the University of Phoenix Stadium. The Patriots beat Indianapolis last time out, while Seattle got the better of Green Bay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20150203010000 +0000" stop="20150203041500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Late Night Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring all your favourite WWE superstars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1132</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20150203041500 +0000" stop="20150203043000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A look into the archives of the WWE to relive some of the greatest matches. Here, The Miz faces Sheamus on a 2011 edition of Smackdown and the Big Show takes on Daniel Bryan in 2012..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150203043000 +0000" stop="20150203044500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: King v Van Gerwen</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Mervyn King in the final of the 2012 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203044500 +0000" stop="20150203050000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Jenkins</title>
+    <desc lang="en">Phil Taylor v Terry Jenkins in the second round of the 2013 World Matchplay Darts. Jenkins was the last person to beat Taylor in this event in 2007, and came close to repeating the trick..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203050000 +0000" stop="20150203053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20150203053000 +0000" stop="20150203060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries:  SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203060000 +0000" stop="20150203061500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2006</title>
+    <desc lang="en">A chance to relive the 2006 Super League Grand Final between St Helens and Hull FC. The Black and Whites were making their first-ever appearance in the season-ending showpiece..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203061500 +0000" stop="20150203063000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2007</title>
+    <desc lang="en">A chance to relive the 2007 Super League Grand Final between Leeds Rhinos and St Helens. The Saints came into the match as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203063000 +0000" stop="20150203064500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2008</title>
+    <desc lang="en">A chance to relive the 2008 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos subjected the Saints to a 33-6 defeat in the previous year's title decider..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203064500 +0000" stop="20150203070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2009</title>
+    <desc lang="en">A chance to relive the 2009 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos had the chance to claim their third consecutive title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203070000 +0000" stop="20150203073000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Muhammad Ali</title>
+    <desc lang="en">A tribute to boxing legend Muhammad Ali. The American, famed for his pre-fight antics, won 56 of his 61 professional bouts. He was a three-time world champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203073000 +0000" stop="20150203080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats:Sugar Ray Robinson</title>
+    <desc lang="en">A look back on the career of boxing legend Sugar Ray Robinson. The American fought 200 times, winning 128 of his first 131 bouts. He won world titles at welterweight and middleweight level..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203080000 +0000" stop="20150203100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203100000 +0000" stop="20150203103000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The Bupa Great Edinburgh X Country at Holyrood Park. The event includes international team competition as Great Britain &amp; Northern Ireland face Europe and the United States..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203103000 +0000" stop="20150203110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The 2014 Great Ireland Run from Phoenix Park in Dublin. Ethiopia's triple Olympic champion Kenenisa Bekele won the men's title last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203110000 +0000" stop="20150203113000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150203113000 +0000" stop="20150203120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats:Sugar Ray Robinson</title>
+    <desc lang="en">A look back on the career of boxing legend Sugar Ray Robinson. The American fought 200 times, winning 128 of his first 131 bouts. He won world titles at welterweight and middleweight level..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203120000 +0000" stop="20150203140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203140000 +0000" stop="20150203150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis Finals 2014</title>
+    <desc lang="en">Rafael Nadal takes on Alexandr Dolgopolov in the final of the 2014 Rio Open from Jockey Club Brasileiro. Nadal beat Pablo Andujar in the semi-finals while Dolgopolov saw off David Ferrer..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150203150000 +0000" stop="20150203153000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The Bupa Great Edinburgh X Country at Holyrood Park. The event includes international team competition as Great Britain &amp; Northern Ireland face Europe and the United States..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203153000 +0000" stop="20150203160000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Great Run Series</title>
+    <desc lang="en">The 2014 Great Ireland Run from Phoenix Park in Dublin. Ethiopia's triple Olympic champion Kenenisa Bekele won the men's title last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150203160000 +0000" stop="20150203180000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203180000 +0000" stop="20150203190000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Heroes: Joel Garner</title>
+    <desc lang="en">Gary Newbon talks to former West Indies bowler Joel Garner about his prolific cricketing career. Garner appeared in 58 tests between 1977 and 1987, taking an impressive 259 wickets..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150203190000 +0000" stop="20150203193000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sportswomen</title>
+    <desc lang="en">A look at all the biggest news and talking points in the world of women's sport. With big-name guests and behind-the-scenes features. Get involved @SkySportsNews #Sportswomen..(n)</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20150203193000 +0000" stop="20150203203000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">World Pool Masters</title>
+    <desc lang="en">The 2014 World Pool Masters from the Portland Centre in Nottingham. Here, Dennis Orcollo of the Philippines takes on England's Chris Melling..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150203203000 +0000" stop="20150203204500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2008</title>
+    <desc lang="en">A chance to relive the 2008 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos subjected the Saints to a 33-6 defeat in the previous year's title decider..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203204500 +0000" stop="20150203210000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2009</title>
+    <desc lang="en">A chance to relive the 2009 Super League Grand Final between Leeds Rhinos and St Helens. The Rhinos had the chance to claim their third consecutive title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203210000 +0000" stop="20150203211500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Lloyd V Part</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Colin Lloyd against John Part in the final of the 2005 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203211500 +0000" stop="20150203213000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Adrian Lewis in the semi-finals of the 2010 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203213000 +0000" stop="20150203214500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203214500 +0000" stop="20150203220000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold:Gerwen v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Raymond van Barneveld in the final of the 2012 Grand Slam of Darts at the Wolverhampton Civic Hall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150203220000 +0000" stop="20150203230000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150203230000 +0000" stop="20150203231500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2010</title>
+    <desc lang="en">A chance to relive the 2010 Super League Grand Final between Wigan Warriors and St Helens. The Warriors were making their first final appearance since 2003..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203231500 +0000" stop="20150203233000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2011</title>
+    <desc lang="en">A chance to relive the 2011 Super League Grand Final between Leeds Rhinos and St Helens. The Saints were looking to end a run of four successive final defeats..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203233000 +0000" stop="20150203234500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2012</title>
+    <desc lang="en">A chance to relive the 2012 Super League Grand Final between Leeds Rhinos and Warrington Wolves. The Rhinos were gunning for their fifth title in six seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150203234500 +0000" stop="20150204000000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2013</title>
+    <desc lang="en">The 2013 Super League Grand Final between Warrington Wolves and Wigan Warriors. Warrington beat Huddersfield Giants in the semi-finals, while Wigan saw off Leeds Rhinos..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150129200000 +0000" stop="20150130000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130000000 +0000" stop="20150130010000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130010000 +0000" stop="20150130030000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring all your favourite WWE stars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150130030000 +0000" stop="20150130031500 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A classic match from the WWE Vault: Dolph Ziggler takes on Kofi Kingston in June 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130031500 +0000" stop="20150130033000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A match from the WWE Vault: Rey Mysterio takes on The Miz in July 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130033000 +0000" stop="20150130034500 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">Big Show takes on Wade Barrett in this classic match from the WWE Vault..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130034500 +0000" stop="20150130040000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A look into the archives of the WWE to relive some of the greatest matches. Here, The Miz faces Sheamus on a 2011 edition of Smackdown and the Big Show takes on Daniel Bryan in 2012..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150130040000 +0000" stop="20150130050000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Stephen Gallacher successfully defended his title last year, edging out Emiliano Grillo by a single shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130050000 +0000" stop="20150130060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130060000 +0000" stop="20150130063000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130063000 +0000" stop="20150130070000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130070000 +0000" stop="20150130080000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Champions Tour Golf</title>
+    <desc lang="en">The Mitsubishi Electric Championship at Hualalai from Hualalai Golf Course in Kaupulehu, Hawaii. Bernhard Langer won this event for the second time last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130080000 +0000" stop="20150130133000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Bernd Wiesberger led the field at the end of day one with four players sitting just one shot off the pace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150130133000 +0000" stop="20150130135000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Classic: US Open 2010</title>
+    <desc lang="en">A chance to relive the 2010 US Open from Pebble Beach, California. The field included seven former champions, including Ernie Els, Angel Cabrera and three-time winner Tiger Woods..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130135000 +0000" stop="20150130152000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf-Norman v Price 1995</title>
+    <desc lang="en">Once more we dig into the vault of Shell's Wonderful World of Golf and go back to 1995, when Australia's Greg Norman met Nick Price of Zimbabwe at the Medalist Golf Course, Florida..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130152000 +0000" stop="20150130165000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">Poland face Qatar in the semi-finals of the 2015 World Handball Championship in Qatar. Poland defeated Croatia in their quarter-final while Qatar dispatched Germany..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150130165000 +0000" stop="20150130172000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130172000 +0000" stop="20150130173500 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: QPR v Liverpool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Queens Park Rangers against Liverpool at Loftus Road from the 2011/2012 campaign..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130173500 +0000" stop="20150130175000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: Man Utd v Everton</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Manchester United against Everton at Old Trafford from the 2011/2012 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130175000 +0000" stop="20150130192000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">Spain and France meet in the semi-finals of the 2015 World Handball Championships in Qatar. Spain beat Denmark in their quarter-final while France ousted Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150130192000 +0000" stop="20150130193000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Football Gold: Blackburn v L'pool</title>
+    <desc lang="en">A chance to relive some classic matches from the English top flight. Here is Blackburn Rovers against Liverpool at Ewood Park from the 2011/2012 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150130193000 +0000" stop="20150130200000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150130200000 +0000" stop="20150131000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day two of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150131000000 +0000" stop="20150131010000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day two of the 2015 Omega Dubai Desert Classic from Emirates Golf Club. Bernd Wiesberger led the field at the end of day one with four players sitting just one shot off the pace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131010000 +0000" stop="20150131013000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">The Rugby Club</title>
+    <desc lang="en">An expert panel of guests weigh in on all the talking points from the world of rugby union. Plus, interviews with some of the biggest names in the game. Get involved @SkySportsRugby..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150131013000 +0000" stop="20150131040000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Ire Wolfhounds v Saxons</title>
+    <desc lang="en">Ireland Wolfhounds take on England Saxons at Irish Independent Park in Cork. The Wolfhounds defeated England when the sides met in January 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150131040000 +0000" stop="20150131043000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Gary Player</title>
+    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131043000 +0000" stop="20150131060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf-Norman v Price 1995</title>
+    <desc lang="en">Once more we dig into the vault of Shell's Wonderful World of Golf and go back to 1995, when Australia's Greg Norman met Nick Price of Zimbabwe at the Medalist Golf Course, Florida..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131060000 +0000" stop="20150131070000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2007 edition of The Barclays from Westchester Country Club in Harrison, New York. The winner ended a six-year wait to claim a PGA Tour title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131070000 +0000" stop="20150131090000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150131090000 +0000" stop="20150131130000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150131130000 +0000" stop="20150131133000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats-Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150131133000 +0000" stop="20150131153000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Top 14 Rugby Union</title>
+    <desc lang="en">Montpellier take on Bordeaux-Begles at the Altrad Stadium in the Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150131153000 +0000" stop="20150131160000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131160000 +0000" stop="20150131170000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2007 edition of The Barclays from Westchester Country Club in Harrison, New York. The winner ended a six-year wait to claim a PGA Tour title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131170000 +0000" stop="20150131180000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150131180000 +0000" stop="20150131230000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day three of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150131230000 +0000" stop="20150201000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">LV=Cup</title>
+    <desc lang="en">Harlequins host Bath at Twickenham Stoop in round three of the LV= Cup. Quins saw off Newport Gwent Dragons last time out, while Bath were beaten by the Exeter Chiefs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150201000000 +0000" stop="20150201010000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201010000 +0000" stop="20150201030000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150201030000 +0000" stop="20150201040000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Michael Cole and Byron Saxton present another edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150201040000 +0000" stop="20150201050000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day three of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201050000 +0000" stop="20150201060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">Relive the 2004 Wachovia Championship from the Quail Hollow Club in North Carolina. American Joey Sindelar rolled back the years to win his first USPGA Tour title in over a decade..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201060000 +0000" stop="20150201073000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf-Couples v Norman 1996</title>
+    <desc lang="en">In the show that pitted some of the best golfers in the world in head to head battles, here is the contest between Fred Couples and Greg Norman at Skibo Castle in Scotland in 1996..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201073000 +0000" stop="20150201080000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150201080000 +0000" stop="20150201130000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150201130000 +0000" stop="20150201132000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Classic:2010 PGA Championship</title>
+    <desc lang="en">A chance to relive the 2010 PGA Championship from Whistling Straits in Kohler, Wisconsin. The eventual winner of this tournament had never previously triumphed in a major..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201132000 +0000" stop="20150201145000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Handball Championships</title>
+    <desc lang="en">The World Men's Handball Championship third-place play-off from Lusail Sports Arena in Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150201145000 +0000" stop="20150201150000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A chance to relive some of the finest matches in WWE history. Here, Daniel Bryan takes on Cody Rhodes on an edition of Raw from 2012..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150201150000 +0000" stop="20150201160000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Cricket: Tri-Series Final</title>
+    <desc lang="en">The final of the Carlton Mid Triangular Series from the WACA Ground in Perth..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150201160000 +0000" stop="20150201170000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Highlights from another week of pulsating action on Raw, featuring all your favourite WWE superstars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150201170000 +0000" stop="20150201180000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150201180000 +0000" stop="20150201230000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day four of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150201230000 +0000" stop="20150202000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202000000 +0000" stop="20150202010000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E806</episode-num>
+  </programme>
+  <programme start="20150202010000 +0000" stop="20150202020000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Michael Cole and Byron Saxton present another edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20150202020000 +0000" stop="20150202030000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 2007 CA Championship at Doral Golf Resort &amp; Spa in Florida. Tiger Woods went into this tournament having won the event in 2005 and 2006..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202030000 +0000" stop="20150202040000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Cricket: Tri-Series Final</title>
+    <desc lang="en">The final of the Carlton Mid Triangular Series from the WACA Ground in Perth..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202040000 +0000" stop="20150202041500 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202041500 +0000" stop="20150202043000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202043000 +0000" stop="20150202044500 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202044500 +0000" stop="20150202050000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150202050000 +0000" stop="20150202053000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Sir Gary Sobers</title>
+    <desc lang="en">A profile of former West Indies cricketer Sir Gary Sobers. One of the greatest all-rounders to have ever played the game, Sobers scored more than 8,000 test runs during a remarkable career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202053000 +0000" stop="20150202060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Sir Don Bradman</title>
+    <desc lang="en">A profile of Australian cricketing icon Sir Don Bradman. With a career Test batting average of 99.94, 'The Don' is perhaps the greatest player to ever pick up a cricket bat..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150202060000 +0000" stop="20150202070000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 1998 Tour Championship which was held at the East Lake Golf Club in Atlanta. Hal Sutton and Vijay Singh contested a play-off that was decided by one spectacular shot..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202070000 +0000" stop="20150202073000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202073000 +0000" stop="20150202080000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Gary Player</title>
+    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202080000 +0000" stop="20150202130000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day four of the Waste Management Phoenix Open from TPC Scottsdale in Arizona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202130000 +0000" stop="20150202140000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202140000 +0000" stop="20150202143000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Jack Nicklaus</title>
+    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202143000 +0000" stop="20150202150000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Gary Player</title>
+    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202150000 +0000" stop="20150202160000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 1999 Memorial Tournament at at Muirfield Village Golf Club, Ohio. Fred Couples went into the competition as the defending champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202160000 +0000" stop="20150202170000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202170000 +0000" stop="20150202180000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2001 EMC World Cup, which was held in Gotemba, Japan. The event would be decided in a thrilling four-way playoff..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202180000 +0000" stop="20150202183000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202183000 +0000" stop="20150202190000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202190000 +0000" stop="20150202200000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202200000 +0000" stop="20150202210000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202210000 +0000" stop="20150202213000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202213000 +0000" stop="20150202220000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202220000 +0000" stop="20150202230000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150202230000 +0000" stop="20150203003000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf-Nicklaus v Watson 1995</title>
+    <desc lang="en">Once more we dig into the vault of Shell's Wonderful World of Golf and go back to 1995 when American duo Jack Nicklaus and Tom Watson went head to head at Pebble Beach, California..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203003000 +0000" stop="20150203010000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203010000 +0000" stop="20150203020000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203020000 +0000" stop="20150203030000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203030000 +0000" stop="20150203050000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Celtic Dragons take on Team Northumbria in round two of the Netball Superleague. The Dragons came out on top when the teams last met, recording a 76-41 victory..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150203050000 +0000" stop="20150203060000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">Relive the 2000 Westin Texas Open, held at the La Cantera Golf Club. American Justin Leonard would bag the fifth Tour title of his career, and he would successfully retain it in 2001..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203060000 +0000" stop="20150203070000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A look back at the 2003 MCI Heritage Classic at Harbour Town Golf Links in South Carolina. The USA's Justin Leonard went into the tournament as the defending champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203070000 +0000" stop="20150203073000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203073000 +0000" stop="20150203080000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Big Three</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between Arnold Palmer, Jack Nicklaus and Gary Player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203080000 +0000" stop="20150203090000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203090000 +0000" stop="20150203100000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203100000 +0000" stop="20150203110000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Heroes: Lennox Lewis</title>
+    <desc lang="en">Gary Newbon sits down with retired British boxing legend Lennox Lewis. The London-born fighter won Olympic gold in 1988 and is the last boxer to be an undisputed world heavyweight champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150203110000 +0000" stop="20150203120000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2006 Honda Classic from the Country Club at Mirasol. The winner of this event moved into the top ten of the Official World Golf Rankings for the very first time..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203120000 +0000" stop="20150203130000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203130000 +0000" stop="20150203140000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203140000 +0000" stop="20150203153000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Shell's Wonderful World Of Golf</title>
+    <desc lang="en">The series that televised a whole host of golf games between two of the most talked about golfers of the time. Here is Jack Nicklaus versus Gary Player at Sunningdale in 2000..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203153000 +0000" stop="20150203160000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Rivalries: The Ryder Cup</title>
+    <desc lang="en">Series profiling some of the most significant and spectacular rivalries in sporting history. Here the focus is on Europe and America's battles to win the Ryder Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203160000 +0000" stop="20150203170000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classic</title>
+    <desc lang="en">A chance to relive the 2006 Nissan Open from the Riviera Country Club in Pacific Palisades, California. The winner of this event ended a three-year drought on the PGA Tour..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203170000 +0000" stop="20150203180000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203180000 +0000" stop="20150203183000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203183000 +0000" stop="20150203190000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golfing World</title>
+    <desc lang="en">The comprehensive golf show with a mix of the latest news, interviews, documentaries and features. Plus, tournament updates, golf tips and resort reviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150203190000 +0000" stop="20150203213000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Greyhound Racing</title>
+    <desc lang="en">The Pin Point Recruitment Maiden Derby from Newcastle Greyhound Stadium. This event is sponsored by Alan Findlay, the winner of the 2014 Services to Greyhound Racing award..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150203213000 +0000" stop="20150203220000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">Golf Special: Malaysian Open</title>
+    <desc lang="en">A look ahead to the tenth Maybank Malaysian Open. Held at the Kuala Lumpur Golf &amp; Country Club, this tournament has been won by the likes of Lee Westwood and Louis Oosthuizen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203220000 +0000" stop="20150203230000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day four of the 2015 Omega Dubai Desert Classic from Emirates Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150203230000 +0000" stop="20150204000000 +0000" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">The 2015 Waste Management Phoenix Open from TPC Scottsdale in Arizona. Kevin Stadler triumphed in this tournament last time out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
 </tv>
