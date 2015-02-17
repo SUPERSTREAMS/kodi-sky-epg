@@ -172,77 +172,1193 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150216193000 +0000" stop="20150217000000 +0000" channel="BoxNation">
-    <title lang="en">Ormond v Flanagan</title>
-    <desc lang="en">Ireland's Stephen Ormond looks to extend his impressive run as WBO European Lightweight champion when he faces Terry Flanagan, holder of one of British boxing's best records at 26-0..(n)</desc>
+  <programme start="20150217190000 +0000" stop="20150217231000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day two of the Welsh Open in Cardiff, the seventh ranking event of the season. Coverage includes world number one Mark Selby vs Marcus Campbell and Lee Walker vs Michael Georgiou..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
   </programme>
-  <programme start="20150217000000 +0000" stop="20150217043000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Saunders v Blackwell</title>
-    <desc lang="en">All-action Commonwealth middleweight champ Billy Joe Saunders attempts to add the British belt against Nick Blackwell on a card featuring 5 championships. The whole fight, the whole night, uncut..(n)</desc>
+  <programme start="20150217231000 +0000" stop="20150217235500 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day two of the Welsh Open in Cardiff, the seventh ranking event of the season. A star-studded field includes Ronnie O'Sullivan, Neil Robertson, Mark Selby and Ding Junhui..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Snooker/Pool</category>
   </programme>
-  <programme start="20150217043000 +0000" stop="20150217053000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- 21-year-old Bradley Pryce meets Jason Hall for the vacant WBO intercontinental lightweight title. Pryce, in front of his home fans in Cardiff, is determined to put on a show..(n)</desc>
+  <programme start="20150217235500 +0000" stop="20150218000000 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Neil Hodgson</title>
+    <desc lang="en">A look back at Neil Hodgson's famous double-win at Silverstone in 2003. Hodgson was dominating ahead of this round, powering his Ducati Fila 999 to nine wins out of a possible 10..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150217053000 +0000" stop="20150217060000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150218000000 +0000" stop="20150218003000 +0000" channel="Eurosport">
+    <title lang="en">World Superbikes: Season Preview</title>
+    <desc lang="en">A look ahead to the 2015 Superbike World Championship, which sees Britain's Tom Sykes aim to wrestle back the title he lost to Frenchman Sylvain Guintoli last year..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150217060000 +0000" stop="20150217093000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Saunders v Fletcher</title>
-    <desc lang="en">Billy Joe Saunders v Jarrod Fletcher for the Commonwealth Middleweight Championship was the main event on a 6 fight card at York Hall that also featured Bradley Skeete and Frank Buglioni..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150217093000 +0000" stop="20150217100000 +0000" channel="BoxNation">
-    <title lang="en">Mayhem in Munich</title>
-    <desc lang="en">A look back at the good, bad and the ugly from the controversial Klitschko v Chisora world title fight..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150217100000 +0000" stop="20150217110000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Little Londoner Mickey Cantwell pits himself against South African flyweight legend 'Baby' Jake Matlala. It's the British champion's first crack at a world title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150217110000 +0000" stop="20150217120000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Mickey Cantwell takes on Filipino Eric Jamili for the WBO minimum weight title. Then, WBO light middleweight champion Ronald Wright makes his third defence against Adrian Dodson..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150217120000 +0000" stop="20150217140000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
+  <programme start="20150218003000 +0000" stop="20150218020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
     <category lang="en">Specialist</category>
     <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150217140000 +0000" stop="20150217143000 +0000" channel="BoxNation">
-    <title lang="en">Magee v Markussen</title>
-    <desc lang="en">Ireland's Brian Magee defends his World Super Middleweight title against the big punching Dane Rudy Markussen in Copenhagen..(n)</desc>
+  <programme start="20150218020000 +0000" stop="20150218073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150218073000 +0000" stop="20150218074500 +0000" channel="Eurosport">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218074500 +0000" stop="20150218084500 +0000" channel="Eurosport">
+    <title lang="en">Ski Jumping: Four Hills Review</title>
+    <desc lang="en">A look back at the 2014-15 Four Hills tournament, featuring the world's top ski jumpers. This prestigious event has taken place in Germany and Austria every year since 1952..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150218084500 +0000" stop="20150218094500 +0000" channel="Eurosport">
+    <title lang="en">WSB 2014: Race of the Season</title>
+    <desc lang="en">Race one at Donington Park featured a titanic battle between defending champ Tom Sykes and teammate Loris Baz. The duo's fractious relationship would later come to a head in Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218094500 +0000" stop="20150218111500 +0000" channel="Eurosport">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">Real Madrid host FC Porto in the last 16 at the Estadio Alfredo Di Stefano. Madrid's talented side includes Scottish striker Jack Harper, who has three goals in this competition..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150218111500 +0000" stop="20150218121500 +0000" channel="Eurosport">
+    <title lang="en">Ski Jumping: Four Hills Review</title>
+    <desc lang="en">A look back at the 2014-15 Four Hills tournament, featuring the world's top ski jumpers. This prestigious event has taken place in Germany and Austria every year since 1952..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150218121500 +0000" stop="20150218133000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the women's 5km free cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150218133000 +0000" stop="20150218134500 +0000" channel="Eurosport">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218134500 +0000" stop="20150218153000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's 5km free cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150218153000 +0000" stop="20150218170000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150218170000 +0000" stop="20150218173000 +0000" channel="Eurosport">
+    <title lang="en">Sports Insiders</title>
+    <desc lang="en">This programme takes a closer look at some of the key figures in sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218173000 +0000" stop="20150218173500 +0000" channel="Eurosport">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218173500 +0000" stop="20150218174000 +0000" channel="Eurosport">
+    <title lang="en">Lucia's Selection</title>
+    <desc lang="en">Eurosport's Lucia Coward presents this magazine programme looking at the biggest sports event of the month featuring interviews with the top stars..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218174000 +0000" stop="20150218174500 +0000" channel="Eurosport">
+    <title lang="en">Riders Club</title>
+    <desc lang="en">A magazine show for equestrian fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150218174500 +0000" stop="20150218184500 +0000" channel="Eurosport">
+    <title lang="en">US PGA Tour Golf</title>
+    <desc lang="en">Action from the PGA Tour, featuring California's AT&amp;T Pebble Beach National Pro-Am. This course has staged five US Opens, including Tiger Woods' amazing 15-shot victory in 2000..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150218184500 +0000" stop="20150218185000 +0000" channel="Eurosport">
+    <title lang="en">Golf Club</title>
+    <desc lang="en">A magazine show for golf fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150218185000 +0000" stop="20150218185500 +0000" channel="Eurosport">
+    <title lang="en">Yacht Club</title>
+    <desc lang="en">The latest news and interviews from the world of competitive sailing..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150218185500 +0000" stop="20150218190500 +0000" channel="Eurosport">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218190500 +0000" stop="20150218193500 +0000" channel="Eurosport">
+    <title lang="en">Best of Bikes</title>
+    <desc lang="en">Action from classic superbike races from across the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218193500 +0000" stop="20150218203500 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Tom Sykes</title>
+    <desc lang="en">British Eurosport revisits Tom Sykes' double-win at Donington Park in 2014. The round featured a titanic battle between defending champion Sykes and his French teammate Loris Baz..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218203500 +0000" stop="20150218220000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218220000 +0000" stop="20150218223000 +0000" channel="Eurosport">
+    <title lang="en">Sports Insiders</title>
+    <desc lang="en">This programme takes a closer look at some of the key figures in sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218223000 +0000" stop="20150218233000 +0000" channel="Eurosport">
+    <title lang="en">US PGA Tour Golf</title>
+    <desc lang="en">Action from the PGA Tour, featuring California's AT&amp;T Pebble Beach National Pro-Am. This course has staged five US Opens, including Tiger Woods' amazing 15-shot victory in 2000..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150218233000 +0000" stop="20150219003000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219003000 +0000" stop="20150219020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150219020000 +0000" stop="20150219073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150219073000 +0000" stop="20150219083000 +0000" channel="Eurosport">
+    <title lang="en">British Basketball League</title>
+    <desc lang="en">Action from the 2014 British Basketball League as the Leicester Riders host the Newcastle Eagles..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20150219083000 +0000" stop="20150219093000 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Carl Fogarty</title>
+    <desc lang="en">A look back at Carl Fogarty's final appearance at Donington Park in 1999, the scene of his first-ever victory. Fogarty retired a year later following a horrific crash in Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150219093000 +0000" stop="20150219103000 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Tom Sykes</title>
+    <desc lang="en">British Eurosport revisits Tom Sykes' double-win at Donington Park in 2014. The round featured a titanic battle between defending champion Sykes and his French teammate Loris Baz..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150219103000 +0000" stop="20150219113000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219113000 +0000" stop="20150219114500 +0000" channel="Eurosport">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219114500 +0000" stop="20150219140000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's and women's classic cross-country sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150219140000 +0000" stop="20150219154500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's and women's classic cross-country sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150219154500 +0000" stop="20150219160000 +0000" channel="Eurosport">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219160000 +0000" stop="20150219170000 +0000" channel="Eurosport">
+    <title lang="en">Triathlon: Challenge Bahrain</title>
+    <desc lang="en">Action from the Challenge Bahrain triathlon, a spectacular middle-distance race that attracts the best ITU shorter distance triathletes with its $500,000 prize purse..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150219170000 +0000" stop="20150219183000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage two features a 191.7km route from Utrera to Lucena in the south of the country..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219183000 +0000" stop="20150219190000 +0000" channel="Eurosport">
+    <title lang="en">Marathon</title>
+    <desc lang="en">The Helly Hansen Beauty and the Beast is an off-road trail marathon that takes place at West Wycombe Park, near High Wycombe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150219190000 +0000" stop="20150219220000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day four of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150219220000 +0000" stop="20150219230000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day four of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150219230000 +0000" stop="20150220000000 +0000" channel="Eurosport">
+    <title lang="en">Queensbury Boxing League</title>
+    <desc lang="en">The Queensbury Boxing League reaches its dramatic end of season finale, as pound for pound Middleweight king Gareth Gardner meets unbeaten contender Kieran Leinster. 2/2..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150217143000 +0000" stop="20150217190000 +0000" channel="BoxNation">
-    <title lang="en">Ormond v Flanagan</title>
-    <desc lang="en">Ireland's Stephen Ormond looks to extend his impressive run as WBO European Lightweight champion when he faces Terry Flanagan, holder of one of British boxing's best records at 26-0..(n)</desc>
+  <programme start="20150220000000 +0000" stop="20150220003000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage two features a 191.7km route from Utrera to Lucena in the south of the country..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220003000 +0000" stop="20150220020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150220020000 +0000" stop="20150220073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150220073000 +0000" stop="20150220084500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's and women's classic cross-country sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150220084500 +0000" stop="20150220100000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS100 event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220100000 +0000" stop="20150220110000 +0000" channel="Eurosport">
+    <title lang="en">WSB 2014: Race of the Season</title>
+    <desc lang="en">Race one at Donington Park featured a titanic battle between defending champ Tom Sykes and teammate Loris Baz. The duo's fractious relationship would later come to a head in Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150220110000 +0000" stop="20150220120000 +0000" channel="Eurosport">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">A look back at some classic races from the World Superbike Championship..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150220120000 +0000" stop="20150220130000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage two features a 191.7km route from Utrera to Lucena in the south of the country..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220130000 +0000" stop="20150220144500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage three features a 157.6km route from Motril to Alto de Hazallanas..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220144500 +0000" stop="20150220154500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 10km event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220154500 +0000" stop="20150220161500 +0000" channel="Eurosport">
+    <title lang="en">Itera Expedition Race</title>
+    <desc lang="en">This five-day non-stop adventure race in Wales sees competitors cover over 600km of varying terrain, with a course featuring trekking, mountain biking, kayaking and canyoneering..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220161500 +0000" stop="20150220164500 +0000" channel="Eurosport">
+    <title lang="en">Sports Insiders</title>
+    <desc lang="en">This programme takes a closer look at some of the key figures in sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220164500 +0000" stop="20150220174500 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Training for the men's downhill event at the FIS Alpine Skiing World Cup in Saalbach, Austria..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150220174500 +0000" stop="20150220190000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220190000 +0000" stop="20150220193000 +0000" channel="Eurosport">
+    <title lang="en">World Superbikes: Season Preview</title>
+    <desc lang="en">A look ahead to the 2015 Superbike World Championship, which sees Britain's Tom Sykes aim to wrestle back the title he lost to Frenchman Sylvain Guintoli last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150220193000 +0000" stop="20150220210000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Britain's Chris Froome makes his season-debut at this five-day race, which also includes Alberto Contador. Stage three features a 157.6km route from Motril to Alto de Hazallanas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220210000 +0000" stop="20150220220000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Race Across America</title>
+    <desc lang="en">This annual transcontinental bicycle race takes riders from the west to east coast of the USA. Athletes from around the world participate in this feat of endurance..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220220000 +0000" stop="20150220221500 +0000" channel="Eurosport">
+    <title lang="en">Horse Racing</title>
+    <desc lang="en">Eurosport's horse racing show, looking at some of the top events on the international calendar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150220221500 +0000" stop="20150220231500 +0000" channel="Eurosport">
+    <title lang="en">Show Jumping: Nations Cup Series</title>
+    <desc lang="en">Action from the FEI Nations Cup Jumping series in Abu Dhabi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150220231500 +0000" stop="20150221003000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Britain's Chris Froome makes his season-debut at this five-day race, which also includes Alberto Contador. Stage three features a 157.6km route from Motril to Alto de Hazallanas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221003000 +0000" stop="20150221020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150221020000 +0000" stop="20150221035000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150221035000 +0000" stop="20150221055000 +0000" channel="Eurosport">
+    <title lang="en">World Superbikes: Superpole</title>
+    <desc lang="en">Qualifying for the opening round at Phillip Island as the new season gets underway. Tom Sykes enters as Britain's best hope of winning the title after finishing runner-up in 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <premiere />
+  </programme>
+  <programme start="20150221055000 +0000" stop="20150221065000 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: James Toseland</title>
+    <desc lang="en">A look back at James Toseland's famous 2007 double-win at Brands Hatch. It was Toseland's first double in World Superbikes and he would eventually win the overall title that year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150221065000 +0000" stop="20150221075000 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Carl Fogarty</title>
+    <desc lang="en">A look back at Carl Fogarty's final appearance at Donington Park in 1999, the scene of his first-ever victory. Fogarty retired a year later following a horrific crash in Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150221075000 +0000" stop="20150221080500 +0000" channel="Eurosport">
+    <title lang="en">Horse Racing</title>
+    <desc lang="en">Eurosport's horse racing show, looking at some of the top events on the international calendar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150221080500 +0000" stop="20150221084500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150221084500 +0000" stop="20150221100000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The first run of the women's giant slalom at the FIS Alpine Skiing World Cup round in Maribor, Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221100000 +0000" stop="20150221114500 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's downhill event at the FIS Alpine Skiing World Cup in Saalbach, Austria..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221114500 +0000" stop="20150221130000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The women's skiathlon cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221130000 +0000" stop="20150221144500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's skiathlon cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221144500 +0000" stop="20150221151500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150221151500 +0000" stop="20150221171500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221171500 +0000" stop="20150221181500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage four sees riders take on a 202km route from Maracena to Alto de Allanadas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221181500 +0000" stop="20150221190000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The semi-finals of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150221190000 +0000" stop="20150221220000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The semi-finals of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150221220000 +0000" stop="20150221230000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The semi-finals of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150221230000 +0000" stop="20150221233000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage four sees riders take on a 202km route from Maracena to Alto de Allanadas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221233000 +0000" stop="20150222003000 +0000" channel="Eurosport">
+    <title lang="en">World Superbikes: Superpole</title>
+    <desc lang="en">Qualifying for the opening round at Phillip Island as the new season gets underway. Tom Sykes enters as Britain's best hope of winning the title after finishing runner-up in 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222003000 +0000" stop="20150222044500 +0000" channel="Eurosport">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from the opening round at Phillip Island. With several British riders featuring on the grid, expectations are high for another homegrown champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <premiere />
+  </programme>
+  <programme start="20150222044500 +0000" stop="20150222054500 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Neil Hodgson</title>
+    <desc lang="en">A look back at Neil Hodgson's famous double-win at Silverstone in 2003. Hodgson was dominating ahead of this round, powering his Ducati Fila 999 to nine wins out of a possible 10..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222054500 +0000" stop="20150222064500 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Carl Fogarty</title>
+    <desc lang="en">A look back at Carl Fogarty's final appearance at Donington Park in 1999, the scene of his first-ever victory. Fogarty retired a year later following a horrific crash in Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222064500 +0000" stop="20150222074500 +0000" channel="Eurosport">
+    <title lang="en">WSB Classics: Tom Sykes</title>
+    <desc lang="en">British Eurosport revisits Tom Sykes' double-win at Donington Park in 2014. The round featured a titanic battle between defending champion Sykes and his French teammate Loris Baz..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222074500 +0000" stop="20150222084500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150222084500 +0000" stop="20150222094500 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The first run of the women's slalom at the FIS Alpine Skiing World Cup round in Maribor, Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222094500 +0000" stop="20150222100000 +0000" channel="Eurosport">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150222100000 +0000" stop="20150222111500 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's super-G event at the FIS Alpine Skiing World Cup in Saalbach, Austria..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222111500 +0000" stop="20150222124500 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The second run of the women's slalom at the FIS Alpine Skiing World Cup round in Maribor, Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222124500 +0000" stop="20150222131500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the team sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150222131500 +0000" stop="20150222143000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The team sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222143000 +0000" stop="20150222160000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The 4x5km nordic combined team event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222160000 +0000" stop="20150222174500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The mixed team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222174500 +0000" stop="20150222190000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. This fifth and final stage features a 171km route from Montilla to Alhaurín de la Torre..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150222190000 +0000" stop="20150222220000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The final of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150222220000 +0000" stop="20150222230000 +0000" channel="Eurosport">
+    <title lang="en">Boxing: Knockout Classics</title>
+    <desc lang="en">A look at some of the best knockouts in boxing history..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150217190000 +0000" stop="20150217200000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- December, 2000, and Paul Ingle, backed by home support in Yorkshire, faces South Africa's Mbulelo Botile for the IBF featherweight title. It was a life-changing night for both men..(n)</desc>
+  <programme start="20150222230000 +0000" stop="20150223000000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. This fifth and final stage features a 171km route from Montilla to Alhaurín de la Torre..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150217190000 +0000" stop="20150217231000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day two of the Welsh Open in Cardiff, the seventh ranking event of the season. Coverage includes world number one Mark Selby vs Marcus Campbell and Lee Walker vs Michael Georgiou..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150217231000 +0000" stop="20150217235500 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day two of the Welsh Open in Cardiff, the seventh ranking event of the season. A star-studded field includes Ronnie O'Sullivan, Neil Robertson, Mark Selby and Ding Junhui..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150217235500 +0000" stop="20150218000000 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Neil Hodgson</title>
+    <desc lang="en">A look back at Neil Hodgson's famous double-win at Silverstone in 2003. Hodgson was dominating ahead of this round, powering his Ducati Fila 999 to nine wins out of a possible 10..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218000000 +0000" stop="20150218003000 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes: Season Preview</title>
+    <desc lang="en">A look ahead to the 2015 Superbike World Championship, which sees Britain's Tom Sykes aim to wrestle back the title he lost to Frenchman Sylvain Guintoli last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218003000 +0000" stop="20150218073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218073000 +0000" stop="20150218074500 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218074500 +0000" stop="20150218084500 +0000" channel="Eurosport HD">
+    <title lang="en">Ski Jumping: Four Hills Review</title>
+    <desc lang="en">A look back at the 2014-15 Four Hills tournament, featuring the world's top ski jumpers. This prestigious event has taken place in Germany and Austria every year since 1952..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150218084500 +0000" stop="20150218094500 +0000" channel="Eurosport HD">
+    <title lang="en">WSB 2014: Race of the Season</title>
+    <desc lang="en">Race one at Donington Park featured a titanic battle between defending champ Tom Sykes and teammate Loris Baz. The duo's fractious relationship would later come to a head in Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218094500 +0000" stop="20150218111500 +0000" channel="Eurosport HD">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">Real Madrid host FC Porto in the last 16 at the Estadio Alfredo Di Stefano. Madrid's talented side includes Scottish striker Jack Harper, who has three goals in this competition..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150218111500 +0000" stop="20150218121500 +0000" channel="Eurosport HD">
+    <title lang="en">Ski Jumping: Four Hills Review</title>
+    <desc lang="en">A look back at the 2014-15 Four Hills tournament, featuring the world's top ski jumpers. This prestigious event has taken place in Germany and Austria every year since 1952..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150218121500 +0000" stop="20150218133000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the women's 5km free cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150218133000 +0000" stop="20150218134500 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218134500 +0000" stop="20150218153000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's 5km free cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150218153000 +0000" stop="20150218170000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150218170000 +0000" stop="20150218173000 +0000" channel="Eurosport HD">
+    <title lang="en">Sports Insiders</title>
+    <desc lang="en">This programme takes a closer look at some of the key figures in sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218173000 +0000" stop="20150218173500 +0000" channel="Eurosport HD">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218173500 +0000" stop="20150218174000 +0000" channel="Eurosport HD">
+    <title lang="en">Lucia's Selection</title>
+    <desc lang="en">Eurosport's Lucia Coward presents this magazine programme looking at the biggest sports event of the month featuring interviews with the top stars..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218174000 +0000" stop="20150218174500 +0000" channel="Eurosport HD">
+    <title lang="en">Riders Club</title>
+    <desc lang="en">A magazine show for equestrian fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150218174500 +0000" stop="20150218184500 +0000" channel="Eurosport HD">
+    <title lang="en">US PGA Tour Golf</title>
+    <desc lang="en">Action from the PGA Tour, featuring California's AT&amp;T Pebble Beach National Pro-Am. This course has staged five US Opens, including Tiger Woods' amazing 15-shot victory in 2000..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150218184500 +0000" stop="20150218185000 +0000" channel="Eurosport HD">
+    <title lang="en">Golf Club</title>
+    <desc lang="en">A magazine show for golf fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150218185000 +0000" stop="20150218185500 +0000" channel="Eurosport HD">
+    <title lang="en">Yacht Club</title>
+    <desc lang="en">The latest news and interviews from the world of competitive sailing..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150218185500 +0000" stop="20150218190500 +0000" channel="Eurosport HD">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218190500 +0000" stop="20150218193500 +0000" channel="Eurosport HD">
+    <title lang="en">Best of Bikes</title>
+    <desc lang="en">Action from classic superbike races from across the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218193500 +0000" stop="20150218203500 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Tom Sykes</title>
+    <desc lang="en">British Eurosport revisits Tom Sykes' double-win at Donington Park in 2014. The round featured a titanic battle between defending champion Sykes and his French teammate Loris Baz..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150218203500 +0000" stop="20150218220000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218220000 +0000" stop="20150218223000 +0000" channel="Eurosport HD">
+    <title lang="en">Sports Insiders</title>
+    <desc lang="en">This programme takes a closer look at some of the key figures in sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150218223000 +0000" stop="20150218233000 +0000" channel="Eurosport HD">
+    <title lang="en">US PGA Tour Golf</title>
+    <desc lang="en">Action from the PGA Tour, featuring California's AT&amp;T Pebble Beach National Pro-Am. This course has staged five US Opens, including Tiger Woods' amazing 15-shot victory in 2000..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150218233000 +0000" stop="20150219003000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219003000 +0000" stop="20150219003500 +0000" channel="Eurosport HD">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150219003500 +0000" stop="20150219073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219073000 +0000" stop="20150219083000 +0000" channel="Eurosport HD">
+    <title lang="en">British Basketball League</title>
+    <desc lang="en">Action from the 2014 British Basketball League as the Leicester Riders host the Newcastle Eagles..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20150219083000 +0000" stop="20150219093000 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Carl Fogarty</title>
+    <desc lang="en">A look back at Carl Fogarty's final appearance at Donington Park in 1999, the scene of his first-ever victory. Fogarty retired a year later following a horrific crash in Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150219093000 +0000" stop="20150219103000 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Tom Sykes</title>
+    <desc lang="en">British Eurosport revisits Tom Sykes' double-win at Donington Park in 2014. The round featured a titanic battle between defending champion Sykes and his French teammate Loris Baz..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150219103000 +0000" stop="20150219113000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage one is split into two parts, including an 8.2km time-trial through Coria del Rio..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219113000 +0000" stop="20150219114500 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219114500 +0000" stop="20150219140000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's and women's classic cross-country sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150219140000 +0000" stop="20150219154500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's and women's classic cross-country sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150219154500 +0000" stop="20150219160000 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219160000 +0000" stop="20150219170000 +0000" channel="Eurosport HD">
+    <title lang="en">Triathlon: Challenge Bahrain</title>
+    <desc lang="en">Action from the Challenge Bahrain triathlon, a spectacular middle-distance race that attracts the best ITU shorter distance triathletes with its $500,000 prize purse..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150219170000 +0000" stop="20150219183000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage two features a 191.7km route from Utrera to Lucena in the south of the country..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150219183000 +0000" stop="20150219190000 +0000" channel="Eurosport HD">
+    <title lang="en">Marathon</title>
+    <desc lang="en">The Helly Hansen Beauty and the Beast is an off-road trail marathon that takes place at West Wycombe Park, near High Wycombe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150219190000 +0000" stop="20150219220000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day four of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150219220000 +0000" stop="20150219230000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">Day four of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150219230000 +0000" stop="20150220000000 +0000" channel="Eurosport HD">
+    <title lang="en">Queensbury Boxing League</title>
+    <desc lang="en">The Queensbury Boxing League reaches its dramatic end of season finale, as pound for pound Middleweight king Gareth Gardner meets unbeaten contender Kieran Leinster. 2/2..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150220000000 +0000" stop="20150220003000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage two features a 191.7km route from Utrera to Lucena in the south of the country..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220003000 +0000" stop="20150220073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220073000 +0000" stop="20150220084500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's and women's classic cross-country sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150220084500 +0000" stop="20150220100000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS100 event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220100000 +0000" stop="20150220110000 +0000" channel="Eurosport HD">
+    <title lang="en">WSB 2014: Race of the Season</title>
+    <desc lang="en">Race one at Donington Park featured a titanic battle between defending champ Tom Sykes and teammate Loris Baz. The duo's fractious relationship would later come to a head in Qatar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150220110000 +0000" stop="20150220120000 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">A look back at some classic races from the World Superbike Championship..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150220120000 +0000" stop="20150220130000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage two features a 191.7km route from Utrera to Lucena in the south of the country..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220130000 +0000" stop="20150220144500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage three features a 157.6km route from Motril to Alto de Hazallanas..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220144500 +0000" stop="20150220154500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 10km event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220154500 +0000" stop="20150220161500 +0000" channel="Eurosport HD">
+    <title lang="en">Itera Expedition Race</title>
+    <desc lang="en">This five-day non-stop adventure race in Wales sees competitors cover over 600km of varying terrain, with a course featuring trekking, mountain biking, kayaking and canyoneering..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220161500 +0000" stop="20150220164500 +0000" channel="Eurosport HD">
+    <title lang="en">Sports Insiders</title>
+    <desc lang="en">This programme takes a closer look at some of the key figures in sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220164500 +0000" stop="20150220174500 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">Training for the men's downhill event at the FIS Alpine Skiing World Cup in Saalbach, Austria..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150220174500 +0000" stop="20150220190000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150220190000 +0000" stop="20150220193000 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes: Season Preview</title>
+    <desc lang="en">A look ahead to the 2015 Superbike World Championship, which sees Britain's Tom Sykes aim to wrestle back the title he lost to Frenchman Sylvain Guintoli last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150220193000 +0000" stop="20150220210000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Britain's Chris Froome makes his season-debut at this five-day race, which also includes Alberto Contador. Stage three features a 157.6km route from Motril to Alto de Hazallanas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220210000 +0000" stop="20150220220000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Race Across America</title>
+    <desc lang="en">This annual transcontinental bicycle race takes riders from the west to east coast of the USA. Athletes from around the world participate in this feat of endurance..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150220220000 +0000" stop="20150220221500 +0000" channel="Eurosport HD">
+    <title lang="en">Horse Racing</title>
+    <desc lang="en">Eurosport's horse racing show, looking at some of the top events on the international calendar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150220221500 +0000" stop="20150220231500 +0000" channel="Eurosport HD">
+    <title lang="en">Show Jumping: Nations Cup Series</title>
+    <desc lang="en">Action from the FEI Nations Cup Jumping series in Abu Dhabi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150220231500 +0000" stop="20150221003000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Britain's Chris Froome makes his season-debut at this five-day race, which also includes Alberto Contador. Stage three features a 157.6km route from Motril to Alto de Hazallanas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221003000 +0000" stop="20150221035000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221035000 +0000" stop="20150221055000 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes: Superpole</title>
+    <desc lang="en">Qualifying for the opening round at Phillip Island as the new season gets underway. Tom Sykes enters as Britain's best hope of winning the title after finishing runner-up in 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <premiere />
+  </programme>
+  <programme start="20150221055000 +0000" stop="20150221065000 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: James Toseland</title>
+    <desc lang="en">A look back at James Toseland's famous 2007 double-win at Brands Hatch. It was Toseland's first double in World Superbikes and he would eventually win the overall title that year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150221065000 +0000" stop="20150221075000 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Carl Fogarty</title>
+    <desc lang="en">A look back at Carl Fogarty's final appearance at Donington Park in 1999, the scene of his first-ever victory. Fogarty retired a year later following a horrific crash in Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150221075000 +0000" stop="20150221080500 +0000" channel="Eurosport HD">
+    <title lang="en">Horse Racing</title>
+    <desc lang="en">Eurosport's horse racing show, looking at some of the top events on the international calendar..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150221080500 +0000" stop="20150221084500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150221084500 +0000" stop="20150221100000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The first run of the women's giant slalom at the FIS Alpine Skiing World Cup round in Maribor, Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221100000 +0000" stop="20150221114500 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's downhill event at the FIS Alpine Skiing World Cup in Saalbach, Austria..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221114500 +0000" stop="20150221130000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The women's skiathlon cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221130000 +0000" stop="20150221144500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's skiathlon cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221144500 +0000" stop="20150221151500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150221151500 +0000" stop="20150221171500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150221171500 +0000" stop="20150221181500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage four sees riders take on a 202km route from Maracena to Alto de Allanadas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221181500 +0000" stop="20150221190000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The semi-finals of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150221190000 +0000" stop="20150221220000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The semi-finals of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150221220000 +0000" stop="20150221230000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The semi-finals of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150221230000 +0000" stop="20150221233000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. Stage four sees riders take on a 202km route from Maracena to Alto de Allanadas..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150221233000 +0000" stop="20150222003000 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes: Superpole</title>
+    <desc lang="en">Qualifying for the opening round at Phillip Island as the new season gets underway. Tom Sykes enters as Britain's best hope of winning the title after finishing runner-up in 2014..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222003000 +0000" stop="20150222044500 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from the opening round at Phillip Island. With several British riders featuring on the grid, expectations are high for another homegrown champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <premiere />
+  </programme>
+  <programme start="20150222044500 +0000" stop="20150222054500 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Neil Hodgson</title>
+    <desc lang="en">A look back at Neil Hodgson's famous double-win at Silverstone in 2003. Hodgson was dominating ahead of this round, powering his Ducati Fila 999 to nine wins out of a possible 10..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222054500 +0000" stop="20150222064500 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Carl Fogarty</title>
+    <desc lang="en">A look back at Carl Fogarty's final appearance at Donington Park in 1999, the scene of his first-ever victory. Fogarty retired a year later following a horrific crash in Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222064500 +0000" stop="20150222074500 +0000" channel="Eurosport HD">
+    <title lang="en">WSB Classics: Tom Sykes</title>
+    <desc lang="en">British Eurosport revisits Tom Sykes' double-win at Donington Park in 2014. The round featured a titanic battle between defending champion Sykes and his French teammate Loris Baz..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150222074500 +0000" stop="20150222084500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS100 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150222084500 +0000" stop="20150222094500 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The first run of the women's slalom at the FIS Alpine Skiing World Cup round in Maribor, Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222094500 +0000" stop="20150222100000 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150222100000 +0000" stop="20150222111500 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's super-G event at the FIS Alpine Skiing World Cup in Saalbach, Austria..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222111500 +0000" stop="20150222124500 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The second run of the women's slalom at the FIS Alpine Skiing World Cup round in Maribor, Slovenia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222124500 +0000" stop="20150222131500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">Qualifying for the team sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150222131500 +0000" stop="20150222143000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The team sprint event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222143000 +0000" stop="20150222160000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The 4x5km nordic combined team event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222160000 +0000" stop="20150222174500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The mixed team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150222174500 +0000" stop="20150222190000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. This fifth and final stage features a 171km route from Montilla to Alhaurín de la Torre..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150222190000 +0000" stop="20150222220000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The final of the Welsh Open in Cardiff, the seventh ranking event of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150222220000 +0000" stop="20150222230000 +0000" channel="Eurosport HD">
+    <title lang="en">Boxing: Knockout Classics</title>
+    <desc lang="en">A look at some of the best knockouts in boxing history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222230000 +0000" stop="20150223000000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Tour of Andalusia</title>
+    <desc lang="en">Chris Froome reignites his rivalry with Alberto Contador at this five-day race in Spain. This fifth and final stage features a 171km route from Montilla to Alhaurín de la Torre..(n)</desc>
+    <category lang="en">Sports</category>
   </programme>
   <programme start="20150217200000 +0000" stop="20150218003000 +0000" channel="BoxNation">
     <title lang="en">Uncut: Martinez v Frampton</title>
@@ -547,6 +1663,84 @@
   <programme start="20150221233000 +0000" stop="20150222020000 +0000" channel="BoxNation">
     <title lang="en">Uncut: Garcia v Salka</title>
     <desc lang="en">August 2014, Brooklyn Center, New York. Unbeaten Danny Garcia in devastating form against Rod Salka in the main event plus 2 world championship bouts. The whole night, uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222020000 +0000" stop="20150222023000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222023000 +0000" stop="20150222033000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222033000 +0000" stop="20150222040000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222040000 +0000" stop="20150222050000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- 21-year-old Bradley Pryce meets Jason Hall for the vacant WBO intercontinental lightweight title. Pryce, in front of his home fans in Cardiff, is determined to put on a show..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222050000 +0000" stop="20150222060000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- December, 2000, and Paul Ingle, backed by home support in Yorkshire, faces South Africa's Mbulelo Botile for the IBF featherweight title. It was a life-changing night for both men..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222060000 +0000" stop="20150222090000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Butler v Donnelly</title>
+    <desc lang="en">Paul Butler and John Donnelly fight for the vacant British Super-Flyweight title as well as a great undercard including the Commonwealth Light-Heavyweight clash between Maccarinelli and Mckenzie..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222090000 +0000" stop="20150222100000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222100000 +0000" stop="20150222140000 +0000" channel="BoxNation">
+    <title lang="en">Vasquez v Lartei Lartey</title>
+    <desc lang="en">The Next Generation of stars in the USA sees the unbeaten  Sammy Vasquez take on Emmanuel Lartei Lartey in this 10 round welterweight contest..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222140000 +0000" stop="20150222170000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Hopkins v Cloud</title>
+    <desc lang="en">Bernard Hopkins and Tavoris Cloud battle for the IBF World Light-Heavyweight Championship. Plus an action packed undercard featuring Keith Thurman and Jan Zaveck. The whole night, uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222170000 +0000" stop="20150222180000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Joe Calzaghe</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the day when Joe Calzaghe announced himself at world level, by challenging boxing great, Chris Eubank, for the WBO Super-Middleweight title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222180000 +0000" stop="20150222190000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Ricky Hatton</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall recount former Light Welterweight Champion and fan favourite Ricky Hatton's finest hour against legend Kostya Tszyu..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222190000 +0000" stop="20150222230000 +0000" channel="BoxNation">
+    <title lang="en">Vasquez v Lartei Lartey</title>
+    <desc lang="en">The Next Generation of stars in the USA sees the unbeaten  Sammy Vasquez take on Emmanuel Lartei Lartey in this 10 round welterweight contest..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150222230000 +0000" stop="20150223000000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- December, 2000, and Paul Ingle, backed by home support in Yorkshire, faces South Africa's Mbulelo Botile for the IBF featherweight title. It was a life-changing night for both men..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
