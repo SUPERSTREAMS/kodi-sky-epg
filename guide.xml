@@ -172,471 +172,1057 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150226183000 +0000" stop="20150227003000 +0000" channel="Eurosport 2">
+  <programme start="20150227173000 +0000" stop="20150228003000 +0000" channel="Eurosport">
     <title lang="en">World Darts Trophy</title>
-    <desc lang="en">Day one of the World Darts Trophy at EventCity in Manchester. Matches include Sam Hewson vs Ted Hankey, Scott Mitchell vs David Cameron &amp; Tony O'Shea vs Stefaan Deprez..(n)</desc>
+    <desc lang="en">Day two of the prestigious World Darts Trophy at EventCity in Manchester. Number one seed Scott Mitchell takes on David Cameron and Ross Montgomery faces Jeff Smith..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Darts</category>
     <premiere />
   </programme>
-  <programme start="20150227003000 +0000" stop="20150227020000 +0000" channel="Eurosport 2">
-    <title lang="en">Athletics: Malmo Games</title>
-    <desc lang="en">The Malmo Games features some of track and field's top stars, including Britain's Richard Kilty who faces former world record holder and Olympic medallist Asafa Powell in the 60m..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
+  <programme start="20150228003000 +0000" stop="20150228020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150227020000 +0000" stop="20150227030000 +0000" channel="Eurosport 2">
-    <title lang="en">WATTS</title>
-    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
-    <category lang="en">Sports</category>
+  <programme start="20150228020000 +0000" stop="20150228073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150227030000 +0000" stop="20150227040000 +0000" channel="Eurosport 2">
-    <title lang="en">Athletics: Malmo Games</title>
-    <desc lang="en">The Malmo Games features some of track and field's top stars, including Britain's Richard Kilty who faces former world record holder and Olympic medallist Asafa Powell in the 60m..(n)</desc>
+  <programme start="20150228073000 +0000" stop="20150228084500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's relay cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
+    <category lang="en">Wintersports</category>
   </programme>
-  <programme start="20150227040000 +0000" stop="20150227060000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Welsh Open</title>
-    <desc lang="en">The final of the Welsh Open in Cardiff, the seventh ranking event of the season. Ben Woollaston takes on John Higgins as he looks to secure his first career ranking title..(n)</desc>
+  <programme start="20150228084500 +0000" stop="20150228100000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The team HS134 nordic combined ski jumping competition at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150227060000 +0000" stop="20150227070000 +0000" channel="Eurosport 2">
-    <title lang="en">WATTS</title>
-    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150227070000 +0000" stop="20150227080000 +0000" channel="Eurosport 2">
-    <title lang="en">Free Ride World Tour</title>
-    <desc lang="en">The world's best skiers and snowboarders battle it out at the Free Ride World Tour in Vallnord, Andorra..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-  </programme>
-  <programme start="20150227080000 +0000" stop="20150227083000 +0000" channel="Eurosport 2">
-    <title lang="en">Sports Insiders</title>
-    <desc lang="en">This exclusive documentary follows UCI pro cycling team Tinkoff Saxo on their off-season journey up Mount Kilimanjaro..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150227083000 +0000" stop="20150227143000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day one of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
+    <category lang="en">Wintersports</category>
     <premiere />
   </programme>
-  <programme start="20150227143000 +0000" stop="20150227220000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day one of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
+  <programme start="20150228100000 +0000" stop="20150228103000 +0000" channel="Eurosport">
+    <title lang="en">Luge World Cup</title>
+    <desc lang="en">The second run of the doubles at the World Cup round in Sochi. With competitors travelling feet-first down a track at 85mph, this is one of the world's most daunting sports..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
+    <category lang="en">Wintersports</category>
     <premiere />
   </programme>
-  <programme start="20150227220000 +0000" stop="20150227233000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day one of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150227233000 +0000" stop="20150228003000 +0000" channel="Eurosport 2">
-    <title lang="en">Boxing</title>
-    <desc lang="en">Former WBO European super-featherweight champion Ben Jones goes head-to-head with Giorgi Kulumbegashvili of Georgia in this action-packed night of boxing in Harrow, London..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150228003000 +0000" stop="20150228020000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day one of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150228020000 +0000" stop="20150228030000 +0000" channel="Eurosport 2">
-    <title lang="en">Snowboarding World Cup</title>
-    <desc lang="en">The snowboard slalom event from the FIS Snowboarding World Cup round from Park City, Canada..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150228030000 +0000" stop="20150228040000 +0000" channel="Eurosport 2">
-    <title lang="en">Freestyle Skiing World Cup</title>
-    <desc lang="en">Slopestyle action from the FIS Freestyle Skiing World Cup round in Park City, Canada..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150228040000 +0000" stop="20150228060000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day one of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150228060000 +0000" stop="20150228070000 +0000" channel="Eurosport 2">
-    <title lang="en">Free Ride World Tour</title>
-    <desc lang="en">The world's best skiers and snowboarders battle it out at the Free Ride World Tour in Vallnord, Andorra..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-  </programme>
-  <programme start="20150228070000 +0000" stop="20150228080000 +0000" channel="Eurosport 2">
-    <title lang="en">Snowboarding World Cup</title>
-    <desc lang="en">The snowboard slalom event from the FIS Snowboarding World Cup round from Park City, Canada..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150228080000 +0000" stop="20150228090000 +0000" channel="Eurosport 2">
+  <programme start="20150228103000 +0000" stop="20150228120000 +0000" channel="Eurosport">
     <title lang="en">Alpine Skiing World Cup</title>
-    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150228090000 +0000" stop="20150228104500 +0000" channel="Eurosport 2">
-    <title lang="en">Alpine Skiing World Cup</title>
-    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
+    <desc lang="en">The men's downhill at the FIS Alpine Skiing World Cup round in Garmisch-Partenkirchen, Germany. Austrian Matthias Mayer claimed an impressive double last time out in Saalbach..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wintersports</category>
     <premiere />
   </programme>
-  <programme start="20150228104500 +0000" stop="20150228180000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day two of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
+  <programme start="20150228120000 +0000" stop="20150228133000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The women's 30km mass start combined cross-country event at the FIS Nordic World Ski Championships in Falun. Norwegian duo Marit Bjorgen and Therese Johaug will be ones to watch..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
+    <category lang="en">Wintersports</category>
     <premiere />
   </programme>
-  <programme start="20150228180000 +0000" stop="20150228220000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day two of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150228220000 +0000" stop="20150301000000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day two of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150301000000 +0000" stop="20150301003000 +0000" channel="Eurosport 2">
-    <title lang="en">Campus</title>
-    <desc lang="en">A new monthly magazine show about the university sports world..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150301003000 +0000" stop="20150301011500 +0000" channel="Eurosport 2">
-    <title lang="en">Alpine Skiing World Cup</title>
-    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
+  <programme start="20150228133000 +0000" stop="20150228141500 +0000" channel="Eurosport">
+    <title lang="en">Luge World Cup</title>
+    <desc lang="en">The second run of the women's event at the World Cup round in Sochi. With competitors travelling feet-first down a track at 85mph, this is one of the world's most daunting sports..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wintersports</category>
   </programme>
-  <programme start="20150301011500 +0000" stop="20150301020000 +0000" channel="Eurosport 2">
-    <title lang="en">Alpine Skiing World Cup</title>
-    <desc lang="en">The men's downhill competition at the FIS World Cup round in Garmisch-Partenkirchen, Germany. Kjetil Jansrud of Norway leads the downhill standings ahead of Italy's Dominik Paris..(n)</desc>
+  <programme start="20150228141500 +0000" stop="20150228144500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The team HS134 nordic combined ski jumping competition at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wintersports</category>
   </programme>
-  <programme start="20150301020000 +0000" stop="20150301030000 +0000" channel="Eurosport 2">
-    <title lang="en">Freestyle Skiing World Cup</title>
-    <desc lang="en">Half pipe action from the FIS Freestyle Skiing World Cup round in Park City, Canada..(n)</desc>
+  <programme start="20150228144500 +0000" stop="20150228160000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The 2x7.5km nordic combined team event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150301030000 +0000" stop="20150301040000 +0000" channel="Eurosport 2">
-    <title lang="en">Free Ride World Tour</title>
-    <desc lang="en">The world's best skiers and snowboarders battle it out at the Free Ride World Tour in Vallnord, Andorra..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-  </programme>
-  <programme start="20150301040000 +0000" stop="20150301060000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day two of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150301060000 +0000" stop="20150301063000 +0000" channel="Eurosport 2">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Race one in the MXGP class at the opening round of the 2015 FIM Motocross World Championship in Losail, Qatar. Spotlight will be on the reigning MXGP champion Antonio Cairoli..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-  </programme>
-  <programme start="20150301063000 +0000" stop="20150301070000 +0000" channel="Eurosport 2">
-    <title lang="en">Motocross World Championship</title>
-    <desc lang="en">Race two in the MXGP class at the opening round of the 2015 FIM Motocross World Championship in Losail, Qatar. Spotlight will be on the reigning MXGP champion Antonio Cairoli..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-  </programme>
-  <programme start="20150301070000 +0000" stop="20150301080000 +0000" channel="Eurosport 2">
-    <title lang="en">Freestyle Skiing World Cup</title>
-    <desc lang="en">Half pipe action from the FIS Freestyle Skiing World Cup round in Park City, Canada..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150301080000 +0000" stop="20150301090000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Day two of the Gdynia Open in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150301090000 +0000" stop="20150301110000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">Last 16 action in Poland, the final European Tour event of the season. Shaun Murphy enters as defending champion after beating Fergal O'Brien 4-1 in last year's final..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
     <premiere />
   </programme>
-  <programme start="20150301110000 +0000" stop="20150301123000 +0000" channel="Eurosport 2">
+  <programme start="20150228160000 +0000" stop="20150228180000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The HS134 team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden. Reigning champions Austria will face tough competition from the in-form Germany..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228180000 +0000" stop="20150301000000 +0000" channel="Eurosport">
+    <title lang="en">World Darts Trophy</title>
+    <desc lang="en">Day three of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <premiere />
+  </programme>
+  <programme start="20150301000000 +0000" stop="20150301010000 +0000" channel="Eurosport">
     <title lang="en">World Darts Trophy</title>
     <desc lang="en">Day three of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Darts</category>
   </programme>
-  <programme start="20150301123000 +0000" stop="20150301124500 +0000" channel="Eurosport 2">
-    <title lang="en">WATTS</title>
-    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
-    <category lang="en">Sports</category>
+  <programme start="20150301010000 +0000" stop="20150301020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150301124500 +0000" stop="20150301134500 +0000" channel="Eurosport 2">
+  <programme start="20150301020000 +0000" stop="20150301073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150301073000 +0000" stop="20150301091500 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's downhill combined at Bansko, part of the FIS Alpine Skiing World Cup. Lindsey Vonn will be looking to take her carry her good form into the combined competition..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301091500 +0000" stop="20150301103000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The first run of the men's giant-slalom at the FIS Alpine Skiing World Cup round in Garmisch-Partenkirchen. Marcel Hirscher leads the giant-slalom standings, ahead of Ted Ligety..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301103000 +0000" stop="20150301120000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's slalom combined at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Mikaela Shiffrin of the USA won the last slalom event in Maribor..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301120000 +0000" stop="20150301133000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The second run of the men's giant-slalom at the FIS Alpine Skiing World Cup round in Garmisch-Partenkirchen. Marcel Hirscher leads the giant-slalom standings, ahead of Ted Ligety..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301133000 +0000" stop="20150301150000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301150000 +0000" stop="20150301170000 +0000" channel="Eurosport">
+    <title lang="en">Snooker: Gdynia Open</title>
+    <desc lang="en">The semi-final of the European Tour event in Gdynia, Poland..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150301170000 +0000" stop="20150301180000 +0000" channel="Eurosport">
     <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
-    <desc lang="en">Ahead of this weekend's race, British Eurosport looks back at the 2014 edition and a race that was dominated by Omega Pharma..(n)</desc>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20150301134500 +0000" stop="20150301153000 +0000" channel="Eurosport 2">
-    <title lang="en">Cycling: Kuurne-Brussels...</title>
-    <desc lang="en">. Kuurne: Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+  <programme start="20150301180000 +0000" stop="20150301190000 +0000" channel="Eurosport">
+    <title lang="en">Show Jumping: FEI World Cup</title>
+    <desc lang="en">The world's top riders and their horses head to Gothenburg in Sweden for the finale of the FEI World Cup..(n)</desc>
     <category lang="en">Sports</category>
-    <premiere />
+    <category lang="en">Equestrian</category>
   </programme>
-  <programme start="20150301153000 +0000" stop="20150301223000 +0000" channel="Eurosport 2">
-    <title lang="en">World Darts Trophy</title>
-    <desc lang="en">The fourth and final day of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-    <premiere />
-  </programme>
-  <programme start="20150301223000 +0000" stop="20150302000000 +0000" channel="Eurosport 2">
+  <programme start="20150301190000 +0000" stop="20150301210000 +0000" channel="Eurosport">
     <title lang="en">Snooker: Gdynia Open</title>
     <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Snooker/Pool</category>
+    <premiere />
   </programme>
-  <programme start="20150302000000 +0000" stop="20150302002000 +0000" channel="Eurosport 2">
+  <programme start="20150301210000 +0000" stop="20150301212000 +0000" channel="Eurosport">
     <title lang="en">Boxing</title>
     <desc lang="en">Former WBO European super-featherweight champion Ben Jones goes head-to-head with Giorgi Kulumbegashvili of Georgia in this action-packed night of boxing in Harrow, London..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150302002000 +0000" stop="20150302003000 +0000" channel="Eurosport 2">
+  <programme start="20150301212000 +0000" stop="20150301213000 +0000" channel="Eurosport">
     <title lang="en">WATTS</title>
     <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20150302003000 +0000" stop="20150302020000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150302020000 +0000" stop="20150302033000 +0000" channel="Eurosport 2">
+  <programme start="20150301213000 +0000" stop="20150301230000 +0000" channel="Eurosport">
     <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
     <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20150302033000 +0000" stop="20150302041500 +0000" channel="Eurosport 2">
-    <title lang="en">Freestyle Skiing World Cup</title>
-    <desc lang="en">Half pipe action from the FIS Freestyle Skiing World Cup round in Park City, Canada..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150302041500 +0000" stop="20150302050000 +0000" channel="Eurosport 2">
-    <title lang="en">Snowboarding World Cup</title>
-    <desc lang="en">The halfpipe event at the FIS Snowboarding World Cup round from Park City, Canada..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150302050000 +0000" stop="20150302070000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150302070000 +0000" stop="20150302090000 +0000" channel="Eurosport 2">
+  <programme start="20150301230000 +0000" stop="20150302003000 +0000" channel="Eurosport">
     <title lang="en">Speed Skating: Sprint World Champs</title>
     <desc lang="en">The 2015 ISU World Sprint Speed Skating Championships from Astana in Kazakhstan sees competitors go head-to-head for the title of fastest sprinter in the world..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wintersports</category>
   </programme>
-  <programme start="20150302090000 +0000" stop="20150302103000 +0000" channel="Eurosport 2">
-    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
-    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
-    <category lang="en">Sports</category>
+  <programme start="20150302003000 +0000" stop="20150302020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150302103000 +0000" stop="20150302120000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
+  <programme start="20150302020000 +0000" stop="20150302073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150302120000 +0000" stop="20150302130000 +0000" channel="Eurosport 2">
-    <title lang="en">Speed Skating: Sprint World Champs</title>
-    <desc lang="en">The 2015 ISU World Sprint Speed Skating Championships from Astana in Kazakhstan sees competitors go head-to-head for the title of fastest sprinter in the world..(n)</desc>
+  <programme start="20150302073000 +0000" stop="20150302080000 +0000" channel="Eurosport">
+    <title lang="en">Wrestling</title>
+    <desc lang="en">Action from a wrestling event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150302080000 +0000" stop="20150302084500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Wintersports</category>
   </programme>
-  <programme start="20150302130000 +0000" stop="20150302133000 +0000" channel="Eurosport 2">
+  <programme start="20150302084500 +0000" stop="20150302103000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150302103000 +0000" stop="20150302111500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS134 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun. Severin Freund of Germany and Stefan Kraft of Austria will be ones to watch..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302111500 +0000" stop="20150302120000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The HS134 team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302120000 +0000" stop="20150302130000 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302130000 +0000" stop="20150302140000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's downhill competition at the FIS World Cup round in Garmisch-Partenkirchen, Germany. Kjetil Jansrud of Norway leads the downhill standings ahead of Italy's Dominik Paris..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302140000 +0000" stop="20150302150000 +0000" channel="Eurosport">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302150000 +0000" stop="20150302160000 +0000" channel="Eurosport">
     <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
     <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20150302133000 +0000" stop="20150302150000 +0000" channel="Eurosport 2">
+  <programme start="20150302160000 +0000" stop="20150302163000 +0000" channel="Eurosport">
+    <title lang="en">Itera Expedition Race</title>
+    <desc lang="en">This five-day non-stop adventure race in Wales sees competitors cover over 600km of varying terrain, with a course featuring trekking, mountain biking, kayaking and canyoneering..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150302163000 +0000" stop="20150302180000 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">A look back at Great Britain's historic Davis Cup first round victory over USA on clay in San Diego, their first win over the US since the days of Fred Perry back in 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150302180000 +0000" stop="20150302190000 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup 2014: Review</title>
+    <desc lang="en">A look back at the 2014 Davis Cup. Having racked up multiple wins over his career, Roger Federer is aiming to win his first-ever Davis Cup title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150302190000 +0000" stop="20150302194500 +0000" channel="Eurosport">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150302194500 +0000" stop="20150302211500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150302211500 +0000" stop="20150302224500 +0000" channel="Eurosport">
     <title lang="en">Davis Cup 2014: USA vs GB</title>
     <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150302150000 +0000" stop="20150302160000 +0000" channel="Eurosport 2">
-    <title lang="en">Free Ride World Tour</title>
-    <desc lang="en">The world's best skiers and snowboarders battle it out at the Free Ride World Tour in Zermatt, Switzerland..(n)</desc>
+  <programme start="20150302224500 +0000" stop="20150302234500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">A look back at the best action from the 2015 Nordic World Ski Championships in Falun..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
+    <category lang="en">Wintersports</category>
   </programme>
-  <programme start="20150302160000 +0000" stop="20150302180000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
+  <programme start="20150302234500 +0000" stop="20150303003000 +0000" channel="Eurosport">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150302180000 +0000" stop="20150302200000 +0000" channel="Eurosport 2">
-    <title lang="en">World Darts Trophy</title>
-    <desc lang="en">The fourth and final day of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
+  <programme start="20150303003000 +0000" stop="20150303020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150303020000 +0000" stop="20150303073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150303073000 +0000" stop="20150303081500 +0000" channel="Eurosport">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150302200000 +0000" stop="20150302210000 +0000" channel="Eurosport 2">
+  <programme start="20150303081500 +0000" stop="20150303091500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The HS134 team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150303091500 +0000" stop="20150303101500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150303101500 +0000" stop="20150303111500 +0000" channel="Eurosport">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">A look back at the best action from the 2015 Nordic World Ski Championships in Falun..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150303111500 +0000" stop="20150303120000 +0000" channel="Eurosport">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150303120000 +0000" stop="20150303130000 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup 2014: Review</title>
+    <desc lang="en">A look back at the 2014 Davis Cup. Having racked up multiple wins over his career, Roger Federer is aiming to win his first-ever Davis Cup title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150303130000 +0000" stop="20150303140000 +0000" channel="Eurosport">
+    <title lang="en">Tennis: Fed Cup</title>
+    <desc lang="en">The best of the action from the opening round of the Fed Cup, the premier international team competition in women's tennis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150303140000 +0000" stop="20150303153000 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150303153000 +0000" stop="20150303163000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Hour Record Attempt</title>
+    <desc lang="en">A look back at the hour record attempt by Matthias Braendle at the World Cycling Centre velodrome in Aigle, Switzerland..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303163000 +0000" stop="20150303173000 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303173000 +0000" stop="20150303180000 +0000" channel="Eurosport">
+    <title lang="en">Strongest Man</title>
+    <desc lang="en">Coverage of the Giants Live series from Headingley Stadium in Leeds which brings together 12 of the world's biggest and best strongmen to compete in six extreme disciplines..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303180000 +0000" stop="20150303190000 +0000" channel="Eurosport">
     <title lang="en">Boxing</title>
     <desc lang="en">Former WBO European super-featherweight champion Ben Jones goes head-to-head with Giorgi Kulumbegashvili of Georgia in this action-packed night of boxing in Harrow, London..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150302210000 +0000" stop="20150302230000 +0000" channel="Eurosport 2">
+  <programme start="20150303190000 +0000" stop="20150303210000 +0000" channel="Eurosport">
     <title lang="en">Snooker: Gdynia Open</title>
     <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Snooker/Pool</category>
   </programme>
-  <programme start="20150302230000 +0000" stop="20150303003000 +0000" channel="Eurosport 2">
-    <title lang="en">Speed Skating: Sprint World Champs</title>
-    <desc lang="en">The 2015 ISU World Sprint Speed Skating Championships from Astana in Kazakhstan sees competitors go head-to-head for the title of fastest sprinter in the world..(n)</desc>
+  <programme start="20150303210000 +0000" stop="20150303230000 +0000" channel="Eurosport">
+    <title lang="en">World Darts Trophy</title>
+    <desc lang="en">The fourth and final day of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150303003000 +0000" stop="20150303020000 +0000" channel="Eurosport 2">
-    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
-    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+  <programme start="20150303230000 +0000" stop="20150303233000 +0000" channel="Eurosport">
+    <title lang="en">FIA World Touring Cars</title>
+    <desc lang="en">A look ahead to the 2015 season which starts this weekend. The grid is stronger than ever, boasting five WTCC champions, two ex-Formula One racers, plus a host of emerging drivers..(n)</desc>
     <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150303020000 +0000" stop="20150303040000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150303040000 +0000" stop="20150303053000 +0000" channel="Eurosport 2">
-    <title lang="en">Athletics</title>
-    <desc lang="en">This event in Dusseldorf sees Britain's 100m runner James Dasaolu go head-to-head with some the world's top sprinters, including ex-world champion Kim Collins and Michael Rodgers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150303053000 +0000" stop="20150303063000 +0000" channel="Eurosport 2">
-    <title lang="en">Speed Skating: Sprint World Champs</title>
-    <desc lang="en">The 2015 ISU World Sprint Speed Skating Championships from Astana in Kazakhstan sees competitors go head-to-head for the title of fastest sprinter in the world..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wintersports</category>
-  </programme>
-  <programme start="20150303063000 +0000" stop="20150303073000 +0000" channel="Eurosport 2">
-    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
-    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150303073000 +0000" stop="20150303090000 +0000" channel="Eurosport 2">
-    <title lang="en">Athletics: PSD Bank Meeting</title>
-    <desc lang="en">This event in Dusseldorf sees Britain's 100m runner James Dasaolu go head-to-head with some the world's top sprinters, including ex-world champion Kim Collins and Michael Rodgers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150303090000 +0000" stop="20150303103000 +0000" channel="Eurosport 2">
-    <title lang="en">Snooker: Gdynia Open</title>
-    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-  </programme>
-  <programme start="20150303103000 +0000" stop="20150303113000 +0000" channel="Eurosport 2">
-    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
-    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150303113000 +0000" stop="20150303123000 +0000" channel="Eurosport 2">
-    <title lang="en">Free Ride World Tour</title>
-    <desc lang="en">The world's best skiers and snowboarders battle it out at the Free Ride World Tour in Zermatt, Switzerland..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-  </programme>
-  <programme start="20150303123000 +0000" stop="20150303140000 +0000" channel="Eurosport 2">
-    <title lang="en">Athletics: PSD Bank Meeting</title>
-    <desc lang="en">This event in Dusseldorf sees Britain's 100m runner James Dasaolu go head-to-head with some the world's top sprinters, including ex-world champion Kim Collins and Michael Rodgers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150303140000 +0000" stop="20150303153000 +0000" channel="Eurosport 2">
-    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
-    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150303153000 +0000" stop="20150303163000 +0000" channel="Eurosport 2">
-    <title lang="en">Triathlon: Challenge Bahrain</title>
-    <desc lang="en">Action from the Challenge Bahrain triathlon, a spectacular middle-distance race that attracts the best ITU shorter distance triathletes with its $500,000 prize purse..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150303163000 +0000" stop="20150303170000 +0000" channel="Eurosport 2">
-    <title lang="en">The EuroLeague Basketball Show</title>
-    <desc lang="en">The latest news, results and highlights from the EuroLeague Basketball season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20150303170000 +0000" stop="20150303184500 +0000" channel="Eurosport 2">
-    <title lang="en">Eurocup Basketball</title>
-    <desc lang="en">Zenith vs Khimki: The last 16 from the 2014-15 Eurocup season, Europe's premier men's basketball competition..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <premiere />
-  </programme>
-  <programme start="20150303184500 +0000" stop="20150303190000 +0000" channel="Eurosport 2">
-    <title lang="en">WATTS</title>
-    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150303190000 +0000" stop="20150303193000 +0000" channel="Eurosport 2">
-    <title lang="en">The EuroLeague Basketball Show</title>
-    <desc lang="en">The latest news, results and highlights from the EuroLeague Basketball season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20150303193000 +0000" stop="20150303211500 +0000" channel="Eurosport 2">
-    <title lang="en">Eurocup Basketball</title>
-    <desc lang="en">Paris Levallois vs PGE Turow: The last 16 from the 2014-15 Eurocup season, Europe's premier men's basketball competition..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <premiere />
-  </programme>
-  <programme start="20150303211500 +0000" stop="20150303224500 +0000" channel="Eurosport 2">
+  <programme start="20150303233000 +0000" stop="20150304003000 +0000" channel="Eurosport">
     <title lang="en">World Superbikes</title>
     <desc lang="en">Round one at Phillip Island saw Troy Bayliss emerge from retirement to make a shock return to the series. Jonathan Rea made his Kawasaki debut alongside 2013 champion Tom Sykes..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150303224500 +0000" stop="20150303230000 +0000" channel="Eurosport 2">
+  <programme start="20150304003000 +0000" stop="20150304020000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150304020000 +0000" stop="20150304073000 +0000" channel="Eurosport">
+    <title lang="en">TV Shop</title>
+    <desc lang="en">TV Shop..(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150304073000 +0000" stop="20150304074500 +0000" channel="Eurosport">
     <title lang="en">WATTS</title>
     <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20150303230000 +0000" stop="20150304003000 +0000" channel="Eurosport 2">
-    <title lang="en">Athletics</title>
-    <desc lang="en">Action from the Indoor Meeting Karlsruhe in Germany, the first leg of the 2015 IAAF Indoor Permit series..(n)</desc>
+  <programme start="20150304074500 +0000" stop="20150304084500 +0000" channel="Eurosport">
+    <title lang="en">Tennis: Fed Cup</title>
+    <desc lang="en">The best of the action from the opening round of the Fed Cup, the premier international team competition in women's tennis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304084500 +0000" stop="20150304101500 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304101500 +0000" stop="20150304111500 +0000" channel="Eurosport">
+    <title lang="en">ITU World Triathlon Series</title>
+    <desc lang="en">A look back at the thrilling 2014 ITU World Series which saw defending champion Javier Gomez go head-to-head with Britain's Jonny and Alistair Brownlee..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150304111500 +0000" stop="20150304121500 +0000" channel="Eurosport">
+    <title lang="en">Athletics</title>
+    <desc lang="en">This event in Dusseldorf sees Britain's 100m runner James Dasaolu go head-to-head with some the world's top sprinters, including ex-world champion Kim Collins and Michael Rodgers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150304121500 +0000" stop="20150304131500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Hour Record Attempt</title>
+    <desc lang="en">Dutchman Thomas Dekker attempts to break the one hour record, set by Rohan Dennis at 52.491km, in Aguascalientes, Mexico, located at 1800m above sea level..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304131500 +0000" stop="20150304141500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304141500 +0000" stop="20150304161500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: GP Le Samyn</title>
+    <desc lang="en">Action from the GP Le Samyn, a single-day road race held annually in Fayt-le-Franc, Belgium. This year riders will tackle 13 gruelling cobblestone sections on the 201km route..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150304161500 +0000" stop="20150304164500 +0000" channel="Eurosport">
+    <title lang="en">Itera Expedition Race</title>
+    <desc lang="en">This five-day non-stop adventure race in Wales sees competitors cover over 600km of varying terrain, with a course featuring trekking, mountain biking, kayaking and canyoneering..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304164500 +0000" stop="20150304181500 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup Tennis: GB vs USA</title>
+    <desc lang="en">A look back at the World Group first round tie between Great Britain and the United States in Glasgow. GB upset the Americans at the same stage in 2014 in San Diego with a 3-1 win..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304181500 +0000" stop="20150304194500 +0000" channel="Eurosport">
+    <title lang="en">Cycling: GP Le Samyn 2015</title>
+    <desc lang="en">The GP Le Samyn, a single-day road race held annually in Fayt-le-Franc, Belgium. This year, riders will tackle 13 gruelling cobblestone sections on the 201km route..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304194500 +0000" stop="20150304200000 +0000" channel="Eurosport">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304200000 +0000" stop="20150304200500 +0000" channel="Eurosport">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304200500 +0000" stop="20150304210500 +0000" channel="Eurosport">
+    <title lang="en">Winter Equestrian Festival</title>
+    <desc lang="en">The Winter Equestrian Festival hosts the world's finest horses and horseback riders in Palm Beach County, Florida..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150304210500 +0000" stop="20150304211000 +0000" channel="Eurosport">
+    <title lang="en">Lucia's Selection</title>
+    <desc lang="en">Eurosport's Lucia Coward presents this magazine programme looking at the biggest sports event of the month featuring interviews with the top stars..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304211000 +0000" stop="20150304212500 +0000" channel="Eurosport">
+    <title lang="en">Show Jumping: FEI World Cup</title>
+    <desc lang="en">The world's top riders and their horses head to Gothenburg in Sweden for the finale of the FEI World Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150304212500 +0000" stop="20150304213000 +0000" channel="Eurosport">
+    <title lang="en">Riders Club</title>
+    <desc lang="en">A magazine show for equestrian fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150304213000 +0000" stop="20150304220000 +0000" channel="Eurosport">
+    <title lang="en">European PGA Golf</title>
+    <desc lang="en">Action from the Joburg Open at the Royal Johannesburg &amp; Kensington Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150304220000 +0000" stop="20150304220500 +0000" channel="Eurosport">
+    <title lang="en">Golf Club</title>
+    <desc lang="en">A magazine show for golf fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150304220500 +0000" stop="20150304221000 +0000" channel="Eurosport">
+    <title lang="en">Yacht Club</title>
+    <desc lang="en">The latest news and interviews from the world of competitive sailing..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150304221000 +0000" stop="20150304221500 +0000" channel="Eurosport">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304221500 +0000" stop="20150304234500 +0000" channel="Eurosport">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304234500 +0000" stop="20150305002000 +0000" channel="Eurosport">
+    <title lang="en">FIA World Touring Cars</title>
+    <desc lang="en">A look ahead to the 2015 season which starts this weekend. The grid is stronger than ever, boasting five WTCC champions, two ex-Formula One racers, plus a host of emerging drivers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150227173000 +0000" stop="20150228003000 +0000" channel="Eurosport HD">
+    <title lang="en">World Darts Trophy</title>
+    <desc lang="en">Day two of the prestigious World Darts Trophy at EventCity in Manchester. Number one seed Scott Mitchell takes on David Cameron and Ross Montgomery faces Jeff Smith..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <premiere />
+  </programme>
+  <programme start="20150228003000 +0000" stop="20150228073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150228073000 +0000" stop="20150228084500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's relay cross-country event at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150228084500 +0000" stop="20150228100000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The team HS134 nordic combined ski jumping competition at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228100000 +0000" stop="20150228103000 +0000" channel="Eurosport HD">
+    <title lang="en">Luge World Cup</title>
+    <desc lang="en">The second run of the doubles at the World Cup round in Sochi. With competitors travelling feet-first down a track at 85mph, this is one of the world's most daunting sports..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228103000 +0000" stop="20150228120000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's downhill at the FIS Alpine Skiing World Cup round in Garmisch-Partenkirchen, Germany. Austrian Matthias Mayer claimed an impressive double last time out in Saalbach..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228120000 +0000" stop="20150228133000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The women's 30km mass start combined cross-country event at the FIS Nordic World Ski Championships in Falun. Norwegian duo Marit Bjorgen and Therese Johaug will be ones to watch..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228133000 +0000" stop="20150228141500 +0000" channel="Eurosport HD">
+    <title lang="en">Luge World Cup</title>
+    <desc lang="en">The second run of the women's event at the World Cup round in Sochi. With competitors travelling feet-first down a track at 85mph, this is one of the world's most daunting sports..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150228141500 +0000" stop="20150228144500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The team HS134 nordic combined ski jumping competition at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150228144500 +0000" stop="20150228160000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The 2x7.5km nordic combined team event at the 2015 FIS Nordic World Ski Championships from Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228160000 +0000" stop="20150228180000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The HS134 team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden. Reigning champions Austria will face tough competition from the in-form Germany..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150228180000 +0000" stop="20150301000000 +0000" channel="Eurosport HD">
+    <title lang="en">World Darts Trophy</title>
+    <desc lang="en">Day three of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <premiere />
+  </programme>
+  <programme start="20150301000000 +0000" stop="20150301010000 +0000" channel="Eurosport HD">
+    <title lang="en">World Darts Trophy</title>
+    <desc lang="en">Day three of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150301010000 +0000" stop="20150301073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150301073000 +0000" stop="20150301091500 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's downhill combined at Bansko, part of the FIS Alpine Skiing World Cup. Lindsey Vonn will be looking to take her carry her good form into the combined competition..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301091500 +0000" stop="20150301103000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The first run of the men's giant-slalom at the FIS Alpine Skiing World Cup round in Garmisch-Partenkirchen. Marcel Hirscher leads the giant-slalom standings, ahead of Ted Ligety..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301103000 +0000" stop="20150301120000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's slalom combined at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Mikaela Shiffrin of the USA won the last slalom event in Maribor..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301120000 +0000" stop="20150301133000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The second run of the men's giant-slalom at the FIS Alpine Skiing World Cup round in Garmisch-Partenkirchen. Marcel Hirscher leads the giant-slalom standings, ahead of Ted Ligety..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301133000 +0000" stop="20150301150000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150301150000 +0000" stop="20150301170000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Gdynia Open</title>
+    <desc lang="en">The semi-final of the European Tour event in Gdynia, Poland..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150301170000 +0000" stop="20150301180000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150301180000 +0000" stop="20150301190000 +0000" channel="Eurosport HD">
+    <title lang="en">Show Jumping: FEI World Cup</title>
+    <desc lang="en">The world's top riders and their horses head to Gothenburg in Sweden for the finale of the FEI World Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150301190000 +0000" stop="20150301210000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Gdynia Open</title>
+    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <premiere />
+  </programme>
+  <programme start="20150301210000 +0000" stop="20150301212000 +0000" channel="Eurosport HD">
+    <title lang="en">Boxing</title>
+    <desc lang="en">Former WBO European super-featherweight champion Ben Jones goes head-to-head with Giorgi Kulumbegashvili of Georgia in this action-packed night of boxing in Harrow, London..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150301212000 +0000" stop="20150301213000 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150301213000 +0000" stop="20150301230000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150301230000 +0000" stop="20150302003000 +0000" channel="Eurosport HD">
+    <title lang="en">Speed Skating: Sprint World Champs</title>
+    <desc lang="en">The 2015 ISU World Sprint Speed Skating Championships from Astana in Kazakhstan sees competitors go head-to-head for the title of fastest sprinter in the world..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302003000 +0000" stop="20150302073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150302073000 +0000" stop="20150302080000 +0000" channel="Eurosport HD">
+    <title lang="en">Wrestling</title>
+    <desc lang="en">Action from a wrestling event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150302080000 +0000" stop="20150302084500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302084500 +0000" stop="20150302103000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+    <premiere />
+  </programme>
+  <programme start="20150302103000 +0000" stop="20150302111500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's HS134 individual ski jumping competition at the FIS Nordic World Ski Championships in Falun. Severin Freund of Germany and Stefan Kraft of Austria will be ones to watch..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302111500 +0000" stop="20150302120000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The HS134 team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302120000 +0000" stop="20150302130000 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302130000 +0000" stop="20150302140000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The men's downhill competition at the FIS World Cup round in Garmisch-Partenkirchen, Germany. Kjetil Jansrud of Norway leads the downhill standings ahead of Italy's Dominik Paris..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302140000 +0000" stop="20150302150000 +0000" channel="Eurosport HD">
+    <title lang="en">Alpine Skiing World Cup</title>
+    <desc lang="en">The women's super-G at Bansko, Bulgaria, part of the FIS Alpine Skiing World Cup. Lindsey Vonn tops the super-G leaderboard, just eight points ahead of Austrian Anna Fenninger..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302150000 +0000" stop="20150302160000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150302160000 +0000" stop="20150302163000 +0000" channel="Eurosport HD">
+    <title lang="en">Itera Expedition Race</title>
+    <desc lang="en">This five-day non-stop adventure race in Wales sees competitors cover over 600km of varying terrain, with a course featuring trekking, mountain biking, kayaking and canyoneering..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150302163000 +0000" stop="20150302180000 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150302180000 +0000" stop="20150302190000 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: Review</title>
+    <desc lang="en">A look back at the 2014 Davis Cup. Having racked up multiple wins over his career, Roger Federer is aiming to win his first-ever Davis Cup title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150302190000 +0000" stop="20150302194500 +0000" channel="Eurosport HD">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150302194500 +0000" stop="20150302211500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150302211500 +0000" stop="20150302224500 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150302224500 +0000" stop="20150302234500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">A look back at the best action from the 2015 Nordic World Ski Championships in Falun..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150302234500 +0000" stop="20150303003000 +0000" channel="Eurosport HD">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150303003000 +0000" stop="20150303073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303073000 +0000" stop="20150303081500 +0000" channel="Eurosport HD">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150303081500 +0000" stop="20150303091500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The HS134 team ski jumping competition at the FIS Nordic World Ski Championships in Falun, Sweden..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150303091500 +0000" stop="20150303101500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">The men's 50km cross-country event at the FIS Nordic World Ski Championships in Falun. Switzerland's Dario Cologna will be looking to improve on his silver medal back in 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150303101500 +0000" stop="20150303111500 +0000" channel="Eurosport HD">
+    <title lang="en">Nordic World Ski Champs</title>
+    <desc lang="en">A look back at the best action from the 2015 Nordic World Ski Championships in Falun..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wintersports</category>
+  </programme>
+  <programme start="20150303111500 +0000" stop="20150303120000 +0000" channel="Eurosport HD">
+    <title lang="en">Eurogoals</title>
+    <desc lang="en">Eurosport's weekly football show features the best goals with latest news and results from around Europe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150303120000 +0000" stop="20150303130000 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: Review</title>
+    <desc lang="en">A look back at the 2014 Davis Cup. Having racked up multiple wins over his career, Roger Federer is aiming to win his first-ever Davis Cup title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150303130000 +0000" stop="20150303140000 +0000" channel="Eurosport HD">
+    <title lang="en">Tennis: Fed Cup</title>
+    <desc lang="en">The best of the action from the opening round of the Fed Cup, the premier international team competition in women's tennis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150303140000 +0000" stop="20150303153000 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150303153000 +0000" stop="20150303163000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Hour Record Attempt</title>
+    <desc lang="en">A look back at the hour record attempt by Matthias Braendle at the World Cycling Centre velodrome in Aigle, Switzerland..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303163000 +0000" stop="20150303173000 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303173000 +0000" stop="20150303180000 +0000" channel="Eurosport HD">
+    <title lang="en">Strongest Man</title>
+    <desc lang="en">Coverage of the Giants Live series from Headingley Stadium in Leeds which brings together 12 of the world's biggest and best strongmen to compete in six extreme disciplines..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150303180000 +0000" stop="20150303190000 +0000" channel="Eurosport HD">
+    <title lang="en">Boxing</title>
+    <desc lang="en">Former WBO European super-featherweight champion Ben Jones goes head-to-head with Giorgi Kulumbegashvili of Georgia in this action-packed night of boxing in Harrow, London..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150303190000 +0000" stop="20150303210000 +0000" channel="Eurosport HD">
+    <title lang="en">Snooker: Gdynia Open</title>
+    <desc lang="en">The final of the Gdynia Open, the final European Tour event of the season. The top ranked 24 players after this event qualify for the Grand Final in Thailand..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150303210000 +0000" stop="20150303230000 +0000" channel="Eurosport HD">
+    <title lang="en">World Darts Trophy</title>
+    <desc lang="en">The fourth and final day of the prestigious World Darts Trophy at EventCity in Manchester, featuring the world's top 32 men and 16 ladies..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150303230000 +0000" stop="20150303233000 +0000" channel="Eurosport HD">
+    <title lang="en">FIA World Touring Cars</title>
+    <desc lang="en">A look ahead to the 2015 season which starts this weekend. The grid is stronger than ever, boasting five WTCC champions, two ex-Formula One racers, plus a host of emerging drivers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150303233000 +0000" stop="20150304003000 +0000" channel="Eurosport HD">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Round one at Phillip Island saw Troy Bayliss emerge from retirement to make a shock return to the series. Jonathan Rea made his Kawasaki debut alongside 2013 champion Tom Sykes..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150304003000 +0000" stop="20150304073000 +0000" channel="Eurosport HD">
+    <title lang="en">This is British Eurosport HD</title>
+    <desc lang="en">This is British Eurosport HD..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304073000 +0000" stop="20150304074500 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304074500 +0000" stop="20150304084500 +0000" channel="Eurosport HD">
+    <title lang="en">Tennis: Fed Cup</title>
+    <desc lang="en">The best of the action from the opening round of the Fed Cup, the premier international team competition in women's tennis..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304084500 +0000" stop="20150304101500 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304101500 +0000" stop="20150304111500 +0000" channel="Eurosport HD">
+    <title lang="en">ITU World Triathlon Series</title>
+    <desc lang="en">A look back at the thrilling 2014 ITU World Series which saw defending champion Javier Gomez go head-to-head with Britain's Jonny and Alistair Brownlee..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150304111500 +0000" stop="20150304121500 +0000" channel="Eurosport HD">
+    <title lang="en">Athletics</title>
+    <desc lang="en">This event in Dusseldorf sees Britain's 100m runner James Dasaolu go head-to-head with some the world's top sprinters, including ex-world champion Kim Collins and Michael Rodgers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150304121500 +0000" stop="20150304131500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Hour Record Attempt</title>
+    <desc lang="en">Dutchman Thomas Dekker attempts to break the one hour record, set by Rohan Dennis at 52.491km, in Aguascalientes, Mexico, located at 1800m above sea level..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304131500 +0000" stop="20150304141500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: Kuurne-Brussels-Kuurne</title>
+    <desc lang="en">Britain's Mark Cavendish returns to the saddle to tackle this Spring Classic, considered one of the toughest races on the professional calendar..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304141500 +0000" stop="20150304161500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: GP Le Samyn</title>
+    <desc lang="en">Action from the GP Le Samyn, a single-day road race held annually in Fayt-le-Franc, Belgium. This year riders will tackle 13 gruelling cobblestone sections on the 201km route..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150304161500 +0000" stop="20150304164500 +0000" channel="Eurosport HD">
+    <title lang="en">Itera Expedition Race</title>
+    <desc lang="en">This five-day non-stop adventure race in Wales sees competitors cover over 600km of varying terrain, with a course featuring trekking, mountain biking, kayaking and canyoneering..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304164500 +0000" stop="20150304181500 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup Tennis: GB vs USA</title>
+    <desc lang="en">A look back at the World Group first round tie between Great Britain and the United States in Glasgow. GB upset the Americans at the same stage in 2014 in San Diego with a 3-1 win..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304181500 +0000" stop="20150304194500 +0000" channel="Eurosport HD">
+    <title lang="en">Cycling: GP Le Samyn 2015</title>
+    <desc lang="en">The GP Le Samyn, a single-day road race held annually in Fayt-le-Franc, Belgium. This year, riders will tackle 13 gruelling cobblestone sections on the 201km route..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304194500 +0000" stop="20150304200000 +0000" channel="Eurosport HD">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304200000 +0000" stop="20150304200500 +0000" channel="Eurosport HD">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304200500 +0000" stop="20150304210500 +0000" channel="Eurosport HD">
+    <title lang="en">Winter Equestrian Festival</title>
+    <desc lang="en">The Winter Equestrian Festival hosts the world's finest horses and horseback riders in Palm Beach County, Florida..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150304210500 +0000" stop="20150304211000 +0000" channel="Eurosport HD">
+    <title lang="en">Lucia's Selection</title>
+    <desc lang="en">Eurosport's Lucia Coward presents this magazine programme looking at the biggest sports event of the month featuring interviews with the top stars..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304211000 +0000" stop="20150304212500 +0000" channel="Eurosport HD">
+    <title lang="en">Show Jumping: FEI World Cup</title>
+    <desc lang="en">The world's top riders and their horses head to Gothenburg in Sweden for the finale of the FEI World Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150304212500 +0000" stop="20150304213000 +0000" channel="Eurosport HD">
+    <title lang="en">Riders Club</title>
+    <desc lang="en">A magazine show for equestrian fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20150304213000 +0000" stop="20150304220000 +0000" channel="Eurosport HD">
+    <title lang="en">European PGA Golf</title>
+    <desc lang="en">Action from the Joburg Open at the Royal Johannesburg &amp; Kensington Golf Club..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150304220000 +0000" stop="20150304220500 +0000" channel="Eurosport HD">
+    <title lang="en">Golf Club</title>
+    <desc lang="en">A magazine show for golf fans featuring the latest news and interviews..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150304220500 +0000" stop="20150304221000 +0000" channel="Eurosport HD">
+    <title lang="en">Yacht Club</title>
+    <desc lang="en">The latest news and interviews from the world of competitive sailing..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150304221000 +0000" stop="20150304221500 +0000" channel="Eurosport HD">
+    <title lang="en">Wednesday Selection</title>
+    <desc lang="en">Wednesday on Eurosport is devoted to providing a selection of the best action from around the world focussing on golf, sailing and equestrian sports..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150304221500 +0000" stop="20150304234500 +0000" channel="Eurosport HD">
+    <title lang="en">Davis Cup 2014: USA vs GB</title>
+    <desc lang="en">Ahead of this week's rematch, British Eurosport takes a look back at Great Britain's historic 2014 Davis Cup victory over USA in San Diego, their first win over the US since 1935..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150304234500 +0000" stop="20150305001500 +0000" channel="Eurosport HD">
+    <title lang="en">FIA World Touring Cars</title>
+    <desc lang="en">A look ahead to the 2015 season which starts this weekend. The grid is stronger than ever, boasting five WTCC champions, two ex-Formula One racers, plus a host of emerging drivers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
   </programme>
 </tv>
