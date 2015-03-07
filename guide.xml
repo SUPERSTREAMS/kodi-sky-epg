@@ -172,99 +172,9 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150306190000 +0000" stop="20150307000000 +0000" channel="BoxNation">
-    <title lang="en">Live: Tete v Butler</title>
-    <desc lang="en">Undefeated Paul Butler returns for a tear up with Zolani Tete for the IBF World Super-Flyweight title.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307000000 +0000" stop="20150307010000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307010000 +0000" stop="20150307050000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Braehmer v Maccarinelli</title>
-    <desc lang="en">Enzo Maccarinelli heads to Rostock, Germany, to face Juergen Braehmer for the WBA World Light-Heavyweight title. Plus all the under card action. The whole night, uncut..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307050000 +0000" stop="20150307053000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307053000 +0000" stop="20150307060000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307060000 +0000" stop="20150307100000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Marquez v Alvarado</title>
-    <desc lang="en">Juan Manuel Marquez returns to the legendary LA Forum to take on Denver native Mike Alvarado. Marquez needs a win in his quest to become the first Mexican five-weight champion. The whole night Uncut..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307100000 +0000" stop="20150307103000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307103000 +0000" stop="20150307110000 +0000" channel="BoxNation">
-    <title lang="en">Black Cab Box Chat</title>
-    <desc lang="en">Bradley Skeete takes a spin round town in the world famous Hackney Cab.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307110000 +0000" stop="20150307120000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307120000 +0000" stop="20150307123000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307123000 +0000" stop="20150307170000 +0000" channel="BoxNation">
-    <title lang="en">Live: Ruenroeng v Shiming</title>
-    <desc lang="en">Fast-track world title contender Zou Shiming gets his shot at IBF World Flyweight champ Amnat Ruenroeng as he bids to secure a first world title in just his seventh fight..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307170000 +0000" stop="20150307180000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- The Full Monty II, December 2000. Three world title fights from a truly memorable event, including Joe Calzaghe versus Richie Woodhall, and Acelino Freitas against Daniel Alicea..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307180000 +0000" stop="20150307190000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- The Alexandra Pavilion in London hosts Maurizio Stecca, two time world featherweight champion, as he defends his title against stylish east-end native Colin McMillan..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307190000 +0000" stop="20150307193000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307193000 +0000" stop="20150307233000 +0000" channel="BoxNation">
+  <programme start="20150307193000 +0000" stop="20150308003000 +0000" channel="BoxNation">
     <title lang="en">Tete v Butler</title>
     <desc lang="en">Undefeated Paul Butler returns for a tear up with Zolani Tete for the IBF World Super-Flyweight title.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150307233000 +0000" stop="20150308003000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
@@ -637,6 +547,114 @@
   <programme start="20150311233000 +0000" stop="20150312003000 +0000" channel="BoxNation">
     <title lang="en">BoxNation Presents</title>
     <desc lang="en">BoxNation Presents- Scotland's 'Amazing' Alex Arthur and a young Enzo Maccarinelli are on the card as Joe Calzaghe headlines against Byron Mitchell- who had declared he would knock the Welshman out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312003000 +0000" stop="20150312043000 +0000" channel="BoxNation">
+    <title lang="en">Ruenroeng v Shiming</title>
+    <desc lang="en">Fast-track world title contender Zou Shiming gets his shot at IBF World Flyweight champ Amnat Ruenroeng as he bids to secure a first world title in just his seventh fight..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312043000 +0000" stop="20150312050000 +0000" channel="BoxNation">
+    <title lang="en">Black Cab Box Chat</title>
+    <desc lang="en">Georgie Kean takes a spin round town in the world famous Hackney Cab.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312050000 +0000" stop="20150312060000 +0000" channel="BoxNation">
+    <title lang="en">Ring Masters - Steve Collins</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall reflect on the career of tough Dublin Super Middleweight Steve Collins and his two epic World title encounters with the "Dark Destroyer" Nigel Benn..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312060000 +0000" stop="20150312100000 +0000" channel="BoxNation">
+    <title lang="en">Thurman v Guerrero</title>
+    <desc lang="en">World Championship boxing from the MGM Grand Las Vegas with unbeaten KO king Keith Thurman v Robert Guerrero, plus Adrien Broner v John Molina Jr and Abner Mares v Arturo Santos Reyes..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312100000 +0000" stop="20150312113000 +0000" channel="BoxNation">
+    <title lang="en">Bundu v Moscatiello</title>
+    <desc lang="en">Leonard Bundu defends his European Welterweight title in Italy against the well thought of Antonio Moscatiello..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312113000 +0000" stop="20150312120000 +0000" channel="BoxNation">
+    <title lang="en">Beyond the Ropes...</title>
+    <desc lang="en">.Haye v Chisora Ep 4. It started in a press conference brawl and it was settled at Upton Park on 14th July 2012. We bring you inside the camps of both fighters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312120000 +0000" stop="20150312130000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- The Full Monty II, December 2000. Three world title fights from a truly memorable event, including Joe Calzaghe versus Richie Woodhall, and Acelino Freitas against Daniel Alicea..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312130000 +0000" stop="20150312133000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312133000 +0000" stop="20150312140000 +0000" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150312140000 +0000" stop="20150312150000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- The Alexandra Pavilion in London hosts Maurizio Stecca, two time world featherweight champion, as he defends his title against stylish east-end native Colin McMillan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312150000 +0000" stop="20150312160000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Scotland's 'Amazing' Alex Arthur and a young Enzo Maccarinelli are on the card as Joe Calzaghe headlines against Byron Mitchell- who had declared he would knock the Welshman out..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312160000 +0000" stop="20150312170000 +0000" channel="BoxNation">
+    <title lang="en">Fighting Spirit</title>
+    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312170000 +0000" stop="20150312173000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312173000 +0000" stop="20150312180000 +0000" channel="BoxNation">
+    <title lang="en">Black Cab Box Chat</title>
+    <desc lang="en">Tom Baker takes a spin round town in the world famous Hackney Cab.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312180000 +0000" stop="20150312190000 +0000" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312190000 +0000" stop="20150312200000 +0000" channel="BoxNation">
+    <title lang="en">Live: Bunce's Boxing Hour</title>
+    <desc lang="en">It's back and it's live from London! Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312200000 +0000" stop="20150312203000 +0000" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150312203000 +0000" stop="20150313010000 +0000" channel="BoxNation">
+    <title lang="en">Uncut: Pacquiao v Rios</title>
+    <desc lang="en">A huge night at the Cotai Arena in Macau as Filipino legend Manny Pacquiao, coming off two losses, takes on Brandon Rios for the vacant WBO International welterweight title. The whole night uncut..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
