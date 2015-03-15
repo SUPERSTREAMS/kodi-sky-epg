@@ -172,108 +172,9 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150314180000 +0000" stop="20150315040000 +0000" channel="Sky Sports 3">
-    <title lang="en">Live: Andy Murray v Vasek Pospisil</title>
-    <desc lang="en">Day three of the ATP Masters 1000 event from Indian Wells, California. Matches include Andy Murray v Vasek Pospisil and Novak Djokovic v Marcos Baghdatis..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150315040000 +0000" stop="20150315043000 +0000" channel="Sky Sports 3">
-    <title lang="en">Sporting Greats: Roger Federer</title>
-    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150315043000 +0000" stop="20150315053000 +0000" channel="Sky Sports 3">
-    <title lang="en">Super League Highlights</title>
-    <desc lang="en">Warrington Wolves entertain Leeds Rhinos at the Halliwell Jones Stadium in Super League. The Wolves ran out 24-6 winners the last time these sides met..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20150315053000 +0000" stop="20150315060000 +0000" channel="Sky Sports 3">
-    <title lang="en">Sporting Rivalries: Coe v Ovett</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on British middle-distance runners Sebastian Coe and Steve Ovett..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150315060000 +0000" stop="20150315070000 +0000" channel="Sky Sports 3">
-    <title lang="en">Time Of Our Lives:Athletics Champs</title>
-    <desc lang="en">Gary Newbon is joined by Derek Redmond, John Regis and Kriss Akabusi to relive their golden performance in the 4 x 400m relay at the 1991 World Athletics Championships in Tokyo, Japan..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150315070000 +0000" stop="20150315080000 +0000" channel="Sky Sports 3">
-    <title lang="en">Game Changers</title>
-    <desc lang="en">This week, a Formula 1 special. Darren and Di are joined by racing driver Nicolas Hamilton and rising star George Russell, the youngest ever winner of the McLaren Autosport BRDC Award..(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Games</category>
-    <episode-num system="onscreen">E18</episode-num>
-  </programme>
-  <programme start="20150315080000 +0000" stop="20150315090000 +0000" channel="Sky Sports 3">
-    <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day three of the ATP Masters 1000 event from Indian Wells, California. Matches include Andy Murray v Vasek Pospisil and Novak Djokovic v Marcos Baghdatis..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150315090000 +0000" stop="20150315100000 +0000" channel="Sky Sports 3">
-    <title lang="en">WWE Smackdown Hlts</title>
-    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown. Matches include Ryback v The Miz. This programme contains flashing images..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <episode-num system="onscreen">E811</episode-num>
-  </programme>
-  <programme start="20150315100000 +0000" stop="20150315120000 +0000" channel="Sky Sports 3">
-    <title lang="en">International Fight Night</title>
-    <desc lang="en">Boxing from the Bell Centre in Montreal, Canada. WBO, IBF and WBA Light Heavyweight champion Sergey Kovalev takes on experienced Canadian Jean Pascal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150315120000 +0000" stop="20150315121500 +0000" channel="Sky Sports 3">
-    <title lang="en">WWE From The Vault</title>
-    <desc lang="en">Randy Orton comes up against Wade Barrett in this classic match from the WWE Vault..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20150315121500 +0000" stop="20150315124500 +0000" channel="Sky Sports 3">
-    <title lang="en">Sporting Rivalries: ENG v FRA</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20150315124500 +0000" stop="20150315150000 +0000" channel="Sky Sports 3">
-    <title lang="en">LV=Cup Rugby</title>
-    <desc lang="en">Leicester take on Exeter at Welford Road in the LV Cup semi-finals. The Tigers earned a home tie by winning all four of their group games..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <premiere />
-  </programme>
-  <programme start="20150315150000 +0000" stop="20150315153000 +0000" channel="Sky Sports 3">
-    <title lang="en">Sporting Rivalries: SA V NZ</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20150315153000 +0000" stop="20150315154500 +0000" channel="Sky Sports 3">
-    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
-    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-  </programme>
-  <programme start="20150315154500 +0000" stop="20150315160000 +0000" channel="Sky Sports 3">
-    <title lang="en">Darts Gold: Taylor v Mardle</title>
-    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-  </programme>
-  <programme start="20150315160000 +0000" stop="20150315180000 +0000" channel="Sky Sports 3">
-    <title lang="en">International Fight Night</title>
-    <desc lang="en">Boxing from the Bell Centre in Montreal, Canada. WBO, IBF and WBA Light Heavyweight champion Sergey Kovalev takes on experienced Canadian Jean Pascal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
   <programme start="20150315180000 +0000" stop="20150316040000 +0000" channel="Sky Sports 3">
     <title lang="en">Indian Wells Masters Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <premiere />
@@ -325,7 +226,7 @@
   </programme>
   <programme start="20150316080000 +0000" stop="20150316090000 +0000" channel="Sky Sports 3">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -343,7 +244,7 @@
   </programme>
   <programme start="20150316113000 +0000" stop="20150316123000 +0000" channel="Sky Sports 3">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -355,7 +256,7 @@
   </programme>
   <programme start="20150316124500 +0000" stop="20150316150000 +0000" channel="Sky Sports 3">
     <title lang="en">LV=Cup Rugby</title>
-    <desc lang="en">Leicester take on Exeter at Welford Road in the LV Cup semi-finals. The Tigers earned a home tie by winning all four of their group games..(n)</desc>
+    <desc lang="en">Leicester take on Exeter at Welford Road in the LV Cup semi-finals. The winners will play Saracens in the final at Franklin's Gardens next Sunday..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
   </programme>
@@ -367,7 +268,7 @@
   </programme>
   <programme start="20150316170000 +0000" stop="20150316180000 +0000" channel="Sky Sports 3">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -829,108 +730,158 @@
     <category lang="en">Wrestling</category>
     <episode-num system="onscreen">E1138</episode-num>
   </programme>
-  <programme start="20150314180000 +0000" stop="20150315040000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Live: Andy Murray v Vasek Pospisil</title>
-    <desc lang="en">Day three of the ATP Masters 1000 event from Indian Wells, California. Matches include Andy Murray v Vasek Pospisil and Novak Djokovic v Marcos Baghdatis..(n)</desc>
+  <programme start="20150320013000 +0000" stop="20150320020000 +0000" channel="Sky Sports 3">
+    <title lang="en">Barclays Premier League World</title>
+    <desc lang="en">A round-up of all the latest headlines from the Barclays Premier League. Including interviews with players and managers, vital team news and insider knowledge..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20150320020000 +0000" stop="20150320040000 +0000" channel="Sky Sports 3">
+    <title lang="en">Indian Wells Masters Tennis</title>
+    <desc lang="en">Day eight of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150315040000 +0000" stop="20150315043000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Greats: Roger Federer</title>
-    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150315043000 +0000" stop="20150315053000 +0000" channel="Sky Sports 3 HD">
+  <programme start="20150320040000 +0000" stop="20150320050000 +0000" channel="Sky Sports 3">
     <title lang="en">Super League Highlights</title>
-    <desc lang="en">Warrington Wolves entertain Leeds Rhinos at the Halliwell Jones Stadium in Super League. The Wolves ran out 24-6 winners the last time these sides met..(n)</desc>
+    <desc lang="en">Reigning champions St Helens welcome Warrington Wolves to Langtree Park in round six of Super League. The Wolves earned a comprehensive 39-12 win over the Saints here last year..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150315053000 +0000" stop="20150315060000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Rivalries: Coe v Ovett</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on British middle-distance runners Sebastian Coe and Steve Ovett..(n)</desc>
+  <programme start="20150320050000 +0000" stop="20150320053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Barclays Premier League World</title>
+    <desc lang="en">A round-up of all the latest headlines from the Barclays Premier League. Including interviews with players and managers, vital team news and insider knowledge..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">E34</episode-num>
   </programme>
-  <programme start="20150315060000 +0000" stop="20150315070000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Time Of Our Lives:Athletics Champs</title>
-    <desc lang="en">Gary Newbon is joined by Derek Redmond, John Regis and Kriss Akabusi to relive their golden performance in the 4 x 400m relay at the 1991 World Athletics Championships in Tokyo, Japan..(n)</desc>
+  <programme start="20150320053000 +0000" stop="20150320054500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2012</title>
+    <desc lang="en">A chance to relive the 2012 Super League Grand Final between Leeds Rhinos and Warrington Wolves. The Rhinos were gunning for their fifth title in six seasons..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150315070000 +0000" stop="20150315080000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Game Changers</title>
-    <desc lang="en">This week, a Formula 1 special. Darren and Di are joined by racing driver Nicolas Hamilton and rising star George Russell, the youngest ever winner of the McLaren Autosport BRDC Award..(n)</desc>
-    <category lang="en">Children</category>
-    <category lang="en">Games</category>
-    <episode-num system="onscreen">E18</episode-num>
+  <programme start="20150320054500 +0000" stop="20150320060000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2013</title>
+    <desc lang="en">The 2013 Super League Grand Final between Warrington Wolves and Wigan Warriors. Warrington beat Huddersfield Giants in the semi-finals, while Wigan saw off Leeds Rhinos..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150315080000 +0000" stop="20150315090000 +0000" channel="Sky Sports 3 HD">
+  <programme start="20150320060000 +0000" stop="20150320063000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the Masters 1000, 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20150320063000 +0000" stop="20150320070000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Slam City</title>
+    <desc lang="en">When The Finisher takes over the WWE, the Superstars are fired and forced to find new jobs. John Cena and others are sent to Slam City in search of work in this fun new animated series..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150320070000 +0000" stop="20150320080000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Catch up with all the action on the latest edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20150320080000 +0000" stop="20150320090000 +0000" channel="Sky Sports 3">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day three of the ATP Masters 1000 event from Indian Wells, California. Matches include Andy Murray v Vasek Pospisil and Novak Djokovic v Marcos Baghdatis..(n)</desc>
+    <desc lang="en">Day eight of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150315090000 +0000" stop="20150315100000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">WWE Smackdown Hlts</title>
-    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown. Matches include Ryback v The Miz. This programme contains flashing images..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <episode-num system="onscreen">E811</episode-num>
-  </programme>
-  <programme start="20150315100000 +0000" stop="20150315120000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">International Fight Night</title>
-    <desc lang="en">Boxing from the Bell Centre in Montreal, Canada. WBO, IBF and WBA Light Heavyweight champion Sergey Kovalev takes on experienced Canadian Jean Pascal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150315120000 +0000" stop="20150315121500 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">WWE From The Vault</title>
-    <desc lang="en">Randy Orton comes up against Wade Barrett in this classic match from the WWE Vault..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20150315121500 +0000" stop="20150315124500 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Rivalries: ENG v FRA</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+  <programme start="20150320090000 +0000" stop="20150320100000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Reigning champions St Helens welcome Warrington Wolves to Langtree Park in round six of Super League. The Wolves earned a comprehensive 39-12 win over the Saints here last year..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150315124500 +0000" stop="20150315150000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">LV=Cup Rugby</title>
-    <desc lang="en">Leicester take on Exeter at Welford Road in the LV Cup semi-finals. The Tigers earned a home tie by winning all four of their group games..(n)</desc>
+  <programme start="20150320100000 +0000" stop="20150320103000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Slam City</title>
+    <desc lang="en">When The Finisher takes over the WWE, the Superstars are fired and forced to find new jobs. John Cena and others are sent to Slam City in search of work in this fun new animated series..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150320103000 +0000" stop="20150320110000 +0000" channel="Sky Sports 3">
+    <title lang="en">World Rugby</title>
+    <desc lang="en">From the Rugby World Cup to the grassroots game, this weekly magazine show features highlights, news and features from every level of the sport..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E176</episode-num>
+  </programme>
+  <programme start="20150320110000 +0000" stop="20150320113000 +0000" channel="Sky Sports 3">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150320113000 +0000" stop="20150320120000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the Masters 1000, 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20150320120000 +0000" stop="20150320140000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">The Highlanders take on the Hurricanes at the Forsyth Barr Stadium, Dunedin, in round six of Super Rugby. The Hurricanes lost both fixtures to the Highlanders last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320140000 +0000" stop="20150320160000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Melbourne Rebels face the Lions at AAMI Park in round six of Super Rugby. The Lions defeated the Rebels 34-17 when they last met in July..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320160000 +0000" stop="20150320180000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring WWE Superstars such as John Cena and Big Show. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1138</episode-num>
+  </programme>
+  <programme start="20150320180000 +0000" stop="20150320190000 +0000" channel="Sky Sports 3">
+    <title lang="en">Tight Lines</title>
+    <desc lang="en">Each week Keith Arthur is joined in the studio by an expert from the world of fishing, with a look at the latest angling news and all the tips and tactics you could need..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20150320190000 +0000" stop="20150320193000 +0000" channel="Sky Sports 3">
+    <title lang="en">Champions League Weekly</title>
+    <desc lang="en">The show featuring top action from the UEFA Champions League. Plus, analysis ahead of the forthcoming fixtures from some of football's biggest names..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150320193000 +0000" stop="20150320221500 +0000" channel="Sky Sports 3">
+    <title lang="en">Super League</title>
+    <desc lang="en">Leeds welcome Wigan to Headingley Stadium in Super League. The Rhinos won last season's fixture 28-12 with tries from Tom Briscoe, Ryan Hall, Danny McGuire, Zak Hardaker and Liam Sutcliffe..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <premiere />
   </programme>
-  <programme start="20150315150000 +0000" stop="20150315153000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Rivalries: SA V NZ</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+  <programme start="20150320221500 +0000" stop="20150320223000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2002</title>
+    <desc lang="en">A chance to relive the 2002 Super League Grand Final between St Helens and Bradford Bulls. The Bulls came into the game as defending champions..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150315153000 +0000" stop="20150315154500 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
-    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+  <programme start="20150320223000 +0000" stop="20150321003000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring all your favourite WWE stars. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-  </programme>
-  <programme start="20150315154500 +0000" stop="20150315160000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">Darts Gold: Taylor v Mardle</title>
-    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Darts</category>
-  </programme>
-  <programme start="20150315160000 +0000" stop="20150315180000 +0000" channel="Sky Sports 3 HD">
-    <title lang="en">International Fight Night</title>
-    <desc lang="en">Boxing from the Bell Centre in Montreal, Canada. WBO, IBF and WBA Light Heavyweight champion Sergey Kovalev takes on experienced Canadian Jean Pascal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E813</episode-num>
   </programme>
   <programme start="20150315180000 +0000" stop="20150316040000 +0000" channel="Sky Sports 3 HD">
     <title lang="en">Indian Wells Masters Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <premiere />
@@ -982,7 +933,7 @@
   </programme>
   <programme start="20150316080000 +0000" stop="20150316090000 +0000" channel="Sky Sports 3 HD">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -1000,7 +951,7 @@
   </programme>
   <programme start="20150316113000 +0000" stop="20150316123000 +0000" channel="Sky Sports 3 HD">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -1012,7 +963,7 @@
   </programme>
   <programme start="20150316124500 +0000" stop="20150316150000 +0000" channel="Sky Sports 3 HD">
     <title lang="en">LV=Cup Rugby</title>
-    <desc lang="en">Leicester take on Exeter at Welford Road in the LV Cup semi-finals. The Tigers earned a home tie by winning all four of their group games..(n)</desc>
+    <desc lang="en">Leicester take on Exeter at Welford Road in the LV Cup semi-finals. The winners will play Saracens in the final at Franklin's Gardens next Sunday..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
   </programme>
@@ -1024,7 +975,7 @@
   </programme>
   <programme start="20150316170000 +0000" stop="20150316180000 +0000" channel="Sky Sports 3 HD">
     <title lang="en">Indian Wells Tennis</title>
-    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <desc lang="en">Day four of the ATP Masters 1000 event from Indian Wells, California. Matches include Nick Kyrgios v Grigor Dimitrov, Roger Federer v Diego Schwartzman and Rafael Nadal v Igor Sijsling..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -1485,5 +1436,154 @@
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
     <episode-num system="onscreen">E1138</episode-num>
+  </programme>
+  <programme start="20150320013000 +0000" stop="20150320020000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Barclays Premier League World</title>
+    <desc lang="en">A round-up of all the latest headlines from the Barclays Premier League. Including interviews with players and managers, vital team news and insider knowledge..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20150320020000 +0000" stop="20150320040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Indian Wells Masters Tennis</title>
+    <desc lang="en">Day eight of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150320040000 +0000" stop="20150320050000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Reigning champions St Helens welcome Warrington Wolves to Langtree Park in round six of Super League. The Wolves earned a comprehensive 39-12 win over the Saints here last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320050000 +0000" stop="20150320053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Barclays Premier League World</title>
+    <desc lang="en">A round-up of all the latest headlines from the Barclays Premier League. Including interviews with players and managers, vital team news and insider knowledge..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">E34</episode-num>
+  </programme>
+  <programme start="20150320053000 +0000" stop="20150320054500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2012</title>
+    <desc lang="en">A chance to relive the 2012 Super League Grand Final between Leeds Rhinos and Warrington Wolves. The Rhinos were gunning for their fifth title in six seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320054500 +0000" stop="20150320060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2013</title>
+    <desc lang="en">The 2013 Super League Grand Final between Warrington Wolves and Wigan Warriors. Warrington beat Huddersfield Giants in the semi-finals, while Wigan saw off Leeds Rhinos..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320060000 +0000" stop="20150320063000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the Masters 1000, 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20150320063000 +0000" stop="20150320070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Slam City</title>
+    <desc lang="en">When The Finisher takes over the WWE, the Superstars are fired and forced to find new jobs. John Cena and others are sent to Slam City in search of work in this fun new animated series..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150320070000 +0000" stop="20150320080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Catch up with all the action on the latest edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20150320080000 +0000" stop="20150320090000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Indian Wells Tennis</title>
+    <desc lang="en">Day eight of the ATP Masters 1000 event from Indian Wells, California..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150320090000 +0000" stop="20150320100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Reigning champions St Helens welcome Warrington Wolves to Langtree Park in round six of Super League. The Wolves earned a comprehensive 39-12 win over the Saints here last year..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320100000 +0000" stop="20150320103000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Slam City</title>
+    <desc lang="en">When The Finisher takes over the WWE, the Superstars are fired and forced to find new jobs. John Cena and others are sent to Slam City in search of work in this fun new animated series..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150320103000 +0000" stop="20150320110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">World Rugby</title>
+    <desc lang="en">From the Rugby World Cup to the grassroots game, this weekly magazine show features highlights, news and features from every level of the sport..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E176</episode-num>
+  </programme>
+  <programme start="20150320110000 +0000" stop="20150320113000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150320113000 +0000" stop="20150320120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the Masters 1000, 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20150320120000 +0000" stop="20150320140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">The Highlanders take on the Hurricanes at the Forsyth Barr Stadium, Dunedin, in round six of Super Rugby. The Hurricanes lost both fixtures to the Highlanders last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320140000 +0000" stop="20150320160000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Melbourne Rebels face the Lions at AAMI Park in round six of Super Rugby. The Lions defeated the Rebels 34-17 when they last met in July..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320160000 +0000" stop="20150320180000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action featuring WWE Superstars such as John Cena and Big Show. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E1138</episode-num>
+  </programme>
+  <programme start="20150320180000 +0000" stop="20150320190000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Tight Lines</title>
+    <desc lang="en">Each week Keith Arthur is joined in the studio by an expert from the world of fishing, with a look at the latest angling news and all the tips and tactics you could need..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20150320190000 +0000" stop="20150320193000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Champions League Weekly</title>
+    <desc lang="en">The show featuring top action from the UEFA Champions League. Plus, analysis ahead of the forthcoming fixtures from some of football's biggest names..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150320193000 +0000" stop="20150320221500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League</title>
+    <desc lang="en">Leeds welcome Wigan to Headingley Stadium in Super League. The Rhinos won last season's fixture 28-12 with tries from Tom Briscoe, Ryan Hall, Danny McGuire, Zak Hardaker and Liam Sutcliffe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150320221500 +0000" stop="20150320223000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2002</title>
+    <desc lang="en">A chance to relive the 2002 Super League Grand Final between St Helens and Bradford Bulls. The Bulls came into the game as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150320223000 +0000" stop="20150321003000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring all your favourite WWE stars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E813</episode-num>
   </programme>
 </tv>
