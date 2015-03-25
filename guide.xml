@@ -172,472 +172,1228 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150324200000 +0000" stop="20150325010000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Tete v Butler</title>
-    <desc lang="en">A packed-out Echo Arena, and a whole host of Liverpool's finest fighters- Paul Butler headlines against South African Zolani Tete in a bid to become a two-weight world champion. The whole night uncut..(n)</desc>
+  <programme start="20150325150000 +0000" stop="20150326013000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day one of the ATP Masters 1000 tournament from Miami. Matches include young British star Kyle Edmund v Robin Haase..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150325010000 +0000" stop="20150325033000 +0000" channel="BoxNation">
-    <title lang="en">Gomez v Kamegai</title>
-    <desc lang="en">The Fantasy Springs Resort Casino in Palm Springs will be home to a gruelling 10 round battle between two big punching light-middleweights as tough Alfonso Gomez faces Japan's Yoshihiro Kamegai..(n)</desc>
+  <programme start="20150326013000 +0000" stop="20150326023000 +0000" channel="Sky Sports 3">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20150325033000 +0000" stop="20150325040000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150326023000 +0000" stop="20150326033000 +0000" channel="Sky Sports 3">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325040000 +0000" stop="20150325050000 +0000" channel="BoxNation">
-    <title lang="en">Fighting Spirit</title>
-    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
+  <programme start="20150326033000 +0000" stop="20150326034500 +0000" channel="Sky Sports 3">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">Great Britain take on Australia in this 2001 International Speedway classic..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325050000 +0000" stop="20150325060000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
+  <programme start="20150326034500 +0000" stop="20150326040000 +0000" channel="Sky Sports 3">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway moments. Great Britain take on Denmark in this International Speedway match-up from 2001..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325060000 +0000" stop="20150325093000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Stiverne v Wilder</title>
-    <desc lang="en">Bermane Stiverne takes on Deontay Wilder- the first world heavyweight title fight in Las Vegas since 2006. Stiverne is the champion, but Wilder boasts a 32 win, 32 KO record. The whole night uncut..(n)</desc>
+  <programme start="20150326040000 +0000" stop="20150326041500 +0000" channel="Sky Sports 3">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway moments. Coventry face Wolves in this 1999 Elite League fixture..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325093000 +0000" stop="20150325100000 +0000" channel="BoxNation">
-    <title lang="en">Magee v Markussen</title>
-    <desc lang="en">Ireland's Brian Magee defends his World Super Middleweight title against the big punching Dane Rudy Markussen in Copenhagen..(n)</desc>
+  <programme start="20150326041500 +0000" stop="20150326043000 +0000" channel="Sky Sports 3">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway meetings: Wolverhampton Wolves face Ipswich Witches in 2004..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325100000 +0000" stop="20150325133000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Crawford v Gamboa</title>
-    <desc lang="en">America's Terence Crawford takes on Cuban Olympic gold medallist Yuriorkis Gamboa in his hometown of Omaha, Nebraska. This was a pulsating match for the WBO lightweight title. The whole night Uncut..(n)</desc>
+  <programme start="20150326043000 +0000" stop="20150326053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325133000 +0000" stop="20150325140000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
+  <programme start="20150326053000 +0000" stop="20150326054500 +0000" channel="Sky Sports 3">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway meetings: Poole Pirates take on Coventry Bees in the second leg of the 2010 Grand Final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325140000 +0000" stop="20150325150000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
+  <programme start="20150326054500 +0000" stop="20150326060000 +0000" channel="Sky Sports 3">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway moments. Here is the British speedway final from 2013..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325150000 +0000" stop="20150325173000 +0000" channel="BoxNation">
-    <title lang="en">Gomez v Kamegai</title>
-    <desc lang="en">The Fantasy Springs Resort Casino in Palm Springs will be home to a gruelling 10 round battle between two big punching light-middleweights as tough Alfonso Gomez faces Japan's Yoshihiro Kamegai..(n)</desc>
+  <programme start="20150326060000 +0000" stop="20150326070000 +0000" channel="Sky Sports 3">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20150325173000 +0000" stop="20150325180000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150326070000 +0000" stop="20150326080000 +0000" channel="Sky Sports 3">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325180000 +0000" stop="20150325190000 +0000" channel="BoxNation">
-    <title lang="en">Ring Masters - Steve Robinson</title>
-    <desc lang="en">Jim Rosenthal and Richie Woodhall assess the career of the Cinderella Man Steve Robinson through two of his finest performances against Colin McMillan and Paul Hodkinson..(n)</desc>
+  <programme start="20150326080000 +0000" stop="20150326083000 +0000" channel="Sky Sports 3">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">In this episode, the crew team up with former Springbok rugby captain Bob Skinstad and The WildFly Fishing Team on the Lower Zambezi..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20150325190000 +0000" stop="20150325210000 +0000" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">1992 and Lennox Lewis faces Mike Dixon as he gets ever closer to his world title shot. Also a look back in time to November 1965, Muhammad Ali v Floyd Patterson.(n)</desc>
+  <programme start="20150326083000 +0000" stop="20150326090000 +0000" channel="Sky Sports 3">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. In this episode, the crew stay at the Royal Chundu Lodge while enjoying their favourite pastime..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E22</episode-num>
   </programme>
-  <programme start="20150325210000 +0000" stop="20150325220000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
+  <programme start="20150326090000 +0000" stop="20150326100000 +0000" channel="Sky Sports 3">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150325220000 +0000" stop="20150326003000 +0000" channel="BoxNation">
-    <title lang="en">Gomez v Kamegai</title>
-    <desc lang="en">The Fantasy Springs Resort Casino in Palm Springs will be home to a gruelling 10 round battle between two big punching light-middleweights as tough Alfonso Gomez faces Japan's Yoshihiro Kamegai..(n)</desc>
+  <programme start="20150326100000 +0000" stop="20150326110000 +0000" channel="Sky Sports 3">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20150326003000 +0000" stop="20150326010000 +0000" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Louise Hazel visits the boxers away from the blood, sweat and tears of the gym and the ring to see what really makes them tick.(n)</desc>
+  <programme start="20150326110000 +0000" stop="20150326113000 +0000" channel="Sky Sports 3">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Racing</category>
   </programme>
-  <programme start="20150326010000 +0000" stop="20150326013000 +0000" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+  <programme start="20150326113000 +0000" stop="20150326120000 +0000" channel="Sky Sports 3">
+    <title lang="en">InCycle</title>
+    <desc lang="en">Behind the scenes with MTN-Qhubeka at the first racing Monument of the season. Plus, Milan-San Remo winner John Degenkolb looks ahead to this weekend's Gent-Wevelgem race..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20150326013000 +0000" stop="20150326020000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150326120000 +0000" stop="20150326123000 +0000" channel="Sky Sports 3">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">In this episode, the crew team up with former Springbok rugby captain Bob Skinstad and The WildFly Fishing Team on the Lower Zambezi..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20150326020000 +0000" stop="20150326030000 +0000" channel="BoxNation">
-    <title lang="en">Best of Bunce's Boxing Hour</title>
-    <desc lang="en">A look back at the best of February on the Boxing Hour. Featuring John Fury and Anthony Crolla, Frank Buglioni cooking up breakfast for Steve Lillis, and a visit from the inimitable Chris Eubank..(n)</desc>
+  <programme start="20150326123000 +0000" stop="20150326130000 +0000" channel="Sky Sports 3">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. In this episode, the crew stay at the Royal Chundu Lodge while enjoying their favourite pastime..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E22</episode-num>
   </programme>
-  <programme start="20150326030000 +0000" stop="20150326040000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
+  <programme start="20150326130000 +0000" stop="20150326140000 +0000" channel="Sky Sports 3">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Motor Sport</category>
   </programme>
-  <programme start="20150326040000 +0000" stop="20150326060000 +0000" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">1992 and Lennox Lewis faces Mike Dixon as he gets ever closer to his world title shot. Also a look back in time to November 1965, Muhammad Ali v Floyd Patterson.(n)</desc>
+  <programme start="20150326140000 +0000" stop="20150326150000 +0000" channel="Sky Sports 3">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150326150000 +0000" stop="20150326160000 +0000" channel="Sky Sports 3">
+    <title lang="en">The Race Of Remembrance</title>
+    <desc lang="en">The inaugural Race of Remembrance at Anglesey Circuit. Wounded and injured military personnel, as well as army veterans, are among the entrants in this eight-hour endurance race..(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
   </programme>
-  <programme start="20150326060000 +0000" stop="20150326093000 +0000" channel="BoxNation">
-    <title lang="en">Uncut Hall v Butler</title>
-    <desc lang="en">Stuart Hall defends his IBF World Bantamweight crown against Ellesmere Port's Paul Butler in a thrilling all-British fight in Newcastle.(n)</desc>
+  <programme start="20150326160000 +0000" stop="20150326163000 +0000" channel="Sky Sports 3">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">In this episode, the crew team up with former Springbok rugby captain Bob Skinstad and The WildFly Fishing Team on the Lower Zambezi..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20150326093000 +0000" stop="20150326113000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Total Combat</title>
-    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
+  <programme start="20150326163000 +0000" stop="20150326183000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action as the build-up to WrestleMania intensifies. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Wrestling</category>
   </programme>
-  <programme start="20150326113000 +0000" stop="20150326133000 +0000" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">1992 and Lennox Lewis faces Mike Dixon as he gets ever closer to his world title shot. Also a look back in time to November 1965, Muhammad Ali v Floyd Patterson.(n)</desc>
+  <programme start="20150326183000 +0000" stop="20150326190000 +0000" channel="Sky Sports 3">
+    <title lang="en">World Rugby</title>
+    <desc lang="en">From the Rugby World Cup to the grassroots game, this weekly magazine show features highlights, news and features from every level of the sport..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150326133000 +0000" stop="20150326140000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
+  <programme start="20150326190000 +0000" stop="20150326193000 +0000" channel="Sky Sports 3">
+    <title lang="en">Rugby Club: Six Nations Review</title>
+    <desc lang="en">Alex Payne is joined by Shane Horgan, Stuart Barnes, Gareth Thomas and Rory Lawson to assess all the final-day drama from the Six Nations..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E177</episode-num>
   </programme>
-  <programme start="20150326140000 +0000" stop="20150326163000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Garcia v Salka</title>
-    <desc lang="en">August 2014, Brooklyn Center, New York. Unbeaten Danny Garcia in devastating form against Rod Salka in the main event plus 2 world championship bouts. The whole night, uncut..(n)</desc>
+  <programme start="20150326193000 +0000" stop="20150326221500 +0000" channel="Sky Sports 3">
+    <title lang="en">Super League</title>
+    <desc lang="en">Salford Red Devils host Widnes Vikings in round seven of Super League. Salford stand-off Rangi Chase is one to watch due to his outstanding sleight of hand and unpredictable play..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150326163000 +0000" stop="20150326170000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150326221500 +0000" stop="20150326223000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2012</title>
+    <desc lang="en">A chance to relive the 2012 Super League Grand Final between Leeds Rhinos and Warrington Wolves. The Rhinos were gunning for their fifth title in six seasons..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150326170000 +0000" stop="20150326180000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Irishman Wayne McCullough enters the Brayhead Arena in Glasgow to take on Scotland's own Scott Harrison. Another Scot, Alex Arthur, also gets his chance at a world title..(n)</desc>
+  <programme start="20150326223000 +0000" stop="20150326233000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Catch up with all the action on the latest edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20150326180000 +0000" stop="20150326190000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
+  <programme start="20150326233000 +0000" stop="20150327030000 +0000" channel="Sky Sports 3">
+    <title lang="en">Premier League Darts</title>
+    <desc lang="en">Round eight of the 2015 Betway Premier League Darts from the 3Arena, Dublin. Matches include Michael van Gerwen V Raymond van Barneveld and Phil Taylor V Kim Huybrechts..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150326190000 +0000" stop="20150326200000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+  <programme start="20150327030000 +0000" stop="20150327035500 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Heroes: A P McCoy</title>
+    <desc lang="en">Gary Newbon talks to Tony McCoy about his glittering career in horse racing. A 19-time British Champion Jump Jockey, McCoy has won over 4,000 races during his career..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Racing</category>
   </programme>
-  <programme start="20150326200000 +0000" stop="20150326203000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150327035500 +0000" stop="20150327045000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Salford Red Devils face Widnes Vikings at the AJ Bell Stadium in week seven of the 2015 Super League. The Red Devils beat the Vikings 36-6 on the final day of last season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150326203000 +0000" stop="20150326213000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- The Full Monty II, December 2000. Three world title fights from a truly memorable event, including Joe Calzaghe versus Richie Woodhall, and Acelino Freitas against Daniel Alicea..(n)</desc>
+  <programme start="20150327045000 +0000" stop="20150327060000 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day one of the HSBC Sevens World Series at Hong Kong Stadium. In last year's Cup final, New Zealand defeated England 26-7..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150326213000 +0000" stop="20150326220000 +0000" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+  <programme start="20150327060000 +0000" stop="20150327092000 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day one of the HSBC Sevens World Series at Hong Kong Stadium. In last year's Cup final, New Zealand defeated England 26-7..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150326220000 +0000" stop="20150327000000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Total Combat</title>
-    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
+  <programme start="20150327092000 +0000" stop="20150327095000 +0000" channel="Sky Sports 3">
+    <title lang="en">Rugby Club: Six Nations Review</title>
+    <desc lang="en">Alex Payne is joined by Shane Horgan, Stuart Barnes, Gareth Thomas and Rory Lawson to assess all the final-day drama from the Six Nations..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150327000000 +0000" stop="20150327010000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+  <programme start="20150327095000 +0000" stop="20150327100500 +0000" channel="Sky Sports 3">
+    <title lang="en">Football Gold: Liverpool v Arsenal</title>
+    <desc lang="en">A chance to relive the top-flight clash between Liverpool and Arsenal at Anfield from 2009. This thrilling game produced eight goals, four of which were scored by the same player..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150327010000 +0000" stop="20150327013000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150327100500 +0000" stop="20150327130500 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day one of the HSBC Sevens World Series at Hong Kong Stadium. In last year's Cup final, New Zealand defeated England 26-7..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150327013000 +0000" stop="20150327040000 +0000" channel="BoxNation">
-    <title lang="en">Gomez v Kamegai</title>
-    <desc lang="en">The Fantasy Springs Resort Casino in Palm Springs will be home to a gruelling 10 round battle between two big punching light-middleweights as tough Alfonso Gomez faces Japan's Yoshihiro Kamegai..(n)</desc>
+  <programme start="20150327130500 +0000" stop="20150327133500 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150327040000 +0000" stop="20150327043000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation meets Michael Buffer</title>
-    <desc lang="en">"Let's get ready to rumble" living legend Michael Buffer in conversation with BoxNation's own legend that is Jim Rosenthal..(n)</desc>
+  <programme start="20150327133500 +0000" stop="20150327140500 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150327043000 +0000" stop="20150327053000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Irishman Wayne McCullough enters the Brayhead Arena in Glasgow to take on Scotland's own Scott Harrison. Another Scot, Alex Arthur, also gets his chance at a world title..(n)</desc>
+  <programme start="20150327140500 +0000" stop="20150327142000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2006</title>
+    <desc lang="en">A chance to relive the 2006 Super League Grand Final between St Helens and Hull FC. The Black and Whites were making their first-ever appearance in the season-ending showpiece..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150327053000 +0000" stop="20150327060000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150327142000 +0000" stop="20150327143000 +0000" channel="Sky Sports 3">
+    <title lang="en">Football Gold: Arsenal v Man Utd</title>
+    <desc lang="en">Relive Arsenal's meeting with Manchester United at Highbury in September 1998. United were looking for three vital points against the reigning league champions but would they succeed?.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150327060000 +0000" stop="20150327080000 +0000" channel="BoxNation">
-    <title lang="en">Abril v Bogere</title>
-    <desc lang="en">Unbeaten Ugandan Sharif Bogere faces Cuban Richard Abril for the WBA World Lighweight Championship title in this New York rumble in the ring..(n)</desc>
+  <programme start="20150327143000 +0000" stop="20150327150000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150327080000 +0000" stop="20150327100000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Total Combat</title>
-    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
+  <programme start="20150327150000 +0000" stop="20150328033000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day three of the ATP Masters 1000 tournament from Miami..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150327100000 +0000" stop="20150327103000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150328033000 +0000" stop="20150328040000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150327103000 +0000" stop="20150327123000 +0000" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">1992 and Lennox Lewis faces Mike Dixon as he gets ever closer to his world title shot. Also a look back in time to November 1965, Muhammad Ali v Floyd Patterson.(n)</desc>
+  <programme start="20150328040000 +0000" stop="20150328041500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327123000 +0000" stop="20150327130000 +0000" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+  <programme start="20150328041500 +0000" stop="20150328043000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327130000 +0000" stop="20150327133000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150328043000 +0000" stop="20150328044500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327133000 +0000" stop="20150327140000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
+  <programme start="20150328044500 +0000" stop="20150328050000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327140000 +0000" stop="20150327160000 +0000" channel="BoxNation">
-    <title lang="en">Freeview: Total Combat</title>
-    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
+  <programme start="20150328050000 +0000" stop="20150328051500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Lloyd V Part</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Colin Lloyd against John Part in the final of the 2005 World Matchplay..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327160000 +0000" stop="20150327170000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+  <programme start="20150328051500 +0000" stop="20150328053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Adrian Lewis in the semi-finals of the 2010 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327170000 +0000" stop="20150327173000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150328053000 +0000" stop="20150328054500 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327173000 +0000" stop="20150327180000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150328054500 +0000" stop="20150328060000 +0000" channel="Sky Sports 3">
+    <title lang="en">Darts Gold:Gerwen v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Raymond van Barneveld in the final of the 2012 Grand Slam of Darts at the Wolverhampton Civic Hall..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Darts</category>
   </programme>
-  <programme start="20150327180000 +0000" stop="20150327190000 +0000" channel="BoxNation">
-    <title lang="en">Live: Bunce's Boxing Hour</title>
-    <desc lang="en">It's back and it's live from London! Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+  <programme start="20150328060000 +0000" stop="20150328061500 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2010</title>
+    <desc lang="en">A chance to relive the 2010 Super League Grand Final between Wigan Warriors and St Helens. The Warriors were making their first final appearance since 2003..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150327190000 +0000" stop="20150328000000 +0000" channel="BoxNation">
-    <title lang="en">Live: McKenzie v Askin</title>
-    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
+  <programme start="20150328061500 +0000" stop="20150328071000 +0000" channel="Sky Sports 3">
+    <title lang="en">Tight Lines</title>
+    <desc lang="en">Keith is joined by former England International match angler Mark Pollard as they use waggler and pole tactics to bag up quality skimmers at Chestnut Pool Fisheries..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
   </programme>
-  <programme start="20150328000000 +0000" stop="20150328010000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
+  <programme start="20150328071000 +0000" stop="20150328114000 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series at Hong Kong Stadium..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150328010000 +0000" stop="20150328020000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+  <programme start="20150328114000 +0000" stop="20150328121000 +0000" channel="Sky Sports 3">
+    <title lang="en">Rugby Club: Six Nations Review</title>
+    <desc lang="en">Alex Payne is joined by Shane Horgan, Stuart Barnes, Gareth Thomas and Rory Lawson to assess all the final-day drama from the Six Nations..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150328020000 +0000" stop="20150328023000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150328121000 +0000" stop="20150328123000 +0000" channel="Sky Sports 3">
+    <title lang="en">Grand Final Gold 2010</title>
+    <desc lang="en">A chance to relive the 2010 Super League Grand Final between Wigan Warriors and St Helens. The Warriors were making their first final appearance since 2003..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150328023000 +0000" stop="20150328050000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: DeMarco v Broner</title>
-    <desc lang="en">Adrien Broner proved he's the real deal with this dominant win over Antonio DeMarco to take the WBC Lightweight title in Atlantic City in November 2012. The whole fight, the whole night, uncut..(n)</desc>
+  <programme start="20150328123000 +0000" stop="20150328133000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day three of the ATP Masters 1000 event from Miami..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150328050000 +0000" stop="20150328060000 +0000" channel="BoxNation">
-    <title lang="en">Bunce's Boxing Hour</title>
-    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+  <programme start="20150328133000 +0000" stop="20150328153000 +0000" channel="Sky Sports 3">
+    <title lang="en">Top 14 Rugby Union</title>
+    <desc lang="en">Stade Francais take on Clermont Auvergne at Stade Jean-Bouin in round 21 of the French Top 14. Clermont put the Parisian team to the sword in this year's reverse fixture, winning 51-9..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150328060000 +0000" stop="20150328103000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Ormond v Flanagan</title>
-    <desc lang="en">No love lost here as Terry 'Turbo' Flanagan took on Stephen 'The Rock' Ormond in a WBO lightweight world title eliminator on Valentine's Day. It promised to be a barnstormer. The whole night uncut..(n)</desc>
+  <programme start="20150328153000 +0000" stop="20150328165500 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day four of the ATP Masters 1000 tournament from Miami. American Andre Agassi won the men's singles title a record six times here..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150328103000 +0000" stop="20150328143000 +0000" channel="BoxNation">
-    <title lang="en">Uncut Broner v Maidana</title>
-    <desc lang="en">Adrien Broner's biggest problem on this huge, year-ending show of 2013 was the power, speed and skill of Marcos Maidana. The whole fight, the whole night, uncut..(n)</desc>
+  <programme start="20150328165500 +0000" stop="20150328190000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super League</title>
+    <desc lang="en">Catalan Dragons welcome Leeds Rhinos to Stade Gilbert Brutus in round seven of Super League. The French side knocked the Rhinos out in the first round of last season's play-offs..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150328143000 +0000" stop="20150328183000 +0000" channel="BoxNation">
-    <title lang="en">McKenzie v Askin</title>
-    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
+  <programme start="20150328190000 +0000" stop="20150329020000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day four of the ATP Masters 1000 tournament from Miami. American Andre Agassi won the men's singles title a record six times here..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150328183000 +0000" stop="20150328190000 +0000" channel="BoxNation">
-    <title lang="en">Black Cab Box Chat</title>
-    <desc lang="en">Billy Joe Saunders takes a spin round town in the world famous Hackney Cab.(n)</desc>
+  <programme start="20150329020000 +0000" stop="20150329023000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Nadia Comaneci</title>
+    <desc lang="en">A look back at the career of Romania's Nadia Comaneci, a five-time Olympic gold medal-winning gymnast. She was the first woman to claim a perfect 10 score in an Olympic gymnastics event..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150328190000 +0000" stop="20150328210000 +0000" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">A fresh-faced Oscar De La Hoya headlines against Mike Grable in only his 6th professional fight..(n)</desc>
+  <programme start="20150329023000 +0000" stop="20150329030000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Babe Ruth</title>
+    <desc lang="en">A look back on the career of legendary baseball player Babe Ruth. The American hit over 700 home runs during his career and was inducted into the National Baseball Hall of Fame in 1936..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Baseball</category>
   </programme>
-  <programme start="20150328210000 +0000" stop="20150329003000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Thurman v Guerrero</title>
-    <desc lang="en">Knockout artist Keith Thurman fights slick southpaw Robert Guerrero for the WBA World Welterweight Championship. Also on the card, Adrien Broner takes on John Molina Jr. The whole night, uncut..(n)</desc>
+  <programme start="20150329030000 +0000" stop="20150329033000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Carl Lewis</title>
+    <desc lang="en">A chance to relive the career of Carl Lewis. The American won nine Olympic gold medals in a variety of track and field events and still holds the world record for the indoor long jump..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Athletics</category>
   </programme>
-  <programme start="20150329003000 +0000" stop="20150329010000 +0000" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+  <programme start="20150329033000 +0000" stop="20150329040000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Ed Moses</title>
+    <desc lang="en">A look back at the career of US track and field athlete Ed Moses. A gold medal-winner in the 400m hurdles at the '76 and '84 Olympics, Moses was also a two-time world champion in the sport..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Athletics</category>
   </programme>
-  <programme start="20150329020000 +0000" stop="20150329023000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150329040000 +0000" stop="20150329043000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats:Haile Gebrselassie</title>
+    <desc lang="en">A profile of the legendary long-distance runner Haile Gebrselassie. An Olympic gold medal winner in Atlanta and Sydney, Ethiopia's Gebrselassie is also a four-time world champion..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Athletics</category>
   </programme>
-  <programme start="20150329023000 +0000" stop="20150329030000 +0000" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+  <programme start="20150329043000 +0000" stop="20150329050000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Sergey Bubka</title>
+    <desc lang="en">A look back on the career of famed Ukrainian pole-vaulter Sergey Bubka. He won consecutive gold medals in six World Championships and also topped the podium at the 1988 Olympic Games..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Athletics</category>
   </programme>
-  <programme start="20150329070000 +0000" stop="20150329080000 +0000" channel="BoxNation">
-    <title lang="en">Welsh Dragons - Maccarinelli</title>
-    <desc lang="en">Part 3. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
+  <programme start="20150329050000 +0000" stop="20150329053000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Michael Johnson</title>
+    <desc lang="en">A look at the career of record-breaking American sprinter Michael Johnson. A winner of four Olympic gold medals, Johnson is one of the greatest track and field athletes of all time..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Athletics</category>
   </programme>
-  <programme start="20150329080000 +0000" stop="20150329090000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- A classic confrontation between old and new- Chris Eubank takes on the young Joe Calzaghe for the vacant WBO super middleweight title in Sheffield, England..(n)</desc>
+  <programme start="20150329053000 +0000" stop="20150329120000 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day three of the HSBC Sevens World Series at Hong Kong Stadium..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150329090000 +0000" stop="20150329130000 +0000" channel="BoxNation">
-    <title lang="en">McKenzie v Askin</title>
-    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
+  <programme start="20150329120000 +0000" stop="20150329130000 +0000" channel="Sky Sports 3">
+    <title lang="en">WWE Experience</title>
+    <desc lang="en">All the latest news and stories from both Raw and Smackdown, including the best matches and interviews with all the biggest superstars..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E570</episode-num>
   </programme>
-  <programme start="20150329130000 +0000" stop="20150329133000 +0000" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+  <programme start="20150329130000 +0000" stop="20150329133000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150329133000 +0000" stop="20150329143000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Nigel Benn, the Dark Destroyer, defends his WBC super middleweight title against Paraguayan Juan Carlos Gimenez. A fight memorable for the sparring outside the ring, as well as in..(n)</desc>
+  <programme start="20150329133000 +0000" stop="20150329140000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150329143000 +0000" stop="20150329173000 +0000" channel="BoxNation">
-    <title lang="en">Uncut: Hopkins v Murat</title>
-    <desc lang="en">Bernard Hopkins and Karo Murat battle for the IBF World Light-Heavyweight Championship. Plus an action-packed undercard featuring Peter Quillin and Deontay Wilder. The whole night, uncut..(n)</desc>
+  <programme start="20150329140000 +0000" stop="20150329150000 +0000" channel="Sky Sports 3">
+    <title lang="en">Miami Masters Highlights</title>
+    <desc lang="en">Day four of the ATP Masters 1000 tournament from Miami. American Andre Agassi won the men's singles title a record six times here..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150329173000 +0000" stop="20150329180000 +0000" channel="BoxNation">
-    <title lang="en">Black Cab Box Chat</title>
-    <desc lang="en">Bradley Skeete takes a spin round town in the world famous Hackney Cab.(n)</desc>
+  <programme start="20150329150000 +0000" stop="20150329230000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150329180000 +0000" stop="20150329220000 +0000" channel="BoxNation">
-    <title lang="en">Gonzalez v Russell Junior</title>
-    <desc lang="en">World featherweight Champion Jhonny Gonzalez shocked the boxing world to become WBC champion for a second time and now defends against top prospect Gary Russell Junior..(n)</desc>
+  <programme start="20150329230000 +0000" stop="20150329233000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150329233000 +0000" stop="20150330000000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330000000 +0000" stop="20150330003000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: USSR v USA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the USSR and American national basketball teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20150330003000 +0000" stop="20150330010000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330010000 +0000" stop="20150330030000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150330030000 +0000" stop="20150330040000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Catalan Dragons face Leeds Rhinos at Stade Gilbert Brutus in round seven of Super League. The Dragons ran out 24-20 winners when the sides last met in September..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330040000 +0000" stop="20150330043000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330043000 +0000" stop="20150330050000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330050000 +0000" stop="20150330060000 +0000" channel="Sky Sports 3">
+    <title lang="en">Time Of Our Lives:SW19 Challengers</title>
+    <desc lang="en">Gary Newbon sits down with British tennis stars of the past Bobby Wilson, Roger Taylor and Mark Cox. The trio look back on their efforts to win the coveted Wimbledon title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330060000 +0000" stop="20150330063000 +0000" channel="Sky Sports 3">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E29</episode-num>
   </programme>
-  <programme start="20150329220000 +0000" stop="20150329230000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Little Londoner Mickey Cantwell pits himself against South African flyweight legend 'Baby' Jake Matlala. It's the British champion's first crack at a world title..(n)</desc>
+  <programme start="20150330063000 +0000" stop="20150330070000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
     <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150330070000 +0000" stop="20150330080000 +0000" channel="Sky Sports 3">
+    <title lang="en">Miami Masters Highlights</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330080000 +0000" stop="20150330090000 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Rugby Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Hong Kong Stadium in Hong Kong..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330090000 +0000" stop="20150330093000 +0000" channel="Sky Sports 3">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20150330093000 +0000" stop="20150330100000 +0000" channel="Sky Sports 3">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150330100000 +0000" stop="20150330103000 +0000" channel="Sky Sports 3">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150330103000 +0000" stop="20150330110000 +0000" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330110000 +0000" stop="20150330120000 +0000" channel="Sky Sports 3">
+    <title lang="en">HSBC Sevens World Rugby Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Hong Kong Stadium in Hong Kong..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330120000 +0000" stop="20150330140000 +0000" channel="Sky Sports 3">
+    <title lang="en">Fight Night</title>
+    <desc lang="en">IBF welterweight champion Kell Brook makes his eagerly awaited comeback and first title defence against Romanian Jo Jo Dan at the Motorpoint Arena in Sheffield..(n)</desc>
+    <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150330140000 +0000" stop="20150330150000 +0000" channel="Sky Sports 3">
+    <title lang="en">Miami Masters Highlights</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330150000 +0000" stop="20150331013000 +0000" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150325150000 +0000" stop="20150326013000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day one of the ATP Masters 1000 tournament from Miami. Matches include young British star Kyle Edmund v Robin Haase..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150326013000 +0000" stop="20150326023000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150326023000 +0000" stop="20150326033000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326033000 +0000" stop="20150326034500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">Great Britain take on Australia in this 2001 International Speedway classic..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326034500 +0000" stop="20150326040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway moments. Great Britain take on Denmark in this International Speedway match-up from 2001..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326040000 +0000" stop="20150326041500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway moments. Coventry face Wolves in this 1999 Elite League fixture..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326041500 +0000" stop="20150326043000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway meetings: Wolverhampton Wolves face Ipswich Witches in 2004..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326043000 +0000" stop="20150326053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326053000 +0000" stop="20150326054500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway meetings: Poole Pirates take on Coventry Bees in the second leg of the 2010 Grand Final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326054500 +0000" stop="20150326060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Speedway Gold</title>
+    <desc lang="en">A chance to relive some classic speedway moments. Here is the British speedway final from 2013..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326060000 +0000" stop="20150326070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150326070000 +0000" stop="20150326080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326080000 +0000" stop="20150326083000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">In this episode, the crew team up with former Springbok rugby captain Bob Skinstad and The WildFly Fishing Team on the Lower Zambezi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20150326083000 +0000" stop="20150326090000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. In this episode, the crew stay at the Royal Chundu Lodge while enjoying their favourite pastime..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20150326090000 +0000" stop="20150326100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326100000 +0000" stop="20150326110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150326110000 +0000" stop="20150326113000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150326113000 +0000" stop="20150326120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">InCycle</title>
+    <desc lang="en">Behind the scenes with MTN-Qhubeka at the first racing Monument of the season. Plus, Milan-San Remo winner John Degenkolb looks ahead to this weekend's Gent-Wevelgem race..(n)</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150326120000 +0000" stop="20150326123000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">In this episode, the crew team up with former Springbok rugby captain Bob Skinstad and The WildFly Fishing Team on the Lower Zambezi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
-  <programme start="20150329230000 +0000" stop="20150330000000 +0000" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Mickey Cantwell takes on Filipino Eric Jamili for the WBO minimum weight title. Then, WBO light middleweight champion Ronald Wright makes his third defence against Adrian Dodson..(n)</desc>
+  <programme start="20150326123000 +0000" stop="20150326130000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">Series showcasing some of the wildest fishing to be found in Africa and on the Indian Ocean. In this episode, the crew stay at the Royal Chundu Lodge while enjoying their favourite pastime..(n)</desc>
     <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20150326130000 +0000" stop="20150326140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Max Power</title>
+    <desc lang="en">This week, highlights from round three of the WRC Rally of Mexico and the Dubai 24 Hour Race. Plus, the final round of the Porsche Carrera Cup Deutschland from Hockenheim..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150326140000 +0000" stop="20150326150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Boots 'N' All</title>
+    <desc lang="en">Eddie Hemmings is joined by former Leeds Rhinos prop Barrie McDermott to discuss all the latest rugby league news and preview this week's Super League matches..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150326150000 +0000" stop="20150326160000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">The Race Of Remembrance</title>
+    <desc lang="en">The inaugural Race of Remembrance at Anglesey Circuit. Wounded and injured military personnel, as well as army veterans, are among the entrants in this eight-hour endurance race..(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+  </programme>
+  <programme start="20150326160000 +0000" stop="20150326163000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Fishing: Hooked On Africa</title>
+    <desc lang="en">In this episode, the crew team up with former Springbok rugby captain Bob Skinstad and The WildFly Fishing Team on the Lower Zambezi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20150326163000 +0000" stop="20150326183000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">Michael Cole, Booker T and JBL present another week of pulsating action as the build-up to WrestleMania intensifies. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150326183000 +0000" stop="20150326190000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">World Rugby</title>
+    <desc lang="en">From the Rugby World Cup to the grassroots game, this weekly magazine show features highlights, news and features from every level of the sport..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150326190000 +0000" stop="20150326193000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Rugby Club: Six Nations Review</title>
+    <desc lang="en">Alex Payne is joined by Shane Horgan, Stuart Barnes, Gareth Thomas and Rory Lawson to assess all the final-day drama from the Six Nations..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E177</episode-num>
+  </programme>
+  <programme start="20150326193000 +0000" stop="20150326221500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League</title>
+    <desc lang="en">Salford Red Devils host Widnes Vikings in round seven of Super League. Salford stand-off Rangi Chase is one to watch due to his outstanding sleight of hand and unpredictable play..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150326221500 +0000" stop="20150326223000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2012</title>
+    <desc lang="en">A chance to relive the 2012 Super League Grand Final between Leeds Rhinos and Warrington Wolves. The Rhinos were gunning for their fifth title in six seasons..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150326223000 +0000" stop="20150326233000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Main Event</title>
+    <desc lang="en">Catch up with all the action on the latest edition of Main Event, featuring all your favourite WWE wrestlers. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20150326233000 +0000" stop="20150327030000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Premier League Darts</title>
+    <desc lang="en">Round eight of the 2015 Betway Premier League Darts from the 3Arena, Dublin. Matches include Michael van Gerwen V Raymond van Barneveld and Phil Taylor V Kim Huybrechts..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150327030000 +0000" stop="20150327035500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Heroes: A P McCoy</title>
+    <desc lang="en">Gary Newbon talks to Tony McCoy about his glittering career in horse racing. A 19-time British Champion Jump Jockey, McCoy has won over 4,000 races during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150327035500 +0000" stop="20150327045000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Salford Red Devils face Widnes Vikings at the AJ Bell Stadium in week seven of the 2015 Super League. The Red Devils beat the Vikings 36-6 on the final day of last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150327045000 +0000" stop="20150327060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day one of the HSBC Sevens World Series at Hong Kong Stadium. In last year's Cup final, New Zealand defeated England 26-7..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150327060000 +0000" stop="20150327092000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day one of the HSBC Sevens World Series at Hong Kong Stadium. In last year's Cup final, New Zealand defeated England 26-7..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150327092000 +0000" stop="20150327095000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Rugby Club: Six Nations Review</title>
+    <desc lang="en">Alex Payne is joined by Shane Horgan, Stuart Barnes, Gareth Thomas and Rory Lawson to assess all the final-day drama from the Six Nations..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150327095000 +0000" stop="20150327100500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Football Gold: Liverpool v Arsenal</title>
+    <desc lang="en">A chance to relive the top-flight clash between Liverpool and Arsenal at Anfield from 2009. This thrilling game produced eight goals, four of which were scored by the same player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150327100500 +0000" stop="20150327130500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day one of the HSBC Sevens World Series at Hong Kong Stadium. In last year's Cup final, New Zealand defeated England 26-7..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150327130500 +0000" stop="20150327133500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150327133500 +0000" stop="20150327140500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150327140500 +0000" stop="20150327142000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2006</title>
+    <desc lang="en">A chance to relive the 2006 Super League Grand Final between St Helens and Hull FC. The Black and Whites were making their first-ever appearance in the season-ending showpiece..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150327142000 +0000" stop="20150327143000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Football Gold: Arsenal v Man Utd</title>
+    <desc lang="en">Relive Arsenal's meeting with Manchester United at Highbury in September 1998. United were looking for three vital points against the reigning league champions but would they succeed?.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150327143000 +0000" stop="20150327150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150327150000 +0000" stop="20150328033000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day three of the ATP Masters 1000 tournament from Miami..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150328033000 +0000" stop="20150328040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150328040000 +0000" stop="20150328041500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen faces Phil Taylor in the 2013 Premier League Darts final at the O2. The Dutchman saw off James Wade in the semi-finals, while Taylor took down Raymond van Barneveld..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328041500 +0000" stop="20150328043000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Mardle</title>
+    <desc lang="en">Phil Taylor takes on Wayne Mardle in the quarter-finals of the 2008 PDC World Darts Championship. Taylor beat Alan Tabern in the previous round, while Mardle overcame Roland Scholten..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328043000 +0000" stop="20150328044500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Harrington v Baxter</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Ronnie Baxter against Rod Harrington in the final of the 1998 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328044500 +0000" stop="20150328050000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Raymond van Barneveld in the semi-finals of the 2013 PDC World Darts Championship at London's Alexandra Palace..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328050000 +0000" stop="20150328051500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Lloyd V Part</title>
+    <desc lang="en">A chance to relive some classic darts matches. Here is Colin Lloyd against John Part in the final of the 2005 World Matchplay..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328051500 +0000" stop="20150328053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Phil Taylor against Adrian Lewis in the semi-finals of the 2010 World Grand Prix at Dublin's Citywest Hotel..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328053000 +0000" stop="20150328054500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold: Taylor v Lewis</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328054500 +0000" stop="20150328060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Darts Gold:Gerwen v Van Barneveld</title>
+    <desc lang="en">A chance to relive classic darts matches. Here is Michael van Gerwen against Raymond van Barneveld in the final of the 2012 Grand Slam of Darts at the Wolverhampton Civic Hall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150328060000 +0000" stop="20150328061500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2010</title>
+    <desc lang="en">A chance to relive the 2010 Super League Grand Final between Wigan Warriors and St Helens. The Warriors were making their first final appearance since 2003..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150328061500 +0000" stop="20150328071000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Tight Lines</title>
+    <desc lang="en">Keith is joined by former England International match angler Mark Pollard as they use waggler and pole tactics to bag up quality skimmers at Chestnut Pool Fisheries..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+  </programme>
+  <programme start="20150328071000 +0000" stop="20150328114000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series at Hong Kong Stadium..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150328114000 +0000" stop="20150328121000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Rugby Club: Six Nations Review</title>
+    <desc lang="en">Alex Payne is joined by Shane Horgan, Stuart Barnes, Gareth Thomas and Rory Lawson to assess all the final-day drama from the Six Nations..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150328121000 +0000" stop="20150328123000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Grand Final Gold 2010</title>
+    <desc lang="en">A chance to relive the 2010 Super League Grand Final between Wigan Warriors and St Helens. The Warriors were making their first final appearance since 2003..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150328123000 +0000" stop="20150328133000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day three of the ATP Masters 1000 event from Miami..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150328133000 +0000" stop="20150328153000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Top 14 Rugby Union</title>
+    <desc lang="en">Stade Francais take on Clermont Auvergne at Stade Jean-Bouin in round 21 of the French Top 14. Clermont put the Parisian team to the sword in this year's reverse fixture, winning 51-9..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150328153000 +0000" stop="20150328165500 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day four of the ATP Masters 1000 tournament from Miami. American Andre Agassi won the men's singles title a record six times here..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150328165500 +0000" stop="20150328190000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League</title>
+    <desc lang="en">Catalan Dragons welcome Leeds Rhinos to Stade Gilbert Brutus in round seven of Super League. The French side knocked the Rhinos out in the first round of last season's play-offs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150328190000 +0000" stop="20150329020000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day four of the ATP Masters 1000 tournament from Miami. American Andre Agassi won the men's singles title a record six times here..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150329020000 +0000" stop="20150329023000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Nadia Comaneci</title>
+    <desc lang="en">A look back at the career of Romania's Nadia Comaneci, a five-time Olympic gold medal-winning gymnast. She was the first woman to claim a perfect 10 score in an Olympic gymnastics event..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150329023000 +0000" stop="20150329030000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Babe Ruth</title>
+    <desc lang="en">A look back on the career of legendary baseball player Babe Ruth. The American hit over 700 home runs during his career and was inducted into the National Baseball Hall of Fame in 1936..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20150329030000 +0000" stop="20150329033000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Carl Lewis</title>
+    <desc lang="en">A chance to relive the career of Carl Lewis. The American won nine Olympic gold medals in a variety of track and field events and still holds the world record for the indoor long jump..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150329033000 +0000" stop="20150329040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Ed Moses</title>
+    <desc lang="en">A look back at the career of US track and field athlete Ed Moses. A gold medal-winner in the 400m hurdles at the '76 and '84 Olympics, Moses was also a two-time world champion in the sport..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150329040000 +0000" stop="20150329043000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats:Haile Gebrselassie</title>
+    <desc lang="en">A profile of the legendary long-distance runner Haile Gebrselassie. An Olympic gold medal winner in Atlanta and Sydney, Ethiopia's Gebrselassie is also a four-time world champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150329043000 +0000" stop="20150329050000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Sergey Bubka</title>
+    <desc lang="en">A look back on the career of famed Ukrainian pole-vaulter Sergey Bubka. He won consecutive gold medals in six World Championships and also topped the podium at the 1988 Olympic Games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150329050000 +0000" stop="20150329053000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Michael Johnson</title>
+    <desc lang="en">A look at the career of record-breaking American sprinter Michael Johnson. A winner of four Olympic gold medals, Johnson is one of the greatest track and field athletes of all time..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150329053000 +0000" stop="20150329120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day three of the HSBC Sevens World Series at Hong Kong Stadium..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150329120000 +0000" stop="20150329130000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Experience</title>
+    <desc lang="en">All the latest news and stories from both Raw and Smackdown, including the best matches and interviews with all the biggest superstars..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E570</episode-num>
+  </programme>
+  <programme start="20150329130000 +0000" stop="20150329133000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150329133000 +0000" stop="20150329140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150329140000 +0000" stop="20150329150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Miami Masters Highlights</title>
+    <desc lang="en">Day four of the ATP Masters 1000 tournament from Miami. American Andre Agassi won the men's singles title a record six times here..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150329150000 +0000" stop="20150329230000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150329230000 +0000" stop="20150329233000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150329233000 +0000" stop="20150330000000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330000000 +0000" stop="20150330003000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: USSR v USA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the USSR and American national basketball teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20150330003000 +0000" stop="20150330010000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330010000 +0000" stop="20150330030000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150330030000 +0000" stop="20150330040000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super League Highlights</title>
+    <desc lang="en">Catalan Dragons face Leeds Rhinos at Stade Gilbert Brutus in round seven of Super League. The Dragons ran out 24-20 winners when the sides last met in September..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330040000 +0000" stop="20150330043000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330043000 +0000" stop="20150330050000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330050000 +0000" stop="20150330060000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Time Of Our Lives:SW19 Challengers</title>
+    <desc lang="en">Gary Newbon sits down with British tennis stars of the past Bobby Wilson, Roger Taylor and Mark Cox. The trio look back on their efforts to win the coveted Wimbledon title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330060000 +0000" stop="20150330063000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20150330063000 +0000" stop="20150330070000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150330070000 +0000" stop="20150330080000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Miami Masters Highlights</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330080000 +0000" stop="20150330090000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Rugby Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Hong Kong Stadium in Hong Kong..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330090000 +0000" stop="20150330093000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Top 14 Rugby Highlights</title>
+    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20150330093000 +0000" stop="20150330100000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20150330100000 +0000" stop="20150330103000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150330103000 +0000" stop="20150330110000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330110000 +0000" stop="20150330120000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">HSBC Sevens World Rugby Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Hong Kong Stadium in Hong Kong..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150330120000 +0000" stop="20150330140000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Fight Night</title>
+    <desc lang="en">IBF welterweight champion Kell Brook makes his eagerly awaited comeback and first title defence against Romanian Jo Jo Dan at the Motorpoint Arena in Sheffield..(n)</desc>
+    <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150330140000 +0000" stop="20150330150000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">Miami Masters Highlights</title>
+    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. British number one Andy Murray won here in 2013 and in 2009..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150330150000 +0000" stop="20150331013000 +0000" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
   </programme>
 </tv>
