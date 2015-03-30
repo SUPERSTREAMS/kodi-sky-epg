@@ -172,140 +172,9 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150329160000 +0100" stop="20150330000000 +0100" channel="Sky Sports 3">
-    <title lang="en">Live: Andy Murray v Santi Giraldo</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Today's matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330000000 +0100" stop="20150330003000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Greats: Roger Federer</title>
-    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330003000 +0100" stop="20150330010000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Greats: Rafael Nadal</title>
-    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330010000 +0100" stop="20150330013000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Rivalries: USSR v USA</title>
-    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the USSR and American national basketball teams..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20150330013000 +0100" stop="20150330020000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
-    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330020000 +0100" stop="20150330040000 +0100" channel="Sky Sports 3">
-    <title lang="en">ATP Tennis: Miami Masters</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Today's matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <premiere />
-  </programme>
-  <programme start="20150330040000 +0100" stop="20150330050000 +0100" channel="Sky Sports 3">
-    <title lang="en">Super League Highlights</title>
-    <desc lang="en">Catalan Dragons face Leeds Rhinos at Stade Gilbert Brutus in round seven of Super League. After six matches, Leeds sit second in the league table behind St Helens..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20150330050000 +0100" stop="20150330053000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Greats: Rafael Nadal</title>
-    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330053000 +0100" stop="20150330060000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Greats: Roger Federer</title>
-    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330060000 +0100" stop="20150330070000 +0100" channel="Sky Sports 3">
-    <title lang="en">Time Of Our Lives:SW19 Challengers</title>
-    <desc lang="en">Gary Newbon sits down with British tennis stars of the past Bobby Wilson, Roger Taylor and Mark Cox. The trio look back on their efforts to win the coveted Wimbledon title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330070000 +0100" stop="20150330073000 +0100" channel="Sky Sports 3">
-    <title lang="en">Top 14 Rugby Highlights</title>
-    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20150330073000 +0100" stop="20150330080000 +0100" channel="Sky Sports 3">
-    <title lang="en">Super Rugby Try Time</title>
-    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20150330080000 +0100" stop="20150330090000 +0100" channel="Sky Sports 3">
-    <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330090000 +0100" stop="20150330100000 +0100" channel="Sky Sports 3">
-    <title lang="en">Time Of Our Lives:SW19 Challengers</title>
-    <desc lang="en">Gary Newbon sits down with British tennis stars of the past Bobby Wilson, Roger Taylor and Mark Cox. The trio look back on their efforts to win the coveted Wimbledon title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330100000 +0100" stop="20150330103000 +0100" channel="Sky Sports 3">
-    <title lang="en">Top 14 Rugby Highlights</title>
-    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20150330103000 +0100" stop="20150330110000 +0100" channel="Sky Sports 3">
-    <title lang="en">Super Rugby Try Time</title>
-    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20150330110000 +0100" stop="20150330113000 +0100" channel="Sky Sports 3">
-    <title lang="en">Racing News</title>
-    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-  </programme>
-  <programme start="20150330113000 +0100" stop="20150330120000 +0100" channel="Sky Sports 3">
-    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
-    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20150330120000 +0100" stop="20150330130000 +0100" channel="Sky Sports 3">
-    <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330130000 +0100" stop="20150330150000 +0100" channel="Sky Sports 3">
-    <title lang="en">Fight Night</title>
-    <desc lang="en">IBF welterweight champion Kell Brook makes his eagerly awaited comeback and first title defence against Romanian Jo Jo Dan at the Motorpoint Arena in Sheffield..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150330150000 +0100" stop="20150330160000 +0100" channel="Sky Sports 3">
-    <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
   <programme start="20150330160000 +0100" stop="20150331023000 +0100" channel="Sky Sports 3">
     <title lang="en">ATP Tennis: Miami Masters</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <premiere />
@@ -318,7 +187,7 @@
   </programme>
   <programme start="20150331030000 +0100" stop="20150331050000 +0100" channel="Sky Sports 3">
     <title lang="en">Netball SuperLeague</title>
-    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in round 11 of the Netball Superleague. The Mavericks defeated Bath 51-34 earlier this season..(n)</desc>
+    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in the Netball Superleague. Mavericks are aiming to bounce back from a surprise 58-45 loss to Loughborough Lightning..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20150331050000 +0100" stop="20150331053000 +0100" channel="Sky Sports 3">
@@ -347,13 +216,13 @@
   </programme>
   <programme start="20150331080000 +0100" stop="20150331090000 +0100" channel="Sky Sports 3">
     <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20150331090000 +0100" stop="20150331110000 +0100" channel="Sky Sports 3">
     <title lang="en">Netball SuperLeague</title>
-    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in round 11 of the Netball Superleague. The Mavericks defeated Bath 51-34 earlier this season..(n)</desc>
+    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in the Netball Superleague. Mavericks are aiming to bounce back from a surprise 58-45 loss to Loughborough Lightning..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20150331110000 +0100" stop="20150331113000 +0100" channel="Sky Sports 3">
@@ -364,7 +233,7 @@
   </programme>
   <programme start="20150331113000 +0100" stop="20150331123000 +0100" channel="Sky Sports 3">
     <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -395,7 +264,7 @@
   </programme>
   <programme start="20150331150000 +0100" stop="20150331160000 +0100" channel="Sky Sports 3">
     <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -605,7 +474,7 @@
   </programme>
   <programme start="20150401190000 +0100" stop="20150401193000 +0100" channel="Sky Sports 3">
     <title lang="en">InCycle</title>
-    <desc lang="en">All the latest stories and talking points from the 2015 UCI road cycling season. Includes race reviews, expert analysis, features and rider profiles..(n)</desc>
+    <desc lang="en">A behind-the-scenes look at Belgian cyclist Sep Vanmarcke at Gent-Wevelgem. Plus, a review of all the action at the Volta a Catalunya as well as a look ahead to the Tour of Flanders..(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
@@ -653,7 +522,7 @@
   </programme>
   <programme start="20150402010000 +0100" stop="20150402013000 +0100" channel="Sky Sports 3">
     <title lang="en">InCycle</title>
-    <desc lang="en">All the latest stories and talking points from the 2015 UCI road cycling season. Includes race reviews, expert analysis, features and rider profiles..(n)</desc>
+    <desc lang="en">A behind-the-scenes look at Belgian cyclist Sep Vanmarcke at Gent-Wevelgem. Plus, a review of all the action at the Volta a Catalunya as well as a look ahead to the Tour of Flanders..(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
@@ -712,14 +581,14 @@
   </programme>
   <programme start="20150402090000 +0100" stop="20150402100000 +0100" channel="Sky Sports 3">
     <title lang="en">Boots 'N' All</title>
-    <desc lang="en">Sky Sports presents a weekly round-up of all the tries, tackles and kicks from Super League with Eddie Hemmings and Mike 'Stevo' Stephenson..(n)</desc>
+    <desc lang="en">This week, Eddie Hemmings is joined by former London Broncos coach Tony Rea and Rugby League International Federation CEO David Collier to preview a mouth-watering Easter fixture list..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
   <programme start="20150402100000 +0100" stop="20150402103000 +0100" channel="Sky Sports 3">
     <title lang="en">InCycle</title>
-    <desc lang="en">All the latest stories and talking points from the 2015 UCI road cycling season. Includes race reviews, expert analysis, features and rider profiles..(n)</desc>
+    <desc lang="en">A behind-the-scenes look at Belgian cyclist Sep Vanmarcke at Gent-Wevelgem. Plus, a review of all the action at the Volta a Catalunya as well as a look ahead to the Tour of Flanders..(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
@@ -781,7 +650,7 @@
   </programme>
   <programme start="20150402150000 +0100" stop="20150402160000 +0100" channel="Sky Sports 3">
     <title lang="en">Boots 'N' All</title>
-    <desc lang="en">Sky Sports presents a weekly round-up of all the tries, tackles and kicks from Super League with Eddie Hemmings and Mike 'Stevo' Stephenson..(n)</desc>
+    <desc lang="en">This week, Eddie Hemmings is joined by former London Broncos coach Tony Rea and Rugby League International Federation CEO David Collier to preview a mouth-watering Easter fixture list..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <episode-num system="onscreen">E8</episode-num>
@@ -1003,140 +872,118 @@
     <category lang="en">Sports</category>
     <category lang="en">Ice Hockey</category>
   </programme>
-  <programme start="20150329160000 +0100" stop="20150330000000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Live: Andy Murray v Santi Giraldo</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Today's matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
+  <programme start="20150404000000 +0100" stop="20150404020000 +0100" channel="Sky Sports 3">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day ten of the ATP Masters 1000 tournament from Miami..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
+    <premiere />
   </programme>
-  <programme start="20150330000000 +0100" stop="20150330003000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Greats: Roger Federer</title>
-    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+  <programme start="20150404020000 +0100" stop="20150404030000 +0100" channel="Sky Sports 3">
+    <title lang="en">Emirates T20 Cricket</title>
+    <desc lang="en">Coverage of cricket's 2015 Emirates T20..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
+    <category lang="en">Cricket</category>
   </programme>
-  <programme start="20150330003000 +0100" stop="20150330010000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Greats: Rafael Nadal</title>
-    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330010000 +0100" stop="20150330013000 +0100" channel="Sky Sports 3 HD">
+  <programme start="20150404030000 +0100" stop="20150404033000 +0100" channel="Sky Sports 3">
     <title lang="en">Sporting Rivalries: USSR v USA</title>
     <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the USSR and American national basketball teams..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20150330013000 +0100" stop="20150330020000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
-    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+  <programme start="20150404033000 +0100" stop="20150404040000 +0100" channel="Sky Sports 3">
+    <title lang="en">Sporting Greats: Nadia Comaneci</title>
+    <desc lang="en">A look back at the career of Romania's Nadia Comaneci, a five-time Olympic gold medal-winning gymnast. She was the first woman to claim a perfect 10 score in an Olympic gymnastics event..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20150330020000 +0100" stop="20150330040000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">ATP Tennis: Miami Masters</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Today's matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
+  <programme start="20150404040000 +0100" stop="20150404050000 +0100" channel="Sky Sports 3">
+    <title lang="en">Sporting Heroes: Lennox Lewis</title>
+    <desc lang="en">Gary Newbon sits down with retired British boxing legend Lennox Lewis. The London-born fighter won Olympic gold in 1988 and is the last boxer to be an undisputed world heavyweight champion..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <premiere />
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150330040000 +0100" stop="20150330050000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Super League Highlights</title>
-    <desc lang="en">Catalan Dragons face Leeds Rhinos at Stade Gilbert Brutus in round seven of Super League. After six matches, Leeds sit second in the league table behind St Helens..(n)</desc>
+  <programme start="20150404050000 +0100" stop="20150404060000 +0100" channel="Sky Sports 3">
+    <title lang="en">Time Of Our Lives</title>
+    <desc lang="en">Gary Newbon sits down with Mary Peters, Mark Phillips and Rodney Pattisson who all won gold medals at the 1972 Olympic Games in Munich..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150330050000 +0100" stop="20150330053000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Greats: Rafael Nadal</title>
-    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+  <programme start="20150404060000 +0100" stop="20150404070000 +0100" channel="Sky Sports 3">
+    <title lang="en">Tight Lines</title>
+    <desc lang="en">Each week Keith Arthur is joined in the studio by an expert from the world of fishing, with a look at the latest angling news and all the tips and tactics you could need..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
+    <category lang="en">Fishing</category>
   </programme>
-  <programme start="20150330053000 +0100" stop="20150330060000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Sporting Greats: Roger Federer</title>
-    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330060000 +0100" stop="20150330070000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Time Of Our Lives:SW19 Challengers</title>
-    <desc lang="en">Gary Newbon sits down with British tennis stars of the past Bobby Wilson, Roger Taylor and Mark Cox. The trio look back on their efforts to win the coveted Wimbledon title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330070000 +0100" stop="20150330073000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Top 14 Rugby Highlights</title>
-    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20150330073000 +0100" stop="20150330080000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Super Rugby Try Time</title>
-    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20150330080000 +0100" stop="20150330090000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330090000 +0100" stop="20150330100000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Time Of Our Lives:SW19 Challengers</title>
-    <desc lang="en">Gary Newbon sits down with British tennis stars of the past Bobby Wilson, Roger Taylor and Mark Cox. The trio look back on their efforts to win the coveted Wimbledon title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20150330100000 +0100" stop="20150330103000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Top 14 Rugby Highlights</title>
-    <desc lang="en">A round-up of all the biggest stories and talking points from France's Top 14..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20150330103000 +0100" stop="20150330110000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Super Rugby Try Time</title>
-    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20150330110000 +0100" stop="20150330113000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Racing News</title>
-    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-  </programme>
-  <programme start="20150330113000 +0100" stop="20150330120000 +0100" channel="Sky Sports 3 HD">
+  <programme start="20150404070000 +0100" stop="20150404073000 +0100" channel="Sky Sports 3">
     <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
     <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150330120000 +0100" stop="20150330130000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
+  <programme start="20150404073000 +0100" stop="20150404093000 +0100" channel="Sky Sports 3">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Chiefs play Blues in round eight of Super Rugby at Waikato Stadium in Hamilton. The Chiefs earned a compelling 32-20 victory over the Auckland side in last year's fixture..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150330130000 +0100" stop="20150330150000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Fight Night</title>
-    <desc lang="en">IBF welterweight champion Kell Brook makes his eagerly awaited comeback and first title defence against Romanian Jo Jo Dan at the Motorpoint Arena in Sheffield..(n)</desc>
+  <programme start="20150404093000 +0100" stop="20150404113000 +0100" channel="Sky Sports 3">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Brumbies entertain Cheetahs at GIO Stadium in round eight of Super Rugby..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150330150000 +0100" stop="20150330160000 +0100" channel="Sky Sports 3 HD">
-    <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day five of the ATP Masters 1000 tournament from Miami. Matches include Santiago Giraldo v Andy Murray, Fernando Verdasco v Rafael Nadal and Gael Monfils v Jo-Wilfried Tsonga..(n)</desc>
+  <programme start="20150404113000 +0100" stop="20150404120000 +0100" channel="Sky Sports 3">
+    <title lang="en">Super Rugby Extra Time</title>
+    <desc lang="en">A round-up of all the tries, highlights and stories from the latest round of the 2015 Super Rugby season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150404120000 +0100" stop="20150404135500 +0100" channel="Sky Sports 3">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E815</episode-num>
+  </programme>
+  <programme start="20150404135500 +0100" stop="20150404160000 +0100" channel="Sky Sports 3">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Sharks welcome Crusaders to Kings Park in round eight of Super Rugby. The two sides met in last season's play-off semi-finals with the Canterbury club earning a 38-6 victory..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150404160000 +0100" stop="20150404180000 +0100" channel="Sky Sports 3">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Lions welcome Bulls to Ellis Park in round eight of Super Rugby. In a tournament spanning most of the Southern Hemisphere, these two sides are positioned only 35 miles apart..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150404180000 +0100" stop="20150404195500 +0100" channel="Sky Sports 3">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E815</episode-num>
+  </programme>
+  <programme start="20150404195500 +0100" stop="20150404221500 +0100" channel="Sky Sports 3">
+    <title lang="en">European Rugby</title>
+    <desc lang="en">Exeter Chiefs take on Newcastle Falcons at Sandy Park in the quarter-finals of the European Challenge Cup. The Chiefs topped Pool 2 ahead of Irish side Connacht to earn a home fixture..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150404221500 +0100" stop="20150405001500 +0100" channel="Sky Sports 3">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring all your favourite WWE stars. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E815</episode-num>
   </programme>
   <programme start="20150330160000 +0100" stop="20150331023000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">ATP Tennis: Miami Masters</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <premiere />
@@ -1149,7 +996,7 @@
   </programme>
   <programme start="20150331030000 +0100" stop="20150331050000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Netball SuperLeague</title>
-    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in round 11 of the Netball Superleague. The Mavericks defeated Bath 51-34 earlier this season..(n)</desc>
+    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in the Netball Superleague. Mavericks are aiming to bounce back from a surprise 58-45 loss to Loughborough Lightning..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20150331050000 +0100" stop="20150331053000 +0100" channel="Sky Sports 3 HD">
@@ -1178,13 +1025,13 @@
   </programme>
   <programme start="20150331080000 +0100" stop="20150331090000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20150331090000 +0100" stop="20150331110000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Netball SuperLeague</title>
-    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in round 11 of the Netball Superleague. The Mavericks defeated Bath 51-34 earlier this season..(n)</desc>
+    <desc lang="en">Hertfordshire Mavericks meet Team Bath at Hertfordshire Sports Village in the Netball Superleague. Mavericks are aiming to bounce back from a surprise 58-45 loss to Loughborough Lightning..(n)</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20150331110000 +0100" stop="20150331113000 +0100" channel="Sky Sports 3 HD">
@@ -1195,7 +1042,7 @@
   </programme>
   <programme start="20150331113000 +0100" stop="20150331123000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -1226,7 +1073,7 @@
   </programme>
   <programme start="20150331150000 +0100" stop="20150331160000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Miami Masters Highlights</title>
-    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Novak Djokovic has won this event in three out of the past four years..(n)</desc>
+    <desc lang="en">Day six of the ATP Masters 1000 tournament from Miami. Matches include Novak Djokovic v Steve Darcis and Grigor Dimitrov v John Isner..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
   </programme>
@@ -1436,7 +1283,7 @@
   </programme>
   <programme start="20150401190000 +0100" stop="20150401193000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">InCycle</title>
-    <desc lang="en">All the latest stories and talking points from the 2015 UCI road cycling season. Includes race reviews, expert analysis, features and rider profiles..(n)</desc>
+    <desc lang="en">A behind-the-scenes look at Belgian cyclist Sep Vanmarcke at Gent-Wevelgem. Plus, a review of all the action at the Volta a Catalunya as well as a look ahead to the Tour of Flanders..(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
@@ -1484,7 +1331,7 @@
   </programme>
   <programme start="20150402010000 +0100" stop="20150402013000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">InCycle</title>
-    <desc lang="en">All the latest stories and talking points from the 2015 UCI road cycling season. Includes race reviews, expert analysis, features and rider profiles..(n)</desc>
+    <desc lang="en">A behind-the-scenes look at Belgian cyclist Sep Vanmarcke at Gent-Wevelgem. Plus, a review of all the action at the Volta a Catalunya as well as a look ahead to the Tour of Flanders..(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
@@ -1543,14 +1390,14 @@
   </programme>
   <programme start="20150402090000 +0100" stop="20150402100000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Boots 'N' All</title>
-    <desc lang="en">Sky Sports presents a weekly round-up of all the tries, tackles and kicks from Super League with Eddie Hemmings and Mike 'Stevo' Stephenson..(n)</desc>
+    <desc lang="en">This week, Eddie Hemmings is joined by former London Broncos coach Tony Rea and Rugby League International Federation CEO David Collier to preview a mouth-watering Easter fixture list..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
   <programme start="20150402100000 +0100" stop="20150402103000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">InCycle</title>
-    <desc lang="en">All the latest stories and talking points from the 2015 UCI road cycling season. Includes race reviews, expert analysis, features and rider profiles..(n)</desc>
+    <desc lang="en">A behind-the-scenes look at Belgian cyclist Sep Vanmarcke at Gent-Wevelgem. Plus, a review of all the action at the Volta a Catalunya as well as a look ahead to the Tour of Flanders..(n)</desc>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
@@ -1612,7 +1459,7 @@
   </programme>
   <programme start="20150402150000 +0100" stop="20150402160000 +0100" channel="Sky Sports 3 HD">
     <title lang="en">Boots 'N' All</title>
-    <desc lang="en">Sky Sports presents a weekly round-up of all the tries, tackles and kicks from Super League with Eddie Hemmings and Mike 'Stevo' Stephenson..(n)</desc>
+    <desc lang="en">This week, Eddie Hemmings is joined by former London Broncos coach Tony Rea and Rugby League International Federation CEO David Collier to preview a mouth-watering Easter fixture list..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <episode-num system="onscreen">E8</episode-num>
@@ -1834,1295 +1681,580 @@
     <category lang="en">Sports</category>
     <category lang="en">Ice Hockey</category>
   </programme>
-  <programme start="20150329200000 +0100" stop="20150330000000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special footballing guests, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330000000 +0100" stop="20150330010000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Favourite Fives: Everton</title>
-    <desc lang="en">A countdown of Liverpool's top five Premier League wins over Everton..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330010000 +0100" stop="20150330013000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">An Afternoon Out with John...</title>
-    <desc lang="en">.Aldridge. Liverpool cult hero John Aldridge takes LFCTV viewers on a guided tour of his holiday village in Portugal as he reflects on his achievements best memories, regrets and team mates..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330013000 +0100" stop="20150330020000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Gary McAllister: Oh, We Love...</title>
-    <desc lang="en">.Your Baldy Head! Ahead of the Merseyside derby, Liverpool legends and ex-teammates of cult hero Gary McAllister talk about his influence during his two years at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330020000 +0100" stop="20150330030000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Sixty Minutes with Neil Mellor</title>
-    <desc lang="en">Neil Mellor talks candidly about his rise through the LFC Academy and his four-year stint with the first-team, including his role on the road to Istanbul in 2005..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330030000 +0100" stop="20150330060000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home..(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150330060000 +0100" stop="20150330061500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Xabi Alonso: The Next Chapter</title>
-    <desc lang="en">The former Reds midfielder speaks candidly to LFCTV about his new life in Munich and his special bond with Liverpool supporters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330061500 +0100" stop="20150330064500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">An Afternoon Out with John...</title>
-    <desc lang="en">.Aldridge. Liverpool cult hero John Aldridge takes LFCTV viewers on a guided tour of his holiday village in Portugal as he reflects on his achievements best memories, regrets and team mates..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330064500 +0100" stop="20150330070000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Sterling</title>
-    <desc lang="en">A collection of classic Raheem Sterling strikes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330070000 +0100" stop="20150330073000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330073000 +0100" stop="20150330093000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special footballing guests, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330093000 +0100" stop="20150330094500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Peter Crouch</title>
-    <desc lang="en">A look back at the Liverpool career of Peter Crouch through his goals and statistics..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330094500 +0100" stop="20150330100000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Robbie Fowler</title>
-    <desc lang="en">A look back at the Liverpool career of Robbie Fowler through his goals and statistics..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330100000 +0100" stop="20150330100500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Kick Off</title>
-    <desc lang="en">Join LFC TV for the latest news from the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330100500 +0100" stop="20150330120000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special footballing guests, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330120000 +0100" stop="20150330120500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330120500 +0100" stop="20150330123000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330123000 +0100" stop="20150330133000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Michael Owen: My Story</title>
-    <desc lang="en">Ten years since leaving Liverpool, Michael Owen sits down with LFC TV to speak candidly about his time at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330133000 +0100" stop="20150330134500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Gerrard</title>
-    <desc lang="en">Enjoy a collection of goals scored by Steven Gerrard..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330134500 +0100" stop="20150330140000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Sterling</title>
-    <desc lang="en">A collection of classic Raheem Sterling strikes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330140000 +0100" stop="20150330140500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330140500 +0100" stop="20150330143000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330143000 +0100" stop="20150330153000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Coutinho: Home from Home</title>
-    <desc lang="en">A revealing portrait of the 'Magician' as Philippe Coutinho invites the LFCTV cameras into his Liverpool home for an intimate extended interview..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330153000 +0100" stop="20150330160000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330160000 +0100" stop="20150330160500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330160500 +0100" stop="20150330164500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Season So Far</title>
-    <desc lang="en">Enjoy a collection of the goals scored by Liverpool so far this season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330164500 +0100" stop="20150330170000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Xabi Alonso: The Next Chapter</title>
-    <desc lang="en">The former Reds midfielder speaks candidly to LFCTV about his new life in Munich and his special bond with Liverpool supporters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330170000 +0100" stop="20150330171500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Live: LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330171500 +0100" stop="20150330173000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U18s v Wolverhampton...</title>
-    <desc lang="en">.Wanderers: Shortcut. The best of the action as Liverpool's U18s take on Wolverhampton Wanderers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330173000 +0100" stop="20150330174500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Robbie Fowler</title>
-    <desc lang="en">A look back at the Liverpool career of Robbie Fowler through his goals and statistics..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330174500 +0100" stop="20150330180000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Luis Garcia</title>
-    <desc lang="en">A look back at the Liverpool career of Luis Garcia through his goals and statistics..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330180000 +0100" stop="20150330181500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330181500 +0100" stop="20150330183000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330183000 +0100" stop="20150330190000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330190000 +0100" stop="20150330194500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Season So Far</title>
-    <desc lang="en">Enjoy a collection of the goals scored by Liverpool so far this season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330194500 +0100" stop="20150330200000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Xabi Alonso: The Next Chapter</title>
-    <desc lang="en">The former Reds midfielder speaks candidly to LFCTV about his new life in Munich and his special bond with Liverpool supporters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330200000 +0100" stop="20150330204500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Season So Far U18s</title>
-    <desc lang="en">All the goals from Liverpool's U18s season so far..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330204500 +0100" stop="20150330210000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match: Shortcut. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special guest footballers, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330210000 +0100" stop="20150330220000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC's Most Wanted</title>
-    <desc lang="en">A countdown of the most watched videos on liverpoolfc.com..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330220000 +0100" stop="20150330221500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330221500 +0100" stop="20150330224500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Daniel Sturridge</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Daniel Sturridge..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330224500 +0100" stop="20150330231500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330231500 +0100" stop="20150330233000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U18s v Wolverhampton...</title>
-    <desc lang="en">.Wanderers: Shortcut. The best of the action as Liverpool's U18s take on Wolverhampton Wanderers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330233000 +0100" stop="20150330234500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Sterling</title>
-    <desc lang="en">A collection of classic Raheem Sterling strikes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150330234500 +0100" stop="20150331000000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331000000 +0100" stop="20150331020000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special footballing guests, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331020000 +0100" stop="20150331023000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC's Most Wanted</title>
-    <desc lang="en">A countdown of the most watched videos on liverpoolfc.com..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331023000 +0100" stop="20150331030000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Steven Gerrard #LFCicon</title>
-    <desc lang="en">The Liverpool captain talks exclusively to LFCTV about his decision to leave the club at the end of the season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331030000 +0100" stop="20150331060000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home..(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150331060000 +0100" stop="20150331061500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Gerrard</title>
-    <desc lang="en">Enjoy a collection of goals scored by Steven Gerrard..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331061500 +0100" stop="20150331063000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester City:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester City..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331063000 +0100" stop="20150331064500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Burnley: Shortcut</title>
-    <desc lang="en">All the action as Liverpool take on Burnley at Anfield..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331064500 +0100" stop="20150331070000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Swansea v Liverpool: Shortcut</title>
-    <desc lang="en">The best of the action as Liverpool take on Swansea..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331070000 +0100" stop="20150331073000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331073000 +0100" stop="20150331074500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match: Shortcut. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special guest footballers, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331074500 +0100" stop="20150331080000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match: Shortcut. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special guest footballers, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331080000 +0100" stop="20150331083000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Daniel Sturridge</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Daniel Sturridge..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331083000 +0100" stop="20150331090000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Road to Istanbul</title>
-    <desc lang="en">The journey towards what would be a fifth European Cup continues in Turin, as Rafa's Reds head into their quarter-final second leg match with a slender 2-1 lead over Juventus. S1 Ep10.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331090000 +0100" stop="20150331091500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Xabi Alonso: The Next Chapter</title>
-    <desc lang="en">The former Reds midfielder speaks candidly to LFCTV about his new life in Munich and his special bond with Liverpool supporters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331091500 +0100" stop="20150331093000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Sterling</title>
-    <desc lang="en">A collection of classic Raheem Sterling strikes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331093000 +0100" stop="20150331100000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331100000 +0100" stop="20150331100500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Kick Off</title>
-    <desc lang="en">Join LFC TV for the latest news from the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331100500 +0100" stop="20150331103000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Bugsy Moran</title>
-    <desc lang="en">In a tribute to Liverpool's sergeant major, this documentary looks back at the illustrious Anfield career of Boot Room legend Ronnie Moran..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331103000 +0100" stop="20150331110000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Kop Kids</title>
-    <desc lang="en">Episode Nine: Made by kids for kids. LFC TV's 'Kop Kids' is perfect viewing for all young Reds and those who are just young at heart..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331110000 +0100" stop="20150331120000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Coutinho: Home from Home</title>
-    <desc lang="en">A revealing portrait of the 'Magician' as Philippe Coutinho invites the LFCTV cameras into his Liverpool home for an intimate extended interview..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331120000 +0100" stop="20150331120500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331120500 +0100" stop="20150331123000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331123000 +0100" stop="20150331133000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC's Most Wanted</title>
-    <desc lang="en">A countdown of the most watched videos on liverpoolfc.com..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331133000 +0100" stop="20150331134500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U18s v Wolverhampton...</title>
-    <desc lang="en">.Wanderers: Shortcut. The best of the action as Liverpool's U18s take on Wolverhampton Wanderers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331134500 +0100" stop="20150331140000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331140000 +0100" stop="20150331140500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331140500 +0100" stop="20150331144500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Season So Far</title>
-    <desc lang="en">Enjoy a collection of the goals scored by Liverpool so far this season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331144500 +0100" stop="20150331150000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U18s v Newcastle:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U18s take on Newcastle..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331150000 +0100" stop="20150331153000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Gary McAllister: Oh, We Love...</title>
-    <desc lang="en">.Your Baldy Head! Ahead of the Merseyside derby, Liverpool legends and ex-teammates of cult hero Gary McAllister talk about his influence during his two years at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331153000 +0100" stop="20150331160000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331160000 +0100" stop="20150331160500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331160500 +0100" stop="20150331170000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Favourite Fives: Arsenal</title>
-    <desc lang="en">A countdown of Liverpool's top five Premier League matches against Arsenal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331170000 +0100" stop="20150331171500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Live: LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331171500 +0100" stop="20150331174500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Season So Far U21s</title>
-    <desc lang="en">All the goals from Liverpool's U21s season so far..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331174500 +0100" stop="20150331180000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331180000 +0100" stop="20150331181500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331181500 +0100" stop="20150331183000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match: Shortcut. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special guest footballers, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331183000 +0100" stop="20150331190000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331190000 +0100" stop="20150331200000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331200000 +0100" stop="20150331201500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331201500 +0100" stop="20150331203000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331203000 +0100" stop="20150331210000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331210000 +0100" stop="20150331220000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC's Most Wanted</title>
-    <desc lang="en">A countdown of the most watched videos on liverpoolfc.com..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331220000 +0100" stop="20150331221500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331221500 +0100" stop="20150331231500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331231500 +0100" stop="20150331233000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Burnley: Shortcut</title>
-    <desc lang="en">All the action as Liverpool take on Burnley at Anfield..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331233000 +0100" stop="20150331234500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Swansea v Liverpool: Shortcut</title>
-    <desc lang="en">The best of the action as Liverpool take on Swansea..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150331234500 +0100" stop="20150401000000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401000000 +0100" stop="20150401010000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401010000 +0100" stop="20150401030000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special footballing guests, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401030000 +0100" stop="20150401060000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home..(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150401060000 +0100" stop="20150401080000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester City:...</title>
-    <desc lang="en">.The Match. All the action as Liverpool take on Manchester City at Anfield..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401080000 +0100" stop="20150401083000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Road to Istanbul</title>
-    <desc lang="en">The journey towards what would be a fifth European Cup continues in Turin, as Rafa's Reds head into their quarter-final second leg match with a slender 2-1 lead over Juventus. S1 Ep10.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401083000 +0100" stop="20150401093000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Favourite Fives: Arsenal</title>
-    <desc lang="en">A countdown of Liverpool's top five Premier League matches against Arsenal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401093000 +0100" stop="20150401100000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401100000 +0100" stop="20150401100500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Kick Off</title>
-    <desc lang="en">Join LFC TV for the latest news from the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401100500 +0100" stop="20150401120000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special footballing guests, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401120000 +0100" stop="20150401120500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401120500 +0100" stop="20150401123000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401123000 +0100" stop="20150401133000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC's Most Wanted</title>
-    <desc lang="en">A countdown of the most watched videos on liverpoolfc.com..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401133000 +0100" stop="20150401134500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match: Shortcut. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special guest footballers, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401134500 +0100" stop="20150401140000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401140000 +0100" stop="20150401140500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401140500 +0100" stop="20150401150000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401150000 +0100" stop="20150401153000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Steven Gerrard's Magnificent...</title>
-    <desc lang="en">.Sevens. LFC pays tribute to Gerrard on his 700th appearance with seven marvellous montages showcasing the skipper's sublime skills..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401153000 +0100" stop="20150401160000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401160000 +0100" stop="20150401160500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401160500 +0100" stop="20150401170000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC's Most Wanted</title>
-    <desc lang="en">A countdown of the most watched videos on liverpoolfc.com..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401170000 +0100" stop="20150401171500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Live: LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401171500 +0100" stop="20150401173000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool All-Star Charity...</title>
-    <desc lang="en">.Match: Shortcut. Join Steven Gerrard and Jamie Carragher as they lead out a host of Anfield stars past and present, as well as a few special guest footballers, in this unforgettable charity match..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401173000 +0100" stop="20150401174500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal of the Month: February 2015</title>
-    <desc lang="en">A countdown of the best goals scored during the month of February..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401174500 +0100" stop="20150401180000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401180000 +0100" stop="20150401181500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401181500 +0100" stop="20150401190000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Season So Far</title>
-    <desc lang="en">Enjoy a collection of the goals scored by Liverpool so far this season..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401190000 +0100" stop="20150401200000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Favourite Fives: Arsenal</title>
-    <desc lang="en">A countdown of Liverpool's top five Premier League matches against Arsenal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401200000 +0100" stop="20150401201500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Sterling</title>
-    <desc lang="en">A collection of classic Raheem Sterling strikes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401201500 +0100" stop="20150401203000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal of the Month: February 2015</title>
-    <desc lang="en">A countdown of the best goals scored during the month of February..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401203000 +0100" stop="20150401210000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401210000 +0100" stop="20150401220000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Coutinho: Home from Home</title>
-    <desc lang="en">A revealing portrait of the 'Magician' as Philippe Coutinho invites the LFCTV cameras into his Liverpool home for an intimate extended interview..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401220000 +0100" stop="20150401221500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401221500 +0100" stop="20150401231500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Sixty Minutes With Phil Thompson</title>
-    <desc lang="en">Reds legend Thommo recalls his illustrious career with the Reds..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401231500 +0100" stop="20150401233000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Swansea v Liverpool: Shortcut</title>
-    <desc lang="en">The best of the action as Liverpool take on Swansea..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401233000 +0100" stop="20150401234500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150401234500 +0100" stop="20150402000000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402000000 +0100" stop="20150402010000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402010000 +0100" stop="20150402030000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.The Match. All the action as Liverpool take on Manchester United at Anfield..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402030000 +0100" stop="20150402060000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home..(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150402060000 +0100" stop="20150402061500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402061500 +0100" stop="20150402063000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402063000 +0100" stop="20150402064500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Steve McManaman</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Steve McManaman in a Liverpool shirt..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402064500 +0100" stop="20150402070000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Gerrard</title>
-    <desc lang="en">Enjoy a collection of goals scored by Steven Gerrard..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402070000 +0100" stop="20150402073000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402073000 +0100" stop="20150402074500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Steve McManaman</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Steve McManaman in a Liverpool shirt..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402074500 +0100" stop="20150402080000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402080000 +0100" stop="20150402083000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Road to Istanbul</title>
-    <desc lang="en">Rafa Benitez continues his round-by-round analysis of LFC's Champions League campaign of 2004-05 as the Reds welcome Juventus to Anfield in an emotive quarter-final clash. S1 Ep9.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402083000 +0100" stop="20150402090000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Road to Istanbul</title>
-    <desc lang="en">The journey towards what would be a fifth European Cup continues in Turin, as Rafa's Reds head into their quarter-final second leg match with a slender 2-1 lead over Juventus. S1 Ep10.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402090000 +0100" stop="20150402100000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Favourite Fives: Arsenal</title>
-    <desc lang="en">A countdown of Liverpool's top five Premier League matches against Arsenal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402100000 +0100" stop="20150402100500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Kick Off</title>
-    <desc lang="en">Join LFC TV for the latest news from the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402100500 +0100" stop="20150402120000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Cup Kings: 1995</title>
-    <desc lang="en">LFCTV celebrates the 20th anniversary of Liverpool's League Cup final win against Bolton Wanderers..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402120000 +0100" stop="20150402120500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402120500 +0100" stop="20150402130000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402130000 +0100" stop="20150402133000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Road to Istanbul</title>
-    <desc lang="en">The journey towards what would be a fifth European Cup continues in Turin, as Rafa's Reds head into their quarter-final second leg match with a slender 2-1 lead over Juventus. S1 Ep10.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402133000 +0100" stop="20150402134500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal of the Month: January 2015</title>
-    <desc lang="en">A countdown of the best goals scored during the month of January..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402134500 +0100" stop="20150402140000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal of the Month: February 2015</title>
-    <desc lang="en">A countdown of the best goals scored during the month of February..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150402140000 +0100" stop="20150402143000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Conference</title>
-    <desc lang="en">Live coverage of Liverpool's pre-match press conference ahead of Saturday's match against Arsenal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+  <programme start="20150404000000 +0100" stop="20150404020000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">ATP Tennis: Miami Masters</title>
+    <desc lang="en">Day ten of the ATP Masters 1000 tournament from Miami..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
     <premiere />
   </programme>
-  <programme start="20150402143000 +0100" stop="20150402144500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Steve McManaman</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Steve McManaman in a Liverpool shirt..(n)</desc>
+  <programme start="20150404020000 +0100" stop="20150404030000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Emirates T20 Cricket</title>
+    <desc lang="en">Coverage of cricket's 2015 Emirates T20..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Cricket</category>
   </programme>
-  <programme start="20150402144500 +0100" stop="20150402150000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
+  <programme start="20150404030000 +0100" stop="20150404033000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Rivalries: USSR v USA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the USSR and American national basketball teams..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Basketball</category>
   </programme>
-  <programme start="20150402150000 +0100" stop="20150402153000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Gary McAllister: Oh, We Love...</title>
-    <desc lang="en">.Your Baldy Head! Ahead of the Merseyside derby, Liverpool legends and ex-teammates of cult hero Gary McAllister talk about his influence during his two years at the club..(n)</desc>
+  <programme start="20150404033000 +0100" stop="20150404040000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Nadia Comaneci</title>
+    <desc lang="en">A look back at the career of Romania's Nadia Comaneci, a five-time Olympic gold medal-winning gymnast. She was the first woman to claim a perfect 10 score in an Olympic gymnastics event..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
   </programme>
-  <programme start="20150402153000 +0100" stop="20150402160000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
+  <programme start="20150404040000 +0100" stop="20150404050000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Heroes: Lennox Lewis</title>
+    <desc lang="en">Gary Newbon sits down with retired British boxing legend Lennox Lewis. The London-born fighter won Olympic gold in 1988 and is the last boxer to be an undisputed world heavyweight champion..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150402160000 +0100" stop="20150402160500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150404050000 +0100" stop="20150404060000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Time Of Our Lives</title>
+    <desc lang="en">Gary Newbon sits down with Mary Peters, Mark Phillips and Rodney Pattisson who all won gold medals at the 1972 Olympic Games in Munich..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
   </programme>
-  <programme start="20150402160500 +0100" stop="20150402170000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
+  <programme start="20150404060000 +0100" stop="20150404070000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Tight Lines</title>
+    <desc lang="en">Each week Keith Arthur is joined in the studio by an expert from the world of fishing, with a look at the latest angling news and all the tips and tactics you could need..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Fishing</category>
   </programme>
-  <programme start="20150402170000 +0100" stop="20150402171500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Live: LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150404070000 +0100" stop="20150404073000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150402171500 +0100" stop="20150402173000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
+  <programme start="20150404073000 +0100" stop="20150404093000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Chiefs play Blues in round eight of Super Rugby at Waikato Stadium in Hamilton. The Chiefs earned a compelling 32-20 victory over the Auckland side in last year's fixture..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150402173000 +0100" stop="20150402174500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal of the Month: February 2015</title>
-    <desc lang="en">A countdown of the best goals scored during the month of February..(n)</desc>
+  <programme start="20150404093000 +0100" stop="20150404113000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Brumbies entertain Cheetahs at GIO Stadium in round eight of Super Rugby..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150402174500 +0100" stop="20150402180000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Steve McManaman</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Steve McManaman in a Liverpool shirt..(n)</desc>
+  <programme start="20150404113000 +0100" stop="20150404120000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby Extra Time</title>
+    <desc lang="en">A round-up of all the tries, highlights and stories from the latest round of the 2015 Super Rugby season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20150402180000 +0100" stop="20150402181500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150404120000 +0100" stop="20150404135500 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Wrestling</category>
   </programme>
-  <programme start="20150402181500 +0100" stop="20150402183000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Xabi Alonso: The Next Chapter</title>
-    <desc lang="en">The former Reds midfielder speaks candidly to LFCTV about his new life in Munich and his special bond with Liverpool supporters..(n)</desc>
+  <programme start="20150404135500 +0100" stop="20150404160000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Sharks welcome Crusaders to Kings Park in round eight of Super Rugby. The two sides met in last season's play-off semi-finals with the Canterbury club earning a 38-6 victory..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150402183000 +0100" stop="20150402190000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 33</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep33.(n)</desc>
+  <programme start="20150404160000 +0100" stop="20150404180000 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">Super Rugby</title>
+    <desc lang="en">Lions welcome Bulls to Ellis Park in round eight of Super Rugby. In a tournament spanning most of the Southern Hemisphere, these two sides are positioned only 35 miles apart..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150402190000 +0100" stop="20150402200000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Sixty Minutes with Roy Evans</title>
-    <desc lang="en">Your chance to quiz the former Liverpool manager..(n)</desc>
+  <programme start="20150404180000 +0100" stop="20150404195500 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E815</episode-num>
   </programme>
-  <programme start="20150402200000 +0100" stop="20150402201500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
+  <programme start="20150404195500 +0100" stop="20150404221500 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">European Rugby</title>
+    <desc lang="en">Exeter Chiefs take on Newcastle Falcons at Sandy Park in the quarter-finals of the European Challenge Cup. The Chiefs topped Pool 2 ahead of Irish side Connacht to earn a home fixture..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Rugby</category>
+    <premiere />
   </programme>
-  <programme start="20150402201500 +0100" stop="20150402203000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal of the Month: February 2015</title>
-    <desc lang="en">A countdown of the best goals scored during the month of February..(n)</desc>
+  <programme start="20150404221500 +0100" stop="20150405001500 +0100" channel="Sky Sports 3 HD">
+    <title lang="en">WWE Late Night Smackdown</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring all your favourite WWE stars. This programme contains flashing images..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Wrestling</category>
+    <episode-num system="onscreen">E815</episode-num>
   </programme>
-  <programme start="20150402203000 +0100" stop="20150402210000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 34</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep34.(n)</desc>
+  <programme start="20150330193000 +0100" stop="20150331010000 +0100" channel="BoxNation">
+    <title lang="en">McKenzie v Askin</title>
+    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150402210000 +0100" stop="20150402220000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Thursday Night Show</title>
-    <desc lang="en">Join us in the LFC TV living room and get involved as we take a more relaxed view of events at the club..(n)</desc>
+  <programme start="20150331010000 +0100" stop="20150331020000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150402220000 +0100" stop="20150402221500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150331020000 +0100" stop="20150331050000 +0100" channel="BoxNation">
+    <title lang="en">Gonzalez v Russell Junior</title>
+    <desc lang="en">World featherweight Champion Jhonny Gonzalez shocked the boxing world to become WBC champion for a second time and now defends against top prospect Gary Russell Junior..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150402221500 +0100" stop="20150402224500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Macca and Macca</title>
-    <desc lang="en">Twenty years on from Liverpool's Coca-Cola Cup final victory over Bolton Wanderers, LFCTV speaks to Steve McManaman and Jason McAteer about their memories of the day..(n)</desc>
+  <programme start="20150331050000 +0100" stop="20150331060000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Naseem Hamed</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the extraordinary ring craft of the former World Featherweight Champion Prince Naseem Hamed, in classic fights against Kevin Kelley and Wilfredo Vazquez..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150402224500 +0100" stop="20150402230000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Steve McManaman</title>
-    <desc lang="en">Enjoy a collection of the best goals scored by Steve McManaman in a Liverpool shirt..(n)</desc>
+  <programme start="20150331060000 +0100" stop="20150331080000 +0100" channel="BoxNation">
+    <title lang="en">Vazquez v Quintero</title>
+    <desc lang="en">Miguel Vazquez defends his IBF Lightweight crown against fellow Mexican Marvin Quintero..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150402230000 +0100" stop="20150403000000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Thursday Night Show</title>
-    <desc lang="en">Join us in the LFC TV living room and get involved as we take a more relaxed view of events at the club..(n)</desc>
+  <programme start="20150331080000 +0100" stop="20150331100000 +0100" channel="BoxNation">
+    <title lang="en">Baysangurov v Konecny</title>
+    <desc lang="en">The Palace of Sport venue will be buzzing with excitement as Zaurbek Baysangurov defends the full WBO World Light-Middleweight title against Lukas Konecny.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403000000 +0100" stop="20150403010000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">My Greatest Game: Roy Evans</title>
-    <desc lang="en">A former Anfield favourite talks us through his favourite Liverpool game..(n)</desc>
+  <programme start="20150331100000 +0100" stop="20150331110000 +0100" channel="BoxNation">
+    <title lang="en">Best of Bunce's Boxing Hour</title>
+    <desc lang="en">A look back at the best of February on the Boxing Hour. Featuring John Fury and Anthony Crolla, Frank Buglioni cooking up breakfast for Steve Lillis, and a visit from the inimitable Chris Eubank..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403010000 +0100" stop="20150403030000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester City:...</title>
-    <desc lang="en">.The Match. All the action as Liverpool take on Manchester City at Anfield..(n)</desc>
+  <programme start="20150331110000 +0100" stop="20150331113000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403030000 +0100" stop="20150403060000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">Shopping from home..(n)</desc>
+  <programme start="20150331113000 +0100" stop="20150331120000 +0100" channel="BoxNation">
+    <title lang="en">Magee v Markussen</title>
+    <desc lang="en">Ireland's Brian Magee defends his World Super Middleweight title against the big punching Dane Rudy Markussen in Copenhagen..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150331120000 +0100" stop="20150331130000 +0100" channel="BoxNation">
+    <title lang="en">Welsh Dragons - Maccarinelli</title>
+    <desc lang="en">Part 2. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150331130000 +0100" stop="20150331133000 +0100" channel="BoxNation">
+    <title lang="en">Beyond the Ropes...</title>
+    <desc lang="en">.Haye v Chisora Ep 4. It started in a press conference brawl and it was settled at Upton Park on 14th July 2012. We bring you inside the camps of both fighters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150331133000 +0100" stop="20150331140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
     <category lang="en">Specialist</category>
     <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150403060000 +0100" stop="20150403070000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
+  <programme start="20150331140000 +0100" stop="20150331170000 +0100" channel="BoxNation">
+    <title lang="en">Gonzalez v Russell Junior</title>
+    <desc lang="en">World featherweight Champion Jhonny Gonzalez shocked the boxing world to become WBC champion for a second time and now defends against top prospect Gary Russell Junior..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403070000 +0100" stop="20150403073000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 34</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep34.(n)</desc>
+  <programme start="20150331170000 +0100" stop="20150331180000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403073000 +0100" stop="20150403074500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: John Arne Riise</title>
-    <desc lang="en">A look back at the Liverpool career of John Arne Riise through his goals and statistics..(n)</desc>
+  <programme start="20150331180000 +0100" stop="20150331183000 +0100" channel="BoxNation">
+    <title lang="en">Away from the Ring</title>
+    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403074500 +0100" stop="20150403080000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Peter Crouch</title>
-    <desc lang="en">A look back at the Liverpool career of Peter Crouch through his goals and statistics..(n)</desc>
+  <programme start="20150331183000 +0100" stop="20150331190000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403080000 +0100" stop="20150403081500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Robbie Fowler</title>
-    <desc lang="en">A look back at the Liverpool career of Robbie Fowler through his goals and statistics..(n)</desc>
+  <programme start="20150331190000 +0100" stop="20150331200000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403081500 +0100" stop="20150403083000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Back of the Net: Luis Garcia</title>
-    <desc lang="en">A look back at the Liverpool career of Luis Garcia through his goals and statistics..(n)</desc>
+  <programme start="20150331200000 +0100" stop="20150331220000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Total Combat</title>
+    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403083000 +0100" stop="20150403093000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Thursday Night Show</title>
-    <desc lang="en">Join us in the LFC TV living room and get involved as we take a more relaxed view of events at the club..(n)</desc>
+  <programme start="20150331220000 +0100" stop="20150331223000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403093000 +0100" stop="20150403100000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 34</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep34.(n)</desc>
+  <programme start="20150331223000 +0100" stop="20150401040000 +0100" channel="BoxNation">
+    <title lang="en">McKenzie v Askin</title>
+    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403100000 +0100" stop="20150403100500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Kick Off</title>
-    <desc lang="en">Join LFC TV for the latest news from the club..(n)</desc>
+  <programme start="20150401040000 +0100" stop="20150401050000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403100500 +0100" stop="20150403110000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Box</title>
-    <desc lang="en">Three members of the local media discuss the latest hot topics at the club..(n)</desc>
+  <programme start="20150401050000 +0100" stop="20150401060000 +0100" channel="BoxNation">
+    <title lang="en">Fighting Spirit</title>
+    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403110000 +0100" stop="20150403120000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Sixty Minutes with Neil Mellor</title>
-    <desc lang="en">Neil Mellor talks candidly about his rise through the LFC Academy and his four-year stint with the first-team, including his role on the road to Istanbul in 2005..(n)</desc>
+  <programme start="20150401060000 +0100" stop="20150401093000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Hernandez v Arslan</title>
+    <desc lang="en">Yoan Pablo Hernandez makes the fourth defence of his IBF welterweight title against hardy veteran Firat Arslan. After that, Jack Culcay faces unlikely European champ Isaac Real. The whole night uncut..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403120000 +0100" stop="20150403120500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150401093000 +0100" stop="20150401100000 +0100" channel="BoxNation">
+    <title lang="en">Lukas Konecny v Salim Larbi</title>
+    <desc lang="en">Lukas Konecny of the Czech Republic takes on the well thought of Frenchman Salim Larbi for the WBO World Interim Light Middleweight Championship..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403120500 +0100" stop="20150403130000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Thursday Night Show</title>
-    <desc lang="en">Join us in the LFC TV living room and get involved as we take a more relaxed view of events at the club..(n)</desc>
+  <programme start="20150401100000 +0100" stop="20150401103000 +0100" channel="BoxNation">
+    <title lang="en">Away from the Ring</title>
+    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403130000 +0100" stop="20150403133000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Conference</title>
-    <desc lang="en">Coverage of Liverpool's pre-match press conference ahead of Saturday's match against Arsenal..(n)</desc>
+  <programme start="20150401103000 +0100" stop="20150401113000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403133000 +0100" stop="20150403134500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
+  <programme start="20150401113000 +0100" stop="20150401120000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403134500 +0100" stop="20150403140000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
+  <programme start="20150401120000 +0100" stop="20150401130000 +0100" channel="BoxNation">
+    <title lang="en">Welsh Dragons - Maccarinelli</title>
+    <desc lang="en">Part 3. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403140000 +0100" stop="20150403140500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150401130000 +0100" stop="20150401133000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Michael Buffer</title>
+    <desc lang="en">"Let's get ready to rumble" living legend Michael Buffer in conversation with BoxNation's own legend that is Jim Rosenthal..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403140500 +0100" stop="20150403143000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Press Conference</title>
-    <desc lang="en">Coverage of Liverpool's pre-match press conference ahead of Saturday's match against Arsenal..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+  <programme start="20150401133000 +0100" stop="20150401140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150403143000 +0100" stop="20150403144500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Gerrard</title>
-    <desc lang="en">Enjoy a collection of goals scored by Steven Gerrard..(n)</desc>
+  <programme start="20150401140000 +0100" stop="20150401193000 +0100" channel="BoxNation">
+    <title lang="en">McKenzie v Askin</title>
+    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403144500 +0100" stop="20150403150000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Sterling</title>
-    <desc lang="en">A collection of classic Raheem Sterling strikes..(n)</desc>
+  <programme start="20150401193000 +0100" stop="20150401213000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">The legendary Hector Camacho headlines a three-fight card that also features Donovan Ruddock and Vitali Klitschko making his USA debut in August 1998..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403150000 +0100" stop="20150403151500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
+  <programme start="20150401213000 +0100" stop="20150401223000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403151500 +0100" stop="20150403153000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool U21s v West Ham:...</title>
-    <desc lang="en">.Shortcut. The best of the action as Liverpool's U21s take on West Ham..(n)</desc>
+  <programme start="20150401223000 +0100" stop="20150401230000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403153000 +0100" stop="20150403160000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 34</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep34.(n)</desc>
+  <programme start="20150401230000 +0100" stop="20150402020000 +0100" channel="BoxNation">
+    <title lang="en">Gonzalez v Russell Junior</title>
+    <desc lang="en">World featherweight Champion Jhonny Gonzalez shocked the boxing world to become WBC champion for a second time and now defends against top prospect Gary Russell Junior..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403160000 +0100" stop="20150403160500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150402020000 +0100" stop="20150402040000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">The legendary Hector Camacho headlines a three-fight card that also features Donovan Ruddock and Vitali Klitschko making his USA debut in August 1998..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403160500 +0100" stop="20150403170000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Thursday Night Show</title>
-    <desc lang="en">Join us in the LFC TV living room and get involved as we take a more relaxed view of events at the club..(n)</desc>
+  <programme start="20150402040000 +0100" stop="20150402050000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Joe Calzaghe</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the day when Joe Calzaghe announced himself at world level, by challenging boxing great, Chris Eubank, for the WBO Super-Middleweight title..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403170000 +0100" stop="20150403171500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Live: LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150402050000 +0100" stop="20150402060000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403171500 +0100" stop="20150403173000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Goal Rush: Arsenal</title>
-    <desc lang="en">Goal Rush: A selection of famous Liverpool goals scored against Arsenal..(n)</desc>
+  <programme start="20150402060000 +0100" stop="20150402113000 +0100" channel="BoxNation">
+    <title lang="en">McKenzie v Askin</title>
+    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403173000 +0100" stop="20150403180000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Liverpool Ladies</title>
-    <desc lang="en">Back-to-back WSL champions the Liverpool Ladies reflect on a busy pre-season and look forward to the start of the new league campaign..(n)</desc>
+  <programme start="20150402113000 +0100" stop="20150402133000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">The legendary Hector Camacho headlines a three-fight card that also features Donovan Ruddock and Vitali Klitschko making his USA debut in August 1998..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403180000 +0100" stop="20150403181500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+  <programme start="20150402133000 +0100" stop="20150402140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150403181500 +0100" stop="20150403183000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Xabi Alonso: The Next Chapter</title>
-    <desc lang="en">The former Reds midfielder speaks candidly to LFCTV about his new life in Munich and his special bond with Liverpool supporters..(n)</desc>
+  <programme start="20150402140000 +0100" stop="20150402160000 +0100" channel="BoxNation">
+    <title lang="en">Gutknecht v Braehmer</title>
+    <desc lang="en">An all German clash at this Berlin Brawl, Eduard Gutknecht defends his EBU Light-Heavyweight Championship against Juergen Braehmer. Also, Dominik Britsch v Luis Crespo.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403183000 +0100" stop="20150403190000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 34</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep34.(n)</desc>
+  <programme start="20150402160000 +0100" stop="20150402170000 +0100" channel="BoxNation">
+    <title lang="en">Fighting Spirit</title>
+    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403190000 +0100" stop="20150403193000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Macca and Macca</title>
-    <desc lang="en">Twenty years on from Liverpool's Coca-Cola Cup final victory over Bolton Wanderers, LFCTV speaks to Steve McManaman and Jason McAteer about their memories of the day..(n)</desc>
+  <programme start="20150402170000 +0100" stop="20150402180000 +0100" channel="BoxNation">
+    <title lang="en">Gennady Golovkin v Lajuan Simon</title>
+    <desc lang="en">Düsseldorf in Germany hosts the WBA Middleweight Championship fight between home favourite Gennady Golovkin and Lajuan Simon from Philadelphia. Also Isa Akberbayev vs. Armin Dollinger..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403193000 +0100" stop="20150403200000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Anfield 360</title>
-    <desc lang="en">Catch up with everything that has been going on in and around the club this past week..(n)</desc>
+  <programme start="20150402180000 +0100" stop="20150402190000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403200000 +0100" stop="20150403210000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">The Thursday Night Show</title>
-    <desc lang="en">Join us in the LFC TV living room and get involved as we take a more relaxed view of events at the club..(n)</desc>
+  <programme start="20150402190000 +0100" stop="20150402200000 +0100" channel="BoxNation">
+    <title lang="en">Live: Bunce's Boxing Hour</title>
+    <desc lang="en">It's back and it's live from London! Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403210000 +0100" stop="20150403213000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">#LFCWORLD - Episode 34</title>
-    <desc lang="en">Liverpool FC's weekly magazine show. Get involved by tweeting #LFCWORLD. S2014 Ep34.(n)</desc>
+  <programme start="20150402200000 +0100" stop="20150402203000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403213000 +0100" stop="20150403220000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Anfield 360</title>
-    <desc lang="en">Catch up with everything that has been going on in and around the club this past week..(n)</desc>
+  <programme start="20150402203000 +0100" stop="20150402210000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403220000 +0100" stop="20150403221500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">LFC News</title>
-    <desc lang="en">All the latest news from Anfield, Melwood and the Academy..(n)</desc>
+  <programme start="20150402210000 +0100" stop="20150402220000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Relative unknown Harry Simon takes on Ronald 'Winky' Wright for his WBO light middleweight belt at the Carousel Casino in South Africa. A great fight, with a peculiar conclusion..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403221500 +0100" stop="20150403224500 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Macca and Macca</title>
-    <desc lang="en">Twenty years on from Liverpool's Coca-Cola Cup final victory over Bolton Wanderers, LFCTV speaks to Steve McManaman and Jason McAteer about their memories of the day..(n)</desc>
+  <programme start="20150402220000 +0100" stop="20150402230000 +0100" channel="BoxNation">
+    <title lang="en">Bunce's Boxing Hour</title>
+    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403224500 +0100" stop="20150403230000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Liverpool v Manchester United:...</title>
-    <desc lang="en">.Shortcut. The best of the action from Liverpool's match against Manchester United..(n)</desc>
+  <programme start="20150402230000 +0100" stop="20150403000000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150403230000 +0100" stop="20150404000000 +0100" channel="LiverpoolFCTV">
-    <title lang="en">Coutinho: Home from Home</title>
-    <desc lang="en">A revealing portrait of the 'Magician' as Philippe Coutinho invites the LFCTV cameras into his Liverpool home for an intimate extended interview..(n)</desc>
+  <programme start="20150403000000 +0100" stop="20150403010000 +0100" channel="BoxNation">
+    <title lang="en">Best of Bunce's Boxing Hour</title>
+    <desc lang="en">A look back at the best of February on the Boxing Hour. Featuring John Fury and Anthony Crolla, Frank Buglioni cooking up breakfast for Steve Lillis, and a visit from the inimitable Chris Eubank..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403010000 +0100" stop="20150403013000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403013000 +0100" stop="20150403043000 +0100" channel="BoxNation">
+    <title lang="en">Gonzalez v Russell Junior</title>
+    <desc lang="en">World featherweight Champion Jhonny Gonzalez shocked the boxing world to become WBC champion for a second time and now defends against top prospect Gary Russell Junior..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403043000 +0100" stop="20150403053000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403053000 +0100" stop="20150403060000 +0100" channel="BoxNation">
+    <title lang="en">Away from the Ring</title>
+    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403060000 +0100" stop="20150403080000 +0100" channel="BoxNation">
+    <title lang="en">Marco Huck v Ola Afolabi</title>
+    <desc lang="en">Marco Huck defends his WBO World Cruiserweight title against London born Ola Afolabi..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403080000 +0100" stop="20150403133000 +0100" channel="BoxNation">
+    <title lang="en">McKenzie v Askin</title>
+    <desc lang="en">Ovill 'The Upsetter' McKenzie defends his British and Commonwealth Cruiserweight Championships against tough challenger Matty Askin..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403133000 +0100" stop="20150403140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20150403140000 +0100" stop="20150403153000 +0100" channel="BoxNation">
+    <title lang="en">Bundu v Moscatiello</title>
+    <desc lang="en">Leonard Bundu defends his European Welterweight title in Italy against the well thought of Antonio Moscatiello..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403153000 +0100" stop="20150403160000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403160000 +0100" stop="20150403170000 +0100" channel="BoxNation">
+    <title lang="en">Bunce's Boxing Hour</title>
+    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403170000 +0100" stop="20150403190000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">The legendary Hector Camacho headlines a three-fight card that also features Donovan Ruddock and Vitali Klitschko making his USA debut in August 1998..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403190000 +0100" stop="20150403210000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">19 year old 'Iron' Mike Tyson exploded onto the heavyweight scene in 1985. Tonight in his 14th pro fight he takes on Sammy Scaff, don't blink. Also Iran Barkley v Mike Tinley..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403210000 +0100" stop="20150403220000 +0100" channel="BoxNation">
+    <title lang="en">Bunce's Boxing Hour</title>
+    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403220000 +0100" stop="20150403230000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150403230000 +0100" stop="20150404000000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404000000 +0100" stop="20150404033000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Stiverne v Wilder</title>
+    <desc lang="en">Bermane Stiverne takes on Deontay Wilder- the first world heavyweight title fight in Las Vegas since 2006. Stiverne is the champion, but Wilder boasts a 32 win, 32 KO record. The whole night uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404033000 +0100" stop="20150404040000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404040000 +0100" stop="20150404060000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">19 year old 'Iron' Mike Tyson exploded onto the heavyweight scene in 1985. Tonight in his 14th pro fight he takes on Sammy Scaff, don't blink. Also Iran Barkley v Mike Tinley..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404060000 +0100" stop="20150404103000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Pacquiao v Bradley</title>
+    <desc lang="en">After beating Manny Pacquiao in 2012, Timothy 'Desert Storm' Bradley still had questions to answer. In the rematch, Pac Man hoped to inflict the American's first ever defeat. The whole night uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404103000 +0100" stop="20150404123000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">The legendary Hector Camacho headlines a three-fight card that also features Donovan Ruddock and Vitali Klitschko making his USA debut in August 1998..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404123000 +0100" stop="20150404143000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">19 year old 'Iron' Mike Tyson exploded onto the heavyweight scene in 1985. Tonight in his 14th pro fight he takes on Sammy Scaff, don't blink. Also Iran Barkley v Mike Tinley..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404143000 +0100" stop="20150404183000 +0100" channel="BoxNation">
+    <title lang="en">Uncut Broner v Maidana</title>
+    <desc lang="en">Adrien Broner's biggest problem on this huge, year-ending show of 2013 was the power, speed and skill of Marcos Maidana. The whole fight, the whole night, uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404183000 +0100" stop="20150404190000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404190000 +0100" stop="20150404223000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Bradley v Provodnikov</title>
+    <desc lang="en">Timothy Bradley v Ruslan Provodnikov for the WBO World Welterweight championship was the main event and what a war it turned out to be. Enjoy the whole card from Carson, California..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404223000 +0100" stop="20150404230000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150404230000 +0100" stop="20150405020000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Garcia v Lopez</title>
+    <desc lang="en">Mikey Garcia delivers a clinical performance for the WBO world featherweight belt against Juan Manuel Lopez, headlining a six fight card where only one went the distance. The whole night, uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
   </programme>
 </tv>
