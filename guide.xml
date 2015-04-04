@@ -172,4 +172,1200 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
+  <programme start="20150404200000 +0100" stop="20150405000000 +0100" channel="Sky Sports 2">
+    <title lang="en">Saturday Fight Night</title>
+    <desc lang="en">British heavyweight hopeful Anthony Joshua takes on American Jason Gavern at the Metro Radio Arena in Newcastle. Joshua can stretch his impressive record to 11-0 with victory tonight..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <premiere />
+  </programme>
+  <programme start="20150405000000 +0100" stop="20150405010000 +0100" channel="Sky Sports 2">
+    <title lang="en">Luke Campbell: The Golden Boy</title>
+    <desc lang="en">In this revealing documentary, Olympic gold medallist Luke Campbell, Britain's most decorated amateur boxer, discusses his start in the pro ranks and pressures of life outside of the ring..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150405010000 +0100" stop="20150405011500 +0100" channel="Sky Sports 2">
+    <title lang="en">Cricket Classic: SA v AUS</title>
+    <desc lang="en">The classic ODI between South Africa and Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150405011500 +0100" stop="20150405014500 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405014500 +0100" stop="20150405044000 +0100" channel="Sky Sports 2">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Live coverage of the HSBC Sevens World Series from the Chichibunomiya Rugby Stadium in Tokyo, Japan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405044000 +0100" stop="20150405045000 +0100" channel="Sky Sports 2">
+    <title lang="en">Football Gold:Tranmere v Leicester</title>
+    <desc lang="en">A chance to relive the 1999/00 League Cup final between Leicester City and Tranmere Rovers. Leicester overcame Aston Villa in the semi-finals, while Tranmere beat Bolton Wanderers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150405045000 +0100" stop="20150405050500 +0100" channel="Sky Sports 2">
+    <title lang="en">Football Gold: B'ham v Aston Villa</title>
+    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Birmingham City against crosstown rivals Aston Villa at St Andrews from the 2002/2003 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150405050500 +0100" stop="20150405060000 +0100" channel="Sky Sports 2">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Chichibunomiya Rugby Stadium in Tokyo, Japan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405060000 +0100" stop="20150405110000 +0100" channel="Sky Sports 2">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Chichibunomiya Rugby Stadium in Tokyo, Japan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405110000 +0100" stop="20150405113000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405113000 +0100" stop="20150405120000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405120000 +0100" stop="20150405123000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405123000 +0100" stop="20150405130000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: Coe v Ovett</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on British middle-distance runners Sebastian Coe and Steve Ovett..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150405130000 +0100" stop="20150405133000 +0100" channel="Sky Sports 2">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150405133000 +0100" stop="20150405134500 +0100" channel="Sky Sports 2">
+    <title lang="en">Cricket Classic: PAK v ENG 2000</title>
+    <desc lang="en">A look back to the classic Karachi Test between Pakistan and England in 2000. Michael Atherton, Ashley Giles and Graham Thorpe were to put in some exceptional performances..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150405134500 +0100" stop="20150405141500 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405141500 +0100" stop="20150405144500 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405144500 +0100" stop="20150405173000 +0100" channel="Sky Sports 2">
+    <title lang="en">European Rugby Union</title>
+    <desc lang="en">Toulon face Wasps in the quarter-finals of the European Rugby Champions Cup at Stade Mayol. Current European champions Toulon defeated Saracens in last season's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405173000 +0100" stop="20150405213000 +0100" channel="Sky Sports 2">
+    <title lang="en">Fight Night</title>
+    <desc lang="en">British heavyweight hopeful Anthony Joshua takes on American Jason Gavern at the Metro Radio Arena in Newcastle. Joshua can stretch his impressive record to 11-0 with victory tonight..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150405213000 +0100" stop="20150405223000 +0100" channel="Sky Sports 2">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405223000 +0100" stop="20150405230000 +0100" channel="Sky Sports 2">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150405230000 +0100" stop="20150405233000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405233000 +0100" stop="20150406000000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406000000 +0100" stop="20150406010000 +0100" channel="Sky Sports 2">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406010000 +0100" stop="20150406013000 +0100" channel="Sky Sports 2">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150406013000 +0100" stop="20150406023000 +0100" channel="Sky Sports 2">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406023000 +0100" stop="20150406030000 +0100" channel="Sky Sports 2">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150406030000 +0100" stop="20150406033000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406033000 +0100" stop="20150406040000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406040000 +0100" stop="20150406043000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406043000 +0100" stop="20150406053000 +0100" channel="Sky Sports 2">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406053000 +0100" stop="20150406060000 +0100" channel="Sky Sports 2">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150406060000 +0100" stop="20150406063000 +0100" channel="Sky Sports 2">
+    <title lang="en">Dennis Lillee: Cricket's Greatest</title>
+    <desc lang="en">Series profiling some of the greatest cricketers of all time. Here the focus is on former Australia fast bowler Dennis Lillee..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406063000 +0100" stop="20150406070000 +0100" channel="Sky Sports 2">
+    <title lang="en">Allan Border: Cricket's Greatest</title>
+    <desc lang="en">Series profiling some of the greatest cricketers of all time. This episode features a look at former Australia captain Allan Border..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406070000 +0100" stop="20150406103000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Hobart Hurricanes host Sydney Sixers at Blundstone Arena in the Big Bash League. Both sides picked up victories in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406103000 +0100" stop="20150406110000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406110000 +0100" stop="20150406113000 +0100" channel="Sky Sports 2">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150406113000 +0100" stop="20150406120000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406120000 +0100" stop="20150406130000 +0100" channel="Sky Sports 2">
+    <title lang="en">Miami Masters Final Hlts</title>
+    <desc lang="en">Andy Murray and Novak Djokovic meet in the final of the Miami Open at the Tennis Center at Crandon Park in Florida. British number one Murray is targeting his third title at this event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406130000 +0100" stop="20150406140000 +0100" channel="Sky Sports 2">
+    <title lang="en">Cricket World Cup Classic</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against England in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406140000 +0100" stop="20150406143000 +0100" channel="Sky Sports 2">
+    <title lang="en">Bangladesh v Pakistan 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Bangladesh against Pakistan in the group stage of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406143000 +0100" stop="20150406150000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406150000 +0100" stop="20150406153000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406153000 +0100" stop="20150406160000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406160000 +0100" stop="20150406165500 +0100" channel="Sky Sports 2">
+    <title lang="en">Miami Masters Final Hlts</title>
+    <desc lang="en">Andy Murray and Novak Djokovic meet in the final of the Miami Open at the Tennis Center at Crandon Park in Florida. British number one Murray is targeting his third title at this event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406165500 +0100" stop="20150406190000 +0100" channel="Sky Sports 2">
+    <title lang="en">Super League</title>
+    <desc lang="en">Catalan Dragons welcome Widnes Vikings to Stade Gilbert Brutus in round nine of Super League. The sides played out a thrilling 26-26 draw when they last met in May..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150406190000 +0100" stop="20150406191500 +0100" channel="Sky Sports 2">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">WWE From The Vault: Rey Mysterio &amp; Alex Riley take on The Miz &amp; Jack Swagger in June 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150406191500 +0100" stop="20150406193000 +0100" channel="Sky Sports 2">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A classic match from the WWE Vault: Dolph Ziggler takes on Kofi Kingston in June 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150406193000 +0100" stop="20150406213000 +0100" channel="Sky Sports 2">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Yorkshire Jets face Celtic Dragons at the Hull Arena in round 13 of the 2015 Netball Superleague..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150406213000 +0100" stop="20150406223000 +0100" channel="Sky Sports 2">
+    <title lang="en">Miami Masters Final Hlts</title>
+    <desc lang="en">Andy Murray and Novak Djokovic meet in the final of the Miami Open at the Tennis Center at Crandon Park in Florida. British number one Murray is targeting his third title at this event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406223000 +0100" stop="20150406230000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406230000 +0100" stop="20150407010000 +0100" channel="Sky Sports 2">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Yorkshire Jets face Celtic Dragons at the Hull Arena in round 13 of the 2015 Netball Superleague..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150407010000 +0100" stop="20150407043000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Hobart Hurricanes host Sydney Sixers at Blundstone Arena in the Big Bash League. Both sides picked up victories in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407043000 +0100" stop="20150407050000 +0100" channel="Sky Sports 2">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150407050000 +0100" stop="20150407053000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407053000 +0100" stop="20150407060000 +0100" channel="Sky Sports 2">
+    <title lang="en">Bangladesh v Pakistan 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Bangladesh against Pakistan in the group stage of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407060000 +0100" stop="20150407063000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against Pakistan in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407063000 +0100" stop="20150407070000 +0100" channel="Sky Sports 2">
+    <title lang="en">Australia v South Africa 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against South Africa in the semi-finals of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407070000 +0100" stop="20150407103000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Perth Scorchers and Melbourne Renegades meet at the WACA Ground in the Big Bash League. Both sides suffered defeats in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407103000 +0100" stop="20150407124500 +0100" channel="Sky Sports 2">
+    <title lang="en">Super League</title>
+    <desc lang="en">Warrington Wolves face Castleford Tigers at Halliwell Jones Stadium in round nine of Super League. The Wolves defeated Castleford 30-14 in last season's preliminary semi-final match-up..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407124500 +0100" stop="20150407145000 +0100" channel="Sky Sports 2">
+    <title lang="en">Super League</title>
+    <desc lang="en">Catalan Dragons welcome Widnes Vikings to Stade Gilbert Brutus in round nine of Super League. The sides played out a thrilling 26-26 draw when they last met in May..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407145000 +0100" stop="20150407150500 +0100" channel="Sky Sports 2">
+    <title lang="en">Grand Final Gold 1998</title>
+    <desc lang="en">A chance to relive the 1998 Super League Grand Final between Wigan Warriors and Leeds Rhinos. The Warriors had previously recorded a 17-4 win over the Rhinos during the play-offs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407150500 +0100" stop="20150407151500 +0100" channel="Sky Sports 2">
+    <title lang="en">Football Gold: Barcelona v Man Utd</title>
+    <desc lang="en">A chance to relive the 2010/11 UEFA Champions League final between Barcelona and Manchester United. Barca beat Real Madrid in the semi-finals, while United saw off Schalke..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150407151500 +0100" stop="20150407153000 +0100" channel="Sky Sports 2">
+    <title lang="en">Grand Final Gold 2000</title>
+    <desc lang="en">A chance to relive the 2000 Super League Grand Final between St Helens and Wigan Warriors. The Saints were looking for their second successive title win..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407153000 +0100" stop="20150407163000 +0100" channel="Sky Sports 2">
+    <title lang="en">Cricket World Cup Classic</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against India in the final of the 2003 tournament in Johannesburg..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407163000 +0100" stop="20150407183000 +0100" channel="Sky Sports 2">
+    <title lang="en">How The 2011 ICC World Cup Was Won</title>
+    <desc lang="en">A look at how the 2011 ICC Cricket World Cup was won. The tournament was jointly held in India, Sri Lanka and Bangladesh. Australia went into the event as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407183000 +0100" stop="20150407190000 +0100" channel="Sky Sports 2">
+    <title lang="en">Cycling: Women's Road World Cup</title>
+    <desc lang="en">The second event of the 2015 UCI Women's Road World Cup, Trofeo Alfredo Binda-Comune di Cittiglio, comes from Italy. Britain's Lizzie Armitstead finished second at this event last year..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150407190000 +0100" stop="20150407213000 +0100" channel="Sky Sports 2">
+    <title lang="en">Greyhound Racing</title>
+    <desc lang="en">Live coverage of the 2015 Coors Three Steps To Victory final from the Owlerton Greyhound Stadium in Sheffield..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150407213000 +0100" stop="20150407223000 +0100" channel="Sky Sports 2">
+    <title lang="en">Gibraltar Darts Trophy</title>
+    <desc lang="en">The 2015 Gibraltar Darts Trophy from the Victoria Stadium in Gibraltar. James Wade secured his first European Tour title by defeating Steve Beaton in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150407223000 +0100" stop="20150407233000 +0100" channel="Sky Sports 2">
+    <title lang="en">WWE Late Night Smackdown Hlts</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150407233000 +0100" stop="20150408000000 +0100" channel="Sky Sports 2">
+    <title lang="en">Cycling: Women's Road World Cup</title>
+    <desc lang="en">The second event of the 2015 UCI Women's Road World Cup, Trofeo Alfredo Binda-Comune di Cittiglio, comes from Italy. Britain's Lizzie Armitstead finished second at this event last year..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150408000000 +0100" stop="20150408033000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Perth Scorchers and Melbourne Renegades meet at the WACA Ground in the Big Bash League. Both sides suffered defeats in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408033000 +0100" stop="20150408040000 +0100" channel="Sky Sports 2">
+    <title lang="en">Australia v South Africa 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against South Africa in the semi-finals of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408040000 +0100" stop="20150408050000 +0100" channel="Sky Sports 2">
+    <title lang="en">Cricket World Cup Classic</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against India in the final of the 2003 tournament in Johannesburg..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408050000 +0100" stop="20150408053000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against Pakistan in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408053000 +0100" stop="20150408060000 +0100" channel="Sky Sports 2">
+    <title lang="en">Australia v India 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against India in the final of the 2003 tournament in Johannesburg..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408060000 +0100" stop="20150408063000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408063000 +0100" stop="20150408070000 +0100" channel="Sky Sports 2">
+    <title lang="en">New Zealand v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is New Zealand against Pakistan from the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408070000 +0100" stop="20150408103000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Sydney Thunder host the Sydney Sixers at ANZ Stadium in the Big Bash League. The Sixers have won their opening two games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408103000 +0100" stop="20150408110000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408110000 +0100" stop="20150408120000 +0100" channel="Sky Sports 2">
+    <title lang="en">Gibraltar Darts Trophy</title>
+    <desc lang="en">The 2015 Gibraltar Darts Trophy from the Victoria Stadium in Gibraltar. James Wade secured his first European Tour title by defeating Steve Beaton in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150408120000 +0100" stop="20150408123000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408123000 +0100" stop="20150408133000 +0100" channel="Sky Sports 2">
+    <title lang="en">Gibraltar Darts Trophy</title>
+    <desc lang="en">The 2015 Gibraltar Darts Trophy from the Victoria Stadium in Gibraltar. James Wade secured his first European Tour title by defeating Steve Beaton in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150408133000 +0100" stop="20150408143000 +0100" channel="Sky Sports 2">
+    <title lang="en">Emirates T20 Cricket</title>
+    <desc lang="en">Coverage of cricket's 2015 Emirates T20..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408143000 +0100" stop="20150408193000 +0100" channel="Sky Sports 2">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Kolkata Knight Riders begin the 2015 Indian Premier League season with a clash against Mumbai Indians at Eden Gardens in Kolkata. The defending champions beat Mumbai twice last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <premiere />
+  </programme>
+  <programme start="20150408193000 +0100" stop="20150408200000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408200000 +0100" stop="20150409010000 +0100" channel="Sky Sports 2">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Kolkata Knight Riders begin the 2015 Indian Premier League season with a clash against Mumbai Indians at Eden Gardens in Kolkata. The defending champions beat Mumbai twice last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409010000 +0100" stop="20150409043000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Sydney Thunder host the Sydney Sixers at ANZ Stadium in the Big Bash League. The Sixers have won their opening two games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409043000 +0100" stop="20150409050000 +0100" channel="Sky Sports 2">
+    <title lang="en">New Zealand v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is New Zealand against Pakistan from the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409050000 +0100" stop="20150409053000 +0100" channel="Sky Sports 2">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409053000 +0100" stop="20150409060000 +0100" channel="Sky Sports 2">
+    <title lang="en">Australia v Pakistan 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against Pakistan in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409060000 +0100" stop="20150409063000 +0100" channel="Sky Sports 2">
+    <title lang="en">New Zealand v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is New Zealand against Pakistan from the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409063000 +0100" stop="20150409070000 +0100" channel="Sky Sports 2">
+    <title lang="en">Australia v England 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against England in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409070000 +0100" stop="20150409103000 +0100" channel="Sky Sports 2">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Brisbane Heat and Melbourne Stars meet at the Brisbane Cricket Ground in the Big Bash League. The Stars have lost their opening two games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409103000 +0100" stop="20150409150000 +0100" channel="Sky Sports 2">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Kolkata Knight Riders begin the 2015 Indian Premier League season with a clash against Mumbai Indians at Eden Gardens in Kolkata. The defending champions beat Mumbai twice last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409150000 +0100" stop="20150409193000 +0100" channel="Sky Sports 2">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Chennai Super Kings take on Delhi Daredevils at the M. A. Chidambaram Stadium in Chennai in the Indian Premier League. The Super Kings narrowly missed out on a place in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <premiere />
+  </programme>
+  <programme start="20150409193000 +0100" stop="20150409200000 +0100" channel="Sky Sports 2">
+    <title lang="en">Australia v England 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against England in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409200000 +0100" stop="20150410003000 +0100" channel="Sky Sports 2">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Chennai Super Kings take on Delhi Daredevils at the M. A. Chidambaram Stadium in Chennai in the Indian Premier League. The Super Kings narrowly missed out on a place in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150404200000 +0100" stop="20150405000000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Saturday Fight Night</title>
+    <desc lang="en">British heavyweight hopeful Anthony Joshua takes on American Jason Gavern at the Metro Radio Arena in Newcastle. Joshua can stretch his impressive record to 11-0 with victory tonight..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <premiere />
+  </programme>
+  <programme start="20150405000000 +0100" stop="20150405010000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Luke Campbell: The Golden Boy</title>
+    <desc lang="en">In this revealing documentary, Olympic gold medallist Luke Campbell, Britain's most decorated amateur boxer, discusses his start in the pro ranks and pressures of life outside of the ring..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150405010000 +0100" stop="20150405011500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cricket Classic: SA v AUS</title>
+    <desc lang="en">The classic ODI between South Africa and Australia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150405011500 +0100" stop="20150405014500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405014500 +0100" stop="20150405044000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Live coverage of the HSBC Sevens World Series from the Chichibunomiya Rugby Stadium in Tokyo, Japan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405044000 +0100" stop="20150405045000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Football Gold:Tranmere v Leicester</title>
+    <desc lang="en">A chance to relive the 1999/00 League Cup final between Leicester City and Tranmere Rovers. Leicester overcame Aston Villa in the semi-finals, while Tranmere beat Bolton Wanderers..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150405045000 +0100" stop="20150405050500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Football Gold: B'ham v Aston Villa</title>
+    <desc lang="en">A chance to relive some classic matches from English football's top flight. Here is Birmingham City against crosstown rivals Aston Villa at St Andrews from the 2002/2003 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150405050500 +0100" stop="20150405060000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Chichibunomiya Rugby Stadium in Tokyo, Japan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405060000 +0100" stop="20150405110000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">HSBC Sevens World Series</title>
+    <desc lang="en">Day two of the HSBC Sevens World Series from the Chichibunomiya Rugby Stadium in Tokyo, Japan..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405110000 +0100" stop="20150405113000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405113000 +0100" stop="20150405120000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405120000 +0100" stop="20150405123000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405123000 +0100" stop="20150405130000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: Coe v Ovett</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on British middle-distance runners Sebastian Coe and Steve Ovett..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150405130000 +0100" stop="20150405133000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Inside Sailing</title>
+    <desc lang="en">All the latest news and features from some of the greatest sailing locations around the world. From windsurfing to yachting, this series brings you all the secrets to success..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20150405133000 +0100" stop="20150405134500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cricket Classic: PAK v ENG 2000</title>
+    <desc lang="en">A look back to the classic Karachi Test between Pakistan and England in 2000. Michael Atherton, Ashley Giles and Graham Thorpe were to put in some exceptional performances..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150405134500 +0100" stop="20150405141500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Greats: Sean Fitzpatrick</title>
+    <desc lang="en">A look at the career of Sean Fitzpatrick, one of the finest rugby union players New Zealand has ever produced. A World Cup winner in 1987, Fitzpatrick earned 92 caps for his country..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405141500 +0100" stop="20150405144500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405144500 +0100" stop="20150405173000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">European Rugby Union</title>
+    <desc lang="en">Toulon face Wasps in the quarter-finals of the European Rugby Champions Cup at Stade Mayol. Current European champions Toulon defeated Saracens in last season's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150405173000 +0100" stop="20150405213000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Fight Night</title>
+    <desc lang="en">British heavyweight hopeful Anthony Joshua takes on American Jason Gavern at the Metro Radio Arena in Newcastle. Joshua can stretch his impressive record to 11-0 with victory tonight..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150405213000 +0100" stop="20150405223000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405223000 +0100" stop="20150405230000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150405230000 +0100" stop="20150405233000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150405233000 +0100" stop="20150406000000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406000000 +0100" stop="20150406010000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406010000 +0100" stop="20150406013000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150406013000 +0100" stop="20150406023000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406023000 +0100" stop="20150406030000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150406030000 +0100" stop="20150406033000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406033000 +0100" stop="20150406040000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: SA V NZ</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the South Africa and New Zealand rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406040000 +0100" stop="20150406043000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: ENG v FRA</title>
+    <desc lang="en">Series profiling some of the greatest sporting rivalries of all time. Here the focus is on the storied history between the English and French rugby teams..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406043000 +0100" stop="20150406053000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">European Rugby Special</title>
+    <desc lang="en">A round-up of all the tries and all the stories from the quarter-finals of the European Champions Cup and European Challenge Cup..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150406053000 +0100" stop="20150406060000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super Rugby Try Time</title>
+    <desc lang="en">A round-up of all the tries and highlights from the latest round of the 2015 Super Rugby season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20150406060000 +0100" stop="20150406063000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Dennis Lillee: Cricket's Greatest</title>
+    <desc lang="en">Series profiling some of the greatest cricketers of all time. Here the focus is on former Australia fast bowler Dennis Lillee..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406063000 +0100" stop="20150406070000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Allan Border: Cricket's Greatest</title>
+    <desc lang="en">Series profiling some of the greatest cricketers of all time. This episode features a look at former Australia captain Allan Border..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406070000 +0100" stop="20150406103000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Hobart Hurricanes host Sydney Sixers at Blundstone Arena in the Big Bash League. Both sides picked up victories in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406103000 +0100" stop="20150406110000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406110000 +0100" stop="20150406113000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150406113000 +0100" stop="20150406120000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406120000 +0100" stop="20150406130000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Miami Masters Final Hlts</title>
+    <desc lang="en">Andy Murray and Novak Djokovic meet in the final of the Miami Open at the Tennis Center at Crandon Park in Florida. British number one Murray is targeting his third title at this event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406130000 +0100" stop="20150406140000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cricket World Cup Classic</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against England in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406140000 +0100" stop="20150406143000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Bangladesh v Pakistan 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Bangladesh against Pakistan in the group stage of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406143000 +0100" stop="20150406150000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150406150000 +0100" stop="20150406153000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Greats: Roger Federer</title>
+    <desc lang="en">A look back on the career of tennis legend Roger Federer. The Swiss maestro has won 17 grand slam titles during his career, more than any other player in tennis history..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406153000 +0100" stop="20150406160000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Greats: Rafael Nadal</title>
+    <desc lang="en">A profile of Spanish tennis player Rafael Nadal. Perhaps the greatest clay court competitor in the history of the game, Nadal has more French Open titles to his name than any other player..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406160000 +0100" stop="20150406165500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Miami Masters Final Hlts</title>
+    <desc lang="en">Andy Murray and Novak Djokovic meet in the final of the Miami Open at the Tennis Center at Crandon Park in Florida. British number one Murray is targeting his third title at this event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406165500 +0100" stop="20150406190000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super League</title>
+    <desc lang="en">Catalan Dragons welcome Widnes Vikings to Stade Gilbert Brutus in round nine of Super League. The sides played out a thrilling 26-26 draw when they last met in May..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <premiere />
+  </programme>
+  <programme start="20150406190000 +0100" stop="20150406191500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">WWE From The Vault: Rey Mysterio &amp; Alex Riley take on The Miz &amp; Jack Swagger in June 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150406191500 +0100" stop="20150406193000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">WWE From The Vault</title>
+    <desc lang="en">A classic match from the WWE Vault: Dolph Ziggler takes on Kofi Kingston in June 2011..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150406193000 +0100" stop="20150406213000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Yorkshire Jets face Celtic Dragons at the Hull Arena in round 13 of the 2015 Netball Superleague..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150406213000 +0100" stop="20150406223000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Miami Masters Final Hlts</title>
+    <desc lang="en">Andy Murray and Novak Djokovic meet in the final of the Miami Open at the Tennis Center at Crandon Park in Florida. British number one Murray is targeting his third title at this event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406223000 +0100" stop="20150406230000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150406230000 +0100" stop="20150407010000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Netball SuperLeague</title>
+    <desc lang="en">Yorkshire Jets face Celtic Dragons at the Hull Arena in round 13 of the 2015 Netball Superleague..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150407010000 +0100" stop="20150407043000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Hobart Hurricanes host Sydney Sixers at Blundstone Arena in the Big Bash League. Both sides picked up victories in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407043000 +0100" stop="20150407050000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Sporting Rivalries: Federer/Nadal</title>
+    <desc lang="en">Series profiling some of the greatest rivalries in sporting history. Here the focus is on tennis greats Roger Federer and Rafael Nadal..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150407050000 +0100" stop="20150407053000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407053000 +0100" stop="20150407060000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Bangladesh v Pakistan 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Bangladesh against Pakistan in the group stage of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407060000 +0100" stop="20150407063000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against Pakistan in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407063000 +0100" stop="20150407070000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Australia v South Africa 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against South Africa in the semi-finals of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407070000 +0100" stop="20150407103000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Perth Scorchers and Melbourne Renegades meet at the WACA Ground in the Big Bash League. Both sides suffered defeats in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407103000 +0100" stop="20150407124500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super League</title>
+    <desc lang="en">Warrington Wolves face Castleford Tigers at Halliwell Jones Stadium in round nine of Super League. The Wolves defeated Castleford 30-14 in last season's preliminary semi-final match-up..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407124500 +0100" stop="20150407145000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Super League</title>
+    <desc lang="en">Catalan Dragons welcome Widnes Vikings to Stade Gilbert Brutus in round nine of Super League. The sides played out a thrilling 26-26 draw when they last met in May..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407145000 +0100" stop="20150407150500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Grand Final Gold 1998</title>
+    <desc lang="en">A chance to relive the 1998 Super League Grand Final between Wigan Warriors and Leeds Rhinos. The Warriors had previously recorded a 17-4 win over the Rhinos during the play-offs..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407150500 +0100" stop="20150407151500 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Football Gold: Barcelona v Man Utd</title>
+    <desc lang="en">A chance to relive the 2010/11 UEFA Champions League final between Barcelona and Manchester United. Barca beat Real Madrid in the semi-finals, while United saw off Schalke..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150407151500 +0100" stop="20150407153000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Grand Final Gold 2000</title>
+    <desc lang="en">A chance to relive the 2000 Super League Grand Final between St Helens and Wigan Warriors. The Saints were looking for their second successive title win..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20150407153000 +0100" stop="20150407163000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cricket World Cup Classic</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against India in the final of the 2003 tournament in Johannesburg..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407163000 +0100" stop="20150407183000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">How The 2011 ICC World Cup Was Won</title>
+    <desc lang="en">A look at how the 2011 ICC Cricket World Cup was won. The tournament was jointly held in India, Sri Lanka and Bangladesh. Australia went into the event as defending champions..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150407183000 +0100" stop="20150407190000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cycling: Women's Road World Cup</title>
+    <desc lang="en">The second event of the 2015 UCI Women's Road World Cup, Trofeo Alfredo Binda-Comune di Cittiglio, comes from Italy. Britain's Lizzie Armitstead finished second at this event last year..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150407190000 +0100" stop="20150407213000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Greyhound Racing</title>
+    <desc lang="en">Live coverage of the 2015 Coors Three Steps To Victory final from the Owlerton Greyhound Stadium in Sheffield..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150407213000 +0100" stop="20150407223000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Gibraltar Darts Trophy</title>
+    <desc lang="en">The 2015 Gibraltar Darts Trophy from the Victoria Stadium in Gibraltar. James Wade secured his first European Tour title by defeating Steve Beaton in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150407223000 +0100" stop="20150407233000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">WWE Late Night Smackdown Hlts</title>
+    <desc lang="en">Michael Cole, Jerry 'The King' Lawler and Byron Saxton present Smackdown, featuring stars like Randy Orton, Daniel Bryan and Dolph Ziggler. This programme contains flashing images..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20150407233000 +0100" stop="20150408000000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cycling: Women's Road World Cup</title>
+    <desc lang="en">The second event of the 2015 UCI Women's Road World Cup, Trofeo Alfredo Binda-Comune di Cittiglio, comes from Italy. Britain's Lizzie Armitstead finished second at this event last year..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150408000000 +0100" stop="20150408033000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Perth Scorchers and Melbourne Renegades meet at the WACA Ground in the Big Bash League. Both sides suffered defeats in their opening games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408033000 +0100" stop="20150408040000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Australia v South Africa 1999</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against South Africa in the semi-finals of the 1999 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408040000 +0100" stop="20150408050000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Cricket World Cup Classic</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against India in the final of the 2003 tournament in Johannesburg..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408050000 +0100" stop="20150408053000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against Pakistan in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408053000 +0100" stop="20150408060000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Australia v India 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against India in the final of the 2003 tournament in Johannesburg..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408060000 +0100" stop="20150408063000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408063000 +0100" stop="20150408070000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">New Zealand v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is New Zealand against Pakistan from the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408070000 +0100" stop="20150408103000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Sydney Thunder host the Sydney Sixers at ANZ Stadium in the Big Bash League. The Sixers have won their opening two games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408103000 +0100" stop="20150408110000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408110000 +0100" stop="20150408120000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Gibraltar Darts Trophy</title>
+    <desc lang="en">The 2015 Gibraltar Darts Trophy from the Victoria Stadium in Gibraltar. James Wade secured his first European Tour title by defeating Steve Beaton in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150408120000 +0100" stop="20150408123000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408123000 +0100" stop="20150408133000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Gibraltar Darts Trophy</title>
+    <desc lang="en">The 2015 Gibraltar Darts Trophy from the Victoria Stadium in Gibraltar. James Wade secured his first European Tour title by defeating Steve Beaton in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20150408133000 +0100" stop="20150408143000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Emirates T20 Cricket</title>
+    <desc lang="en">Coverage of cricket's 2015 Emirates T20..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408143000 +0100" stop="20150408193000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Kolkata Knight Riders begin the 2015 Indian Premier League season with a clash against Mumbai Indians at Eden Gardens in Kolkata. The defending champions beat Mumbai twice last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <premiere />
+  </programme>
+  <programme start="20150408193000 +0100" stop="20150408200000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150408200000 +0100" stop="20150409010000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Kolkata Knight Riders begin the 2015 Indian Premier League season with a clash against Mumbai Indians at Eden Gardens in Kolkata. The defending champions beat Mumbai twice last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409010000 +0100" stop="20150409043000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Sydney Thunder host the Sydney Sixers at ANZ Stadium in the Big Bash League. The Sixers have won their opening two games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409043000 +0100" stop="20150409050000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">New Zealand v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is New Zealand against Pakistan from the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409050000 +0100" stop="20150409053000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">England v South Africa 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is England against South Africa in the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409053000 +0100" stop="20150409060000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Australia v Pakistan 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against Pakistan in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409060000 +0100" stop="20150409063000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">New Zealand v Pakistan 1992</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is New Zealand against Pakistan from the 1992 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409063000 +0100" stop="20150409070000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Australia v England 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against England in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409070000 +0100" stop="20150409103000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Big Bash Cricket</title>
+    <desc lang="en">Brisbane Heat and Melbourne Stars meet at the Brisbane Cricket Ground in the Big Bash League. The Stars have lost their opening two games..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409103000 +0100" stop="20150409150000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Kolkata Knight Riders begin the 2015 Indian Premier League season with a clash against Mumbai Indians at Eden Gardens in Kolkata. The defending champions beat Mumbai twice last season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409150000 +0100" stop="20150409193000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Chennai Super Kings take on Delhi Daredevils at the M. A. Chidambaram Stadium in Chennai in the Indian Premier League. The Super Kings narrowly missed out on a place in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <premiere />
+  </programme>
+  <programme start="20150409193000 +0100" stop="20150409200000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Australia v England 2003</title>
+    <desc lang="en">A look back at some classic matches from the ICC Cricket World Cup. Here is Australia against England in the group stage of the 2003 tournament..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20150409200000 +0100" stop="20150410003000 +0100" channel="Sky Sports 2 HD">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Chennai Super Kings take on Delhi Daredevils at the M. A. Chidambaram Stadium in Chennai in the Indian Premier League. The Super Kings narrowly missed out on a place in last year's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+  </programme>
 </tv>
