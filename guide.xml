@@ -172,131 +172,6 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150410200000 +0100" stop="20150411003000 +0100" channel="Setanta Ireland">
-    <title lang="en">The Masters Day 2: Golf</title>
-    <desc lang="en">Some of golf's finest players converge on Augusta to take part in the 79th edition of The Masters 2015. All the action from Day 2..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <premiere />
-  </programme>
-  <programme start="20150411003000 +0100" stop="20150411010000 +0100" channel="Setanta Ireland">
-    <title lang="en">Horseracing: Aintree Today</title>
-    <desc lang="en">All the highlights of the day's action at the Aintree Grand National..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-  </programme>
-  <programme start="20150411010000 +0100" stop="20150411013000 +0100" channel="Setanta Ireland">
-    <title lang="en">Fishing Britain</title>
-    <desc lang="en">Martin Salter presents this fishing programme which showcases fishing all over the UK and Ireland - coarse, sea, game and the unusual..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150411013000 +0100" stop="20150411020000 +0100" channel="Setanta Ireland">
-    <title lang="en">Total Italian Football</title>
-    <desc lang="en">All the latest news from Italy's Serie A as well as a preview of the upcoming round of games..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150411020000 +0100" stop="20150411040000 +0100" channel="Setanta Ireland">
-    <title lang="en">Ligue 1: Caen v Monaco</title>
-    <desc lang="en">Monaco need to keep on picking up points if they are to have a chance of qualifying for next season's Champions League. They visit Stade Michel d'Ornano to take on Caen..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150411040000 +0100" stop="20150411045500 +0100" channel="Setanta Ireland">
-    <title lang="en">Antrim Int'l Cross Country</title>
-    <desc lang="en">World champion Japhet Korir is back at Greenmount for an event where Fionnuala Britton has been a regular winner of the women's event..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20150411045500 +0100" stop="20150411061500 +0100" channel="Setanta Ireland">
-    <title lang="en">F1 Grand Prix Practice China</title>
-    <desc lang="en">All the action from Practice Session 3 of the Chinese Grand Prix from the Shanghai International Circuit..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <premiere />
-  </programme>
-  <programme start="20150411061500 +0100" stop="20150411062500 +0100" channel="Setanta Ireland">
-    <title lang="en">Setanta Sports Extra</title>
-    <desc lang="en">Sporting news and features from around the globe..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150411062500 +0100" stop="20150411072500 +0100" channel="Setanta Ireland">
-    <title lang="en">Out Run the Sun</title>
-    <desc lang="en">On the longest day of the year a group of trail runners embarked on a challenge to outrun the Sun in a circumnavigation of Mont Blanc, starting at sunrise and ending before sunset..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-  </programme>
-  <programme start="20150411072500 +0100" stop="20150411075500 +0100" channel="Setanta Ireland">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">Catch up with the latest goals, news and action from the UEFA Champions League 2014/2015..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20150411075500 +0100" stop="20150411091500 +0100" channel="Setanta Ireland">
-    <title lang="en">F1 Qualifying China</title>
-    <desc lang="en">All the action from the qualifying sessions of the Chinese Grand Prix from the Shanghai International Circuit..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-    <premiere />
-  </programme>
-  <programme start="20150411091500 +0100" stop="20150411093000 +0100" channel="Setanta Ireland">
-    <title lang="en">Setanta Sports Extra</title>
-    <desc lang="en">Sporting news and features from around the globe..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150411093000 +0100" stop="20150411100000 +0100" channel="Setanta Ireland">
-    <title lang="en">Red Bull Extreme Sports: The...</title>
-    <desc lang="en">.Xtreme Collxtion. The Xtreme Collxtion is a magazine programme uniting the best action and extreme sports from around the world..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150411100000 +0100" stop="20150411110000 +0100" channel="Setanta Ireland">
-    <title lang="en">Horseracing: Mark Your Card</title>
-    <desc lang="en">Follow the live build up to all of today's premier racing from Racing UK tracks..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <premiere />
-  </programme>
-  <programme start="20150411110000 +0100" stop="20150411113000 +0100" channel="Setanta Ireland">
-    <title lang="en">Red Bull Extreme Sports: The...</title>
-    <desc lang="en">.Xtreme Collxtion. The Xtreme Collxtion is a magazine programme uniting the best action and extreme sports from around the world..(n)</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20150411113000 +0100" stop="20150411120000 +0100" channel="Setanta Ireland">
-    <title lang="en">Horseracing: Aintree Today</title>
-    <desc lang="en">All the highlights of the day's action at the Aintree Grand National..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-  </programme>
-  <programme start="20150411120000 +0100" stop="20150411130000 +0100" channel="Setanta Ireland">
-    <title lang="en">Ice Hockey: NHL Tonight</title>
-    <desc lang="en">Enjoy all the highlights from the previous evening's NHL action and stay informed with comprehensive post-game analysis, scores, interviews and breaking news..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Ice Hockey</category>
-  </programme>
-  <programme start="20150411130000 +0100" stop="20150411170000 +0100" channel="Setanta Ireland">
-    <title lang="en">Free View: Live Horseracing...</title>
-    <desc lang="en">.Setanta Race Day Live. All the action from Aintree at the second day of the Grand National festival..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-  </programme>
-  <programme start="20150411170000 +0100" stop="20150411181000 +0100" channel="Setanta Ireland">
-    <title lang="en">F1 Qualifying China</title>
-    <desc lang="en">All the action from the qualifying sessions of the Chinese Grand Prix from the Shanghai International Circuit..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sport</category>
-  </programme>
-  <programme start="20150411181000 +0100" stop="20150411190000 +0100" channel="Setanta Ireland">
-    <title lang="en">Golf Central</title>
-    <desc lang="en">Golf Central is the place to go to for up to date and comprehensive coverage from around the world of golf. Get expert insight and analysis, scores and highlights.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411190000 +0100" stop="20150411200000 +0100" channel="Setanta Ireland">
-    <title lang="en">The Masters Day 2 Highlights</title>
-    <desc lang="en">All the highlights of Day 2 at The Masters 2015..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
   <programme start="20150411200000 +0100" stop="20150412003000 +0100" channel="Setanta Ireland">
     <title lang="en">The Masters Day 3</title>
     <desc lang="en">Some of golf's finest players converge on Augusta to take part in the 79th edition of The Masters 2015. All the action from Day 3..(n)</desc>
@@ -766,120 +641,139 @@
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150410190000 +0100" stop="20150411003000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters</title>
-    <desc lang="en">Day two of the 2015 Masters Tournament from the Augusta National Golf Club in Georgia. American Jordan Spieth shot a 64 to lead by three strokes at the end of day one..(n)</desc>
+  <programme start="20150416003000 +0100" stop="20150416010000 +0100" channel="Setanta Ireland">
+    <title lang="en">Golf Central</title>
+    <desc lang="en">Golf Central is the place to go to for up to date and comprehensive coverage from around the world of golf. Get expert insight and analysis, scores and highlights.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150416010000 +0100" stop="20150416053000 +0100" channel="Setanta Ireland">
+    <title lang="en">Motor NASCAR Duck Commander 500</title>
+    <desc lang="en">Comprehensive coverage of the NASCAR Sprint Cup Series 2015..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150416053000 +0100" stop="20150416060000 +0100" channel="Setanta Ireland">
+    <title lang="en">Gillette World Sport</title>
+    <desc lang="en">A weekly look at all the biggest sporting events from around the globe, featuring profiles on some of the biggest sporting names on the planet..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416060000 +0100" stop="20150416070000 +0100" channel="Setanta Ireland">
+    <title lang="en">KOTV Classics: Boxing Files</title>
+    <desc lang="en">The best of all the world boxing action as we take a look through the archives of KOTV..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150416070000 +0100" stop="20150416073000 +0100" channel="Setanta Ireland">
+    <title lang="en">Classic Premier League: Man...</title>
+    <desc lang="en">.United v Arsenal '00/01. Wiltord's goal at Old Trafford takes the title for Arsenal at the home of its previous holders. Classic Premier League from the '00/01 season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416073000 +0100" stop="20150416093000 +0100" channel="Setanta Ireland">
+    <title lang="en">Ligue 1: Lyon v Bastia</title>
+    <desc lang="en">With Lyon chasing top spot on the league table, Bastia will face a tough task when they make the journey to Stade de Gerland..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416093000 +0100" stop="20150416103000 +0100" channel="Setanta Ireland">
+    <title lang="en">NASCAR Highlights</title>
+    <desc lang="en">All the highlights of the latest round of NASCAR 2015..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150416103000 +0100" stop="20150416123000 +0100" channel="Setanta Ireland">
+    <title lang="en">Serie A: Verona v Inter</title>
+    <desc lang="en">Roberto Mancini takes his Internazionale side to Stadio Marc'Antonio Bentegodi to take on home side Hellas Verona..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416123000 +0100" stop="20150416130000 +0100" channel="Setanta Ireland">
+    <title lang="en">Classic Premier League: Leeds...</title>
+    <desc lang="en">.United v Man United '01/02. Crucial win for Man Utd, as Leeds almost come back from 4-1 down. Premier League classic from the '01/02 season. .(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416130000 +0100" stop="20150416140000 +0100" channel="Setanta Ireland">
+    <title lang="en">Ice Hockey: NHL Tonight</title>
+    <desc lang="en">Enjoy all the highlights from the previous evening's NHL action and stay informed with comprehensive post-game analysis, scores, interviews and breaking news..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Ice Hockey</category>
+  </programme>
+  <programme start="20150416140000 +0100" stop="20150416150000 +0100" channel="Setanta Ireland">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">All the action from the latest round of fixtures from Ligue 1, France's top division of football..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416150000 +0100" stop="20150416160000 +0100" channel="Setanta Ireland">
+    <title lang="en">KOTV Classics: Boxing Files</title>
+    <desc lang="en">The best of all the world boxing action as we take a look through the archives of KOTV..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150416160000 +0100" stop="20150416163000 +0100" channel="Setanta Ireland">
+    <title lang="en">Free View: Rosemary Smith</title>
+    <desc lang="en">Rosemary Smith is known for her rally driving career throughout the 1960s. Her success as a female rally driver has placed her as one of Ireland's sporting legends..(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+  </programme>
+  <programme start="20150416163000 +0100" stop="20150416170000 +0100" channel="Setanta Ireland">
+    <title lang="en">Gillette World Sport</title>
+    <desc lang="en">A weekly look at all the biggest sporting events from around the globe, featuring profiles on some of the biggest sporting names on the planet..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416170000 +0100" stop="20150416173000 +0100" channel="Setanta Ireland">
+    <title lang="en">Perfection</title>
+    <desc lang="en">Snowboarding superstar Shaun White and Italian cyclist Vincenzo Nibali feature, along with Australian golfer Adam Scott, as we look back at some of sport's greatest moments..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416173000 +0100" stop="20150416180000 +0100" channel="Setanta Ireland">
+    <title lang="en">Ligue 1 Preview</title>
+    <desc lang="en">A preview of the upcoming games from Ligue 1, France's top division of football..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416180000 +0100" stop="20150416190000 +0100" channel="Setanta Ireland">
+    <title lang="en">Golf Central</title>
+    <desc lang="en">Golf Central is the place to go to for up to date and comprehensive coverage from around the world of golf. Get expert insight and analysis, scores and highlights.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150416190000 +0100" stop="20150416193000 +0100" channel="Setanta Ireland">
+    <title lang="en">Sports Off The Ball</title>
+    <desc lang="en">Newstalk's Off The Ball team present a roundup of all the day's top sports news..(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
     <premiere />
   </programme>
-  <programme start="20150411003000 +0100" stop="20150411010000 +0100" channel="Sky Sports 4">
-    <title lang="en">Destiny Calling:Rory And The Slam</title>
-    <desc lang="en">With Rory McIlroy just a green jacket away from completing the career Grand Slam, this documentary tells the history of the golf's Grand Slam..(n)</desc>
+  <programme start="20150416193000 +0100" stop="20150416195000 +0100" channel="Setanta Ireland">
+    <title lang="en">Setanta Sports Extra</title>
+    <desc lang="en">Sporting news and features from around the globe..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411010000 +0100" stop="20150411020000 +0100" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classics</title>
-    <desc lang="en">A chance to relive the 2008 Wachovia Championship from the Quail Hollow Club in Charlotte, North Carolina. A young American claimed his very first PGA Tour title..(n)</desc>
+  <programme start="20150416195000 +0100" stop="20150416220500 +0100" channel="Setanta Ireland">
+    <title lang="en">UEFA Europa League...</title>
+    <desc lang="en">.Sevilla v Zenit. The last time these sides met was in the 2005/06 quarter finals where Sevilla progressed to the semis. They'll be looking to replicate that form at Estadio Ramon Sanchez Pizjuan..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411020000 +0100" stop="20150411023000 +0100" channel="Sky Sports 4">
-    <title lang="en">Tom Watson:Lessons Of A Lifetime</title>
-    <desc lang="en">United States Ryder Cup captain and eight-time major winner Tom Watson draws on a lifetime of experience and success to provide some top golf tips. .(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20150411023000 +0100" stop="20150411040000 +0100" channel="Sky Sports 4">
-    <title lang="en">Golf: Maruyama v Stadler 2001</title>
-    <desc lang="en">Shell's Wonderful World of Golf televised challenge games between two of the most talked-about players of the time. Here is Shigeki Maruyama v Craig Stadler at TPC Ichihara, Japan, in 2001..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411040000 +0100" stop="20150411050000 +0100" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A chance to relive the 2008 WGC-Accenture Match Play Championship from the Gallery Golf Club in Arizona. A prolific American claimed the title for the third time in his career..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411050000 +0100" stop="20150411060000 +0100" channel="Sky Sports 4">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the 1996 Memorial Tournament, held at Muirfield Village Golf Club. This event is played on a course designed by legend Jack Nicklaus..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411060000 +0100" stop="20150411063000 +0100" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411063000 +0100" stop="20150411070000 +0100" channel="Sky Sports 4">
-    <title lang="en">Sporting Greats: Jack Nicklaus</title>
-    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411070000 +0100" stop="20150411080000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Films: Woods 2001</title>
-    <desc lang="en">A chance to relive the 2001 Masters Tournament from the Augusta National Golf Club in Georgia. Tiger Woods was aiming to complete the Grand Slam by securing the Masters title here..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411080000 +0100" stop="20150411090000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Official Films:Olazabal</title>
-    <desc lang="en">The official film of the 1999 Masters at Augusta National. Jose María Olazabal, Davis Love III and Greg Norman were in the mix to land the title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411090000 +0100" stop="20150411120000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Breakfast</title>
-    <desc lang="en">Highlights and analysis of yesterday's play from the Augusta National Golf Club with David Howell and Nick Dougherty..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Football</category>
     <premiere />
   </programme>
-  <programme start="20150411120000 +0100" stop="20150411130000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Official Films:Schwartzel</title>
-    <desc lang="en">A chance to relive the 2011 Masters from Augusta. It was an eventful competition, with Rory McIlroy experiencing the highs and lows of golf in one of the sport's most prized competitions..(n)</desc>
+  <programme start="20150416220500 +0100" stop="20150416223500 +0100" channel="Setanta Ireland">
+    <title lang="en">FA Cup Preview</title>
+    <desc lang="en">An in depth look at what to look forward to in the next round of The FA Cup 2014/15..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20150411130000 +0100" stop="20150411140000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Official Films:Woosnam</title>
-    <desc lang="en">A chance to relive the 1991 Masters Tournament from Augusta. Welshman Ian Woosnam produced two stunning rounds to seal the only Major title of his career..(n)</desc>
+  <programme start="20150416223500 +0100" stop="20150417003500 +0100" channel="Setanta Ireland">
+    <title lang="en">UEFA Europa League: Dynamo Kiev...</title>
+    <desc lang="en">.v Fiorentina. Italian side Fiorentina make the journey to Ukraine to take on home side Dynamo Kiev as both sides compete for a place in the semis at NSK Olimpiyskyi..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411140000 +0100" stop="20150411143000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Official Films</title>
-    <desc lang="en">The official film of the 1985 Masters from Augusta National. The likes of Seve Ballesteros, Bernhard Langer, Raymond Floyd and Curtis Strange were aiming for the title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411143000 +0100" stop="20150411173000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Breakfast</title>
-    <desc lang="en">Highlights and analysis of yesterday's play from the Augusta National Golf Club with David Howell and Nick Dougherty..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411173000 +0100" stop="20150411180000 +0100" channel="Sky Sports 4">
-    <title lang="en">Masters Official Films</title>
-    <desc lang="en">A chance to relive the 1983 Masters Tournament from Augusta. Spaniard Seve Ballesteros recovered from a shot down to seal the third Major of his career by four strokes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411180000 +0100" stop="20150411190000 +0100" channel="Sky Sports 4">
-    <title lang="en">U S Masters Official Films</title>
-    <desc lang="en">The story of the 1989 Masters at Augusta National Golf Club in Georgia. Scotland's Sandy Lyle triumphed the previous year, finishing one shot clear of American Mark Calcavecchia..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20150411190000 +0100" stop="20150412003000 +0100" channel="Sky Sports 4">
     <title lang="en">Masters</title>
-    <desc lang="en">Day three of the 2015 Masters Tournament from the Augusta National Golf Club in Georgia. A European hasn't claimed the coveted green jacket since José María Olazábal's victory in 1999..(n)</desc>
+    <desc lang="en">Day 3 of the 2015 Masters from Augusta. Jordan Spieth is the man to catch after his record-breaking 14 under halfway score. Casey, Rose and Johnson are in the chasing pack..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -1403,120 +1297,694 @@
     <category lang="en">Golf</category>
     <episode-num system="onscreen">E15</episode-num>
   </programme>
-  <programme start="20150410190000 +0100" stop="20150411003000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters</title>
-    <desc lang="en">Day two of the 2015 Masters Tournament from the Augusta National Golf Club in Georgia. American Jordan Spieth shot a 64 to lead by three strokes at the end of day one..(n)</desc>
+  <programme start="20150416000000 +0100" stop="20150416010000 +0100" channel="Sky Sports 4">
+    <title lang="en">Watersports World 2015</title>
+    <desc lang="en">The ultimate watersports show, with comprehensive coverage of the recent power, sail and surf competitions from around the globe. With key interviews and event news..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20150416010000 +0100" stop="20150416020000 +0100" channel="Sky Sports 4">
+    <title lang="en">Bass Fishing</title>
+    <desc lang="en">The opening show in the Bass Fishing series comes from Lake Okeechobee, Florida. Anglers were competing for the $100,000 first prize in this four-day competition..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+  </programme>
+  <programme start="20150416020000 +0100" stop="20150416040000 +0100" channel="Sky Sports 4">
+    <title lang="en">Golf:  Campbell v Couples 2002</title>
+    <desc lang="en">The series of challenge matches between two of the most talked about golfers of the time. Here is Michael Campbell taking on Fred Couples on the Kauri Cliffs course in New Zealand in 2002..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150416040000 +0100" stop="20150416050000 +0100" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Classics</title>
+    <desc lang="en">A chance to relive the 2008 Deutsche Bank Championship from TPC Boston in Norton, Massachusetts. The tournament was won by a past champion for the very first time..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150416050000 +0100" stop="20150416053000 +0100" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Babe Ruth</title>
+    <desc lang="en">A look back on the career of legendary baseball player Babe Ruth. The American hit over 700 home runs during his career and was inducted into the National Baseball Hall of Fame in 1936..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20150416053000 +0100" stop="20150416060000 +0100" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Shenzhen International at Genzon Golf Club. The tournament is a new addition to the 2015 European Tour season..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150411003000 +0100" stop="20150411010000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Destiny Calling:Rory And The Slam</title>
-    <desc lang="en">With Rory McIlroy just a green jacket away from completing the career Grand Slam, this documentary tells the history of the golf's Grand Slam..(n)</desc>
+  <programme start="20150416060000 +0100" stop="20150416103000 +0100" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Shenzhen International at Genzon Golf Club. The tournament is a new addition to the 2015 European Tour season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <premiere />
+  </programme>
+  <programme start="20150416103000 +0100" stop="20150416110000 +0100" channel="Sky Sports 4">
+    <title lang="en">Inside The PGA Tour</title>
+    <desc lang="en">A look behind the scenes of the USPGA Tour. Follow the world's best players, including Luke Donald, Lee Westwood and Rory McIlroy, as they prepare for the big events in 2015..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411010000 +0100" stop="20150411020000 +0100" channel="Sky Sports 4 HD">
+  <programme start="20150416110000 +0100" stop="20150416113000 +0100" channel="Sky Sports 4">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racing</category>
+  </programme>
+  <programme start="20150416113000 +0100" stop="20150416120000 +0100" channel="Sky Sports 4">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20150416120000 +0100" stop="20150416130000 +0100" channel="Sky Sports 4">
+    <title lang="en">Bass Fishing</title>
+    <desc lang="en">The opening show in the Bass Fishing series comes from Lake Okeechobee, Florida. Anglers were competing for the $100,000 first prize in this four-day competition..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+  </programme>
+  <programme start="20150416130000 +0100" stop="20150416140000 +0100" channel="Sky Sports 4">
     <title lang="en">PGA Tour Classics</title>
     <desc lang="en">A chance to relive the 2008 Wachovia Championship from the Quail Hollow Club in Charlotte, North Carolina. A young American claimed his very first PGA Tour title..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411020000 +0100" stop="20150411023000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Tom Watson:Lessons Of A Lifetime</title>
-    <desc lang="en">United States Ryder Cup captain and eight-time major winner Tom Watson draws on a lifetime of experience and success to provide some top golf tips. .(n)</desc>
+  <programme start="20150416140000 +0100" stop="20150416150000 +0100" channel="Sky Sports 4">
+    <title lang="en">Watersports World 2015</title>
+    <desc lang="en">The ultimate watersports show, with comprehensive coverage of the recent power, sail and surf competitions from around the globe. With key interviews and event news..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <episode-num system="onscreen">E1</episode-num>
+    <category lang="en">Watersports</category>
   </programme>
-  <programme start="20150411023000 +0100" stop="20150411040000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Golf: Maruyama v Stadler 2001</title>
-    <desc lang="en">Shell's Wonderful World of Golf televised challenge games between two of the most talked-about players of the time. Here is Shigeki Maruyama v Craig Stadler at TPC Ichihara, Japan, in 2001..(n)</desc>
+  <programme start="20150416150000 +0100" stop="20150416193000 +0100" channel="Sky Sports 4">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Sunrisers Hyderabad face Rajasthan Royals at ACA-VDCA Stadium in the Indian Premier League. The Sunrisers won their last match against the Royals by 32 runs..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Cricket</category>
+    <premiere />
   </programme>
-  <programme start="20150411040000 +0100" stop="20150411050000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A chance to relive the 2008 WGC-Accenture Match Play Championship from the Gallery Golf Club in Arizona. A prolific American claimed the title for the third time in his career..(n)</desc>
+  <programme start="20150416193000 +0100" stop="20150416200000 +0100" channel="Sky Sports 4">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the ATP Masters 1000 and 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20150411050000 +0100" stop="20150411060000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">PGA Tour Classic</title>
-    <desc lang="en">A look back at the 1996 Memorial Tournament, held at Muirfield Village Golf Club. This event is played on a course designed by legend Jack Nicklaus..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411060000 +0100" stop="20150411063000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Gary Player</title>
-    <desc lang="en">A look back on the career of legendary golfer Gary Player. The South African picked up nine Major titles and was inducted into the World Golf Hall of Fame..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411063000 +0100" stop="20150411070000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Sporting Greats: Jack Nicklaus</title>
-    <desc lang="en">A look back on the career of American golfing great Jack Nicklaus. The Ohio-born player lifted a record 18 Major titles across a 24-year span..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411070000 +0100" stop="20150411080000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Films: Woods 2001</title>
-    <desc lang="en">A chance to relive the 2001 Masters Tournament from the Augusta National Golf Club in Georgia. Tiger Woods was aiming to complete the Grand Slam by securing the Masters title here..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411080000 +0100" stop="20150411090000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Official Films:Olazabal</title>
-    <desc lang="en">The official film of the 1999 Masters at Augusta National. Jose María Olazabal, Davis Love III and Greg Norman were in the mix to land the title..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411090000 +0100" stop="20150411120000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Breakfast</title>
-    <desc lang="en">Highlights and analysis of yesterday's play from the Augusta National Golf Club with David Howell and Nick Dougherty..(n)</desc>
+  <programme start="20150416200000 +0100" stop="20150416230000 +0100" channel="Sky Sports 4">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the RBC Heritage at Harbour Town Golf Links. 2016 US Ryder Cup Captain Davis Love III has won the tournament a record five times, the last of which came in 2003..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
   </programme>
-  <programme start="20150411120000 +0100" stop="20150411130000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Official Films:Schwartzel</title>
-    <desc lang="en">A chance to relive the 2011 Masters from Augusta. It was an eventful competition, with Rory McIlroy experiencing the highs and lows of golf in one of the sport's most prized competitions..(n)</desc>
+  <programme start="20150416230000 +0100" stop="20150417000000 +0100" channel="Sky Sports 4">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Shenzhen International at Genzon Golf Club. The tournament is a new addition to the 2015 European Tour season..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411130000 +0100" stop="20150411140000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Official Films:Woosnam</title>
-    <desc lang="en">A chance to relive the 1991 Masters Tournament from Augusta. Welshman Ian Woosnam produced two stunning rounds to seal the only Major title of his career..(n)</desc>
+  <programme start="20150411192500 +0100" stop="20150411235500 +0100" channel="Eurosport 2">
+    <title lang="en">ATP Tennis</title>
+    <desc lang="en">The semi-finals of the Clay Court Championship in Houston. Fernando Verdasco won last year's tournament, beating Spanish compatriot Nicolas Almagro 6-3, 7-6 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150411235500 +0100" stop="20150412000000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The women's 48kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150412000000 +0100" stop="20150412020000 +0100" channel="Eurosport 2">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">The semi-finals of the Katowice Open from Poland as players continue preparations ahead of next month's French Open..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150412020000 +0100" stop="20150412030000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Basque Tour</title>
+    <desc lang="en">The sixth and final stage sees riders tackle a 18.3km time trial through Aia. A strong field includes Nairo Quintana, Michal Kwiatkowski and Joaquim Rodríguez..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150412030000 +0100" stop="20150412040000 +0100" channel="Eurosport 2">
+    <title lang="en">Fight Club</title>
+    <desc lang="en">Eurosport's regular look at the finest martial arts tournaments from around the world..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150412040000 +0100" stop="20150412060000 +0100" channel="Eurosport 2">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">The semi-finals of the Katowice Open from Poland as players continue preparations ahead of next month's French Open..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150412060000 +0100" stop="20150412070000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Basque Tour</title>
+    <desc lang="en">The sixth and final stage sees riders tackle a 18.3km time trial through Aia. A strong field includes Nairo Quintana, Michal Kwiatkowski and Joaquim Rodríguez..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150412070000 +0100" stop="20150412080000 +0100" channel="Eurosport 2">
+    <title lang="en">Superbikes: MotoAmerica</title>
+    <desc lang="en">A look ahead to MotoAmerica, the new premier professional motorcycle racing series in North America..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150412080000 +0100" stop="20150412084500 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes: Superpole</title>
+    <desc lang="en">Superpole qualifying ahead of round three at Aragon in Spain. Britain's Jonathan Rea has made a blistering start to the season for Kawasaki, securing 95 points from a possible 100..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150412084500 +0100" stop="20150412140000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from round three at Aragon in Spain. Jonathan Rea has won three of the four races and is top of the standings ahead of Leon Haslam and Tom Sykes..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+    <premiere />
+  </programme>
+  <programme start="20150412140000 +0100" stop="20150412153000 +0100" channel="Eurosport 2">
+    <title lang="en">MCE British Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from the opening round at Donington Park. The 2015 grid is arguably the strongest in BSB history, with 11 race winners amongst the 39-strong line-up..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150412153000 +0100" stop="20150412154500 +0100" channel="Eurosport 2">
+    <title lang="en">Best of Bikes</title>
+    <desc lang="en">Action from classic superbike races from across the globe..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150412154500 +0100" stop="20150412171500 +0100" channel="Eurosport 2">
+    <title lang="en">Equestrian: Saut Hermes</title>
+    <desc lang="en">The Saut Hermes International event in Paris, France. Up to 4,000 spectators pack the Grand Palais to witness the world's top riders in action in this CSI5 event..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Equestrian</category>
+    <premiere />
+  </programme>
+  <programme start="20150412171500 +0100" stop="20150412184500 +0100" channel="Eurosport 2">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">The final of the Katowice Open from Poland as players continue preparations ahead of next month's French Open..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150412184500 +0100" stop="20150412200000 +0100" channel="Eurosport 2">
+    <title lang="en">ATP Tennis</title>
+    <desc lang="en">The semi-finals of the Clay Court Championship in Houston. Fernando Verdasco won last year's tournament, beating Spanish compatriot Nicolas Almagro 6-3, 7-6 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150412200000 +0100" stop="20150412220000 +0100" channel="Eurosport 2">
+    <title lang="en">ATP Tennis</title>
+    <desc lang="en">The final of the Clay Court Championship in Houston. Fernando Verdasco won last year's tournament, beating Spanish compatriot Nicolas Almagro 6-3, 7-6 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <premiere />
+  </programme>
+  <programme start="20150412220000 +0100" stop="20150412233000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150412233000 +0100" stop="20150413003000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The men's 62kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413003000 +0100" stop="20150413010000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The men's 69kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413010000 +0100" stop="20150413020000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Round three of the Superbike World Championship at Aragon in Spain. Jonathan Rea entered the round top of the standings, winning three of the four races in Australia and Thailand..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150413020000 +0100" stop="20150413030000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The first semi-final sees Anderlecht face Shakhtar Donetsk in Nyon, Switzerland. Anderlecht reached this stage with a 5-0 win over Porto, while Shakhtar beat Benfica on penalties..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150413030000 +0100" stop="20150413040000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The opening UEFA Youth League semi-final sees Chelsea take on Roma in Nyon, Switzerland. The winner will meet either Anderlecht or Shakhtar Donetsk in Monday's final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150413040000 +0100" stop="20150413060000 +0100" channel="Eurosport 2">
+    <title lang="en">Masters Snooker</title>
+    <desc lang="en">World number one Neil Robertson takes on ex-world champion Shaun Murphy in the final at Alexandra Palace. The match-up is a repeat of the 2012 final, which the Australian won 10-6..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150413060000 +0100" stop="20150413070000 +0100" channel="Eurosport 2">
+    <title lang="en">Paris Marathon</title>
+    <desc lang="en">A world-class line-up of athletes take on the 39th edition of this famous 26.2 mile race. Last year's event saw Kenenisa Bekele break the world record on his marathon debut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150413070000 +0100" stop="20150413080000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413080000 +0100" stop="20150413090000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The men's 62kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413090000 +0100" stop="20150413110000 +0100" channel="Eurosport 2">
+    <title lang="en">Masters Snooker</title>
+    <desc lang="en">World number one Neil Robertson takes on ex-world champion Shaun Murphy in the final at Alexandra Palace. The match-up is a repeat of the 2012 final, which the Australian won 10-6..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150413110000 +0100" stop="20150413113000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Elite Road Series</title>
+    <desc lang="en">Lancashire's Chorley Grand Prix hosted the opening round of the Spring Cup. Matt Prior owned ONE Pro Cycling entered a strong team featuring defending series champion Yanto Barker..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413113000 +0100" stop="20150413130000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413130000 +0100" stop="20150413143000 +0100" channel="Eurosport 2">
+    <title lang="en">ATP Tennis</title>
+    <desc lang="en">The final of the Clay Court Championship in Houston. Fernando Verdasco won last year's tournament, beating Spanish compatriot Nicolas Almagro 6-3, 7-6 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150413143000 +0100" stop="20150413153000 +0100" channel="Eurosport 2">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">The final of the Katowice Open from Poland as players continue preparations ahead of next month's French Open..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150413153000 +0100" stop="20150413163000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413163000 +0100" stop="20150413180000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Amstel Gold Race 2014</title>
+    <desc lang="en">The in-form Alejandro Valverde was looking to claim his fifth title of the season on this hilly course which saw riders travel 251km through the Limburg region of the Netherlands..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150413180000 +0100" stop="20150413200000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Round three of the Superbike World Championship at Aragon in Spain. Jonathan Rea entered the round top of the standings, winning three of the four races in Australia and Thailand..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150413200000 +0100" stop="20150413213000 +0100" channel="Eurosport 2">
+    <title lang="en">MCE British Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from the opening round at Donington Park. The 2015 grid is arguably the strongest in BSB history, with 11 race winners amongst the 39-strong line-up..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150413213000 +0100" stop="20150413230000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The final of the 2014-15 UEFA Youth League at Nyon in Switzerland. Last year's tournament was won by Barcelona, who beat Benfica 3-0 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150413230000 +0100" stop="20150414000000 +0100" channel="Eurosport 2">
+    <title lang="en">Australian Football League</title>
+    <desc lang="en">Gold Coast Suns vs St Kilda: Action from the second round of the 2015 Australian Football League, Australia's national competition for Aussie rules football..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414000000 +0100" stop="20150414020000 +0100" channel="Eurosport 2">
+    <title lang="en">Masters Snooker</title>
+    <desc lang="en">World number one Neil Robertson takes on ex-world champion Shaun Murphy in the final at Alexandra Palace. The match-up is a repeat of the 2012 final, which the Australian won 10-6..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150414020000 +0100" stop="20150414023000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Race one at round three of the Superbike World Championship at Aragon in Spain..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150414023000 +0100" stop="20150414030000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Race two at round three of the Superbike World Championship at Aragon in Spain..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150414030000 +0100" stop="20150414040000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414040000 +0100" stop="20150414060000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: German Masters</title>
+    <desc lang="en">World champion Mark Selby faced the in-form Shaun Murphy in front of 2,500 spectators at the Tempodrom in Berlin. This was Selby's first appearance in a ranking final this season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150414060000 +0100" stop="20150414070000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The final of the 2014-15 UEFA Youth League at Nyon in Switzerland. Last year's tournament was won by Barcelona, who beat Benfica 3-0 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150414070000 +0100" stop="20150414073000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Race one at round three of the Superbike World Championship at Aragon in Spain..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150414073000 +0100" stop="20150414080000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Race two at round three of the Superbike World Championship at Aragon in Spain..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150414080000 +0100" stop="20150414090000 +0100" channel="Eurosport 2">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">The final of the Katowice Open from Poland as players continue preparations ahead of next month's French Open..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150414090000 +0100" stop="20150414110000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: German Masters</title>
+    <desc lang="en">World champion Mark Selby faced the in-form Shaun Murphy in front of 2,500 spectators at the Tempodrom in Berlin. This was Selby's first appearance in a ranking final this season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150414110000 +0100" stop="20150414120000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The final of the 2014-15 UEFA Youth League at Nyon in Switzerland. Last year's tournament was won by Barcelona, who beat Benfica 3-0 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150414120000 +0100" stop="20150414130000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414130000 +0100" stop="20150414131500 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Women's Football Show</title>
+    <desc lang="en">A round-up of the latest goals from the UEFA Women's Champions League..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150414131500 +0100" stop="20150414133000 +0100" channel="Eurosport 2">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414133000 +0100" stop="20150414150000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Amstel Gold Race 2014</title>
+    <desc lang="en">The in-form Alejandro Valverde was looking to claim his fifth title of the season on this hilly course which saw riders travel 251km through the Limburg region of the Netherlands..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414150000 +0100" stop="20150414160000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414160000 +0100" stop="20150414163000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Elite Road Series</title>
+    <desc lang="en">Lancashire's Chorley Grand Prix hosted the opening round of the Spring Cup. Matt Prior owned ONE Pro Cycling entered a strong team featuring defending series champion Yanto Barker..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414163000 +0100" stop="20150414173000 +0100" channel="Eurosport 2">
+    <title lang="en">Triathlon: Iron Man</title>
+    <desc lang="en">Action from the SunSmart Ironman event in Asia..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150414173000 +0100" stop="20150414190000 +0100" channel="Eurosport 2">
+    <title lang="en">ATP Tennis</title>
+    <desc lang="en">The final of the Clay Court Championship in Houston. Fernando Verdasco won last year's tournament, beating Spanish compatriot Nicolas Almagro 6-3, 7-6 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150414190000 +0100" stop="20150414200000 +0100" channel="Eurosport 2">
+    <title lang="en">Strongest Man: Champions League</title>
+    <desc lang="en">The Strongman Champions League, featuring coverage from Norway..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150414200000 +0100" stop="20150414210000 +0100" channel="Eurosport 2">
+    <title lang="en">ITU Triathlon World Cup</title>
+    <desc lang="en">Highlights of the latest ITU Triathlon World Cup rounds from Mooloolaba in Australia and New Plymouth, New Zealand..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150414210000 +0100" stop="20150414220000 +0100" channel="Eurosport 2">
+    <title lang="en">Triathlon: Iron Man</title>
+    <desc lang="en">A look back at the IRONMAN event which took place in Auckland. The race featured a 1.9km swim, a 90km three-lap bike over the Auckland Harbour Bridge and 21km two-lap run..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20150414220000 +0100" stop="20150415000000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: World Championship 2014</title>
+    <desc lang="en">A look back at the enthralling World Championship final at the Crucible between five-time champion Ronnie O'Sullivan and 2007 runner-up Mark Selby..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150415000000 +0100" stop="20150415020000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: German Masters</title>
+    <desc lang="en">World champion Mark Selby faced the in-form Shaun Murphy in front of 2,500 spectators at the Tempodrom in Berlin. This was Selby's first appearance in a ranking final this season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150415020000 +0100" stop="20150415030000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150415030000 +0100" stop="20150415033000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Race one at round three of the Superbike World Championship at Aragon in Spain..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415033000 +0100" stop="20150415040000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Race two at round three of the Superbike World Championship at Aragon in Spain..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415040000 +0100" stop="20150415060000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The final of the Welsh Open in Cardiff, the seventh ranking event of the season. Ben Woollaston takes on John Higgins as he looks to secure his first career ranking title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150415060000 +0100" stop="20150415070000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The men's 77kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150415070000 +0100" stop="20150415080000 +0100" channel="Eurosport 2">
+    <title lang="en">Blancpain Endurance Series</title>
+    <desc lang="en">Round one of the 2015 Blancpain Endurance Series at the famous Monza circuit, Italy. Since its inaugural season in 2011, the series has attracted large, quality and diverse grids..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415080000 +0100" stop="20150415083000 +0100" channel="Eurosport 2">
+    <title lang="en">FIA World Endurance Championship</title>
+    <desc lang="en">Round one of the series at Silverstone features former F1 stars Mark Webber, Anthony Davidson and Sebastien Buemi. Sir Chris Hoy makes his prototype racing debut in the LMP3 class..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415083000 +0100" stop="20150415090000 +0100" channel="Eurosport 2">
+    <title lang="en">Formula 3 European Championship</title>
+    <desc lang="en">Coverage from the opening round of the Formula 3 European Championship in Silverstone..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415090000 +0100" stop="20150415110000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The final of the Welsh Open in Cardiff, the seventh ranking event of the season. Ben Woollaston takes on John Higgins as he looks to secure his first career ranking title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150415110000 +0100" stop="20150415120000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150415120000 +0100" stop="20150415130000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The men's 77kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150415130000 +0100" stop="20150415150000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: World Championship 2014</title>
+    <desc lang="en">A look back at the enthralling World Championship final at the Crucible between five-time champion Ronnie O'Sullivan and 2007 runner-up Mark Selby..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150415150000 +0100" stop="20150415163000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The final of the 2014-15 UEFA Youth League at Nyon in Switzerland. Last year's tournament was won by Barcelona, who beat Benfica 3-0 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150415163000 +0100" stop="20150415173000 +0100" channel="Eurosport 2">
+    <title lang="en">British Basketball League</title>
+    <desc lang="en">London Lions vs Sheffield Sharks: Action from the 2014-15 British Basketball League..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20150415173000 +0100" stop="20150415180000 +0100" channel="Eurosport 2">
+    <title lang="en">The EuroLeague Basketball Show</title>
+    <desc lang="en">The latest news, results and highlights from the EuroLeague Basketball season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20150415180000 +0100" stop="20150415190000 +0100" channel="Eurosport 2">
+    <title lang="en">Australian Football League Show</title>
+    <desc lang="en">A weekly round up of the latest action from the Australian Football League, Australia's national competition for Aussie rules football..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150415190000 +0100" stop="20150415200000 +0100" channel="Eurosport 2">
+    <title lang="en">MCE British Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from the opening round at Donington Park. The 2015 grid is arguably the strongest in BSB history, with 11 race winners amongst the 39-strong line-up..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415200000 +0100" stop="20150415210000 +0100" channel="Eurosport 2">
+    <title lang="en">British Superbikes Extra</title>
+    <desc lang="en">Support race action from the opening round at Donington Park. This 12-round series is famed for its close, dramatic racing with bikes capable of reaching a blistering 200mph..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415210000 +0100" stop="20150415223000 +0100" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Round three of the Superbike World Championship at Aragon in Spain. Jonathan Rea entered the round top of the standings, winning three of the four races in Australia and Thailand..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150415223000 +0100" stop="20150416000000 +0100" channel="Eurosport 2">
+    <title lang="en">MCE British Superbikes</title>
+    <desc lang="en">Matt Roberts presents coverage from the opening round at Donington Park. The 2015 grid is arguably the strongest in BSB history, with 11 race winners amongst the 39-strong line-up..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150416000000 +0100" stop="20150416020000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: Welsh Open</title>
+    <desc lang="en">The final of the Welsh Open in Cardiff, the seventh ranking event of the season. Ben Woollaston takes on John Higgins as he looks to secure his first career ranking title..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150416020000 +0100" stop="20150416030000 +0100" channel="Eurosport 2">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">The final of the Katowice Open from Poland as players continue preparations ahead of next month's French Open..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20150416030000 +0100" stop="20150416040000 +0100" channel="Eurosport 2">
+    <title lang="en">UEFA Youth League</title>
+    <desc lang="en">The final of the 2014-15 UEFA Youth League at Nyon in Switzerland. Last year's tournament was won by Barcelona, who beat Benfica 3-0 in the final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20150416040000 +0100" stop="20150416060000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: Gdynia Open</title>
+    <desc lang="en">The final featured a clash between two former world champions as Neil Robertson took on Mark Williams. This was the last European Tour event of the season ahead of the Grand Final..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150416060000 +0100" stop="20150416070000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The women's 63kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416070000 +0100" stop="20150416073000 +0100" channel="Eurosport 2">
+    <title lang="en">FIA World Endurance Championship</title>
+    <desc lang="en">Round one of the series at Silverstone features former F1 stars Mark Webber, Anthony Davidson and Sebastien Buemi. Sir Chris Hoy makes his prototype racing debut in the LMP3 class..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sport</category>
+  </programme>
+  <programme start="20150416073000 +0100" stop="20150416074500 +0100" channel="Eurosport 2">
+    <title lang="en">Ultra Trail: World Tour</title>
+    <desc lang="en">Transgrancanaria is a race that has been held on the island of Gran Canaria since 2003. Competitors must cross the island on foot in 30 hours, tackling rain, sun, mud and dust..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416074500 +0100" stop="20150416080000 +0100" channel="Eurosport 2">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416080000 +0100" stop="20150416090000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416090000 +0100" stop="20150416110000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: China Open</title>
+    <desc lang="en">World champion Mark Selby faced Gary Wilson in final of the China Open in Beijing, the penultimate ranking tournament of the season..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+  </programme>
+  <programme start="20150416110000 +0100" stop="20150416120000 +0100" channel="Eurosport 2">
+    <title lang="en">WATTS</title>
+    <desc lang="en">Eurosport's weekly round up of all the wacky, funny and crazy goings-on in the world of sport..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416120000 +0100" stop="20150416130000 +0100" channel="Eurosport 2">
+    <title lang="en">Weightlifting European Champs</title>
+    <desc lang="en">The women's 63kg event at the 2015 EWF European Weightlifting Championships in Tbilisi, Georgia..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416130000 +0100" stop="20150416150000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Grand Prix de Denain</title>
+    <desc lang="en">Coverage of the Grand Prix de Denain, part of the French Road Cycling Cup. Previous winners of this competition include Philippe Gilbert, Tony Gallopin and Julien Simon..(n)</desc>
+    <category lang="en">Sports</category>
+    <premiere />
+  </programme>
+  <programme start="20150416150000 +0100" stop="20150416163000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Amstel Gold Race 2014</title>
+    <desc lang="en">The in-form Alejandro Valverde was looking to claim his fifth title of the season on this hilly course which saw riders travel 251km through the Limburg region of the Netherlands..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416163000 +0100" stop="20150416170000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Elite Road Series</title>
+    <desc lang="en">After an enthralling opening round of the Spring Cup, the 2015 British Cycling Elite Road Series action continues with the two-stage Tour of the Reservoir in Northumberland..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416170000 +0100" stop="20150416183000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Paris-Roubaix</title>
+    <desc lang="en">Nicknamed the 'Hell of the North', this gruelling route featured 52.7km of cobbles spread over 27 sections. Bradley Wiggins made his final appearance in the colours of Team Sky..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416183000 +0100" stop="20150416193000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Grand Prix de Denain</title>
+    <desc lang="en">Coverage of the Grand Prix de Denain, part of the French Road Cycling Cup. Previous winners of this competition include Philippe Gilbert, Tony Gallopin and Julien Simon..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416193000 +0100" stop="20150416210000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Amstel Gold Race 2014</title>
+    <desc lang="en">The in-form Alejandro Valverde was looking to claim his fifth title of the season on this hilly course which saw riders travel 251km through the Limburg region of the Netherlands..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416210000 +0100" stop="20150416213000 +0100" channel="Eurosport 2">
+    <title lang="en">Cycling: Elite Road Series</title>
+    <desc lang="en">After an enthralling opening round of the Spring Cup, the 2015 British Cycling Elite Road Series action continues with the two-stage Tour of the Reservoir in Northumberland..(n)</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20150416213000 +0100" stop="20150416223000 +0100" channel="Eurosport 2">
+    <title lang="en">Golf: Masters</title>
+    <desc lang="en">Action from the first major golf championship of the year, the US Masters at the Augusta National Golf Club, Georgia..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411140000 +0100" stop="20150411143000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Official Films</title>
-    <desc lang="en">The official film of the 1985 Masters from Augusta National. The likes of Seve Ballesteros, Bernhard Langer, Raymond Floyd and Curtis Strange were aiming for the title..(n)</desc>
+  <programme start="20150416223000 +0100" stop="20150417003000 +0100" channel="Eurosport 2">
+    <title lang="en">Snooker: World Championship 2014</title>
+    <desc lang="en">A look back at the enthralling World Championship final at the Crucible between five-time champion Ronnie O'Sullivan and 2007 runner-up Mark Selby..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411143000 +0100" stop="20150411173000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Breakfast</title>
-    <desc lang="en">Highlights and analysis of yesterday's play from the Augusta National Golf Club with David Howell and Nick Dougherty..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411173000 +0100" stop="20150411180000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">Masters Official Films</title>
-    <desc lang="en">A chance to relive the 1983 Masters Tournament from Augusta. Spaniard Seve Ballesteros recovered from a shot down to seal the third Major of his career by four strokes..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20150411180000 +0100" stop="20150411190000 +0100" channel="Sky Sports 4 HD">
-    <title lang="en">U S Masters Official Films</title>
-    <desc lang="en">The story of the 1989 Masters at Augusta National Golf Club in Georgia. Scotland's Sandy Lyle triumphed the previous year, finishing one shot clear of American Mark Calcavecchia..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
+    <category lang="en">Snooker/Pool</category>
   </programme>
   <programme start="20150411190000 +0100" stop="20150412003000 +0100" channel="Sky Sports 4 HD">
     <title lang="en">Masters</title>
-    <desc lang="en">Day three of the 2015 Masters Tournament from the Augusta National Golf Club in Georgia. A European hasn't claimed the coveted green jacket since José María Olazábal's victory in 1999..(n)</desc>
+    <desc lang="en">Day 3 of the 2015 Masters from Augusta. Jordan Spieth is the man to catch after his record-breaking 14 under halfway score. Casey, Rose and Johnson are in the chasing pack..(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <premiere />
@@ -2040,460 +2508,111 @@
     <category lang="en">Golf</category>
     <episode-num system="onscreen">E15</episode-num>
   </programme>
-  <programme start="20150410200000 +0100" stop="20150411010000 +0100" channel="BoxNation">
-    <title lang="en">Uncut: Pryce v Saunders</title>
-    <desc lang="en">Billy Joe Saunders v Bradley Pryce for the Commonwealth Middleweight Championship was the main event on a 7 fight card at York Hall that also featured Frank Buglioni and Stephen Smith..(n)</desc>
+  <programme start="20150416000000 +0100" stop="20150416010000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Watersports World 2015</title>
+    <desc lang="en">The ultimate watersports show, with comprehensive coverage of the recent power, sail and surf competitions from around the globe. With key interviews and event news..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Watersports</category>
   </programme>
-  <programme start="20150411010000 +0100" stop="20150411020000 +0100" channel="BoxNation">
-    <title lang="en">Bunce's Boxing Hour</title>
-    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+  <programme start="20150416010000 +0100" stop="20150416020000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Bass Fishing</title>
+    <desc lang="en">The opening show in the Bass Fishing series comes from Lake Okeechobee, Florida. Anglers were competing for the $100,000 first prize in this four-day competition..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
   </programme>
-  <programme start="20150411020000 +0100" stop="20150411043000 +0100" channel="BoxNation">
-    <title lang="en">Uncut: Selby v Simpson</title>
-    <desc lang="en">Lee Selby v John Simpson for the British and Commonwealth featherweight Championship was the main event on a 6 fight card at York Hall that also featured Billy Joe Saunders and Steve O'Meara..(n)</desc>
+  <programme start="20150416020000 +0100" stop="20150416040000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Golf:  Campbell v Couples 2002</title>
+    <desc lang="en">The series of challenge matches between two of the most talked about golfers of the time. Here is Michael Campbell taking on Fred Couples on the Kauri Cliffs course in New Zealand in 2002..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411043000 +0100" stop="20150411050000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150416040000 +0100" stop="20150416050000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classics</title>
+    <desc lang="en">A chance to relive the 2008 Deutsche Bank Championship from TPC Boston in Norton, Massachusetts. The tournament was won by a past champion for the very first time..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411050000 +0100" stop="20150411060000 +0100" channel="BoxNation">
-    <title lang="en">Boxing Tonight</title>
-    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
+  <programme start="20150416050000 +0100" stop="20150416053000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Babe Ruth</title>
+    <desc lang="en">A look back on the career of legendary baseball player Babe Ruth. The American hit over 700 home runs during his career and was inducted into the National Baseball Hall of Fame in 1936..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Baseball</category>
   </programme>
-  <programme start="20150411060000 +0100" stop="20150411070000 +0100" channel="BoxNation">
-    <title lang="en">Classic Fights</title>
-    <desc lang="en">Oscar De La Hoya vs Manny Pacquiao from 2008.(n)</desc>
+  <programme start="20150416053000 +0100" stop="20150416060000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Shenzhen International at Genzon Golf Club. The tournament is a new addition to the 2015 European Tour season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
+    <premiere />
   </programme>
-  <programme start="20150411070000 +0100" stop="20150411073000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+  <programme start="20150416060000 +0100" stop="20150416103000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Shenzhen International at Genzon Golf Club. The tournament is a new addition to the 2015 European Tour season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
+    <premiere />
   </programme>
-  <programme start="20150411073000 +0100" stop="20150411083000 +0100" channel="BoxNation">
-    <title lang="en">Classic Fights</title>
-    <desc lang="en">Marco Antonio Barrera vs Juan Manuel Marquez from 2007.(n)</desc>
+  <programme start="20150416103000 +0100" stop="20150416110000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Inside The PGA Tour</title>
+    <desc lang="en">A look behind the scenes of the USPGA Tour. Follow the world's best players, including Luke Donald, Lee Westwood and Rory McIlroy, as they prepare for the big events in 2015..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411083000 +0100" stop="20150411090000 +0100" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
+  <programme start="20150416110000 +0100" stop="20150416113000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Racing News</title>
+    <desc lang="en">For those looking for form guides and the latest news from the track, take advantage of top tips from the definitive scoop on today's racing programme..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Racing</category>
   </programme>
-  <programme start="20150411090000 +0100" stop="20150411100000 +0100" channel="BoxNation">
-    <title lang="en">Bunce's Boxing Hour</title>
-    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+  <programme start="20150416113000 +0100" stop="20150416120000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Sporting Greats: Seve Ballesteros</title>
+    <desc lang="en">A look back on the celebrated career of the late Seve Ballesteros. The Spaniard landed five Major titles during his career..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411100000 +0100" stop="20150411143000 +0100" channel="BoxNation">
-    <title lang="en">Uncut: Fury v Hammer</title>
-    <desc lang="en">It's Risky Business as WBO heavyweight mandatory Tyson Fury takes on Christian Hammer. And Chris Eubank Jr. fights Dmitry 'Night Wolf' Chudinov for his WBA middleweight title. The whole night uncut..(n)</desc>
+  <programme start="20150416120000 +0100" stop="20150416130000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Bass Fishing</title>
+    <desc lang="en">The opening show in the Bass Fishing series comes from Lake Okeechobee, Florida. Anglers were competing for the $100,000 first prize in this four-day competition..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Fishing</category>
   </programme>
-  <programme start="20150411143000 +0100" stop="20150411153000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- A classic confrontation between old and new- Chris Eubank takes on the young Joe Calzaghe for the vacant WBO super middleweight title in Sheffield, England..(n)</desc>
+  <programme start="20150416130000 +0100" stop="20150416140000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Classics</title>
+    <desc lang="en">A chance to relive the 2008 Wachovia Championship from the Quail Hollow Club in Charlotte, North Carolina. A young American claimed his very first PGA Tour title..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20150411153000 +0100" stop="20150411160000 +0100" channel="BoxNation">
-    <title lang="en">On Freddie Roach</title>
-    <desc lang="en">The acclaimed, 6 episode, HBO series On Freddie Roach. An in depth look at the life of the legendary trainer who is now battling Parkinson's disease..(n)</desc>
+  <programme start="20150416140000 +0100" stop="20150416150000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Watersports World 2015</title>
+    <desc lang="en">The ultimate watersports show, with comprehensive coverage of the recent power, sail and surf competitions from around the globe. With key interviews and event news..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Watersports</category>
   </programme>
-  <programme start="20150411160000 +0100" stop="20150411163000 +0100" channel="BoxNation">
-    <title lang="en">On Freddie Roach</title>
-    <desc lang="en">The acclaimed, 6 episode, HBO series On Freddie Roach. An in depth look at the life of the legendary trainer who is now battling Parkinson's disease..(n)</desc>
+  <programme start="20150416150000 +0100" stop="20150416193000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">Sunrisers Hyderabad face Rajasthan Royals at ACA-VDCA Stadium in the Indian Premier League. The Sunrisers won their last match against the Royals by 32 runs..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Cricket</category>
+    <premiere />
   </programme>
-  <programme start="20150411163000 +0100" stop="20150411173000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Nigel Benn, the Dark Destroyer, defends his WBC super middleweight title against Paraguayan Juan Carlos Gimenez. A fight memorable for the sparring outside the ring, as well as in..(n)</desc>
+  <programme start="20150416193000 +0100" stop="20150416200000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">ATP Tennis Uncovered</title>
+    <desc lang="en">All the latest from the tennis circuit, including the main headlines from the ATP Masters 1000 and 500 and 250 tournaments. With key interviews and regular features from around the globe..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Tennis</category>
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20150411173000 +0100" stop="20150411180000 +0100" channel="BoxNation">
-    <title lang="en">On Freddie Roach</title>
-    <desc lang="en">The acclaimed, 6 episode, HBO series On Freddie Roach. An in depth look at the life of the legendary trainer who is now battling Parkinson's disease..(n)</desc>
+  <programme start="20150416200000 +0100" stop="20150416230000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">PGA Tour Golf</title>
+    <desc lang="en">Day one of the RBC Heritage at Harbour Town Golf Links. 2016 US Ryder Cup Captain Davis Love III has won the tournament a record five times, the last of which came in 2003..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
+    <premiere />
   </programme>
-  <programme start="20150411180000 +0100" stop="20150411183000 +0100" channel="BoxNation">
-    <title lang="en">On Freddie Roach</title>
-    <desc lang="en">The acclaimed, 6 episode, HBO series On Freddie Roach. An in depth look at the life of the legendary trainer who is now battling Parkinson's disease..(n)</desc>
+  <programme start="20150416230000 +0100" stop="20150417000000 +0100" channel="Sky Sports 4 HD">
+    <title lang="en">European Tour Golf</title>
+    <desc lang="en">Day one of the Shenzhen International at Genzon Golf Club. The tournament is a new addition to the 2015 European Tour season..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150411183000 +0100" stop="20150411190000 +0100" channel="BoxNation">
-    <title lang="en">On Freddie Roach</title>
-    <desc lang="en">The acclaimed, 6 episode, HBO series On Freddie Roach. An in depth look at the life of the legendary trainer who is now battling Parkinson's disease..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150411190000 +0100" stop="20150411210000 +0100" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">Bernard Hopkins fighting as a middleweight back in July 1996 makes the third defence of his IBF World Title against Bo James..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150411210000 +0100" stop="20150411220000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Mickey Cantwell takes on Filipino Eric Jamili for the WBO minimum weight title. Then, WBO light middleweight champion Ronald Wright makes his third defence against Adrian Dodson..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150411220000 +0100" stop="20150411223000 +0100" channel="BoxNation">
-    <title lang="en">On Freddie Roach</title>
-    <desc lang="en">The acclaimed, 6 episode, HBO series On Freddie Roach. An in depth look at the life of the legendary trainer who is now battling Parkinson's disease..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150411223000 +0100" stop="20150411233000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Joe Calzaghe and Ricky Hatton topped the bill on 'Great Britons', defending their titles against two Americans. For Calzaghe it was Tocker Pudwill, for Hatton, Joe Hutchinson..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150411233000 +0100" stop="20150412003000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- York Hall in Bethnal Green plays host to this 2002 WBO featherweight clash between Argentina's champion Julio Pablo Chacon, and the veteran Colombian Victor Polo..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412003000 +0100" stop="20150412010000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents Cassius and..</title>
-    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412010000 +0100" stop="20150412013000 +0100" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412013000 +0100" stop="20150412060000 +0100" channel="BoxNation">
-    <title lang="en">Live: Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412060000 +0100" stop="20150412070000 +0100" channel="BoxNation">
-    <title lang="en">Ring Masters - Nigel Benn</title>
-    <desc lang="en">Ring Masters takes a look back at the career of former WBC Super-Middleweight Champion Nigel Benn, one of boxing's most feared punchers of the 90s as he takes on fellow British fighter Henry Wharton..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412070000 +0100" stop="20150412090000 +0100" channel="BoxNation">
-    <title lang="en">Saunders v Hall</title>
-    <desc lang="en">Middleweight champion Billy Joe Saunders defends his British and Commonwealth title against Matthew Hall in this London showdown..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412090000 +0100" stop="20150412130000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412130000 +0100" stop="20150412140000 +0100" channel="BoxNation">
-    <title lang="en">Classic Fights</title>
-    <desc lang="en">Oscar De La Hoya vs Shane Mosley from 2000.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412140000 +0100" stop="20150412180000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412180000 +0100" stop="20150412190000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Anthony Farnell is on home turf in Manchester, with his second crack at a world title. This one is against South Africa's Ruben Groenewald for the WBU middleweight belt..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412190000 +0100" stop="20150412230000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150412230000 +0100" stop="20150413000000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Steve Collins defends his WBO title against Eric Seillier. Then, Chris Eubank takes on Carl Thompson for the WBA cruiserweight title- their second clash in three months..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413000000 +0100" stop="20150413020000 +0100" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">Bernard Hopkins fighting as a middleweight back in July 1996 makes the third defence of his IBF World Title against Bo James..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413020000 +0100" stop="20150413030000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- A 23-year-old Barry Jones gets his chance at a world title, in just his 18th professional fight. His opponent- the WBC Latin American champ Wilson Palacio..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413030000 +0100" stop="20150413040000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Kostya Tszyu defends his IBF light welterweight belt against Ricky Hatton at the M.E.N. Arena in Manchester. Few gave The Hitman much of a chance against the pound-for-pound great..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413040000 +0100" stop="20150413050000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Joe Calzaghe had reigned for seven years as WBO super middleweight champion. But now he was to face a different kind of test against Kabary Salem, a notorious fighter from Egypt..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413050000 +0100" stop="20150413060000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- 21-year-old Bradley Pryce meets Jason Hall for the vacant WBO intercontinental lightweight title. Pryce, in front of his home fans in Cardiff, is determined to put on a show..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413060000 +0100" stop="20150413080000 +0100" channel="BoxNation">
-    <title lang="en">Povetkin v Rahman</title>
-    <desc lang="en">The heavyweight championship of the world. Alexander Povetkin does battle with Hasim Rahman. Also featuring Kubrat Pulev v Alexander Ustinov..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413080000 +0100" stop="20150413100000 +0100" channel="BoxNation">
-    <title lang="en">Brandon Rios v Richard Abril</title>
-    <desc lang="en">From Las Vegas: Brandon"Bam Bam" Rios of the USA defends his World Lightweight title against Cuba's Richard Abril. Also featuring Mexico's Juan Manuel Marquez against Ukraine's Serhiy Fedchenko..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413100000 +0100" stop="20150413103000 +0100" channel="BoxNation">
-    <title lang="en">Magee v Markussen</title>
-    <desc lang="en">Ireland's Brian Magee defends his World Super Middleweight title against the big punching Dane Rudy Markussen in Copenhagen..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413103000 +0100" stop="20150413113000 +0100" channel="BoxNation">
-    <title lang="en">Welsh Dragons - Maccarinelli</title>
-    <desc lang="en">Part 1. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413113000 +0100" stop="20150413133000 +0100" channel="BoxNation">
-    <title lang="en">DeGale v Sanavia</title>
-    <desc lang="en">Britain's James DeGale defends his European Super Middleweight title against former World Champion Cristian Sanavia of Italy..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413133000 +0100" stop="20150413140000 +0100" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150413140000 +0100" stop="20150413160000 +0100" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">Future two-time World Heavyweight Champion Chris Byrd headlines a show from 1996 when the unbeaten former Olympian faced Jeff Wooden in his 15th pro fight..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413160000 +0100" stop="20150413170000 +0100" channel="BoxNation">
-    <title lang="en">Fighting Spirit</title>
-    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413170000 +0100" stop="20150413190000 +0100" channel="BoxNation">
-    <title lang="en">Boxnation Uncut: Donaire v Arce</title>
-    <desc lang="en">Ring Magazine's fighter of 2012 Nonito Donaire defends his WBO World Super-Bantamweight belt against former champion Jorge Arce in Houston, Texas. The big fight and the undercard - uncut..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413190000 +0100" stop="20150413193000 +0100" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413193000 +0100" stop="20150413233000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150413233000 +0100" stop="20150414000000 +0100" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414000000 +0100" stop="20150414020000 +0100" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">Bernard Hopkins fighting as a middleweight back in July 1996 makes the third defence of his IBF World Title against Bo James..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414020000 +0100" stop="20150414060000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414060000 +0100" stop="20150414100000 +0100" channel="BoxNation">
-    <title lang="en">Uncut Broner v Maidana</title>
-    <desc lang="en">Adrien Broner's biggest problem on this huge, year-ending show of 2013 was the power, speed and skill of Marcos Maidana. The whole fight, the whole night, uncut..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414100000 +0100" stop="20150414103000 +0100" channel="BoxNation">
-    <title lang="en">Mayhem in Munich</title>
-    <desc lang="en">A look back at the good, bad and the ugly from the controversial Klitschko v Chisora world title fight..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414103000 +0100" stop="20150414113000 +0100" channel="BoxNation">
-    <title lang="en">Welsh Dragons - Maccarinelli</title>
-    <desc lang="en">Part 2. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414113000 +0100" stop="20150414133000 +0100" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">Bernard Hopkins fighting as a middleweight back in July 1996 makes the third defence of his IBF World Title against Bo James..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414133000 +0100" stop="20150414140000 +0100" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150414140000 +0100" stop="20150414180000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414180000 +0100" stop="20150414190000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Welsh young gun Gary Lockett battles Australian Kevin Kelly for the WBA light middleweight title. Then, Ricky Hatton aims to make it 28 wins in a row, against Mikhail Krivolapov..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414190000 +0100" stop="20150414200000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150414200000 +0100" stop="20150415003000 +0100" channel="BoxNation">
-    <title lang="en">Uncut: Saunders v Blackwell</title>
-    <desc lang="en">All-action Commonwealth middleweight champ Billy Joe Saunders attempts to add the British belt against Nick Blackwell on a card featuring 5 championships. The whole fight, the whole night, uncut..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415003000 +0100" stop="20150415013000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415013000 +0100" stop="20150415053000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415053000 +0100" stop="20150415060000 +0100" channel="BoxNation">
-    <title lang="en">Boxing Matters</title>
-    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415060000 +0100" stop="20150415080000 +0100" channel="BoxNation">
-    <title lang="en">Klitschko v Thompson</title>
-    <desc lang="en">Four heavyweight world titles are on the line as Wladimir Klitschko takes on Tony Thompson in Switzerland.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415080000 +0100" stop="20150415100000 +0100" channel="BoxNation">
-    <title lang="en">McKenzie v Dodson</title>
-    <desc lang="en">From Bowlers in Manchester, Tony Dodson fights for the Commonwealth Light Heavyweight title against holder Ovill McKenzie..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415100000 +0100" stop="20150415103000 +0100" channel="BoxNation">
-    <title lang="en">Away from the Ring</title>
-    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415103000 +0100" stop="20150415113000 +0100" channel="BoxNation">
-    <title lang="en">Welsh Dragons - Maccarinelli</title>
-    <desc lang="en">Part 3. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415113000 +0100" stop="20150415133000 +0100" channel="BoxNation">
-    <title lang="en">Freeview: Total Combat</title>
-    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415133000 +0100" stop="20150415140000 +0100" channel="BoxNation">
-    <title lang="en">Freeview: Teleshopping</title>
-    <desc lang="en">Teleshopping.(n)</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20150415140000 +0100" stop="20150415150000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415150000 +0100" stop="20150415190000 +0100" channel="BoxNation">
-    <title lang="en">Lee v Quillin</title>
-    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415190000 +0100" stop="20150415210000 +0100" channel="BoxNation">
-    <title lang="en">Greatest Boxing Classics</title>
-    <desc lang="en">At age 44, one of the all-time heavyweight greats Larry Holmes who wore the WBC belt for 5 years was making one last push up the rankings to claim another shot at becoming Champion of the World..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415210000 +0100" stop="20150415213000 +0100" channel="BoxNation">
-    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
-    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20150415213000 +0100" stop="20150416000000 +0100" channel="BoxNation">
-    <title lang="en">Uncut: Selby v Simpson</title>
-    <desc lang="en">Lee Selby v John Simpson for the British and Commonwealth featherweight Championship was the main event on a 6 fight card at York Hall that also featured Billy Joe Saunders and Steve O'Meara..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Boxing</category>
+    <category lang="en">Golf</category>
   </programme>
 </tv>
