@@ -172,387 +172,508 @@
     <display-name lang="en">Film4</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
-  <programme start="20150413200000 +0100" stop="20150414020000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing from Monticello, Parx Racing, Will Rogers, Sunland, Northfield, Mountaineer &amp; Mohawk..(n)</desc>
+  <programme start="20150414200000 +0100" stop="20150415003000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Saunders v Blackwell</title>
+    <desc lang="en">All-action Commonwealth middleweight champ Billy Joe Saunders attempts to add the British belt against Nick Blackwell on a card featuring 5 championships. The whole fight, the whole night, uncut..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414020000 +0100" stop="20150414060000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing from Gosford, Nowra, Ararat &amp; Geraldton..(n)</desc>
+  <programme start="20150415003000 +0100" stop="20150415013000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414060000 +0100" stop="20150414090000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing from Gosford, Nowra, Ararat &amp; Geraldton..(n)</desc>
+  <programme start="20150415013000 +0100" stop="20150415043000 +0100" channel="BoxNation">
+    <title lang="en">Lee v Quillin</title>
+    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414090000 +0100" stop="20150414091500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150415043000 +0100" stop="20150415053000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- One of the biggest nights ever in British boxing saw Robin Reid take on Giovanni Pretorius for his WBO belt, and a career-defining IBF title fight from Prince Naseem Hamed..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414091500 +0100" stop="20150414100000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150415053000 +0100" stop="20150415060000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414100000 +0100" stop="20150414101500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150415060000 +0100" stop="20150415080000 +0100" channel="BoxNation">
+    <title lang="en">Klitschko v Thompson</title>
+    <desc lang="en">Four heavyweight world titles are on the line as Wladimir Klitschko takes on Tony Thompson in Switzerland.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414101500 +0100" stop="20150414110000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150415080000 +0100" stop="20150415100000 +0100" channel="BoxNation">
+    <title lang="en">McKenzie v Dodson</title>
+    <desc lang="en">From Bowlers in Manchester, Tony Dodson fights for the Commonwealth Light Heavyweight title against holder Ovill McKenzie..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414110000 +0100" stop="20150414113000 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150415100000 +0100" stop="20150415103000 +0100" channel="BoxNation">
+    <title lang="en">Away from the Ring</title>
+    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414113000 +0100" stop="20150414120000 +0100" channel="At The Races">
-    <title lang="en">Raceday Preview</title>
-    <desc lang="en">A look ahead to the day's racing..(n)</desc>
+  <programme start="20150415103000 +0100" stop="20150415113000 +0100" channel="BoxNation">
+    <title lang="en">Welsh Dragons - Maccarinelli</title>
+    <desc lang="en">Part 3. A tribute to some of the top fighters from Wales to have graced the ring..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414120000 +0100" stop="20150414121500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150415113000 +0100" stop="20150415133000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Total Combat</title>
+    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414121500 +0100" stop="20150414130000 +0100" channel="At The Races">
-    <title lang="en">The World Of Racing</title>
-    <desc lang="en">A look at the global racing scene including reviewing the international action, plus looking ahead to the main races coming up throughout the world..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+  <programme start="20150415133000 +0100" stop="20150415140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150414130000 +0100" stop="20150414133000 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150415140000 +0100" stop="20150415150000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414133000 +0100" stop="20150414174500 +0100" channel="At The Races">
-    <title lang="en">Raceday Live</title>
-    <desc lang="en">An afternoon of All-Weather action on the Fibresand at Southwell..(n)</desc>
+  <programme start="20150415150000 +0100" stop="20150415180000 +0100" channel="BoxNation">
+    <title lang="en">Lee v Quillin</title>
+    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <premiere />
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414174500 +0100" stop="20150414220000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing from Monticello, Parx Racing, Fairmount Park, Will Rogers, Northfield &amp; Moutaineer..(n)</desc>
+  <programme start="20150415180000 +0100" stop="20150415183000 +0100" channel="BoxNation">
+    <title lang="en">Away from the Ring</title>
+    <desc lang="en">Bristol, a hotbed of boxing in the South West. The vibrant scene includes professionals, amateurs, politicians and students..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150414220000 +0100" stop="20150415020000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing from Monticello, Parx Racing, Fairmount Park, Will Rogers, Northfield &amp; Moutaineer..(n)</desc>
+  <programme start="20150415183000 +0100" stop="20150415190000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415020000 +0100" stop="20150415060000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing from Warwick Farm, Seymour, Sunshine Coast, Balaklava &amp; Bunbury..(n)</desc>
+  <programme start="20150415190000 +0100" stop="20150415210000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">At age 44, one of the all-time heavyweight greats Larry Holmes who wore the WBC belt for 5 years was making one last push up the rankings to claim another shot at becoming Champion of the World..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415060000 +0100" stop="20150415090000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing from Warwick Farm, Seymour, Sunshine Coast, Balaklava &amp; Bunbury..(n)</desc>
+  <programme start="20150415210000 +0100" stop="20150415213000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
+    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415090000 +0100" stop="20150415091500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150415213000 +0100" stop="20150416000000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Selby v Simpson</title>
+    <desc lang="en">Lee Selby v John Simpson for the British and Commonwealth featherweight Championship was the main event on a 6 fight card at York Hall that also featured Billy Joe Saunders and Steve O'Meara..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415091500 +0100" stop="20150415100000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150416000000 +0100" stop="20150416030000 +0100" channel="BoxNation">
+    <title lang="en">Lee v Quillin</title>
+    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415100000 +0100" stop="20150415101500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150416030000 +0100" stop="20150416040000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415101500 +0100" stop="20150415110000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150416040000 +0100" stop="20150416043000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
+    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415110000 +0100" stop="20150415111500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150416043000 +0100" stop="20150416050000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415111500 +0100" stop="20150415120000 +0100" channel="At The Races">
-    <title lang="en">The Form Factor</title>
-    <desc lang="en">Simon Mapletoft reviews and previews the best of the AW action building up to Good Friday¿s All Weather Championship finals day at Lingfield..(n)</desc>
+  <programme start="20150416050000 +0100" stop="20150416060000 +0100" channel="BoxNation">
+    <title lang="en">Mike Alvarado v Mauricio Herrera</title>
+    <desc lang="en">BoxNation presents the 10 round World Lightweight eliminator between Mike Alvarado v Mauricio Herrera..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415120000 +0100" stop="20150415121500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150416060000 +0100" stop="20150416070000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Naseem Hamed</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the extraordinary ring craft of the former World Featherweight Champion Prince Naseem Hamed, in classic fights against Kevin Kelley and Wilfredo Vazquez..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415121500 +0100" stop="20150415171500 +0100" channel="At The Races">
-    <title lang="en">Raceday Live</title>
-    <desc lang="en">At The Races brings you the best seat in the house for racing..(n)</desc>
+  <programme start="20150416070000 +0100" stop="20150416080000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Frank Bruno</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the finest hour of one of Britain's most popular sportsmen of all time, Frank Bruno, when he made his 4th and final challenge for the Heavyweight title..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <premiere />
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415171500 +0100" stop="20150415213000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150416080000 +0100" stop="20150416110000 +0100" channel="BoxNation">
+    <title lang="en">Lee v Quillin</title>
+    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150415213000 +0100" stop="20150416020000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150416110000 +0100" stop="20150416120000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Nigel Benn</title>
+    <desc lang="en">Ring Masters takes a look back at the career of former WBC Super-Middleweight Champion Nigel Benn, one of boxing's most feared punchers of the 90s as he takes on fellow British fighter Henry Wharton..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416020000 +0100" stop="20150416060000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing..(n)</desc>
+  <programme start="20150416120000 +0100" stop="20150416123000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
+    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416060000 +0100" stop="20150416090000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing..(n)</desc>
+  <programme start="20150416123000 +0100" stop="20150416133000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- London's Mark Prince duels Wayne Hankins in a slow-burner with an explosive ending. Then, Nigel Benn takes on Gerald 'G-Man' McClellan in an epic, but ultimately tragic, encounter..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416090000 +0100" stop="20150416091500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+  <programme start="20150416133000 +0100" stop="20150416140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150416091500 +0100" stop="20150416100000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150416140000 +0100" stop="20150416160000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">At age 44, one of the all-time heavyweight greats Larry Holmes who wore the WBC belt for 5 years was making one last push up the rankings to claim another shot at becoming Champion of the World..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416100000 +0100" stop="20150416101500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150416160000 +0100" stop="20150416170000 +0100" channel="BoxNation">
+    <title lang="en">Fighting Spirit</title>
+    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416101500 +0100" stop="20150416110000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150416170000 +0100" stop="20150416180000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Joe Calzaghe</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall look back at the day when Joe Calzaghe announced himself at world level, by challenging boxing great, Chris Eubank, for the WBO Super-Middleweight title..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416110000 +0100" stop="20150416111500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150416180000 +0100" stop="20150416190000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Ricky Hatton</title>
+    <desc lang="en">Jim Rosenthal and Richie Woodhall recount former Light Welterweight Champion and fan favourite Ricky Hatton's finest hour against legend Kostya Tszyu..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416111500 +0100" stop="20150416120000 +0100" channel="At The Races">
-    <title lang="en">The Irish Angle</title>
-    <desc lang="en">A round up of the best racing from Ireland and a look ahead to the weekend's action..(n)</desc>
+  <programme start="20150416190000 +0100" stop="20150416200000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416120000 +0100" stop="20150416121500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150416200000 +0100" stop="20150416203000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416121500 +0100" stop="20150416171500 +0100" channel="At The Races">
-    <title lang="en">Raceday Live</title>
-    <desc lang="en">At The Races brings you the best seat in the house for racing..(n)</desc>
+  <programme start="20150416203000 +0100" stop="20150416213000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: BoxNation meets Liam...</title>
+    <desc lang="en">.Smith. Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <premiere />
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416171500 +0100" stop="20150416213000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150416213000 +0100" stop="20150417010000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Stiverne v Wilder</title>
+    <desc lang="en">Bermane Stiverne takes on Deontay Wilder- the first world heavyweight title fight in Las Vegas since 2006. Stiverne is the champion, but Wilder boasts a 32 win, 32 KO record. The whole night uncut..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150416213000 +0100" stop="20150417020000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150417010000 +0100" stop="20150417013000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417020000 +0100" stop="20150417060000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing..(n)</desc>
+  <programme start="20150417013000 +0100" stop="20150417043000 +0100" channel="BoxNation">
+    <title lang="en">Lee v Quillin</title>
+    <desc lang="en">Irish star Andy Lee stages the first defence of his WBO World Middleweight title against Peter Quillin as mandatory challenger Billy Joe Saunders lies in wait..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417060000 +0100" stop="20150417090000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing..(n)</desc>
+  <programme start="20150417043000 +0100" stop="20150417050000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417090000 +0100" stop="20150417091500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150417050000 +0100" stop="20150417060000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Liam Smith</title>
+    <desc lang="en">Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417091500 +0100" stop="20150417100000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150417060000 +0100" stop="20150417070000 +0100" channel="BoxNation">
+    <title lang="en">Ring Masters - Chris Eubank</title>
+    <desc lang="en">Ringmasters reviews the enigmatic former WBO Super Middleweight Champion Chris Eubank in his second epic contest against Northern Ireland's Ray Close..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417100000 +0100" stop="20150417101500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150417070000 +0100" stop="20150417110000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Lara v Alvarez</title>
+    <desc lang="en">Young gun Saul 'Canelo' Alvarez takes on Cuban Erislandy Lara in a tough 12-round contest at the MGM Grand in Las Vegas. Plus, all the action from a packed undercard. The whole night Uncut..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417101500 +0100" stop="20150417110000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150417110000 +0100" stop="20150417113000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417110000 +0100" stop="20150417111500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150417113000 +0100" stop="20150417120000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417111500 +0100" stop="20150417120000 +0100" channel="At The Races">
-    <title lang="en">The Friday Focus</title>
-    <desc lang="en">A look ahead to an exciting weekend of horse racing..(n)</desc>
+  <programme start="20150417120000 +0100" stop="20150417130000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417120000 +0100" stop="20150417121500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150417130000 +0100" stop="20150417133000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
+    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417121500 +0100" stop="20150417171500 +0100" channel="At The Races">
-    <title lang="en">Raceday Live</title>
-    <desc lang="en">At The Races brings you the best seat in the house for racing..(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <premiere />
+  <programme start="20150417133000 +0100" stop="20150417140000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Teleshopping</title>
+    <desc lang="en">Teleshopping.(n)</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20150417171500 +0100" stop="20150417213000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150417140000 +0100" stop="20150417150000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Liam Smith</title>
+    <desc lang="en">Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150417213000 +0100" stop="20150418020000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150417150000 +0100" stop="20150417153000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418020000 +0100" stop="20150418060000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing..(n)</desc>
+  <programme start="20150417153000 +0100" stop="20150417160000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418060000 +0100" stop="20150418090000 +0100" channel="At The Races">
-    <title lang="en">Australian Racing</title>
-    <desc lang="en">Live Australian racing..(n)</desc>
+  <programme start="20150417160000 +0100" stop="20150417170000 +0100" channel="BoxNation">
+    <title lang="en">Fighting Spirit</title>
+    <desc lang="en">MMA Season 3: World Clash Tour is a global discovery of Mixed Martial Arts. A mix of every kind of MMA from events around the world..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418090000 +0100" stop="20150418091500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150417170000 +0100" stop="20150417190000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: Total Combat</title>
+    <desc lang="en">Great new, explosive fight format where fighters go all out for the knockout against the clock. Time is money!.(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418091500 +0100" stop="20150418100000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150417190000 +0100" stop="20150417200000 +0100" channel="BoxNation">
+    <title lang="en">Live: Bunce's Boxing Hour</title>
+    <desc lang="en">It's back and it's live from London! Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418100000 +0100" stop="20150418101500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150417200000 +0100" stop="20150417210000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: BoxNation meets Liam...</title>
+    <desc lang="en">.Smith. Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418101500 +0100" stop="20150418110000 +0100" channel="At The Races">
-    <title lang="en">Racing Review</title>
-    <desc lang="en">A chance to catch up with the best of yesterday's racing..(n)</desc>
+  <programme start="20150417210000 +0100" stop="20150418003000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Rios v Chaves</title>
+    <desc lang="en">After 2 straight defeats, Rios needed a win against Argentina's Diego Chaves to get his career back on track. Also, the WBA Light-Welterweight Championship. The whole fight, the whole night, Uncut..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418110000 +0100" stop="20150418111500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150418003000 +0100" stop="20150418013000 +0100" channel="BoxNation">
+    <title lang="en">Bunce's Boxing Hour</title>
+    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418111500 +0100" stop="20150418120000 +0100" channel="At The Races">
-    <title lang="en">Sport On Saturday</title>
-    <desc lang="en">A preview of the best sport's betting opportunities this weekend..(n)</desc>
+  <programme start="20150418013000 +0100" stop="20150418023000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Tonight</title>
+    <desc lang="en">Magazine show with Paul Dempsey and Richie Woodhall..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418120000 +0100" stop="20150418121500 +0100" channel="At The Races">
-    <title lang="en">Racing News</title>
-    <desc lang="en">Stay up to date with the latest racing news and views on the hour..(n)</desc>
+  <programme start="20150418023000 +0100" stop="20150418043000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">At age 44, one of the all-time heavyweight greats Larry Holmes who wore the WBC belt for 5 years was making one last push up the rankings to claim another shot at becoming Champion of the World..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418121500 +0100" stop="20150418171500 +0100" channel="At The Races">
-    <title lang="en">Raceday Live</title>
-    <desc lang="en">At The Races brings you the best seat in the house for racing..(n)</desc>
+  <programme start="20150418043000 +0100" stop="20150418053000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Liam Smith</title>
+    <desc lang="en">Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <premiere />
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418171500 +0100" stop="20150418213000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150418053000 +0100" stop="20150418060000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20150418213000 +0100" stop="20150419020000 +0100" channel="At The Races">
-    <title lang="en">Stateside</title>
-    <desc lang="en">Live US racing..(n)</desc>
+  <programme start="20150418060000 +0100" stop="20150418070000 +0100" channel="BoxNation">
+    <title lang="en">Heavyweight Special- Heavy Hitters</title>
+    <desc lang="en">The power, the punches and the explosive action that only the big men of boxing can deliver..(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418070000 +0100" stop="20150418100000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Kessler v Green</title>
+    <desc lang="en">May 2012 and Mikkel Kessler took on Allan Green in Copenhagen for the Vacant WBC Silver Light-Heavyweight Championship that ended with a stunning KO. The whole fight, the whole night, uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418100000 +0100" stop="20150418103000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418103000 +0100" stop="20150418110000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418110000 +0100" stop="20150418120000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: BoxNation meets Liam...</title>
+    <desc lang="en">.Smith. Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418120000 +0100" stop="20150418130000 +0100" channel="BoxNation">
+    <title lang="en">Bunce's Boxing Hour</title>
+    <desc lang="en">Steve Bunce brings you his opinions and unique take on the world of boxing along with familiar studio guests and contributors..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418130000 +0100" stop="20150418170000 +0100" channel="BoxNation">
+    <title lang="en">Uncut: Marquez v Alvarado</title>
+    <desc lang="en">Juan Manuel Marquez returns to the legendary LA Forum to take on Denver native Mike Alvarado. Marquez needs a win in his quest to become the first Mexican five-weight champion. The whole night Uncut..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418170000 +0100" stop="20150418180000 +0100" channel="BoxNation">
+    <title lang="en">Freeview: BoxNation meets Liam...</title>
+    <desc lang="en">.Smith. Boxnation meets unbeaten Liverpool Light Middleweight Liam Smith on his quest for a World title shot in 2015..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418180000 +0100" stop="20150418183000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
+    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418183000 +0100" stop="20150418190000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150418190000 +0100" stop="20150419003000 +0100" channel="BoxNation">
+    <title lang="en">Live: Mathews v Barroso</title>
+    <desc lang="en">Liverpool hero Derry Mathews faces teak-tough Venezuelan Ismael Barroso at the Echo Arena for the Vacant WBA interim World Lightweight Championship..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419003000 +0100" stop="20150419010000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation meets Jimmy Lennon Jr</title>
+    <desc lang="en">BoxNation's Steve Lillis talks to one of the most recognisable faces in boxing. In a 30-year career, Jimmy Lennon Jr. has been the MC for some of the greatest and most controversial fights..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419010000 +0100" stop="20150419013000 +0100" channel="BoxNation">
+    <title lang="en">BoxNation Presents Cassius and..</title>
+    <desc lang="en">.Helder. The iFL TV team deliver the news, views and interviews from the boxing world that the fans want to hear..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419013000 +0100" stop="20150419020000 +0100" channel="BoxNation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Alex Steedman presents this show on BoxNation. Every time a big fight's coming up, Alex and guests will preview the action with exclusive interviews from the fighters. Why? Because Boxing Matters..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419020000 +0100" stop="20150419080000 +0100" channel="BoxNation">
+    <title lang="en">Live: Crawford v Dulorme</title>
+    <desc lang="en">An American double header sees big punching stars Lucas Matthysse and Ruslan Provodnikov go head to head while Terence Crawford aims to become a two-time world champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419080000 +0100" stop="20150419100000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">1992 and Lennox Lewis faces Mike Dixon as he gets ever closer to his world title shot. Also a look back in time to November 1965, Muhammad Ali v Floyd Patterson.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419100000 +0100" stop="20150419140000 +0100" channel="BoxNation">
+    <title lang="en">Mathews v Barroso</title>
+    <desc lang="en">Liverpool hero Derry Mathews faces teak-tough Venezuelan Ismael Barroso at the Echo Arena for the Vacant WBA interim World Lightweight Championship..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419140000 +0100" stop="20150419160000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">A fresh-faced Oscar De La Hoya headlines against Mike Grable in only his 6th professional fight..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419160000 +0100" stop="20150419180000 +0100" channel="BoxNation">
+    <title lang="en">Greatest Boxing Classics</title>
+    <desc lang="en">The legendary Hector Camacho headlines a three-fight card that also features Donovan Ruddock and Vitali Klitschko making his USA debut in August 1998..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419180000 +0100" stop="20150419190000 +0100" channel="BoxNation">
+    <title lang="en">Classic Fights</title>
+    <desc lang="en">Oscar De La Hoya vs Shane Mosley from 2000.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419190000 +0100" stop="20150419230000 +0100" channel="BoxNation">
+    <title lang="en">Crawford v Dulorme</title>
+    <desc lang="en">An American double header sees big punching stars Lucas Matthysse and Ruslan Provodnikov go head to head while Terence Crawford aims to become a two-time world champion..(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20150419230000 +0100" stop="20150420000000 +0100" channel="BoxNation">
+    <title lang="en">Classic Fights</title>
+    <desc lang="en">Roy Jones Jr vs Glen Johnson from 2004.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
   </programme>
 </tv>
