@@ -1301,8 +1301,8 @@
     <url>http://www.uk-Skyuk.com</url>
   </channel>
   <programme start="20150423223000 +0100" stop="20150423224500 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by national weather(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by national weather(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1398,8 +1398,8 @@
     <subtitles />
   </programme>
   <programme start="20150424134000 +0100" stop="20150424134500 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London(n)</desc>
+    <title lang="en">North West Today</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1464,8 +1464,8 @@
     <subtitles />
   </programme>
   <programme start="20150424183000 +0100" stop="20150424190000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1480,11 +1480,11 @@
     <subtitles />
   </programme>
   <programme start="20150424193000 +0100" stop="20150424200000 +0100" channel="BBC One North West">
-    <title lang="en">A Question of Sport</title>
-    <desc lang="en">The guests are Asmir Begovic, Jordanne Whiley, Suzi Perry and Harry Aikines-Aryeetey  Then BBC News(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Shows</category>
-    <episode-num system="onscreen">S44E26PPP</episode-num>
+    <title lang="en">The Pennine Way</title>
+    <desc lang="en">Celebrating the Pennine Way's 50th birthday. Paul Rose heads to the North Pennines, enjoys white-water rafting down the River Tees and takes in the view at High Cup Nick(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E3PP3/4P</episode-num>
     <subtitles />
   </programme>
   <programme start="20150424200000 +0100" stop="20150424203000 +0100" channel="BBC One North West">
@@ -1520,8 +1520,8 @@
     <subtitles />
   </programme>
   <programme start="20150424222500 +0100" stop="20150424223500 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by national weather(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by national weather(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1649,8 +1649,8 @@
     <subtitles />
   </programme>
   <programme start="20150425185000 +0100" stop="20150425185500 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by national weather(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by national weather(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1772,7 +1772,7 @@
   </programme>
   <programme start="20150426143000 +0100" stop="20150426154500 +0100" channel="BBC One North West">
     <title lang="en">Sunday Politics</title>
-    <desc lang="en">Andrew Neil and Tim Donovan with the latest political news, interviews and debate(n)</desc>
+    <desc lang="en">Andrew Neil and Arif Ansari with the latest political news, interviews and debate(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">Politics</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1819,8 +1819,8 @@
     <subtitles />
   </programme>
   <programme start="20150426185000 +0100" stop="20150426190000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by national weather(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by national weather(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1860,8 +1860,8 @@
     <subtitles />
   </programme>
   <programme start="20150426222000 +0100" stop="20150426223000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by national weather(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by national weather(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -1965,8 +1965,8 @@
     <subtitles />
   </programme>
   <programme start="20150427134000 +0100" stop="20150427134500 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London(n)</desc>
+    <title lang="en">North West Today</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -2031,8 +2031,8 @@
     <subtitles />
   </programme>
   <programme start="20150427183000 +0100" stop="20150427190000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by a Party Election Broadcast by the Conservative Party(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by a Party Election Broadcast by the Conservative Party(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -2088,8 +2088,8 @@
     <subtitles />
   </programme>
   <programme start="20150427223000 +0100" stop="20150427225000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by national weather(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by national weather(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -2104,11 +2104,11 @@
     <subtitles />
   </programme>
   <programme start="20150427233000 +0100" stop="20150428002000 +0100" channel="BBC One North West">
-    <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Graham Norton presents his talk show. He is joined by Avengers stars Mark Ruffalo, Jeremy Renner and Elizabeth Olsen, plus comedian Josh Widdicombe and Brit supergroup Blur(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Chat Show</category>
-    <episode-num system="onscreen">S17E3PP3/12P</episode-num>
+    <title lang="en">The Super League Show</title>
+    <desc lang="en">Highlights from the Super League Including Leeds Rhinos v Warrington, St Helens v Widnes, Wigan v Wakefield, Salford v Castleford, Hull FC v Huddersfield and Catalans v Hull KR(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">PPP</episode-num>
     <subtitles />
   </programme>
   <programme start="20150428002000 +0100" stop="20150428002500 +0100" channel="BBC One North West">
@@ -2185,8 +2185,8 @@
     <subtitles />
   </programme>
   <programme start="20150428134000 +0100" stop="20150428134500 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London(n)</desc>
+    <title lang="en">North West Today</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -2252,8 +2252,8 @@
     <subtitles />
   </programme>
   <programme start="20150428183000 +0100" stop="20150428190000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by a Party Election Broadcast by the Labour Party(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by a Party Election Broadcast by the Labour Party(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -2301,8 +2301,8 @@
     <subtitles />
   </programme>
   <programme start="20150428223000 +0100" stop="20150428225000 +0100" channel="BBC One North West">
-    <title lang="en">BBC London News</title>
-    <desc lang="en">The latest news, sport and weather from London  Followed by weather and a National Lottery update(n)</desc>
+    <title lang="en">North West Tonight</title>
+    <desc lang="en">The latest news, sport and weather for the North West of England  Followed by weather and a National Lottery update(n)</desc>
     <category lang="en">News &amp; Documentaries</category>
     <category lang="en">News</category>
     <episode-num system="onscreen">PPP</episode-num>
@@ -2323,5 +2323,926 @@
     <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
     <episode-num system="onscreen">PPP</episode-num>
+  </programme>
+  <programme start="20150423223000 +0100" stop="20150423232000 +0100" channel="BBC 2 England">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">DPP Alison Saunders on historic child abuse Plus Nicola Sturgeon, EU crisis talks on migrants and a peek inside the ancient Chauvet caves  Followed by weather(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150423232000 +0100" stop="20150424001000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker...</title>
+    <desc lang="en">Highlights Highlights from the day's play in Sheffield, where the line-up for the last 16 is now complete(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424001000 +0100" stop="20150424021000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker - Extra</title>
+    <desc lang="en">Hazel Irvine introduces highlights from the Crucible Theatre in Sheffield(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424021000 +0100" stop="20150424024000 +0100" channel="BBC 2 England">
+    <title lang="en">The Great Housing Benefit...</title>
+    <desc lang="en">Scandal - Panorama Alys Harte investigates the unscrupulous landlords getting millions of pounds from the taxpayer for housing people in cramped and poor quality accommodation(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PPP</episode-num>
+  </programme>
+  <programme start="20150424024000 +0100" stop="20150424034000 +0100" channel="BBC 2 England">
+    <title lang="en">The Billion Dollar Chicken Shop</title>
+    <sub-title lang="en">The Colonel's Future</sub-title>
+    <desc lang="en">Marketing expert Meghan hopes to rebrand KFC as a healthy fast food giant Contains some strong language(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S1E3PPP3/3</episode-num>
+  </programme>
+  <programme start="20150424034000 +0100" stop="20150424035500 +0100" channel="BBC 2 England">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two(n)</desc>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424035500 +0100" stop="20150424042000 +0100" channel="BBC 2 England">
+    <title lang="en">Arena: The National Theatre</title>
+    <desc lang="en">Made especially for schools, this version of the BBC Four Arena programme examines the history and purpose of the National Theatre as it celebrates its 50th anniversary(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Educational</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424042000 +0100" stop="20150424045000 +0100" channel="BBC 2 England">
+    <title lang="en">i.am.Will Shakespeare</title>
+    <desc lang="en">In this series of short films for Key Stage 2, Newsround's Ricky Boleto and Leah Gooding go in search of William Shakespeare(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Educational</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424045000 +0100" stop="20150424052000 +0100" channel="BBC 2 England">
+    <title lang="en">Punctuation Pals</title>
+    <desc lang="en">This is a fun and educational programme exploring punctuation for the Key Stage 1 National Curriculum with CBeebies presenter Gemma Hunt and Dylan the puppet(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Educational</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424052000 +0100" stop="20150424060000 +0100" channel="BBC 2 England">
+    <title lang="en">Punctuation Rules</title>
+    <desc lang="en">Blue Peter presenter Radzi challenges a team of six children to explore the rules of punctuation through punctuation tasks(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Educational</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424060000 +0100" stop="20150424070000 +0100" channel="BBC 2 England">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Series about properties that have gone to auction Martin Roberts and Lucy Alexander visit a property in Derbyshire, a former cigar warehouse in London and a flat in Manchester(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424070000 +0100" stop="20150424074500 +0100" channel="BBC 2 England">
+    <title lang="en">Channel Patrol</title>
+    <desc lang="en">Documentary following life on the English Channel. The Royal Navy bomb squad unearth a deadly relic that has been sitting on a mantelpiece for 30 years(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S2E4PP4/10P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424074500 +0100" stop="20150424081500 +0100" channel="BBC 2 England">
+    <title lang="en">Cowboys and Angels</title>
+    <desc lang="en">Series following tradesmen and looking at cowboy contractors Tommy meets Sandra and Freddie, who spent their savings on a dream family kitchen, only to be taken in by a con man(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S1E9PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424081500 +0100" stop="20150424084500 +0100" channel="BBC 2 England">
+    <title lang="en">Gardeners' World</title>
+    <desc lang="en">Gardening magazine James Alexander-Sinclair celebrates magnolias by visiting Borde Hill Garden in West Sussex, and Monty Don gives his borders a bit of a boost at Longmeadow(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gardening</category>
+    <episode-num system="onscreen">S48E7PPP</episode-num>
+  </programme>
+  <programme start="20150424084500 +0100" stop="20150424091500 +0100" channel="BBC 2 England">
+    <title lang="en">Helicopter Heroes Down Under</title>
+    <desc lang="en">Series following British flying doctors in Australia. Rookie flying doctor Eoin is scrambled to a badly hurt photographer and Yorkshirewoman Sarah fights to save a biker(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S2E13PP13/15P</episode-num>
+  </programme>
+  <programme start="20150424091500 +0100" stop="20150424100000 +0100" channel="BBC 2 England">
+    <title lang="en">Peter O' Toole: Talking Pictures</title>
+    <desc lang="en">A look at the life of the Lawrence of Arabia star and legendary hell-raiser Peter O'Toole, with archive footage exploring the story of his colourful career(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E27PP27/34P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424100000 +0100" stop="20150424120000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Jason Mohammad introduces live second-round action in Sheffield Matches are played over three sessions and are the best-of-25 frames(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424120000 +0100" stop="20150424130000 +0100" channel="BBC 2 England">
+    <title lang="en">Daily Politics</title>
+    <desc lang="en">Andrew Neil and Jo Coburn with the latest election news, interviews and debate(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Politics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424130000 +0100" stop="20150424180000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Hazel Irvine introduces second-round action from Sheffield, where a total prize fund of over £13 million is up for grabs Matches are played over three sessions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424180000 +0100" stop="20150424183000 +0100" channel="BBC 2 England">
+    <title lang="en">Eggheads</title>
+    <desc lang="en">General knowledge quiz in which teams from all over the UK battle to beat the Eggheads, some of the country's top quiz champions(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424183000 +0100" stop="20150424190000 +0100" channel="BBC 2 England">
+    <title lang="en">Antiques Roadshow Detectives</title>
+    <desc lang="en">Graham Lay investigates an embroidered tablecloth made by female prisoners in World War II(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Antiques</category>
+    <episode-num system="onscreen">S1E15PP15/15P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424190000 +0100" stop="20150424200000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Jason Mohammad introduces live coverage from Sheffield, where quarter-final places are up for grabs(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424200000 +0100" stop="20150424203000 +0100" channel="BBC 2 England">
+    <title lang="en">An Island Parish: Falklands</title>
+    <sub-title lang="en">Past and Present</sub-title>
+    <desc lang="en">The islanders welcome some honoured guests, veterans of the 1982 war(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Religious</category>
+    <episode-num system="onscreen">S1E5PPP5/6</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424203000 +0100" stop="20150424210000 +0100" channel="BBC 2 England">
+    <title lang="en">Gardeners' World</title>
+    <desc lang="en">Gardening magazine Everything in the garden is shooting up, so it's time to lift and divide perennials, and Monty is doing just that with his ornamental grasses(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gardening</category>
+    <episode-num system="onscreen">S48E8PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424210000 +0100" stop="20150424220000 +0100" channel="BBC 2 England">
+    <title lang="en">Sex and the Church</title>
+    <sub-title lang="en">Christianity v The West</sub-title>
+    <desc lang="en">Diarmaid MacCulloch explores how the offical Christian Church and Western society have moved apart on issues of sex Contains adult themes(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Historical</category>
+    <episode-num system="onscreen">S1E3PPP3/3</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424220000 +0100" stop="20150424223000 +0100" channel="BBC 2 England">
+    <title lang="en">The Clare Balding Show</title>
+    <desc lang="en">Sports chat show presented by Clare Balding. Joining Clare are 19-time champion jockey AP McCoy and Olympic golden girls Victoria Pendleton and Charlotte Dujardin(n)</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S1E4PP4/12P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424223000 +0100" stop="20150424230000 +0100" channel="BBC 2 England">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">In-depth investigation and analysis of the stories behind the day's headlines with Kirsty Wark  Followed by weather(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424230000 +0100" stop="20150424233500 +0100" channel="BBC 2 England">
+    <title lang="en">Election Late Show</title>
+    <desc lang="en">Late night news from the UK election.  Followed by weather(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PP2/3P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150424233500 +0100" stop="20150425004000 +0100" channel="BBC 2 England">
+    <title lang="en">Later... with Jools Holland</title>
+    <desc lang="en">Music programme featuring live sessions from George Clinton Parliament Funkadelic, Mirel Wagner, Ghostpoet and Mumford &amp; Sons. Contains language which may offend(n)</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <episode-num system="onscreen">S46E2PP2/7P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425004000 +0100" stop="20150425013000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker...</title>
+    <desc lang="en">Highlights Jason Mohammad presents highlights from the night's second-round matches, where the first quarter-finalist will be decided(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425013000 +0100" stop="20150425033000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker - Extra</title>
+    <desc lang="en">Jason Mohammad introduces second-round highlights from Sheffield, where the Crucible is hosting its 39th world championship(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425033000 +0100" stop="20150425043000 +0100" channel="BBC 2 England">
+    <title lang="en">Question Time</title>
+    <desc lang="en">David Dimbleby presents topical debate from West Bromwich(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">E28PPP</episode-num>
+  </programme>
+  <programme start="20150425043000 +0100" stop="20150425053000 +0100" channel="BBC 2 England">
+    <title lang="en">Dara and Ed's Great Big Adventure</title>
+    <sub-title lang="en">Costa Rica to Panama</sub-title>
+    <desc lang="en">Ed Byrne and Dara O'Briain complete their pan-American adventure In the final episode, the pair travel south through the mountains of Costa Rica to Panama(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E3PPP3/3</episode-num>
+  </programme>
+  <programme start="20150425053000 +0100" stop="20150425061000 +0100" channel="BBC 2 England">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two(n)</desc>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425061000 +0100" stop="20150425072000 +0100" channel="BBC 2 England">
+    <title lang="en">The Crimson Wing</title>
+    <desc lang="en">Documentary looking at the life cycle of the crimson-winged flamingos that arrive in great numbers on Lake Natron in northern Tanzania every year(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Nature</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425072000 +0100" stop="20150425084000 +0100" channel="BBC 2 England">
+    <title lang="en">Sword of Sherwood Forest</title>
+    <desc lang="en">The story of Robin Hood  doing battle with the wicked sheriff of Nottingham  and trying to thwart a plot to kill the archbishop of Canterbury(n)</desc>
+    <date>1960</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <episode-num system="onscreen">PPP</episode-num>
+  </programme>
+  <programme start="20150425084000 +0100" stop="20150425091000 +0100" channel="BBC 2 England">
+    <title lang="en">Fred Dibnah's Magnificent...</title>
+    <sub-title lang="en">Monuments Pleasure Palaces</sub-title>
+    <desc lang="en">Looking at structures that have been built for arts, leisure and entertainment purposes(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E6PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425091000 +0100" stop="20150425100000 +0100" channel="BBC 2 England">
+    <title lang="en">The Nature of Britain</title>
+    <sub-title lang="en">Wilderness Britain</sub-title>
+    <desc lang="en">Join Alan Titchmarsh as he explores Wilderness Britain, realm of the magnificent golden eagle, a plant that fools insects and Britain's toughest bird(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Nature</category>
+    <episode-num system="onscreen">S1E7PPP7/8</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425100000 +0100" stop="20150425120000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Jason Mohammad introduces live second-round action as players vie for places in the quarter-finals(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425120000 +0100" stop="20150425123500 +0100" channel="BBC 2 England">
+    <title lang="en">Richard Harris: Talking Pictures</title>
+    <desc lang="en">A retrospective look at television appearances made over the years by Richard Harris, with interviews from the archive and classic clips. Narrated by Sylvia Syms(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Biography</category>
+    <episode-num system="onscreen">PP8/10P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425123500 +0100" stop="20150425141500 +0100" channel="BBC 2 England">
+    <title lang="en">The Long and the Short and the...</title>
+    <desc lang="en">Tall Psychological drama about a British patrol in the Burmese jungle who fall out among themselves when they capture a Japanese soldier(n)</desc>
+    <date>1961</date>
+    <category lang="en">Movies</category>
+    <category lang="en">War</category>
+    <episode-num system="onscreen">PPP</episode-num>
+  </programme>
+  <programme start="20150425141500 +0100" stop="20150425150000 +0100" channel="BBC 2 England">
+    <title lang="en">Flog It!</title>
+    <sub-title lang="en">Cheshire</sub-title>
+    <desc lang="en">Antiques series Paul Martin is joined by experts Mark Stacey, Anita Manning and David Fletcher at the magnificent Italian gardens at historic Tatton Park in Cheshire(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Antiques</category>
+    <episode-num system="onscreen">S11E9PP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425150000 +0100" stop="20150425163000 +0100" channel="BBC 2 England">
+    <title lang="en">Final Score</title>
+    <desc lang="en">Mark Chapman presents all the day's football results, including Liverpool's trip to West Brom, Burnley at home to Leicester and QPR versus West Ham(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425163000 +0100" stop="20150425173000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Hazel Irvine introduces continued coverage of second-round action Another quarter-final place will be filled as the tournament heads towards the halfway mark(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425173000 +0100" stop="20150425183000 +0100" channel="BBC 2 England">
+    <title lang="en">World War One Remembered:...</title>
+    <desc lang="en">Gallipoli - Highlights Her Majesty the Queen leads tributes in a service to commemorate the Battle of Gallipoli(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Historical</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425183000 +0100" stop="20150425190000 +0100" channel="BBC 2 England">
+    <title lang="en">Gardeners' World</title>
+    <desc lang="en">Gardening magazine Everything in the garden is shooting up, so it's time to lift and divide perennials, and Monty is doing just that with his ornamental grasses(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gardening</category>
+    <episode-num system="onscreen">S48E8PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425190000 +0100" stop="20150425200000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Another quarter-final spot will be filled on day eight of the World Championship Jason Mohammad introduces live coverage from the Crucible Theatre(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425200000 +0100" stop="20150425203000 +0100" channel="BBC 2 England">
+    <title lang="en">Dad's Army</title>
+    <sub-title lang="en">Number Engaged</sub-title>
+    <desc lang="en">Classic wartime sitcom Mainwaring's motley crew is put in charge of a vital telephone line They awake to find a bomb enmeshed in the wires(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S9E5PPP5/6</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425203000 +0100" stop="20150425213000 +0100" channel="BBC 2 England">
+    <title lang="en">Gallipoli: When Murdoch Went to...</title>
+    <desc lang="en">War The story of the disastrous British-led Gallipoli military campaign from the perspective of Keith Murdoch, an Australian journalist and father of Rupert Murdoch(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Historical</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425213000 +0100" stop="20150425221500 +0100" channel="BBC 2 England">
+    <title lang="en">QI XL</title>
+    <sub-title lang="en">Knees and Knockers</sub-title>
+    <desc lang="en">Stephen Fry and guests look at knees, knockers and other things starting with 'K' Contains some strong language(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">S11E1PPP1/16</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150425221500 +0100" stop="20150426000000 +0100" channel="BBC 2 England">
+    <title lang="en">Up in the Air</title>
+    <desc lang="en">Comedy drama about a man  who makes a living firing people When he meets a pretty businesswoman, his philosophy on life falters Contains strong language(n)</desc>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">PPP</episode-num>
+  </programme>
+  <programme start="20150426000000 +0100" stop="20150426005000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker...</title>
+    <desc lang="en">Highlights Jason Mohammad introduces highlights from a day when three quarter-final places will have been decided(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426005000 +0100" stop="20150426025000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker - Extra</title>
+    <desc lang="en">Jason Mohammad introduces highlights from the day's second-round best-of-25 frame matches(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426025000 +0100" stop="20150426035000 +0100" channel="BBC 2 England">
+    <title lang="en">Antiques Roadshow</title>
+    <sub-title lang="en">Liverpool Metropolitan Cathedral</sub-title>
+    <desc lang="en">The Antiques Roadshow returns to Liverpool Metropolitan Cathedral, where treasures include a miniature piano with a secret and a sketch by LS Lowry(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Antiques</category>
+    <episode-num system="onscreen">S37E16PP</episode-num>
+  </programme>
+  <programme start="20150426035000 +0100" stop="20150426045000 +0100" channel="BBC 2 England">
+    <title lang="en">The Truth About Fat</title>
+    <desc lang="en">Science documentary Dr Saleyha Ahsan cuts through the confusion and reveals the surprising science of fat(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E3PPP</episode-num>
+  </programme>
+  <programme start="20150426045000 +0100" stop="20150426061000 +0100" channel="BBC 2 England">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two(n)</desc>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426061000 +0100" stop="20150426073000 +0100" channel="BBC 2 England">
+    <title lang="en">The Football League Show</title>
+    <desc lang="en">Manish Bhasin presents drama from all three divisions of the Football League The featured match comes from Craven Cottage as Fulham meet Middlesbrough(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426073000 +0100" stop="20150426080000 +0100" channel="BBC 2 England">
+    <title lang="en">Gardeners' World</title>
+    <desc lang="en">Gardening magazine Everything in the garden is shooting up, so it's time to lift and divide perennials, and Monty is doing just that with his ornamental grasses(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gardening</category>
+    <episode-num system="onscreen">S48E8PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426080000 +0100" stop="20150426083000 +0100" channel="BBC 2 England">
+    <title lang="en">The Beechgrove Garden</title>
+    <desc lang="en">Jim plants heirloom vegetables and there is the first of several monthly visits to Scone Palace garden Brian Cunningham unveils his plans for a tribute to a local plant hunter(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Gardening</category>
+    <episode-num system="onscreen">S37E4PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426083000 +0100" stop="20150426100000 +0100" channel="BBC 2 England">
+    <title lang="en">Athletics: The London Marathon</title>
+    <desc lang="en">Gabby Logan presents live coverage of the 35th London Marathon, as Britain's three-time champion and world-record holder Paula Radcliffe makes her farewell appearance(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426100000 +0100" stop="20150426121500 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Second-round action continues in Sheffield as two more best-of-25 frame matches get under way  Followed by Weather for the Week Ahead(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426121500 +0100" stop="20150426130000 +0100" channel="BBC 2 England">
+    <title lang="en">MOTD2 Extra</title>
+    <desc lang="en">Mark Chapman and guests analyse Saturday's Premier League action and look ahead to Sunday's two games There's a mouth-watering London derby between Arsenal and Chelsea(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426130000 +0100" stop="20150426140000 +0100" channel="BBC 2 England">
+    <title lang="en">Triathlon: World Series - Cape...</title>
+    <desc lang="en">Town Jonathan Edwards presents highlights from the women's race at the fourth round of the 2015 World Triathlon series in Cape Town Commonwealth bronze medallist Vicky Holland starts(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426140000 +0100" stop="20150426180000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Hazel Irvine introduces live second-round action from Sheffield(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426180000 +0100" stop="20150426190000 +0100" channel="BBC 2 England">
+    <title lang="en">London Marathon Highlights</title>
+    <desc lang="en">Helen Skelton introduces highlights and reaction from the 35th London Marathon, as world-class runners and fundraisers compete in one of the world's most famous races(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426190000 +0100" stop="20150426201000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Live second-round action continues at the Crucible Matches are the best-of-25 frames and are played over three sessions Jason Mohammad introduces coverage from Sheffield(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426201000 +0100" stop="20150426210000 +0100" channel="BBC 2 England">
+    <title lang="en">Coast Australia</title>
+    <desc lang="en">Series exploring Australia's coastline Neil travels to Horn Island in Australia's extreme north, to uncover the role of Australia's only indigenous battalion(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Nature</category>
+    <episode-num system="onscreen">S2E5PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426210000 +0100" stop="20150426220000 +0100" channel="BBC 2 England">
+    <title lang="en">Hunters of the South Seas</title>
+    <sub-title lang="en">The Whale Hunters of Lamalera</sub-title>
+    <desc lang="en">Will Millard heads to the Indonesian village of Lamalera, which is notorious for its whale hunting Contains some strong language(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Nature</category>
+    <episode-num system="onscreen">S1E2PPP2/3</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426220000 +0100" stop="20150426223000 +0100" channel="BBC 2 England">
+    <title lang="en">Britain's Biggest Diamond...</title>
+    <desc lang="en">Heist? The Inside Story Declan Lawn takes a journey into Britain's criminal underworld in search of the secrets behind one of the most audacious heists in British history(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426223000 +0100" stop="20150426233000 +0100" channel="BBC 2 England">
+    <title lang="en">W1A</title>
+    <desc lang="en">A one-hour special marks the return of the comedy about the BBC. One year on and head of values Ian Fletcher has finally got his own office. Contains some strong language(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S2E1PP1/4P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150426233000 +0100" stop="20150427002000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker...</title>
+    <desc lang="en">Highlights Jason Mohammad introduces highlights from the day's second-round matches(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427002000 +0100" stop="20150427022000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker - Extra</title>
+    <desc lang="en">Jason Mohammad introduces extended highlights from the afternoon's second-round matches(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427022000 +0100" stop="20150427031500 +0100" channel="BBC 2 England">
+    <title lang="en">Countryfile</title>
+    <desc lang="en">Woodland: Ellie Harrison, John Craven and Anita Rani explore Britain's woodlands, while Tom Heap investigates what can be done to protect trees from the threat of disease(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Nature</category>
+    <episode-num system="onscreen">E1312PPP</episode-num>
+  </programme>
+  <programme start="20150427031500 +0100" stop="20150427041500 +0100" channel="BBC 2 England">
+    <title lang="en">Holby City</title>
+    <sub-title lang="en">All About Evie</sub-title>
+    <desc lang="en">Hospital drama Fletch is horrified when Evie's first day at her new school leads to disaster Adele decides to help Mo find her father(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S17E28PP</episode-num>
+  </programme>
+  <programme start="20150427041500 +0100" stop="20150427051500 +0100" channel="BBC 2 England">
+    <title lang="en">The Ladykillers: Pest Detectives</title>
+    <desc lang="en">Series following four female pest controllers. Cockroaches, mice, fleas and moths are in the firing line as the pest controllers are called to the rescue(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Nature</category>
+    <episode-num system="onscreen">S1E4PP4/4P</episode-num>
+  </programme>
+  <programme start="20150427051500 +0100" stop="20150427060000 +0100" channel="BBC 2 England">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two(n)</desc>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427060000 +0100" stop="20150427070000 +0100" channel="BBC 2 England">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Series about properties that have gone to auction Martin Roberts and Lucy Alexander visit properties in Preston and Southsea, and a terraced house with a surprise near Durham(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S13E81PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427070000 +0100" stop="20150427074500 +0100" channel="BBC 2 England">
+    <title lang="en">Channel Patrol</title>
+    <desc lang="en">Documentary following life on the English Channel. A new ferry captain takes to the helm as the weather closes in and the Navy receive a distress call about trapped teenagers(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S2E5PP5/10P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427074500 +0100" stop="20150427081500 +0100" channel="BBC 2 England">
+    <title lang="en">Cowboys and Angels</title>
+    <desc lang="en">Series following tradesmen and looking at cowboy contractors A family with plumbing problems think rats are running riot in the roof, but pest controller Ken has another theory(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S1E10PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427081500 +0100" stop="20150427091500 +0100" channel="BBC 2 England">
+    <title lang="en">Wanted in Paradise</title>
+    <sub-title lang="en">Phuket</sub-title>
+    <desc lang="en">Families spend a week living in an exotic country Diver Alex and his family visit the island of Phuket, but will partner Jane want to leave her native Glasgow behind?(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <episode-num system="onscreen">S1E4PPP4/8</episode-num>
+  </programme>
+  <programme start="20150427091500 +0100" stop="20150427110000 +0100" channel="BBC 2 England">
+    <title lang="en">Victoria Derbyshire</title>
+    <desc lang="en">With original stories, exclusive interviews, audience debate and breaking news, Victoria Derbyshire presents the BBC's new daily news and current affairs programme(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427110000 +0100" stop="20150427120000 +0100" channel="BBC 2 England">
+    <title lang="en">Triathlon: World Series - Cape...</title>
+    <desc lang="en">Town Jonathan Edwards presents highlights from the men's race at the fourth round of the 2015 World Triathlon series in Cape Town, South Africa Alistair Brownlee makes his 2015 debut(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Athletics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427120000 +0100" stop="20150427130000 +0100" channel="BBC 2 England">
+    <title lang="en">Daily Politics</title>
+    <desc lang="en">Andrew Neil and Jo Coburn with the latest election news, interviews and debate(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Politics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427130000 +0100" stop="20150427140000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Jason Mohammad presents continued coverage from Sheffield as players vie for quarter-final places Two more matches reach their conclusion(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427140000 +0100" stop="20150427150000 +0100" channel="BBC 2 England">
+    <title lang="en">Daily Politics: Home Affairs...</title>
+    <desc lang="en">Debate Andrew Neil and the BBC's social affairs editor Mark Easton are joined by leading politicians to debate immigration, policing and counterterrorism(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Politics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427150000 +0100" stop="20150427180000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Coverage continues from Sheffield's Crucible Theatre  Followed by a Party Election Broadcast by the Conservative Party(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427180000 +0100" stop="20150427183000 +0100" channel="BBC 2 England">
+    <title lang="en">Eggheads</title>
+    <desc lang="en">General knowledge quiz in which teams from all over the UK battle to beat the Eggheads, some of the country's top quiz champions(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">S11E150PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427183000 +0100" stop="20150427200000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Hazel Irvine presents from the Crucible Theatre in Sheffield Live coverage features the opening frames from the concluding sessions of the second round matches(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427200000 +0100" stop="20150427210000 +0100" channel="BBC 2 England">
+    <title lang="en">Alex Polizzi: Chefs on Trial</title>
+    <sub-title lang="en">Miners Arms Heat 1</sub-title>
+    <desc lang="en">Alex Polizzi takes on the difficult challenge of finding head chefs Alex grills three candidates for the Miners Arms, a gastropub in the Forest of Dean(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <episode-num system="onscreen">S1E5PPP5/16</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427210000 +0100" stop="20150427220000 +0100" channel="BBC 2 England">
+    <title lang="en">Inside Harley Street</title>
+    <sub-title lang="en">Make Me Well</sub-title>
+    <desc lang="en">Series looking inside the world of private medicine This episode looks at those practitioners offering complementary and alternative therapies(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E3PPP3/3</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427220000 +0100" stop="20150427223000 +0100" channel="BBC 2 England">
+    <title lang="en">Jack Dee's Election Helpdesk</title>
+    <desc lang="en">Jack Dee and a panel of four guests help a live studio audience by shedding light on their dilemmas relating to the general election(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S1E3PP3/3P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427223000 +0100" stop="20150427232000 +0100" channel="BBC 2 England">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">In-depth investigation and analysis of the stories behind the day's headlines, with Evan Davis in Glasgow and Kirsty Wark in the studio  Followed by weather(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150427232000 +0100" stop="20150428001000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker...</title>
+    <desc lang="en">Highlights Hazel Irvine introduces highlights from the remaining second round matches, as the players vie for quarter-final places(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428001000 +0100" stop="20150428004000 +0100" channel="BBC 2 England">
+    <title lang="en">The Women's Football Show</title>
+    <desc lang="en">Jacqui Oatley and guests look ahead to the Women's FA Cup semi-finals Notts County and England defender Sophie Bradley talks about her fight to recover from serious injury(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428004000 +0100" stop="20150428024000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker - Extra</title>
+    <desc lang="en">Hazel Irvine introduces highlights from the afternoon's second round matches, with quarter-final places up for grabs(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428024000 +0100" stop="20150428034000 +0100" channel="BBC 2 England">
+    <title lang="en">Back in Time for Dinner</title>
+    <sub-title lang="en">1980s</sub-title>
+    <desc lang="en">Historical cooking show The family and their home are transported to the hi-tech 80s, with a gadget-filled kitchen including a microwave(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <episode-num system="onscreen">S1E4PPP4/6</episode-num>
+  </programme>
+  <programme start="20150428034000 +0100" stop="20150428040000 +0100" channel="BBC 2 England">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two(n)</desc>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428040000 +0100" stop="20150428050000 +0100" channel="BBC 2 England">
+    <title lang="en">Secrets of the Castle</title>
+    <desc lang="en">Historian Ruth Goodman and archaeologists Tom Pinfold and Peter Ginn examine how the castles of the 13th century, known as the golden age of castle building, were constructed(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Historical</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428050000 +0100" stop="20150428060000 +0100" channel="BBC 2 England">
+    <title lang="en">Story of Britain</title>
+    <desc lang="en">A series of animated shorts which bring the history of Britain alive Set from the Mesolithic Period to the Domesday Book, we meet some families who shaped the Story of Britain(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Educational</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428060000 +0100" stop="20150428070000 +0100" channel="BBC 2 England">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Series about properties that have gone to auction Martin Roberts and Lucy Alexander visit a cottage in Cornwall, a two-bedroomed flat in Hampshire and a property in Kent(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S13E82PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428070000 +0100" stop="20150428074500 +0100" channel="BBC 2 England">
+    <title lang="en">Channel Patrol</title>
+    <desc lang="en">Documentary following life on the English Channel. The RNLI come to the rescue of some stranded mariners. Pets get caught up in the half-term rush across the Channel(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S2E6PP6/10P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428074500 +0100" stop="20150428081500 +0100" channel="BBC 2 England">
+    <title lang="en">Cowboys and Angels</title>
+    <desc lang="en">Series following tradesmen and looking at cowboy contractors Tommy Walsh has news about Susan's builder after her plans for an accessible landscaped garden left her out of pocket(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S1E11PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428081500 +0100" stop="20150428091500 +0100" channel="BBC 2 England">
+    <title lang="en">Collectaholics</title>
+    <desc lang="en">Series exploring the weird and wonderful world of some of Britain's collectors. The team meet a woman obsessed with the royal family(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <episode-num system="onscreen">S2E1PP1/8P</episode-num>
+  </programme>
+  <programme start="20150428091500 +0100" stop="20150428100000 +0100" channel="BBC 2 England">
+    <title lang="en">The Super League Show</title>
+    <desc lang="en">Highlights from the Super League Including Leeds Rhinos v Warrington, St Helens v Widnes, Wigan v Wakefield, Salford v Castleford, Hull FC v Huddersfield and Catalans v Hull KR(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428100000 +0100" stop="20150428120000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">It is quarter-finals day at the Crucible as the tournament enters its 11th day Jason Mohammad introduces live coverage as the best-of-25 frame matches get under way(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428120000 +0100" stop="20150428130000 +0100" channel="BBC 2 England">
+    <title lang="en">Daily Politics</title>
+    <desc lang="en">Andrew Neil and Jo Coburn with the latest election news, interviews and debate(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Politics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428130000 +0100" stop="20150428140000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Hazel Irvine introduces quarter-final action from Sheffield, where the first two matches got under way earlier in the day Matches are the best-of-25 frames(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428140000 +0100" stop="20150428150000 +0100" channel="BBC 2 England">
+    <title lang="en">Daily Politics: Defence and...</title>
+    <desc lang="en">Security Debate Andrew Neil and BBC Newsnight's diplomatic editor Mark Urban are joined by leading politicians to debate the size and role of the UK's armed forces(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Politics</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428150000 +0100" stop="20150428180000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Hazel Irvine introduces as the second two quarter-finals get under way  Followed by a Party Election Broadcast by the Labour Party(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428180000 +0100" stop="20150428183000 +0100" channel="BBC 2 England">
+    <title lang="en">Eggheads</title>
+    <desc lang="en">General knowledge quiz in which teams from all over the UK battle to beat the Eggheads, some of the country's top quiz champions(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">S11E151PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428183000 +0100" stop="20150428200000 +0100" channel="BBC 2 England">
+    <title lang="en">World Championship Snooker</title>
+    <desc lang="en">Jason Mohammad presents live coverage from the quarter-finals, where the difference between winning and losing is £30,000(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428200000 +0100" stop="20150428210000 +0100" channel="BBC 2 England">
+    <title lang="en">Alex Polizzi: Chefs on Trial</title>
+    <sub-title lang="en">Miners Arms Heat 2</sub-title>
+    <desc lang="en">21-year-old Joshua is pitted against 48-year-old events chef Leslie(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <episode-num system="onscreen">S1E6PPP6/16</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428210000 +0100" stop="20150428220000 +0100" channel="BBC 2 England">
+    <title lang="en">Wastemen</title>
+    <sub-title lang="en">The Home Front</sub-title>
+    <desc lang="en">The first of a three-part observational documentary series One time of year always pushes the entire waste industry to breaking point - Christmas(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">S1E1PPP1/3</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428220000 +0100" stop="20150428223000 +0100" channel="BBC 2 England">
+    <title lang="en">Later Live... with Jools Holland</title>
+    <desc lang="en">Featuring performances by Florence and the Machine, the Charlatans and Andreya Triana(n)</desc>
+    <category lang="en">Music &amp; Radio</category>
+    <category lang="en">Rock &amp; Pop</category>
+    <episode-num system="onscreen">S46E3PP3/7P</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428223000 +0100" stop="20150428232000 +0100" channel="BBC 2 England">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">In-depth investigation and analysis of the stories behind the day's headlines with Evan Davis  Followed by weather(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20150428232000 +0100" stop="20150429002000 +0100" channel="BBC 2 England">
+    <title lang="en">Newsbeat: The Election Debates</title>
+    <desc lang="en">Tina Daheley and Chris Smith are with young voters in Edinburgh to discuss jobs, the cost of bills and affordable housing(n)</desc>
+    <category lang="en">News &amp; Documentaries</category>
+    <category lang="en">Features</category>
+    <episode-num system="onscreen">PPP</episode-num>
+    <subtitles />
   </programme>
 </tv>
