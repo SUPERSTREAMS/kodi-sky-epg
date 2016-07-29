@@ -1,7 +1,7 @@
 kodi-sky-epg
 ============
 
-5 day EPG for Sky Movies and Sky Sports XMLTV for KODI
+3 day EPG for Sky Movies and Sky Sports XMLTV for KODI
 
 Includes UK freeview and Bein Sports
 
