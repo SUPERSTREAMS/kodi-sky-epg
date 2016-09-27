@@ -148,18 +148,35 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927130000 -0400" stop="20160927133000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Russia vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20160927133000 -0400" stop="20160927150000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Darts</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20160927133000 -0400" stop="20160927140000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Europe vs. Sweden(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20160927140000 -0400" stop="20160927143000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">NHL News Conference</title>
+    <desc lang="en">Gary Bettman and NHL icon Wayne Gretzky unveil celebration plans for the league's Centennial season(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20160927143000 -0400" stop="20160927150000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">NHL's Best</title>
+    <sub-title lang="en">Best of the Season</sub-title>
+    <desc lang="en">Showcasing the most exciting plays from the past week in the NHL(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927150000 -0400" stop="20160927160000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Poker</title>
@@ -231,7 +248,7 @@
   </programme>
   <programme start="20160928003000 -0400" stop="20160928010000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">World Cup of Hockey in 30</title>
-    <desc lang="en">Final Game 1(n)</desc>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -345,11 +362,10 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160928130000 -0400" stop="20160928133000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Plays of the Month</title>
-    <sub-title lang="en">Highlights</sub-title>
-    <desc lang="en">The most exciting plays and offensive fireworks from the past month are highlighted(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -717,18 +733,35 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927130000 -0400" stop="20160927133000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Russia vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20160927133000 -0400" stop="20160927150000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Darts</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20160927133000 -0400" stop="20160927140000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Europe vs. Sweden(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20160927140000 -0400" stop="20160927143000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">NHL News Conference</title>
+    <desc lang="en">Gary Bettman and NHL icon Wayne Gretzky unveil celebration plans for the league's Centennial season(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20160927143000 -0400" stop="20160927150000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">NHL's Best</title>
+    <sub-title lang="en">Best of the Season</sub-title>
+    <desc lang="en">Showcasing the most exciting plays from the past week in the NHL(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927150000 -0400" stop="20160927160000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Poker</title>
@@ -800,7 +833,7 @@
   </programme>
   <programme start="20160928003000 -0400" stop="20160928010000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">World Cup of Hockey in 30</title>
-    <desc lang="en">Final Game 1(n)</desc>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -914,11 +947,10 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160928130000 -0400" stop="20160928133000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Plays of the Month</title>
-    <sub-title lang="en">Highlights</sub-title>
-    <desc lang="en">The most exciting plays and offensive fireworks from the past month are highlighted(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -1286,18 +1318,35 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927130000 -0400" stop="20160927133000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Russia vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20160927133000 -0400" stop="20160927150000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Darts</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20160927133000 -0400" stop="20160927140000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Europe vs. Sweden(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20160927140000 -0400" stop="20160927143000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">NHL News Conference</title>
+    <desc lang="en">Gary Bettman and NHL icon Wayne Gretzky unveil celebration plans for the league's Centennial season(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20160927143000 -0400" stop="20160927150000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">NHL's Best</title>
+    <sub-title lang="en">Best of the Season</sub-title>
+    <desc lang="en">Showcasing the most exciting plays from the past week in the NHL(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927150000 -0400" stop="20160927160000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Poker</title>
@@ -1369,7 +1418,7 @@
   </programme>
   <programme start="20160928003000 -0400" stop="20160928010000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">World Cup of Hockey in 30</title>
-    <desc lang="en">Final Game 1(n)</desc>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -1483,11 +1532,10 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160928130000 -0400" stop="20160928133000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Plays of the Month</title>
-    <sub-title lang="en">Highlights</sub-title>
-    <desc lang="en">The most exciting plays and offensive fireworks from the past month are highlighted(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -1538,45 +1586,19 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20160928220000 -0400" stop="20160928230000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20160928220000 -0400" stop="20160929003000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Hockey</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20160929003000 -0400" stop="20160929010000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20160928230000 -0400" stop="20160928233000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">MLB's Best</title>
-    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20160928233000 -0400" stop="20160929000000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20160929000000 -0400" stop="20160929003000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20160929003000 -0400" stop="20160929010000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Plays of the Month</title>
-    <sub-title lang="en">Highlights</sub-title>
-    <desc lang="en">The most exciting plays and offensive fireworks from the past month are highlighted(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -1855,18 +1877,35 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927130000 -0400" stop="20160927133000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Russia vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20160927133000 -0400" stop="20160927150000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Darts</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20160927133000 -0400" stop="20160927140000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Semifinal Europe vs. Sweden(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20160927140000 -0400" stop="20160927143000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">NHL News Conference</title>
+    <desc lang="en">Gary Bettman and NHL icon Wayne Gretzky unveil celebration plans for the league's Centennial season(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20160927143000 -0400" stop="20160927150000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">NHL's Best</title>
+    <sub-title lang="en">Best of the Season</sub-title>
+    <desc lang="en">Showcasing the most exciting plays from the past week in the NHL(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20160927150000 -0400" stop="20160927160000 -0400" channel="Sportsnet (West) - Satellite/Digital">
     <title lang="en">Poker</title>
@@ -1938,7 +1977,7 @@
   </programme>
   <programme start="20160928003000 -0400" stop="20160928010000 -0400" channel="Sportsnet (West) - Satellite/Digital">
     <title lang="en">World Cup of Hockey in 30</title>
-    <desc lang="en">Final Game 1(n)</desc>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -2052,11 +2091,10 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20160928130000 -0400" stop="20160928133000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Plays of the Month</title>
-    <sub-title lang="en">Highlights</sub-title>
-    <desc lang="en">The most exciting plays and offensive fireworks from the past month are highlighted(n)</desc>
+    <title lang="en">World Cup of Hockey in 30</title>
+    <desc lang="en">Final Game 1 Europe vs. Canada(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -2107,45 +2145,19 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20160928220000 -0400" stop="20160928230000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20160928220000 -0400" stop="20160929003000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Hockey</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20160929003000 -0400" stop="20160929010000 -0400" channel="Sportsnet (West) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20160928230000 -0400" stop="20160928233000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">MLB's Best</title>
-    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20160928233000 -0400" stop="20160929000000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20160929000000 -0400" stop="20160929003000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20160929003000 -0400" stop="20160929010000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Plays of the Month</title>
-    <sub-title lang="en">Highlights</sub-title>
-    <desc lang="en">The most exciting plays and offensive fireworks from the past month are highlighted(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -5214,9 +5226,12 @@
   <programme start="20160929190000 -0400" stop="20160929200000 -0400" channel="TSN2 HD">
     <title lang="en">The Ultimate Fighter: Team Benavidez vs. Team Cejudo</title>
     <sub-title lang="en">Nothing Stops Us</sub-title>
-    <desc lang="en">Sixteen flyweight champions compete in Las Vegas for a UFC contract(n)</desc>
+    <desc lang="en">A fighter gets emotional while describing his humble upbringing. The fighters take a break to watch UFC 200 at the house. Then, in the seventh fight of round one, a ground specialist takes on an all-around threat(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Martial Arts</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
   <programme start="20160929200000 -0400" stop="20160929213000 -0400" channel="TSN2 HD">
     <title lang="en">Boxing</title>
