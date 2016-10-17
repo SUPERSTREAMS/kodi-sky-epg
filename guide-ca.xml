@@ -50,245 +50,6 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn4.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016080000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016080000 -0400" stop="20161016090000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016090000 -0400" stop="20161016100000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016110000 -0400" stop="20161016120000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016120000 -0400" stop="20161016130000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016133000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016133000 -0400" stop="20161016140000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">MLB's Best</title>
-    <sub-title lang="en">Top 100</sub-title>
-    <desc lang="en">The top 100 plays of the 2016 MLB season are examined(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016140000 -0400" stop="20161016143000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays' Best</title>
-    <desc lang="en">The top plays and moments from the Blue Jays this season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016143000 -0400" stop="20161016150000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016150000 -0400" stop="20161016153000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016153000 -0400" stop="20161016160000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016160000 -0400" stop="20161016163000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 3(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016163000 -0400" stop="20161016170000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016170000 -0400" stop="20161016173000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016173000 -0400" stop="20161016180000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Blue Jays Top 50</title>
-    <desc lang="en">Top plays of the Toronto Blue Jays season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016180000 -0400" stop="20161016190000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016190000 -0400" stop="20161016193000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016193000 -0400" stop="20161016200000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">MLB Central</title>
-    <sub-title lang="en">Post-season</sub-title>
-    <desc lang="en">An entertaining and informed take on the game with updates and context on the latest news(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016200000 -0400" stop="20161016233000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Baseball</title>
-    <desc lang="en">Baseball. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016233000 -0400" stop="20161017000000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017000000 -0400" stop="20161017010000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="Sportsnet (Ontario)">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
   <programme start="20161017020000 -0400" stop="20161017030000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
@@ -680,134 +441,121 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016080000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016080000 -0400" stop="20161016090000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016090000 -0400" stop="20161016100000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016110000 -0400" stop="20161016120000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016120000 -0400" stop="20161016130000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016133000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+  <programme start="20161019003000 -0400" stop="20161019010000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20161016133000 -0400" stop="20161016140000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">MLB's Best</title>
-    <sub-title lang="en">Top 100</sub-title>
-    <desc lang="en">The top 100 plays of the 2016 MLB season are examined(n)</desc>
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016140000 -0400" stop="20161016143000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Blue Jays' Best</title>
-    <desc lang="en">The top plays and moments from the Blue Jays this season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016143000 -0400" stop="20161016150000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
+    <category lang="en">News</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016150000 -0400" stop="20161016153000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Hockeycentral at Noon</title>
+    <desc lang="en">Darren Millard and guests discuss the world of hockey in a fast-paced, no-holds-barred one-on-one discussion format(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
     <category lang="en">Sports</category>
@@ -816,7 +564,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016153000 -0400" stop="20161016160000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
     <category lang="en">Sports</category>
@@ -825,7 +573,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016160000 -0400" stop="20161016163000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 3(n)</desc>
     <category lang="en">Sports</category>
@@ -834,83 +582,47 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016163000 -0400" stop="20161016170000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+  <programme start="20161019143000 -0400" stop="20161019150000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
+    <desc lang="en">Catch all the action in 30 minutes. Game 4(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016170000 -0400" stop="20161016173000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016173000 -0400" stop="20161016180000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Blue Jays Top 50</title>
-    <desc lang="en">Top plays of the Toronto Blue Jays season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016180000 -0400" stop="20161016190000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016190000 -0400" stop="20161016193000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016193000 -0400" stop="20161016200000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">MLB Central</title>
+  <programme start="20161019150000 -0400" stop="20161019160000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Blue Jays Central</title>
     <sub-title lang="en">Post-season</sub-title>
-    <desc lang="en">An entertaining and informed take on the game with updates and context on the latest news(n)</desc>
+    <desc lang="en">Jamie Campbell and Gregg Zaun host this Toronto Blue Jays pre-game show(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20161016200000 -0400" stop="20161016233000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+  <programme start="20161019160000 -0400" stop="20161019193000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Baseball</title>
-    <desc lang="en">Baseball. Game 2(n)</desc>
+    <desc lang="en">Baseball. Game 5(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016233000 -0400" stop="20161017000000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Hockeycentral</title>
+    <desc lang="en">Experts deliver the most in-depth hockey analysis and their insights into the game(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019223000 -0400" channel="Sportsnet (Ontario)">
+    <title lang="en">Hockey</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161017000000 -0400" stop="20161017010000 -0400" channel="Sportsnet (East) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+  <programme start="20161019223000 -0400" stop="20161020000000 -0400" channel="Sportsnet (Ontario)">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1310,7 +1022,13 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019003000 -0400" stop="20161019010000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1319,7 +1037,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1328,7 +1046,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1337,7 +1055,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1346,7 +1064,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1355,7 +1073,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016070000 -0400" stop="20161016080000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1364,7 +1082,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016080000 -0400" stop="20161016090000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1373,7 +1091,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016090000 -0400" stop="20161016100000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1382,7 +1100,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1391,7 +1109,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016110000 -0400" stop="20161016120000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1400,7 +1118,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016120000 -0400" stop="20161016130000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1409,35 +1127,16 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016130000 -0400" stop="20161016133000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Canucks TV Presents</title>
-    <desc lang="en">Exclusive, behind the scenes programs dedicated to your favorite team and players.  Visit player homes, hear from the coaches, follow a road trip and more(n)</desc>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">Hockeycentral at Noon</title>
+    <desc lang="en">Darren Millard and guests discuss the world of hockey in a fast-paced, no-holds-barred one-on-one discussion format(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
-  </programme>
-  <programme start="20161016133000 -0400" stop="20161016140000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">MLB's Best</title>
-    <sub-title lang="en">Top 100</sub-title>
-    <desc lang="en">The top 100 plays of the 2016 MLB season are examined(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016140000 -0400" stop="20161016143000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Blue Jays' Best</title>
-    <desc lang="en">The top plays and moments from the Blue Jays this season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016143000 -0400" stop="20161016150000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016150000 -0400" stop="20161016153000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
     <category lang="en">Sports</category>
@@ -1446,7 +1145,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016153000 -0400" stop="20161016160000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
     <category lang="en">Sports</category>
@@ -1455,7 +1154,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016160000 -0400" stop="20161016163000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 3(n)</desc>
     <category lang="en">Sports</category>
@@ -1464,83 +1163,47 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016163000 -0400" stop="20161016170000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019143000 -0400" stop="20161019150000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
+    <desc lang="en">Catch all the action in 30 minutes. Game 4(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016170000 -0400" stop="20161016173000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016173000 -0400" stop="20161016180000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Blue Jays Top 50</title>
-    <desc lang="en">Top plays of the Toronto Blue Jays season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016180000 -0400" stop="20161016190000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016190000 -0400" stop="20161016193000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016193000 -0400" stop="20161016200000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">MLB Central</title>
+  <programme start="20161019150000 -0400" stop="20161019160000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">Blue Jays Central</title>
     <sub-title lang="en">Post-season</sub-title>
-    <desc lang="en">An entertaining and informed take on the game with updates and context on the latest news(n)</desc>
+    <desc lang="en">Jamie Campbell and Gregg Zaun host this Toronto Blue Jays pre-game show(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20161016200000 -0400" stop="20161016233000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019160000 -0400" stop="20161019193000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Baseball</title>
-    <desc lang="en">Baseball. Game 2(n)</desc>
+    <desc lang="en">Baseball. Game 5(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016233000 -0400" stop="20161017000000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">Hockeycentral</title>
+    <desc lang="en">Experts deliver the most in-depth hockey analysis and their insights into the game(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019223000 -0400" channel="Sportsnet (East) - Satellite/Digital">
+    <title lang="en">Hockey</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161017000000 -0400" stop="20161017010000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+  <programme start="20161019223000 -0400" stop="20161020000000 -0400" channel="Sportsnet (East) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -1940,134 +1603,121 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016080000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016080000 -0400" stop="20161016090000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016090000 -0400" stop="20161016100000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016110000 -0400" stop="20161016120000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016120000 -0400" stop="20161016130000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016133000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+  <programme start="20161019003000 -0400" stop="20161019010000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20161016133000 -0400" stop="20161016140000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">MLB's Best</title>
-    <sub-title lang="en">Top 100</sub-title>
-    <desc lang="en">The top 100 plays of the 2016 MLB season are examined(n)</desc>
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016140000 -0400" stop="20161016143000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Blue Jays' Best</title>
-    <desc lang="en">The top plays and moments from the Blue Jays this season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016143000 -0400" stop="20161016150000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
+    <category lang="en">News</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016150000 -0400" stop="20161016153000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Hockey Central</title>
+    <desc lang="en">Analysis of players and games; interviews with players and coaches; highlights(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
     <category lang="en">Sports</category>
@@ -2076,7 +1726,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016153000 -0400" stop="20161016160000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
     <category lang="en">Sports</category>
@@ -2085,7 +1735,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016160000 -0400" stop="20161016163000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
     <desc lang="en">Catch all the action in 30 minutes. Game 3(n)</desc>
     <category lang="en">Sports</category>
@@ -2094,83 +1744,47 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016163000 -0400" stop="20161016170000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20161019143000 -0400" stop="20161019150000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
+    <desc lang="en">Catch all the action in 30 minutes. Game 4(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016170000 -0400" stop="20161016173000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016173000 -0400" stop="20161016180000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Blue Jays Top 50</title>
-    <desc lang="en">Top plays of the Toronto Blue Jays season(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20161016180000 -0400" stop="20161016190000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016190000 -0400" stop="20161016193000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016193000 -0400" stop="20161016200000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">MLB Central</title>
+  <programme start="20161019150000 -0400" stop="20161019160000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Blue Jays Central</title>
     <sub-title lang="en">Post-season</sub-title>
-    <desc lang="en">An entertaining and informed take on the game with updates and context on the latest news(n)</desc>
+    <desc lang="en">Jamie Campbell and Gregg Zaun host this Toronto Blue Jays pre-game show(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20161016200000 -0400" stop="20161016233000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20161019160000 -0400" stop="20161019193000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Baseball</title>
-    <desc lang="en">Baseball. Game 2(n)</desc>
+    <desc lang="en">Baseball. Game 5(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016233000 -0400" stop="20161017000000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Hockeycentral</title>
+    <desc lang="en">Experts deliver the most in-depth hockey analysis and their insights into the game(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019223000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
+    <title lang="en">Hockey</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161017000000 -0400" stop="20161017010000 -0400" channel="Sportsnet (West) - Satellite/Digital">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+  <programme start="20161019223000 -0400" stop="20161020000000 -0400" channel="Sportsnet (Pacific) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -2570,284 +2184,13 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016023000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016023000 -0400" stop="20161016030000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016033000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016033000 -0400" stop="20161016040000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016043000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016043000 -0400" stop="20161016050000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016053000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016053000 -0400" stop="20161016060000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016063000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016063000 -0400" stop="20161016070000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016073000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016073000 -0400" stop="20161016080000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016080000 -0400" stop="20161016083000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016083000 -0400" stop="20161016090000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016090000 -0400" stop="20161016093000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016093000 -0400" stop="20161016100000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016100000 -0400" stop="20161016103000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016103000 -0400" stop="20161016110000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016110000 -0400" stop="20161016113000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016113000 -0400" stop="20161016120000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016120000 -0400" stop="20161016123000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016123000 -0400" stop="20161016130000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016133000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016133000 -0400" stop="20161016140000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016140000 -0400" stop="20161016143000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016143000 -0400" stop="20161016150000 -0400" channel="Sportsnet One">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016150000 -0400" stop="20161016160000 -0400" channel="Sportsnet One">
-    <title lang="en">Cliff Diving</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Extreme</category>
-  </programme>
-  <programme start="20161016160000 -0400" stop="20161016170000 -0400" channel="Sportsnet One">
-    <title lang="en">Adventure Racing</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Outdoors</category>
-  </programme>
-  <programme start="20161016170000 -0400" stop="20161016183000 -0400" channel="Sportsnet One">
-    <title lang="en">Darts</title>
+  <programme start="20161019003000 -0400" stop="20161019010000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20161016183000 -0400" stop="20161016190000 -0400" channel="Sportsnet One">
-    <title lang="en">Rogers Hometown Hockey Pre-game</title>
-    <desc lang="en">Live from the Sportsnet Mobile Studio comes a half-hour hockey pre-game show(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016190000 -0400" stop="20161016220000 -0400" channel="Sportsnet One">
-    <title lang="en">Hockey</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016220000 -0400" stop="20161017003000 -0400" channel="Sportsnet One">
-    <title lang="en">Hockey</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017003000 -0400" stop="20161017010000 -0400" channel="Sportsnet One">
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="Sportsnet (West) - Satellite/Digital">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
@@ -2856,17 +2199,180 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161017010000 -0400" stop="20161017013000 -0400" channel="Sportsnet One">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20161017013000 -0400" stop="20161017020000 -0400" channel="Sportsnet One">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Hockey Central</title>
+    <desc lang="en">Analysis of players and games; interviews with players and coaches; highlights(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">Catch all the action in 30 minutes. Game 1(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">Catch all the action in 30 minutes. Game 2(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">Catch all the action in 30 minutes. Game 3(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019143000 -0400" stop="20161019150000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">Catch all the action in 30 minutes. Game 4(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019150000 -0400" stop="20161019160000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Blue Jays Central</title>
+    <sub-title lang="en">Post-season</sub-title>
+    <desc lang="en">Jamie Campbell and Gregg Zaun host this Toronto Blue Jays pre-game show(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20161019160000 -0400" stop="20161019193000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Baseball</title>
+    <desc lang="en">Baseball. Game 5(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Hockeycentral</title>
+    <desc lang="en">Experts deliver the most in-depth hockey analysis and their insights into the game(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019223000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Hockey</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019223000 -0400" stop="20161020000000 -0400" channel="Sportsnet (West) - Satellite/Digital">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20161017020000 -0400" stop="20161017023000 -0400" channel="Sportsnet One">
     <title lang="en">Misplays of the Month</title>
@@ -3372,186 +2878,277 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="Sportsnet 360">
-    <title lang="en">The Final Score</title>
-    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="Sportsnet 360">
-    <title lang="en">The Final Score</title>
-    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="Sportsnet 360">
-    <title lang="en">The Final Score</title>
-    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="Sportsnet 360">
-    <title lang="en">The Final Score</title>
-    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="Sportsnet 360">
-    <title lang="en">Morning Highlights</title>
-    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016080000 -0400" channel="Sportsnet 360">
-    <title lang="en">Morning Highlights</title>
-    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016080000 -0400" stop="20161016090000 -0400" channel="Sportsnet 360">
-    <title lang="en">Morning Highlights</title>
-    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016090000 -0400" stop="20161016100000 -0400" channel="Sportsnet 360">
-    <title lang="en">Morning Highlights</title>
-    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="Sportsnet 360">
-    <title lang="en">Morning Highlights</title>
-    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016110000 -0400" stop="20161016120000 -0400" channel="Sportsnet 360">
-    <title lang="en">WWE Main Event</title>
-    <desc lang="en">Featuring the WWE Superstars and Divas of Monday Night Raw and Friday Night SmackDown(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016120000 -0400" stop="20161016130000 -0400" channel="Sportsnet 360">
-    <title lang="en">SN360 Update</title>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016140000 -0400" channel="Sportsnet 360">
-    <title lang="en">Poker</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cards</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20161016140000 -0400" stop="20161016150000 -0400" channel="Sportsnet 360">
-    <title lang="en">Darts</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016150000 -0400" stop="20161016160000 -0400" channel="Sportsnet 360">
-    <title lang="en">Poker</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cards</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20161016160000 -0400" stop="20161016163000 -0400" channel="Sportsnet 360">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">Counting down the biggest botches, blunders and bloopers of the month(n)</desc>
+  <programme start="20161019000000 -0400" stop="20161019003000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20161016163000 -0400" stop="20161016173000 -0400" channel="Sportsnet 360">
-    <title lang="en">WWE Main Event</title>
-    <desc lang="en">Featuring the WWE Superstars and Divas of Monday Night Raw and Friday Night SmackDown(n)</desc>
+  <programme start="20161019003000 -0400" stop="20161019010000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019010000 -0400" stop="20161019013000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019013000 -0400" stop="20161019020000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019020000 -0400" stop="20161019023000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019023000 -0400" stop="20161019030000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019030000 -0400" stop="20161019033000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019033000 -0400" stop="20161019040000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019043000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019043000 -0400" stop="20161019050000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019053000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019053000 -0400" stop="20161019060000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019063000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019063000 -0400" stop="20161019070000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019073000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019073000 -0400" stop="20161019080000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019083000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019083000 -0400" stop="20161019090000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019093000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019093000 -0400" stop="20161019100000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019103000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019103000 -0400" stop="20161019110000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019113000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019113000 -0400" stop="20161019120000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019123000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019123000 -0400" stop="20161019130000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019143000 -0400" stop="20161019150000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019150000 -0400" stop="20161019153000 -0400" channel="Sportsnet One">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019153000 -0400" stop="20161019160000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">The most exciting fielding and offensive plays from the past week throughout Major League Baseball(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20161019160000 -0400" stop="20161019193000 -0400" channel="Sportsnet One">
+    <title lang="en">Baseball</title>
+    <desc lang="en">Baseball. Game 5(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016173000 -0400" stop="20161016183000 -0400" channel="Sportsnet 360">
-    <title lang="en">The WWE Experience</title>
-    <desc lang="en">Get a round up of the week that was in the world of sports entertainment. Get up to date with everything that happened on RAW, and Smackdown! Plus see what our WWE Superstars are doing in our 'Outside the Ring' segment(n)</desc>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="Sportsnet One">
+    <title lang="en">MLB Central</title>
+    <sub-title lang="en">League Championship Series Pre-game</sub-title>
+    <desc lang="en">An entertaining and informed take on the game with updates and context on the latest news(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-  </programme>
-  <programme start="20161016183000 -0400" stop="20161016190000 -0400" channel="Sportsnet 360">
-    <title lang="en">Rogers Hometown Hockey Pre-game</title>
-    <desc lang="en">Live from the Sportsnet Mobile Studio comes a half-hour hockey pre-game show(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
+    <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016190000 -0400" stop="20161016220000 -0400" channel="Sportsnet 360">
-    <title lang="en">Hockey</title>
+  <programme start="20161019200000 -0400" stop="20161019233000 -0400" channel="Sportsnet One">
+    <title lang="en">Baseball</title>
+    <desc lang="en">Baseball. Game 4(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
+    <category lang="en">Baseball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016220000 -0400" stop="20161017003000 -0400" channel="Sportsnet 360">
-    <title lang="en">Hockey</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017003000 -0400" stop="20161017010000 -0400" channel="Sportsnet 360">
+  <programme start="20161019233000 -0400" stop="20161020000000 -0400" channel="Sportsnet One">
     <title lang="en">Sportsnet Central</title>
     <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="Sportsnet 360">
-    <title lang="en">The Final Score</title>
-    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <rating system="US">
@@ -3899,161 +3496,180 @@
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016073000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016073000 -0400" stop="20161016083000 -0400" channel="TSN1 HD">
-    <title lang="en">Premier League Live</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20161016083000 -0400" stop="20161016103000 -0400" channel="TSN1 HD">
-    <title lang="en">Soccer</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016103000 -0400" stop="20161016110000 -0400" channel="TSN1 HD">
-    <title lang="en">NFL Insiders</title>
-    <desc lang="en">Breaking news and dissecting the latest happenings in the NFL(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Discussion</category>
-    <category lang="en">Football</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016110000 -0400" stop="20161016130000 -0400" channel="TSN1 HD">
-    <title lang="en">NFL Countdown</title>
-    <desc lang="en">An entertaining presentation of NFL news and analysis with host Chris Berman(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016150000 -0400" channel="TSN1 HD">
-    <title lang="en">Soccer</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016150000 -0400" stop="20161016153000 -0400" channel="TSN1 HD">
-    <title lang="en">Fishing Hotspots</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
-  </programme>
-  <programme start="20161016153000 -0400" stop="20161016160000 -0400" channel="TSN1 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">September Plays of the Month</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016160000 -0400" stop="20161016163000 -0400" channel="TSN1 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">September Not So Great Plays of the Month</sub-title>
+  <programme start="20161019000000 -0400" stop="20161019010000 -0400" channel="Sportsnet 360">
+    <title lang="en">Highlights of the Night</title>
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20161016163000 -0400" stop="20161016180000 -0400" channel="TSN1 HD">
-    <title lang="en">Horse Racing</title>
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="Sportsnet 360">
+    <title lang="en">The Final Score</title>
+    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Horse Racing</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="Sportsnet 360">
+    <title lang="en">The Final Score</title>
+    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="Sportsnet 360">
+    <title lang="en">The Final Score</title>
+    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="Sportsnet 360">
+    <title lang="en">The Final Score</title>
+    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="Sportsnet 360">
+    <title lang="en">The Final Score</title>
+    <desc lang="en">A look at the day's hot topics and issues in the sporting world, including game highlights(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="Sportsnet 360">
+    <title lang="en">Morning Highlights</title>
+    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="Sportsnet 360">
+    <title lang="en">Morning Highlights</title>
+    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="Sportsnet 360">
+    <title lang="en">Morning Highlights</title>
+    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="Sportsnet 360">
+    <title lang="en">Morning Highlights</title>
+    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="Sportsnet 360">
+    <title lang="en">Morning Highlights</title>
+    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="Sportsnet 360">
+    <title lang="en">Morning Highlights</title>
+    <desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="Sportsnet 360">
+    <title lang="en">SN360 Update</title>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20161016180000 -0400" stop="20161016190000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019130000 -0400" stop="20161019140000 -0400" channel="Sportsnet 360">
+    <title lang="en">SN360 Update</title>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <rating system="US">
-      <value>TVG</value>
+      <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20161016190000 -0400" stop="20161016201500 -0400" channel="TSN1 HD">
-    <title lang="en">NFL Football Night in America</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20161016201500 -0400" stop="20161016233000 -0400" channel="TSN1 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016233000 -0400" stop="20161017010000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019140000 -0400" stop="20161019150000 -0400" channel="Sportsnet 360">
+    <title lang="en">SN360 Update</title>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20161019150000 -0400" stop="20161019160000 -0400" channel="Sportsnet 360">
+    <title lang="en">SN360 Update</title>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20161019160000 -0400" stop="20161019190000 -0400" channel="Sportsnet 360">
+    <title lang="en">Prime Time Sports</title>
+    <desc lang="en">A hard-hitting, journalistic approach to the hottest stories in the world of sports, including a panel discussion with some of the most entertaining names in sports media today(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="TSN1 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019190000 -0400" stop="20161019193000 -0400" channel="Sportsnet 360">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Fun and entertaining must see moments from the world of sports are featured(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="Sportsnet 360">
+    <title lang="en">MLB Central</title>
+    <sub-title lang="en">League Championship Series Pre-game</sub-title>
+    <desc lang="en">An entertaining and informed take on the game with updates and context on the latest news(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019233000 -0400" channel="Sportsnet 360">
+    <title lang="en">Baseball</title>
+    <desc lang="en">Baseball. Game 4(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019233000 -0400" stop="20161020000000 -0400" channel="Sportsnet 360">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Up-to-date news and highlights from the day in sports(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
     <rating system="US">
@@ -4420,72 +4036,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016003000 -0400" stop="20161016033000 -0400" channel="TSN2 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016033000 -0400" stop="20161016040000 -0400" channel="TSN2 HD">
-    <title lang="en">SC Top 10 Presents</title>
-    <sub-title lang="en">World Championship Hockey Moments</sub-title>
-    <desc lang="en">Counting down top performers and performances in a variety of sports categories(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016043000 -0400" channel="TSN2 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Europe's Top 50 Goals of 2015 - 16</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016043000 -0400" stop="20161016073000 -0400" channel="TSN2 HD">
-    <title lang="en">Tennis</title>
-    <desc lang="en">Final(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016073000 -0400" stop="20161016080000 -0400" channel="TSN2 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top NFL Quarterbacks</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016080000 -0400" stop="20161016083000 -0400" channel="TSN2 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top NFL Plays of 2015</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016083000 -0400" stop="20161016090000 -0400" channel="TSN2 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">September Plays of the Month</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016090000 -0400" stop="20161016093000 -0400" channel="TSN2 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">September Not So Great Plays of the Month</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016093000 -0400" stop="20161016100000 -0400" channel="TSN2 HD">
-    <title lang="en">SC Top 10 Presents</title>
-    <sub-title lang="en">Top 50 CFL Plays of the Year</sub-title>
-    <desc lang="en">Counting down top performers and performances in a variety of sports categories(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-  </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="TSN2 HD">
+  <programme start="20161019000000 -0400" stop="20161019010000 -0400" channel="TSN1 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -4494,7 +4045,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016110000 -0400" stop="20161016120000 -0400" channel="TSN2 HD">
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="TSN1 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -4503,7 +4054,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016120000 -0400" stop="20161016130000 -0400" channel="TSN2 HD">
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="TSN1 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -4512,16 +4063,114 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016130000 -0400" stop="20161016150000 -0400" channel="TSN2 HD">
-    <title lang="en">Tennis</title>
-    <desc lang="en">Final(n)</desc>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
+    <category lang="en">News</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016150000 -0400" stop="20161016170000 -0400" channel="TSN2 HD">
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019140000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="TSN1 HD">
+    <title lang="en">UEFA Champions League Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019143000 -0400" stop="20161019170000 -0400" channel="TSN1 HD">
     <title lang="en">Soccer</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
@@ -4529,31 +4178,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016170000 -0400" stop="20161016193000 -0400" channel="TSN2 HD">
-    <title lang="en">Soccer</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016193000 -0400" stop="20161016210000 -0400" channel="TSN2 HD">
-    <title lang="en">Poker</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cards</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20161016210000 -0400" stop="20161016220000 -0400" channel="TSN2 HD">
-    <title lang="en">Poker</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cards</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20161016220000 -0400" stop="20161016230000 -0400" channel="TSN2 HD">
+  <programme start="20161019170000 -0400" stop="20161019173000 -0400" channel="TSN1 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -4562,7 +4187,58 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016230000 -0400" stop="20161016233000 -0400" channel="TSN2 HD">
+  <programme start="20161019173000 -0400" stop="20161019180000 -0400" channel="TSN1 HD">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Journalists Tony Kornheiser and Mike Wilbon face off on the sports world's hottest topics within a provocative and speedy format devoted exclusively to sports opinions and headline issues(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019180000 -0400" stop="20161019190000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019190000 -0400" stop="20161019193000 -0400" channel="TSN1 HD">
+    <title lang="en">That's Hockey</title>
+    <desc lang="en">The latest hockey issues and stories(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="TSN1 HD">
+    <title lang="en">Golf Talk Canada</title>
+    <desc lang="en">Breaking down all the latest news and headlines in the world of golf(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019220000 -0400" channel="TSN1 HD">
+    <title lang="en">Soccer</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019220000 -0400" stop="20161019230000 -0400" channel="TSN1 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019230000 -0400" stop="20161019233000 -0400" channel="TSN1 HD">
     <title lang="en">That's Hockey 2 Nite</title>
     <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
@@ -4571,22 +4247,10 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016233000 -0400" stop="20161017013000 -0400" channel="TSN2 HD">
-    <title lang="en">Soccer</title>
+  <programme start="20161019233000 -0400" stop="20161020000000 -0400" channel="TSN1 HD">
+    <title lang="en">CFL 30</title>
     <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017013000 -0400" stop="20161017020000 -0400" channel="TSN2 HD">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Plays of the Week</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20161017020000 -0400" stop="20161017023000 -0400" channel="TSN2 HD">
     <title lang="en">Cabbie Presents</title>
@@ -4878,19 +4542,28 @@
     </rating>
   </programme>
   <programme start="20161018000000 -0400" stop="20161018000000 -0400" channel="TSN2 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
+    <title lang="en">Boxing</title>
+    <desc lang="en">Andre Ward vs. Sullivan Barrera(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
     <rating system="US">
-      <value>TVG</value>
+      <value>TVMA</value>
     </rating>
   </programme>
-  <programme start="20161018000000 -0400" stop="20161018030000 -0400" channel="TSN2 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
+  <programme start="20161018000000 -0400" stop="20161018023000 -0400" channel="TSN2 HD">
+    <title lang="en">Boxing</title>
+    <desc lang="en">Andre Ward vs. Sullivan Barrera(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Boxing</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20161018023000 -0400" stop="20161018030000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -5057,22 +4730,13 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161018120000 -0400" stop="20161018123000 -0400" channel="TSN2 HD">
-    <title lang="en">That's Hockey 2 Nite</title>
-    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+  <programme start="20161018120000 -0400" stop="20161018130000 -0400" channel="TSN2 HD">
+    <title lang="en">Boxing</title>
+    <desc lang="en">Sergey Kovalev vs. Isaac Chilemba(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
+    <category lang="en">Boxing</category>
     <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161018123000 -0400" stop="20161018130000 -0400" channel="TSN2 HD">
-    <title lang="en">That's Hockey 2 Nite</title>
-    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <rating system="US">
-      <value>TVG</value>
+      <value>TVMA</value>
     </rating>
   </programme>
   <programme start="20161018130000 -0400" stop="20161018133000 -0400" channel="TSN2 HD">
@@ -5167,143 +4831,272 @@
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019000000 -0400" stop="20161019000000 -0400" channel="TSN2 HD">
+    <title lang="en">Football</title>
+    <desc lang="en">Football(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Football</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019000000 -0400" stop="20161019030000 -0400" channel="TSN2 HD">
+    <title lang="en">Football</title>
+    <desc lang="en">Football(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Football</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019030000 -0400" stop="20161019033000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019033000 -0400" stop="20161019040000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019040000 -0400" stop="20161019043000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016070000 -0400" stop="20161016080000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019043000 -0400" stop="20161019050000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016080000 -0400" stop="20161016090000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019050000 -0400" stop="20161019053000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016090000 -0400" stop="20161016100000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+  <programme start="20161019053000 -0400" stop="20161019060000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016100000 -0400" stop="20161016110000 -0400" channel="TSN3 HD">
-    <title lang="en">NFL Insiders</title>
-    <desc lang="en">Breaking news and dissecting the latest happenings in the NFL(n)</desc>
+  <programme start="20161019060000 -0400" stop="20161019063000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019063000 -0400" stop="20161019070000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019073000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019073000 -0400" stop="20161019080000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019083000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019083000 -0400" stop="20161019090000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019093000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019093000 -0400" stop="20161019100000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019103000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019103000 -0400" stop="20161019110000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019113000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019113000 -0400" stop="20161019120000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019123000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019123000 -0400" stop="20161019130000 -0400" channel="TSN2 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="TSN2 HD">
+    <title lang="en">Cabbie Presents</title>
+    <sub-title lang="en">Hockey Vol. IV</sub-title>
+    <desc lang="en">Cabbie pokes fun at sports headlines and high-profile athletes through interviews(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="TSN2 HD">
+    <title lang="en">Cabbie Presents</title>
+    <sub-title lang="en">MLB Vol. II</sub-title>
+    <desc lang="en">Cabbie pokes fun at sports headlines and high-profile athletes through interviews(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="TSN2 HD">
+    <title lang="en">UEFA Champions League Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019143000 -0400" stop="20161019170000 -0400" channel="TSN2 HD">
+    <title lang="en">Soccer</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019170000 -0400" stop="20161019173000 -0400" channel="TSN2 HD">
+    <title lang="en">Around the Horn</title>
+    <desc lang="en">Host, Tony Reali, and sports reporters representing each time zone via satellite, banter about their local and national sports stories. Reali hosts and keeps score on every comment from his studio where he is connected to each columnist's newsroom(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Discussion</category>
-    <category lang="en">Football</category>
+    <category lang="en">Miscellaneous</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016110000 -0400" stop="20161016130000 -0400" channel="TSN3 HD">
-    <title lang="en">NFL Countdown</title>
-    <desc lang="en">An entertaining presentation of NFL news and analysis with host Chris Berman(n)</desc>
+  <programme start="20161019173000 -0400" stop="20161019180000 -0400" channel="TSN2 HD">
+    <title lang="en">SportsNation</title>
+    <desc lang="en">Fueled by fan interaction and focused on fun. Fan engagement and clever, imaginative segments are the heart of the program(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016160000 -0400" channel="TSN3 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Talk Show</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016160000 -0400" stop="20161016190000 -0400" channel="TSN3 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
+  <programme start="20161019180000 -0400" stop="20161019190000 -0400" channel="TSN2 HD">
+    <title lang="en">Overdrive</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20161019190000 -0400" stop="20161019223000 -0400" channel="TSN2 HD">
+    <title lang="en">Football Classics</title>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016190000 -0400" stop="20161016201500 -0400" channel="TSN3 HD">
-    <title lang="en">NFL Football Night in America</title>
+  <programme start="20161019223000 -0400" stop="20161020000000 -0400" channel="TSN2 HD">
+    <title lang="en">Poker</title>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20161016201500 -0400" stop="20161016233000 -0400" channel="TSN3 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Cards</category>
     <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016233000 -0400" stop="20161017010000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="TSN3 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
+      <value>TVPG</value>
     </rating>
   </programme>
   <programme start="20161017020000 -0400" stop="20161017030000 -0400" channel="TSN3 HD">
@@ -5738,66 +5531,150 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016020000 -0400" stop="20161016030000 -0400" channel="TSN4 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016030000 -0400" stop="20161016040000 -0400" channel="TSN4 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016040000 -0400" stop="20161016050000 -0400" channel="TSN4 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016050000 -0400" stop="20161016060000 -0400" channel="TSN4 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016060000 -0400" stop="20161016070000 -0400" channel="TSN4 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016070000 -0400" stop="20161016073000 -0400" channel="TSN4 HD">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016073000 -0400" stop="20161016083000 -0400" channel="TSN4 HD">
-    <title lang="en">Premier League Live</title>
+  <programme start="20161019000000 -0400" stop="20161019010000 -0400" channel="TSN3 HD">
+    <title lang="en">UEFA Champions League Highlights</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20161016083000 -0400" stop="20161016103000 -0400" channel="TSN4 HD">
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019120000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019123000 -0400" channel="TSN3 HD">
+    <title lang="en">CFL 30</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20161019123000 -0400" stop="20161019130000 -0400" channel="TSN3 HD">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Plays of the Week</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="TSN3 HD">
+    <title lang="en">SC Top 10 Presents</title>
+    <sub-title lang="en">NBA Playoff Buzzer Beaters</sub-title>
+    <desc lang="en">Counting down top performers and performances in a variety of sports categories(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="TSN3 HD">
+    <title lang="en">SC Top 10 Presents</title>
+    <sub-title lang="en">NBA Dunkers</sub-title>
+    <desc lang="en">Counting down top performers and performances in a variety of sports categories(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="TSN3 HD">
+    <title lang="en">UEFA Champions League Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019143000 -0400" stop="20161019170000 -0400" channel="TSN3 HD">
     <title lang="en">Soccer</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
@@ -5805,48 +5682,26 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016103000 -0400" stop="20161016110000 -0400" channel="TSN4 HD">
-    <title lang="en">NFL Insiders</title>
-    <desc lang="en">Breaking news and dissecting the latest happenings in the NFL(n)</desc>
+  <programme start="20161019170000 -0400" stop="20161019173000 -0400" channel="TSN3 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019173000 -0400" stop="20161019180000 -0400" channel="TSN3 HD">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Journalists Tony Kornheiser and Mike Wilbon face off on the sports world's hottest topics within a provocative and speedy format devoted exclusively to sports opinions and headline issues(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Discussion</category>
-    <category lang="en">Football</category>
+    <category lang="en">Miscellaneous</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016110000 -0400" stop="20161016130000 -0400" channel="TSN4 HD">
-    <title lang="en">NFL Countdown</title>
-    <desc lang="en">An entertaining presentation of NFL news and analysis with host Chris Berman(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20161016130000 -0400" stop="20161016133000 -0400" channel="TSN4 HD">
-    <title lang="en">Motoring TV</title>
-    <desc lang="en">Auto news and reviews(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Automotive</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016133000 -0400" stop="20161016141500 -0400" channel="TSN4 HD">
-    <title lang="en">Sprint Cup Series Pre-race</title>
-    <sub-title lang="en">Hollywood Casino 400</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20161016141500 -0400" stop="20161016180000 -0400" channel="TSN4 HD">
-    <title lang="en">Auto Racing</title>
-    <desc lang="en">Auto racing. Sprint Cup Series(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Auto Racing</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20161016180000 -0400" stop="20161016190000 -0400" channel="TSN4 HD">
+  <programme start="20161019180000 -0400" stop="20161019190000 -0400" channel="TSN3 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -5855,21 +5710,30 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016190000 -0400" stop="20161016201500 -0400" channel="TSN4 HD">
-    <title lang="en">NFL Football Night in America</title>
+  <programme start="20161019190000 -0400" stop="20161019193000 -0400" channel="TSN3 HD">
+    <title lang="en">That's Hockey</title>
+    <desc lang="en">The latest hockey issues and stories(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20161016201500 -0400" stop="20161016233000 -0400" channel="TSN4 HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Football(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161016233000 -0400" stop="20161017010000 -0400" channel="TSN4 HD">
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="TSN3 HD">
+    <title lang="en">Golf Talk Canada</title>
+    <desc lang="en">Breaking down all the latest news and headlines in the world of golf(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019220000 -0400" channel="TSN3 HD">
+    <title lang="en">Soccer</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019220000 -0400" stop="20161019230000 -0400" channel="TSN3 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -5878,7 +5742,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20161017010000 -0400" stop="20161017020000 -0400" channel="TSN4 HD">
+  <programme start="20161019230000 -0400" stop="20161020000000 -0400" channel="TSN3 HD">
     <title lang="en">SportsCentre</title>
     <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
     <category lang="en">Sports</category>
@@ -6251,11 +6115,234 @@
     </rating>
   </programme>
   <programme start="20161018233000 -0400" stop="20161019000000 -0400" channel="TSN4 HD">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Plays of the Week</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019000000 -0400" stop="20161019010000 -0400" channel="TSN4 HD">
     <title lang="en">UEFA Champions League Highlights</title>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20161019010000 -0400" stop="20161019020000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019020000 -0400" stop="20161019030000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019030000 -0400" stop="20161019040000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019040000 -0400" stop="20161019050000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019050000 -0400" stop="20161019060000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019060000 -0400" stop="20161019070000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019070000 -0400" stop="20161019080000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019080000 -0400" stop="20161019090000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019090000 -0400" stop="20161019100000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019100000 -0400" stop="20161019110000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019110000 -0400" stop="20161019113000 -0400" channel="TSN4 HD">
+    <title lang="en">Wired up CFL 2012-14</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20161019113000 -0400" stop="20161019120000 -0400" channel="TSN4 HD">
+    <title lang="en">SC Top 10 Presents</title>
+    <sub-title lang="en">Outrageous Announcers</sub-title>
+    <desc lang="en">Counting down top performers and performances in a variety of sports categories(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019120000 -0400" stop="20161019130000 -0400" channel="TSN4 HD">
+    <title lang="en">Toronto Lunch</title>
+    <desc lang="en">The latest breaking news, opinions and analysis on the Toronto Maple Leafs(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20161019130000 -0400" stop="20161019133000 -0400" channel="TSN4 HD">
+    <title lang="en">Canadian Rally Championship</title>
+    <desc lang="en">A behind-the-scenes look at the Canadian Rally Championship season(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019133000 -0400" stop="20161019140000 -0400" channel="TSN4 HD">
+    <title lang="en">Golf Talk Canada</title>
+    <desc lang="en">Breaking down all the latest news and headlines in the world of golf(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20161019140000 -0400" stop="20161019143000 -0400" channel="TSN4 HD">
+    <title lang="en">UEFA Champions League Pre-game</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019143000 -0400" stop="20161019170000 -0400" channel="TSN4 HD">
+    <title lang="en">Soccer</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019170000 -0400" stop="20161019173000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019173000 -0400" stop="20161019180000 -0400" channel="TSN4 HD">
+    <title lang="en">Pardon the Interruption</title>
+    <desc lang="en">Journalists Tony Kornheiser and Mike Wilbon face off on the sports world's hottest topics within a provocative and speedy format devoted exclusively to sports opinions and headline issues(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Discussion</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019180000 -0400" stop="20161019190000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019190000 -0400" stop="20161019193000 -0400" channel="TSN4 HD">
+    <title lang="en">That's Hockey</title>
+    <desc lang="en">The latest hockey issues and stories(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019193000 -0400" stop="20161019200000 -0400" channel="TSN4 HD">
+    <title lang="en">SC Top 10 Presents</title>
+    <sub-title lang="en">Outrageous Announcers</sub-title>
+    <desc lang="en">Counting down top performers and performances in a variety of sports categories(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20161019200000 -0400" stop="20161019220000 -0400" channel="TSN4 HD">
+    <title lang="en">Soccer</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019220000 -0400" stop="20161019230000 -0400" channel="TSN4 HD">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">This comprehensive sports show provides up-to-the-minute news, features, highlights and scores(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019230000 -0400" stop="20161019233000 -0400" channel="TSN4 HD">
+    <title lang="en">That's Hockey 2 Nite</title>
+    <desc lang="en">That was in the NHL is wrapped up with analysis, highlights and opinions(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20161019233000 -0400" stop="20161020000000 -0400" channel="TSN4 HD">
+    <title lang="en">CFL 30</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
   </programme>
 </tv>
