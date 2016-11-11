@@ -4655,10 +4655,10 @@
     </rating>
   </programme>
   <programme start="20161113190000 -0500" stop="20161113213000 -0500" channel="TSN2 HD">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball. Women's(n)</desc>
+    <title lang="en">Hockey</title>
+    <desc lang="en">Women's(n)</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+    <category lang="en">Hockey</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
